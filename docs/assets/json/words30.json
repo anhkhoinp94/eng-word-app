@@ -1,0 +1,106 @@
+[
+  {
+    "id": 0,
+    "en1": "",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": ""
+  },
+  {
+    "id": 356,
+    "en1": "Subject to",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Tùy thuộc vào"
+  },
+  {
+    "id": 355,
+    "en1": "Option",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Sự chọn lựa"
+  },
+  {
+    "id": 354,
+    "en1": "Occupancy",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Sự cư ngụ"
+  },
+  {
+    "id": 353,
+    "en1": "Lock into",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "NO"
+  },
+  {
+    "id": 352,
+    "en1": "Lease",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Hợp đồng cho thuê"
+  },
+  {
+    "id": 351,
+    "en1": "Indicator",
+    "en2": "Indicate",
+    "en3": "Indication",
+    "en4": "",
+    "vn1": "Chỉ, cho biết, ra dấu"
+  },
+  {
+    "id": 350,
+    "en1": "Get out of",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Rời khỏi"
+  },
+  {
+    "id": 349,
+    "en1": "Fluctuate",
+    "en2": "Fluctuation",
+    "en3": "Fluctuating",
+    "en4": "",
+    "vn1": "Biến động, thay đổi bất thường, Sự dao động"
+  },
+  {
+    "id": 348,
+    "en1": "Due to",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Bởi vì"
+  },
+  {
+    "id": 347,
+    "en1": "Condition",
+    "en2": "Conditional",
+    "en3": "Condition",
+    "en4": "",
+    "vn1": "Điều kiện, Có điều kiện"
+  },
+  {
+    "id": 346,
+    "en1": "Circumstance",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Hoàn cảnh, tình huống"
+  },
+  {
+    "id": 345,
+    "en1": "Apprehensive",
+    "en2": "Apprehend",
+    "en3": "Apprehension",
+    "en4": "",
+    "vn1": "Sợ hãi, e sợ"
+  }
+]

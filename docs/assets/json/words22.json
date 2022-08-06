@@ -1,0 +1,106 @@
+[
+  {
+    "id": 0,
+    "en1": "",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": ""
+  },
+  {
+    "id": 261,
+    "en1": "Turnover",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Doanh số, doanh thu"
+  },
+  {
+    "id": 260,
+    "en1": "Reconcile",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "dàn xếp"
+  },
+  {
+    "id": 259,
+    "en1": "Profitable",
+    "en2": "Profit",
+    "en3": "",
+    "en4": "",
+    "vn1": "Có sinh lợi, Lợi nhuận, thu lợi"
+  },
+  {
+    "id": 258,
+    "en1": "Outstanding balance",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Số dư chưa thanh toán"
+  },
+  {
+    "id": 257,
+    "en1": "Debt",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Món nợ"
+  },
+  {
+    "id": 256,
+    "en1": "Client",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Khách hàng"
+  },
+  {
+    "id": 255,
+    "en1": "Build up",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Sự tăng cường"
+  },
+  {
+    "id": 254,
+    "en1": "Budget",
+    "en2": "Budget",
+    "en3": "Budgetary",
+    "en4": "",
+    "vn1": "Ngân sách, ngân quỹ, Ghi vào ngân sách"
+  },
+  {
+    "id": 253,
+    "en1": "Audit",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Kiểm toán"
+  },
+  {
+    "id": 252,
+    "en1": "Asset",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Tài sản"
+  },
+  {
+    "id": 251,
+    "en1": "Accumulate",
+    "en2": "Accumulation",
+    "en3": "Accumulated",
+    "en4": "",
+    "vn1": "Tích trữ, tích lũy"
+  },
+  {
+    "id": 250,
+    "en1": "Accounting",
+    "en2": "Accountant",
+    "en3": "",
+    "en4": "",
+    "vn1": "kế toán, nhân viên kế toán"
+  }
+]

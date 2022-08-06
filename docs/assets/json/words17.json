@@ -1,0 +1,106 @@
+[
+  {
+    "id": 0,
+    "en1": "",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": ""
+  },
+  {
+    "id": 201,
+    "en1": "Stationery",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Đồ dùng văn phòng"
+  },
+  {
+    "id": 200,
+    "en1": "Source",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Nguồn, nguồn gốc"
+  },
+  {
+    "id": 199,
+    "en1": "Smooth",
+    "en2": "Smooth out",
+    "en3": "Smoothly",
+    "en4": "",
+    "vn1": "Êm thấm, suôn sẻ"
+  },
+  {
+    "id": 198,
+    "en1": "Quality",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Chất lượng"
+  },
+  {
+    "id": 197,
+    "en1": "Prerequisite",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Điều kiện tiên quyết"
+  },
+  {
+    "id": 196,
+    "en1": "Obtain",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Đạt được, giành được"
+  },
+  {
+    "id": 195,
+    "en1": "Maintain",
+    "en2": "Maintainability",
+    "en3": "Maintainable",
+    "en4": "",
+    "vn1": "Duy trì"
+  },
+  {
+    "id": 194,
+    "en1": "Function",
+    "en2": "Functional",
+    "en3": "",
+    "en4": "",
+    "vn1": "Hoạt động"
+  },
+  {
+    "id": 193,
+    "en1": "Everyday",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Hàng ngày"
+  },
+  {
+    "id": 192,
+    "en1": "Essential",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Cần thiết"
+  },
+  {
+    "id": 191,
+    "en1": "Enterprise",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Xí nghiệp"
+  },
+  {
+    "id": 190,
+    "en1": "Diverse",
+    "en2": "Diversify",
+    "en3": "Diversity",
+    "en4": "",
+    "vn1": "Đa dạng, Đa dạng hoá"
+  }
+]

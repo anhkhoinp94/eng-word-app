@@ -1,0 +1,106 @@
+[
+  {
+    "id": 0,
+    "en1": "",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": ""
+  },
+  {
+    "id": 577,
+    "en1": "Usual",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Bình thường"
+  },
+  {
+    "id": 576,
+    "en1": "Statement",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Sự trình bày, Bản tường trình"
+  },
+  {
+    "id": 575,
+    "en1": "Result",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Kết quả"
+  },
+  {
+    "id": 574,
+    "en1": "Procedure",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Thủ tục"
+  },
+  {
+    "id": 573,
+    "en1": "Pertinent",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Thích đáng thích hợp"
+  },
+  {
+    "id": 572,
+    "en1": "Permit",
+    "en2": "Permissible",
+    "en3": "Permission",
+    "en4": "",
+    "vn1": "Cho phép"
+  },
+  {
+    "id": 571,
+    "en1": "Missing",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Mất tích, vắng mặt"
+  },
+  {
+    "id": 570,
+    "en1": "Identify",
+    "en2": "Identifiable",
+    "en3": "Identification",
+    "en4": "",
+    "vn1": "Nhận dạng, nhận biết"
+  },
+  {
+    "id": 569,
+    "en1": "Escort",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Vệ sĩ, đội hộ tống"
+  },
+  {
+    "id": 568,
+    "en1": "Designate",
+    "en2": "Designation",
+    "en3": "Designator",
+    "en4": "",
+    "vn1": "Được chỉ định"
+  },
+  {
+    "id": 567,
+    "en1": "Authorization",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Sự cấp, cho phép"
+  },
+  {
+    "id": 566,
+    "en1": "Admit",
+    "en2": "Admittance",
+    "en3": "Admission",
+    "en4": "",
+    "vn1": "Chấp nhận"
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "id": 0,
+    "en1": "",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": ""
+  },
+  {
+    "id": 117,
+    "en1": "Revise",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Sửa lại, ôn lại"
+  },
+  {
+    "id": 116,
+    "en1": "Registered",
+    "en2": "Registration",
+    "en3": "",
+    "en4": "",
+    "vn1": "Đăng ký"
+  },
+  {
+    "id": 115,
+    "en1": "Proof",
+    "en2": "Proofreader",
+    "en3": "Proofing",
+    "en4": "",
+    "vn1": "Chứng minh, bằng chứng"
+  },
+  {
+    "id": 114,
+    "en1": "Petition",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Đơn kiến nghị"
+  },
+  {
+    "id": 113,
+    "en1": "Mention",
+    "en2": "Mentionable",
+    "en3": "",
+    "en4": "",
+    "vn1": "Đề cập đến"
+  },
+  {
+    "id": 112,
+    "en1": "Layout",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Cách trình bày"
+  },
+  {
+    "id": 111,
+    "en1": "Fold",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Gấp lại"
+  },
+  {
+    "id": 110,
+    "en1": "Express",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Nhanh chóng"
+  },
+  {
+    "id": 109,
+    "en1": "Courier",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Người đưa thư"
+  },
+  {
+    "id": 108,
+    "en1": "Complicated",
+    "en2": "Complication",
+    "en3": "Complicated",
+    "en4": "",
+    "vn1": "Phức tạp"
+  },
+  {
+    "id": 107,
+    "en1": "Beforehand",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Trước, sớm"
+  },
+  {
+    "id": 106,
+    "en1": "Assemble",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Tập hợp, thu thập"
+  }
+]

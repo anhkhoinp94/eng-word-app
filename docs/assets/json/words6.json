@@ -1,0 +1,82 @@
+[
+  {
+    "id": 0,
+    "en1": "",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": ""
+  },
+  {
+    "id": 69,
+    "en1": "Ignore",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Lờ đi, không để ý"
+  },
+  {
+    "id": 68,
+    "en1": "Figure out",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Suy ra"
+  },
+  {
+    "id": 67,
+    "en1": "Fail",
+    "en2": "Failure",
+    "en3": "Fallible",
+    "en4": "",
+    "vn1": "Thất bại"
+  },
+  {
+    "id": 66,
+    "en1": "Duplicate",
+    "en2": "Duplication",
+    "en3": "",
+    "en4": "",
+    "vn1": "Tạo bản sao"
+  },
+  {
+    "id": 65,
+    "en1": "Display",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Hiển thị"
+  },
+  {
+    "id": 64,
+    "en1": "Delete",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Xóa"
+  },
+  {
+    "id": 63,
+    "en1": "Compatible",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Tương thích"
+  },
+  {
+    "id": 62,
+    "en1": "Allocate",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Chỉ định"
+  },
+  {
+    "id": 61,
+    "en1": "Access",
+    "en2": "Accessible",
+    "en3": "",
+    "en4": "",
+    "vn1": "Truy cập"
+  }
+]

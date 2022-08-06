@@ -1,0 +1,106 @@
+[
+  {
+    "id": 0,
+    "en1": "",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": ""
+  },
+  {
+    "id": 380,
+    "en1": "Remind",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Nhắc nhở"
+  },
+  {
+    "id": 379,
+    "en1": "Random",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Ngẫu nhiên"
+  },
+  {
+    "id": 378,
+    "en1": "Predict",
+    "en2": "Prediction",
+    "en3": "Predictable",
+    "en4": "",
+    "vn1": "Dự đoán, Báo trước, nói trước"
+  },
+  {
+    "id": 377,
+    "en1": "Patron",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Người bảo trợ - bảo hộ, người khách quen"
+  },
+  {
+    "id": 376,
+    "en1": "Mix-up",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Lộn xộn"
+  },
+  {
+    "id": 375,
+    "en1": "Judge",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Đánh giá"
+  },
+  {
+    "id": 374,
+    "en1": "Ingredient",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Thành phần"
+  },
+  {
+    "id": 373,
+    "en1": "Forget",
+    "en2": "Forgetful",
+    "en3": "Forgettable",
+    "en4": "",
+    "vn1": "Quên, hay quên"
+  },
+  {
+    "id": 372,
+    "en1": "Flavor",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Vị ngon, mùi vị"
+  },
+  {
+    "id": 371,
+    "en1": "Excite",
+    "en2": "Excitement",
+    "en3": "Exciting",
+    "en4": "",
+    "vn1": "Gây hứng thú, Sự phấn khích."
+  },
+  {
+    "id": 370,
+    "en1": "Complete",
+    "en2": "Completion",
+    "en3": "Completely",
+    "en4": "",
+    "vn1": "Đầy đủ, chọn vẹn, Làm cho đầy đủ"
+  },
+  {
+    "id": 369,
+    "en1": "Basic",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Cơ bản"
+  }
+]

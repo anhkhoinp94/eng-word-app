@@ -1,0 +1,106 @@
+[
+  {
+    "id": 0,
+    "en1": "",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": ""
+  },
+  {
+    "id": 213,
+    "en1": "Supply",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Cung cấp"
+  },
+  {
+    "id": 212,
+    "en1": "Sufficient",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Đủ"
+  },
+  {
+    "id": 211,
+    "en1": "Ship",
+    "en2": "Shipper",
+    "en3": "Shipment",
+    "en4": "",
+    "vn1": "Vận chuyển, Việc gởi hàng"
+  },
+  {
+    "id": 210,
+    "en1": "Remember",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Nhớ, nhớ lại"
+  },
+  {
+    "id": 209,
+    "en1": "On hand",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Có sẵn"
+  },
+  {
+    "id": 208,
+    "en1": "Minimize",
+    "en2": "Minimal",
+    "en3": "Minimum",
+    "en4": "",
+    "vn1": "Giảm bớt, hạn chế, tối thiểu"
+  },
+  {
+    "id": 207,
+    "en1": "Inventory",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Kiểm kê(hàng hoá)"
+  },
+  {
+    "id": 206,
+    "en1": "Integral",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Integral"
+  },
+  {
+    "id": 205,
+    "en1": "Fulfill",
+    "en2": "Fulfilling",
+    "en3": "Fulfillment",
+    "en4": "",
+    "vn1": "Thực hiện, thi hành"
+  },
+  {
+    "id": 204,
+    "en1": "Catalog",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Sách danh mục chi tiết"
+  },
+  {
+    "id": 203,
+    "en1": "Carrier",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Người chuyên chở"
+  },
+  {
+    "id": 202,
+    "en1": "Accurate",
+    "en2": "Accuracy",
+    "en3": "Accurately",
+    "en4": "",
+    "vn1": "Đúng, chính xác"
+  }
+]

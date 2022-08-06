@@ -1,0 +1,106 @@
+[
+  {
+    "id": 0,
+    "en1": "",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": ""
+  },
+  {
+    "id": 368,
+    "en1": "Suggest",
+    "en2": "Suggestion",
+    "en3": "Suggestible",
+    "en4": "",
+    "vn1": "Đề nghị, giới thiệu, Sự đề nghị"
+  },
+  {
+    "id": 367,
+    "en1": "Subjective",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Chủ quan"
+  },
+  {
+    "id": 366,
+    "en1": "Secure",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Chắc chắn, Tìm được, đạt được"
+  },
+  {
+    "id": 365,
+    "en1": "Rely",
+    "en2": "Reliability",
+    "en3": "reliable",
+    "en4": "",
+    "vn1": "Tin vào, dựa vào, Độ tin cậy."
+  },
+  {
+    "id": 364,
+    "en1": "Mix",
+    "en2": "Mixture",
+    "en3": "Mixable",
+    "en4": "",
+    "vn1": "Trộn, pha lẫn"
+  },
+  {
+    "id": 363,
+    "en1": "Majority",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Phần lớn, đa số"
+  },
+  {
+    "id": 362,
+    "en1": "Guide",
+    "en2": "Guidance",
+    "en3": "Guidable",
+    "en4": "",
+    "vn1": "Người chỉ dẫn Sự chỉ đạo, có thể chỉ dấn"
+  },
+  {
+    "id": 361,
+    "en1": "Familiar",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Quen thuộc, thường thấy"
+  },
+  {
+    "id": 360,
+    "en1": "Daring",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Táo bạo, cả gan"
+  },
+  {
+    "id": 359,
+    "en1": "Compromise",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Thỏa hiệp"
+  },
+  {
+    "id": 358,
+    "en1": "Arrive",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Tới (một nơi)"
+  },
+  {
+    "id": 357,
+    "en1": "Appeal",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Hấp dẫn"
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "id": 0,
+    "en1": "",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": ""
+  },
+  {
+    "id": 153,
+    "en1": "Update",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Cập nhật"
+  },
+  {
+    "id": 152,
+    "en1": "Training",
+    "en2": "Trainer",
+    "en3": "Trainee",
+    "en4": "",
+    "vn1": "Đào tạo, huấn luyện"
+  },
+  {
+    "id": 151,
+    "en1": "Success",
+    "en2": "Succeed",
+    "en3": "Successful",
+    "en4": "",
+    "vn1": "Thành công"
+  },
+  {
+    "id": 150,
+    "en1": "Set up",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Thiết lập, định trước"
+  },
+  {
+    "id": 149,
+    "en1": "Reject",
+    "en2": "Rejection",
+    "en3": "Rejecting",
+    "en4": "",
+    "vn1": "Từ chối, loại bỏ"
+  },
+  {
+    "id": 148,
+    "en1": "On track",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Theo dõi"
+  },
+  {
+    "id": 147,
+    "en1": "Mentor",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Người cố vấn"
+  },
+  {
+    "id": 146,
+    "en1": "Look up to",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Khâm phục, ngưỡng mộ"
+  },
+  {
+    "id": 145,
+    "en1": "Keep up with",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Theo kịp, ngang hàng với"
+  },
+  {
+    "id": 144,
+    "en1": "Hire",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Thuê, mướn"
+  },
+  {
+    "id": 143,
+    "en1": "Generate",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Tạo ra, sinh ra"
+  },
+  {
+    "id": 142,
+    "en1": "Conduct",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Cư xử"
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "id": 0,
+    "en1": "",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": ""
+  },
+  {
+    "id": 249,
+    "en1": "Transaction",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Giao dịch"
+  },
+  {
+    "id": 248,
+    "en1": "Take out",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Rút( tiền)"
+  },
+  {
+    "id": 247,
+    "en1": "Signature",
+    "en2": "Sign",
+    "en3": "",
+    "en4": "",
+    "vn1": "Chữ ký"
+  },
+  {
+    "id": 246,
+    "en1": "Restriction",
+    "en2": "Restrict",
+    "en3": "Restricted",
+    "en4": "",
+    "vn1": "Hạn chế, giới hạn"
+  },
+  {
+    "id": 245,
+    "en1": "Mortgage",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Tiền thế chấp"
+  },
+  {
+    "id": 244,
+    "en1": "Down payment",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Tiền đặt cọc"
+  },
+  {
+    "id": 243,
+    "en1": "Dividend",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Tiền lãi cổ phần, Cổ tức"
+  },
+  {
+    "id": 242,
+    "en1": "Deduct",
+    "en2": "Deductible",
+    "en3": "Deduction",
+    "en4": "",
+    "vn1": "Trừ đi, khấu trừ"
+  },
+  {
+    "id": 241,
+    "en1": "Cautious",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Thận trọng"
+  },
+  {
+    "id": 240,
+    "en1": "Borrow",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Vay, mượn"
+  },
+  {
+    "id": 239,
+    "en1": "Balance",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Số dư(tài khoản)"
+  },
+  {
+    "id": 238,
+    "en1": "Accept",
+    "en2": "Acceptance",
+    "en3": "Acceptable",
+    "en4": "",
+    "vn1": "Nhận, chấp nhận"
+  }
+]
