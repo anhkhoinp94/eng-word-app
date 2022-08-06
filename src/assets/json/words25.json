@@ -1,0 +1,106 @@
+[
+  {
+    "id": 0,
+    "en1": "",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": ""
+  },
+  {
+    "id": 297,
+    "en1": "Yield",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Lợi nhuận, lợi tức"
+  },
+  {
+    "id": 296,
+    "en1": "Typical",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Đặc thù, đặc trưng"
+  },
+  {
+    "id": 295,
+    "en1": "Translation",
+    "en2": "Translate",
+    "en3": "Translatable",
+    "en4": "",
+    "vn1": "Dịch, sự chuyển đổi"
+  },
+  {
+    "id": 294,
+    "en1": "Target",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Mục tiêu"
+  },
+  {
+    "id": 293,
+    "en1": "Realistic",
+    "en2": "Reality",
+    "en3": "Realistic",
+    "en4": "",
+    "vn1": "Thực tế, thực tại"
+  },
+  {
+    "id": 292,
+    "en1": "Projected",
+    "en2": "Project",
+    "en3": "",
+    "en4": "",
+    "vn1": "Có kế hoạch, Kế hoạch, dự kiến"
+  },
+  {
+    "id": 291,
+    "en1": "Perspective",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Quan điểm, cách nhìn"
+  },
+  {
+    "id": 290,
+    "en1": "Overall",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Toàn bộ, toàn diện"
+  },
+  {
+    "id": 289,
+    "en1": "Level",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Mức độ"
+  },
+  {
+    "id": 288,
+    "en1": "Forecast",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Dự báo"
+  },
+  {
+    "id": 287,
+    "en1": "Detail",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Chi tiết"
+  },
+  {
+    "id": 286,
+    "en1": "Desired",
+    "en2": "Desire",
+    "en3": "",
+    "en4": "",
+    "vn1": "Mong muốn, Sự mong muốn"
+  }
+]

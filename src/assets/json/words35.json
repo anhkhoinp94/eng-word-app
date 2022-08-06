@@ -1,0 +1,106 @@
+[
+  {
+    "id": 0,
+    "en1": "",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": ""
+  },
+  {
+    "id": 415,
+    "en1": "Stage",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Sân khấu"
+  },
+  {
+    "id": 414,
+    "en1": "Site",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Chỗ, vị trí"
+  },
+  {
+    "id": 413,
+    "en1": "Regulation",
+    "en2": "Regulate",
+    "en3": "Regulatory",
+    "en4": "",
+    "vn1": "Quy tắc, điều lệ, sự điều chỉnh"
+  },
+  {
+    "id": 412,
+    "en1": "Proximity",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Sự gần gũi"
+  },
+  {
+    "id": 411,
+    "en1": "Plan",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Kế hoạch"
+  },
+  {
+    "id": 410,
+    "en1": "Lead time",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Thời gian giữa lúc bắt đầu và lúc hoàn thành dự án"
+  },
+  {
+    "id": 409,
+    "en1": "Ideal",
+    "en2": "Idealize",
+    "en3": "Ideally",
+    "en4": "",
+    "vn1": "Tưởng tượng, Lý tưởng hóa"
+  },
+  {
+    "id": 408,
+    "en1": "General",
+    "en2": "Generalize",
+    "en3": "Generally",
+    "en4": "",
+    "vn1": "Chung chung, Diễn tả chung chung"
+  },
+  {
+    "id": 407,
+    "en1": "Exact",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Chính xác"
+  },
+  {
+    "id": 406,
+    "en1": "Dimension",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Kích thước"
+  },
+  {
+    "id": 405,
+    "en1": "Coordinate",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Sắp xếp, sắp đặt"
+  },
+  {
+    "id": 404,
+    "en1": "Assist",
+    "en2": "Assistance",
+    "en3": "Assistant",
+    "en4": "",
+    "vn1": "Giúp đỡ, trợ lý Sự giúp đỡ, người giúp việc"
+  }
+]

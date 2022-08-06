@@ -1,0 +1,106 @@
+[
+  {
+    "id": 0,
+    "en1": "",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": ""
+  },
+  {
+    "id": 285,
+    "en1": "Withhold",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Ngăn cản, giữ lại"
+  },
+  {
+    "id": 284,
+    "en1": "Spouse",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Chồng, vợ"
+  },
+  {
+    "id": 283,
+    "en1": "Refund",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Sự trả lại, trả lại"
+  },
+  {
+    "id": 282,
+    "en1": "Prepare",
+    "en2": "Preparation",
+    "en3": "Preparatory",
+    "en4": "",
+    "vn1": "Chuẩn bị"
+  },
+  {
+    "id": 281,
+    "en1": "Penalty",
+    "en2": "Penalize",
+    "en3": "Penal",
+    "en4": "",
+    "vn1": "Sự trừng phạt, tiền phạt, Trừng phạt"
+  },
+  {
+    "id": 280,
+    "en1": "Owe",
+    "en2": "Owner",
+    "en3": "Owing",
+    "en4": "",
+    "vn1": "Nợ, Chủ nhân"
+  },
+  {
+    "id": 279,
+    "en1": "Joint",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Nối, gia nhập, tham gia"
+  },
+  {
+    "id": 278,
+    "en1": "Give up",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Đầu hàng"
+  },
+  {
+    "id": 277,
+    "en1": "Fill out",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Điền vào"
+  },
+  {
+    "id": 276,
+    "en1": "File",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Hồ sơ, tài liệu"
+  },
+  {
+    "id": 275,
+    "en1": "Deadline",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Đường giới hạn"
+  },
+  {
+    "id": 274,
+    "en1": "Calculate",
+    "en2": "Calculation",
+    "en3": "Calculator",
+    "en4": "",
+    "vn1": "Tính toán"
+  }
+]

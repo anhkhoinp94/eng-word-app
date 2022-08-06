@@ -1,0 +1,106 @@
+[
+  {
+    "id": 0,
+    "en1": "",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": ""
+  },
+  {
+    "id": 225,
+    "en1": "Terms",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Điều khoản"
+  },
+  {
+    "id": 224,
+    "en1": "Rectify",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Sửa lại, hiệu chỉnh"
+  },
+  {
+    "id": 223,
+    "en1": "Prompt",
+    "en2": "Promptness",
+    "en3": "Prompt",
+    "en4": "",
+    "vn1": "Lời nhắc, mau"
+  },
+  {
+    "id": 222,
+    "en1": "Order",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Đơn đặt hàng"
+  },
+  {
+    "id": 221,
+    "en1": "Mistake",
+    "en2": "Mistaken",
+    "en3": "",
+    "en4": "",
+    "vn1": "Lỗi"
+  },
+  {
+    "id": 220,
+    "en1": "Impose",
+    "en2": "Imposition",
+    "en3": "Imposing",
+    "en4": "",
+    "vn1": "Bắt buộc, áp đặt"
+  },
+  {
+    "id": 219,
+    "en1": "Estimate",
+    "en2": "Estimation",
+    "en3": "Estimating",
+    "en4": "",
+    "vn1": "Ước lượng, định giá"
+  },
+  {
+    "id": 218,
+    "en1": "Efficient",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Có năng suất cao"
+  },
+  {
+    "id": 217,
+    "en1": "Customer",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Phần tiền giảm giá"
+  },
+  {
+    "id": 216,
+    "en1": "Customer",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Khách hàng"
+  },
+  {
+    "id": 215,
+    "en1": "Compile",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Thu thập, tập hợp"
+  },
+  {
+    "id": 214,
+    "en1": "Charge",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Phí tổn"
+  }
+]

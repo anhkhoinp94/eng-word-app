@@ -1,0 +1,106 @@
+[
+  {
+    "id": 0,
+    "en1": "",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": ""
+  },
+  {
+    "id": 165,
+    "en1": "Wage",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Tiền công"
+  },
+  {
+    "id": 164,
+    "en1": "Vested",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Được quyền, được phép"
+  },
+  {
+    "id": 163,
+    "en1": "Retire",
+    "en2": "Retirement",
+    "en3": "Retired",
+    "en4": "",
+    "vn1": "Nghỉ hưu"
+  },
+  {
+    "id": 162,
+    "en1": "Raise",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Sự tăng lương"
+  },
+  {
+    "id": 161,
+    "en1": "Negotiate",
+    "en2": "Negotiation",
+    "en3": "Negotiator",
+    "en4": "",
+    "vn1": "Đàm phán, thương lượng"
+  },
+  {
+    "id": 160,
+    "en1": "Flexible",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Dễ sai khiến, dễ uốn nắn"
+  },
+  {
+    "id": 159,
+    "en1": "Eligible",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Đủ tư cách"
+  },
+  {
+    "id": 158,
+    "en1": "Delicate",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Nhạy bén, khéo léo"
+  },
+  {
+    "id": 157,
+    "en1": "Compensate",
+    "en2": "Compensation",
+    "en3": "Compensatory",
+    "en4": "",
+    "vn1": "Đền bù, bồi thường, khoản bồi thường"
+  },
+  {
+    "id": 156,
+    "en1": "Benefits",
+    "en2": "Benefit",
+    "en3": "Beneficial",
+    "en4": "",
+    "vn1": "Tiền trợ cấp, Giúp ích cho"
+  },
+  {
+    "id": 155,
+    "en1": "Be aware of",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Am hiểu về…"
+  },
+  {
+    "id": 154,
+    "en1": "Basis",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Nền tảng, cơ sở"
+  }
+]

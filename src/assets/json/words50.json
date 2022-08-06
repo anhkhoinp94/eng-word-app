@@ -1,0 +1,123 @@
+[
+  {
+    "id": 0,
+    "en1": "",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": ""
+  },
+  {
+    "id": 591,
+    "en1": "conference",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "hội nghị"
+  },
+  {
+    "id": 590,
+    "en1": "warranty",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "sự bảo đảm"
+  },
+
+  {
+    "id": 589,
+    "en1": "Volunteer",
+    "en2": "Volunteerism",
+    "en3": "Voluntary",
+    "en4": "",
+    "vn1": "Người tình nguyện"
+  },
+  {
+    "id": 588,
+    "en1": "Sense",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Khả năng phán đoán"
+  },
+  {
+    "id": 587,
+    "en1": "Sample",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Mẫu, vật mẫu"
+  },
+  {
+    "id": 586,
+    "en1": "Potential",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Tiềm năng, tiềm tàng"
+  },
+  {
+    "id": 585,
+    "en1": "Monitor",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Theo dõi ,nắm được"
+  },
+  {
+    "id": 584,
+    "en1": "Limit",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Giới hạn"
+  },
+  {
+    "id": 583,
+    "en1": "Interaction",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Sự ản hưởng lẫn nhau"
+  },
+  {
+    "id": 582,
+    "en1": "Factor",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Nhân tố"
+  },
+  {
+    "id": 581,
+    "en1": "Detect",
+    "en2": "Detection",
+    "en3": "Detectable",
+    "en4": "",
+    "vn1": "Phát hiện ra, không phá ra"
+  },
+  {
+    "id": 580,
+    "en1": "Convenient",
+    "en2": "Convenience",
+    "en3": "Conveniently",
+    "en4": "",
+    "vn1": "Tiện lợi thuận tiện"
+  },
+  {
+    "id": 579,
+    "en1": "Control",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Điều khiển"
+  },
+  {
+    "id": 578,
+    "en1": "Consult",
+    "en2": "Consultation",
+    "en3": "Consultative",
+    "en4": "",
+    "vn1": "Hỏi ý kiến, tham khảo"
+  }
+]

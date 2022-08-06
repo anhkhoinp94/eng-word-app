@@ -1,0 +1,98 @@
+[
+  {
+    "id": 0,
+    "en1": "",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": ""
+  },
+  {
+    "id": 426,
+    "en1": "Valid",
+    "en2": "Validate",
+    "en3": "Validation",
+    "en4": "",
+    "vn1": "Hợp lý, đúng đắn"
+  },
+  {
+    "id": 425,
+    "en1": "Prohibit",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Ngăn chặn, cấm"
+  },
+  {
+    "id": 424,
+    "en1": "Itinerary",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Hành trình"
+  },
+  {
+    "id": 423,
+    "en1": "Embark",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Tham gia, dấn mình vào"
+  },
+  {
+    "id": 422,
+    "en1": "Delay",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Trù hoãn"
+  },
+  {
+    "id": 421,
+    "en1": "Claim",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Đòi"
+  },
+  {
+    "id": 420,
+    "en1": "Board",
+    "en2": "Onboard",
+    "en3": "",
+    "en4": "",
+    "vn1": "Lên tàu, Trên tàu"
+  },
+  {
+    "id": 419,
+    "en1": "Blanket",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Mền, chăn"
+  },
+  {
+    "id": 418,
+    "en1": "Beverage",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Nước giải khát"
+  },
+  {
+    "id": 417,
+    "en1": "Announcement",
+    "en2": "Announce",
+    "en3": "Announcer",
+    "en4": "",
+    "vn1": "Thông cáo, Loan báo"
+  },
+  {
+    "id": 416,
+    "en1": "Agency",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Đại lý"
+  }
+]
