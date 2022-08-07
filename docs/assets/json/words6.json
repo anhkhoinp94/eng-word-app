@@ -8,75 +8,99 @@
     "vn1": ""
   },
   {
-    "id": 69,
-    "en1": "Ignore",
+    "id": 72,
+    "en1": "warning",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Lờ đi, không để ý"
+    "vn1": "cảnh báo"
+  },
+  {
+    "id": 71,
+    "en1": "shut down",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "ngừng lại, chấm dứt"
+  },
+  {
+    "id": 70,
+    "en1": "search",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "tìm kiếm"
+  },
+  {
+    "id": 69,
+    "en1": "ignore",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "bỏ qua"
   },
   {
     "id": 68,
-    "en1": "Figure out",
+    "en1": "figure out",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Suy ra"
+    "vn1": "tìm ra"
   },
   {
     "id": 67,
-    "en1": "Fail",
-    "en2": "Failure",
-    "en3": "Fallible",
+    "en1": "failure",
+    "en2": "",
+    "en3": "",
     "en4": "",
-    "vn1": "Thất bại"
+    "vn1": "thất bại"
   },
   {
     "id": 66,
-    "en1": "Duplicate",
-    "en2": "Duplication",
+    "en1": "duplicate",
+    "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Tạo bản sao"
+    "vn1": "gấp đôi, nhân đôi"
   },
   {
     "id": 65,
-    "en1": "Display",
+    "en1": "display",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Hiển thị"
+    "vn1": "hiển thị, trưng bày"
   },
   {
     "id": 64,
-    "en1": "Delete",
+    "en1": "delete",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Xóa"
+    "vn1": "xóa"
   },
   {
     "id": 63,
-    "en1": "Compatible",
+    "en1": "compatible",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Tương thích"
+    "vn1": "tương thích"
   },
   {
     "id": 62,
-    "en1": "Allocate",
+    "en1": "allocate",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Chỉ định"
+    "vn1": "cấp cho, chỉ định"
   },
   {
     "id": 61,
-    "en1": "Access",
-    "en2": "Accessible",
+    "en1": "access",
+    "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Truy cập"
+    "vn1": "truy cập"
   }
 ]
