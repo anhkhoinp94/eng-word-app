@@ -8,99 +8,99 @@
     "vn1": ""
   },
   {
-    "id": 117,
-    "en1": "Revise",
+    "id": 120,
+    "en1": "revise",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Sửa lại, ôn lại"
+    "vn1": "xem lại, sửa lại"
+  },
+  {
+    "id": 119,
+    "en1": "register",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "đăng ký"
+  },
+  {
+    "id": 118,
+    "en1": "proof",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "bằng chứng"
+  },
+  {
+    "id": 117,
+    "en1": "petition",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "đơn kiến nghị"
   },
   {
     "id": 116,
-    "en1": "Registered",
-    "en2": "Registration",
+    "en1": "mention",
+    "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Đăng ký"
+    "vn1": "sự đề cập"
   },
   {
     "id": 115,
-    "en1": "Proof",
-    "en2": "Proofreader",
-    "en3": "Proofing",
+    "en1": "layout",
+    "en2": "",
+    "en3": "",
     "en4": "",
-    "vn1": "Chứng minh, bằng chứng"
+    "vn1": "bổ cục"
   },
   {
     "id": 114,
-    "en1": "Petition",
+    "en1": "fold",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Đơn kiến nghị"
+    "vn1": "gấp lại"
   },
   {
     "id": 113,
-    "en1": "Mention",
-    "en2": "Mentionable",
+    "en1": "express",
+    "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Đề cập đến"
+    "vn1": "nhanh, tốc hành"
   },
   {
     "id": 112,
-    "en1": "Layout",
+    "en1": "courier",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Cách trình bày"
+    "vn1": "người đưa thư"
   },
   {
     "id": 111,
-    "en1": "Fold",
+    "en1": "complication",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Gấp lại"
+    "vn1": "sự phức tạp"
   },
   {
     "id": 110,
-    "en1": "Express",
+    "en1": "beforehand",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Nhanh chóng"
+    "vn1": "sớm, sẵn"
   },
   {
     "id": 109,
-    "en1": "Courier",
+    "en1": "assemble",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Người đưa thư"
-  },
-  {
-    "id": 108,
-    "en1": "Complicated",
-    "en2": "Complication",
-    "en3": "Complicated",
-    "en4": "",
-    "vn1": "Phức tạp"
-  },
-  {
-    "id": 107,
-    "en1": "Beforehand",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Trước, sớm"
-  },
-  {
-    "id": 106,
-    "en1": "Assemble",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Tập hợp, thu thập"
+    "vn1": "tập hợp, thu thập"
   }
 ]
