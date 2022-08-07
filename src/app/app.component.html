@@ -1,16 +1,32 @@
 <div class="container mt-5">
   <div class="container" style="min-height: 300px">
     <div>{{ countSawWords }}</div>
-    <div class="row">
-      <div class="col-6">
-        <div *ngIf="see">
-          <h1 style="float: right; font-size: 40px">{{ enWord1 }}</h1>
-        </div>
+    <div *ngIf="see && !show">
+      <div class="row" style="min-height: 80px">
+        <h1 style="float: right; font-size: 40px; text-align: center">
+          {{ enWord1 }}
+        </h1>
       </div>
-      <div class="col-6">
-        <div *ngIf="show">
-          <h1 style="font-size: 40px; color: blue">{{ vnWord1 }}</h1>
-        </div>
+      <div class="row"></div>
+    </div>
+    <div *ngIf="!see && show">
+      <div class="row" style="min-height: 80px"></div>
+      <div class="row">
+        <h1 style="font-size: 40px; color: blue; text-align: center">
+          {{ vnWord1 }}
+        </h1>
+      </div>
+    </div>
+    <div *ngIf="see && show">
+      <div class="row" style="min-height: 80px">
+        <h1 style="float: right; font-size: 40px; text-align: center">
+          {{ enWord1 }}
+        </h1>
+      </div>
+      <div class="row">
+        <h1 style="font-size: 40px; color: blue; text-align: center">
+          {{ vnWord1 }}
+        </h1>
       </div>
     </div>
   </div>
