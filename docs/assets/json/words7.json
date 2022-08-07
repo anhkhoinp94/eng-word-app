@@ -8,99 +8,99 @@
     "vn1": ""
   },
   {
-    "id": 81,
-    "en1": "Stock",
+    "id": 84,
+    "en1": "stock",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Kho dự trữ"
+    "vn1": "kho dự trữ"
+  },
+  {
+    "id": 83,
+    "en1": "stay on top of",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "nắm bắt tình hình"
+  },
+  {
+    "id": 82,
+    "en1": "reduction",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "sự giảm, thu nhỏ"
+  },
+  {
+    "id": 81,
+    "en1": "recur",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "lặp lại, tái diễn"
   },
   {
     "id": 80,
-    "en1": "Stay on top of",
+    "en1": "provider",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "xếp hạng đầu"
+    "vn1": "nhà cung cấp"
   },
   {
     "id": 79,
-    "en1": "Reduction",
-    "en2": "Reduce",
-    "en3": "Reducible",
+    "en1": "physically",
+    "en2": "",
+    "en3": "",
     "en4": "",
-    "vn1": "Sự thu nhỏ, giảm"
+    "vn1": "về thể chất"
   },
   {
     "id": 78,
-    "en1": "Recur",
-    "en2": "Recurrence",
-    "en3": "Recurring",
+    "en1": "initiative",
+    "en2": "",
+    "en3": "",
     "en4": "",
-    "vn1": "Lặp lại, tái diễn"
+    "vn1": "khởi đầu, khởi xướng"
   },
   {
     "id": 77,
-    "en1": "Provider",
-    "en2": "Provide",
-    "en3": "Provision",
+    "en1": "durable",
+    "en2": "",
+    "en3": "",
     "en4": "",
-    "vn1": "Nhà cung cấp"
+    "vn1": "lâu bền"
   },
   {
     "id": 76,
-    "en1": "Physical",
+    "en1": "capacity",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Vật chất"
+    "vn1": "sức chứa"
   },
   {
     "id": 75,
-    "en1": "Initiative",
-    "en2": "Initiate",
-    "en3": "Initiation",
+    "en1": "be in charge of",
+    "en2": "",
+    "en3": "",
     "en4": "",
-    "vn1": "Khởi tạo, làm đầu tàu"
+    "vn1": "chịu trách nhiệm về"
   },
   {
     "id": 74,
-    "en1": "Durable",
+    "en1": "as needed",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Bến bỉ"
+    "vn1": "khi cần, lúc cần"
   },
   {
     "id": 73,
-    "en1": "Capacity",
+    "en1": "affordable",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Sức chứa"
-  },
-  {
-    "id": 72,
-    "en1": "Be in charge of",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Chịu trách nhiệm"
-  },
-  {
-    "id": 71,
-    "en1": "As needed",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Khi cần thiết"
-  },
-  {
-    "id": 70,
-    "en1": "Affordable",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": ""
+    "vn1": "có đủ khả năng"
   }
 ]
