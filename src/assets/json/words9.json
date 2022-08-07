@@ -8,99 +8,99 @@
     "vn1": ""
   },
   {
-    "id": 105,
-    "en1": "Technical",
+    "id": 108,
+    "en1": "technically",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Kỹ thuật, chuyên môn"
+    "vn1": "về mặt kỹ thuật"
+  },
+  {
+    "id": 107,
+    "en1": "store",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "cửa hàng, kho hàng"
+  },
+  {
+    "id": 106,
+    "en1": "software",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "phần mềm"
+  },
+  {
+    "id": 105,
+    "en1": "skill",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "kỹ năng"
   },
   {
     "id": 104,
-    "en1": "Storage",
-    "en2": "Store",
+    "en1": "sharp",
+    "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Sự lưu trữ"
+    "vn1": "sắc, bén"
   },
   {
     "id": 103,
-    "en1": "Software",
+    "en1": "revolution",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Phần mềm"
+    "vn1": "cuộc cách mạng"
   },
   {
     "id": 102,
-    "en1": "Skills",
+    "en1": "replace",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Kỹ năng kỹ sảo"
+    "vn1": "thay thế"
   },
   {
     "id": 101,
-    "en1": "Sharp",
+    "en1": "process",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Nhọn"
+    "vn1": "quá trình"
   },
   {
     "id": 100,
-    "en1": "Revolution",
-    "en2": "Revolutionized",
-    "en3": "Revolutionary",
+    "en1": "popularity",
+    "en2": "",
+    "en3": "",
     "en4": "",
-    "vn1": "Cuộc cách mạng"
+    "vn1": "phổ biến"
   },
   {
     "id": 99,
-    "en1": "Replace",
-    "en2": "Replacement",
-    "en3": "Replaceable",
+    "en1": "network",
+    "en2": "",
+    "en3": "",
     "en4": "",
-    "vn1": "Thay thế"
+    "vn1": "mạng lưới"
   },
   {
     "id": 98,
-    "en1": "Process",
+    "en1": "facilitate",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Quá trình"
+    "vn1": "làm cho thuận tiện"
   },
   {
     "id": 97,
-    "en1": "Popularity",
-    "en2": "Popularize",
-    "en3": "Popular",
-    "en4": "",
-    "vn1": "Sự phổ biến"
-  },
-  {
-    "id": 96,
-    "en1": "Network",
+    "en1": "disk",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Mạng lưới"
-  },
-  {
-    "id": 95,
-    "en1": "Facilitate",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Tạo điều kiện, đơn giản"
-  },
-  {
-    "id": 94,
-    "en1": "Disk",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Đĩa, ổ đĩa"
+    "vn1": "đĩa"
   }
 ]
