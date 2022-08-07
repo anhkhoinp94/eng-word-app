@@ -8,99 +8,99 @@
     "vn1": ""
   },
   {
-    "id": 93,
-    "en1": "Verbal",
-    "en2": "Verbalize",
-    "en3": "Verbally",
+    "id": 96,
+    "en1": "verbally",
+    "en2": "",
+    "en3": "",
     "en4": "",
-    "vn1": "Bằng lời nói"
+    "vn1": "bằng lời nói"
+  },
+  {
+    "id": 95,
+    "en1": "reinforce",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "tăng cường, củng cố"
+  },
+  {
+    "id": 94,
+    "en1": "practice",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "sự thực hành"
+  },
+  {
+    "id": 93,
+    "en1": "outdated",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "hết hạn"
   },
   {
     "id": 92,
-    "en1": "Reinforce",
-    "en2": "Reinforcement",
-    "en3": "Reinforcing",
+    "en1": "out of",
+    "en2": "",
+    "en3": "",
     "en4": "",
-    "vn1": "Tăng cường, củng cố"
+    "vn1": "mất hết, cạn kiệt"
   },
   {
     "id": 91,
-    "en1": "Practice",
-    "en2": "Practical",
+    "en1": "glimpse",
+    "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Sự thực hành"
+    "vn1": "nhìn lướt qua"
   },
   {
     "id": 90,
-    "en1": "Outdated",
+    "en1": "expose",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Hết hạn sử dụng"
+    "vn1": "phơi bày"
   },
   {
     "id": 89,
-    "en1": "Out of",
+    "en1": "code",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Hết, cạn kiệt"
+    "vn1": "quy tắc"
   },
   {
     "id": 88,
-    "en1": "Made of",
+    "en1": "casually",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Bao gồm"
+    "vn1": "bình thường"
   },
   {
     "id": 87,
-    "en1": "Glimpse",
+    "en1": "bring in",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Nhìn thoáng qua"
+    "vn1": "thuê mướn, mang tới"
   },
   {
     "id": 86,
-    "en1": "Code",
+    "en1": "be made of",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Luật, quy tắc"
+    "vn1": "làm bằng"
   },
   {
     "id": 85,
-    "en1": "Casual",
+    "en1": "appreciation",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Bình thường"
-  },
-  {
-    "id": 84,
-    "en1": "Bring in",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Thuê, mướn"
-  },
-  {
-    "id": 83,
-    "en1": "Be exposed to",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Bị phơi bày"
-  },
-  {
-    "id": 82,
-    "en1": "Appreciate",
-    "en2": "Appreciation",
-    "en3": "Appreciated",
-    "en4": "",
-    "vn1": "Đánh giá cao"
+    "vn1": "sự cảm kích"
   }
 ]
