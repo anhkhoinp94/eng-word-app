@@ -8,99 +8,99 @@
     "vn1": ""
   },
   {
-    "id": 129,
-    "en1": "Time-consuming",
+    "id": 132,
+    "en1": "time-consuming",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Cần nhiều thời gian"
+    "vn1": "tốn thời gian"
+  },
+  {
+    "id": 131,
+    "en1": "submit",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "nộp, trình"
+  },
+  {
+    "id": 130,
+    "en1": "recruit",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "tuyển dụng"
+  },
+  {
+    "id": 129,
+    "en1": "qualification",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "năng lực, trình độ"
   },
   {
     "id": 128,
-    "en1": "Submit",
-    "en2": "Submission",
-    "en3": "Submittal",
+    "en1": "profile",
+    "en2": "",
+    "en3": "",
     "en4": "",
-    "vn1": "Biện hộ"
+    "vn1": "tiểu sử"
   },
   {
     "id": 127,
-    "en1": "Recruit",
-    "en2": "Recruitment",
-    "en3": "Recruiter",
+    "en1": "match",
+    "en2": "",
+    "en3": "",
     "en4": "",
-    "vn1": "Tuyển dụng"
+    "vn1": "hợp, xứng"
   },
   {
     "id": 126,
-    "en1": "Qualifications",
-    "en2": "Qualify",
-    "en3": "Qualified",
+    "en1": "commensurate with",
+    "en2": "",
+    "en3": "",
     "en4": "",
-    "vn1": "Năng lực"
+    "vn1": "tương xứng với"
   },
   {
     "id": 125,
-    "en1": "Profile",
+    "en1": "come up with",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Mô tả tính chất"
+    "vn1": "đưa ra, ý định"
   },
   {
     "id": 124,
-    "en1": "Match",
+    "en1": "candidate",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Vừa"
+    "vn1": "ứng cử viên"
   },
   {
     "id": 123,
-    "en1": "Commensurate",
+    "en1": "bring together",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Tương xứng, cùng diện tích"
+    "vn1": "gom lại, nhóm lại"
   },
   {
     "id": 122,
-    "en1": "Come up with",
+    "en1": "accomplishment",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Ý định"
+    "vn1": "thành tựu, thành tích"
   },
   {
     "id": 121,
-    "en1": "Candidate",
+    "en1": "abundant",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Ứng cử viên"
-  },
-  {
-    "id": 120,
-    "en1": "Bring together",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Nhóm lai, họp lại"
-  },
-  {
-    "id": 119,
-    "en1": "Accomplishment",
-    "en2": "Accomplish",
-    "en3": "Accomplished",
-    "en4": "",
-    "vn1": "Hoàn thành, đạt được"
-  },
-  {
-    "id": 118,
-    "en1": "Abundant",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Nhiều quá, thừa"
+    "vn1": "nhiều, thừa"
   }
 ]
