@@ -8,99 +8,99 @@
     "vn1": ""
   },
   {
-    "id": 141,
-    "en1": "Weakness",
+    "id": 144,
+    "en1": "weakly",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Nhược điểm, điểm yếu"
+    "vn1": "yếu, ốm yếu"
+  },
+  {
+    "id": 143,
+    "en1": "present",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "bày tỏ, giới thiệu"
+  },
+  {
+    "id": 142,
+    "en1": "hesitant",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "do dự, lưỡng lự"
+  },
+  {
+    "id": 141,
+    "en1": "follow up",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "tiếp theo, kế tiếp"
   },
   {
     "id": 140,
-    "en1": "Present",
-    "en2": "Presentation",
-    "en3": "Presentable",
+    "en1": "Expert",
+    "en2": "",
+    "en3": "",
     "en4": "",
-    "vn1": "Đưa ra, bày tỏ, giới thiệu"
+    "vn1": "chuyên gia, chuyên viên"
   },
   {
     "id": 139,
-    "en1": "Hesitate",
+    "en1": "constantly",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Do dự, lưỡng lự"
+    "vn1": "luôn luôn, liên tục"
   },
   {
     "id": 138,
-    "en1": "Follow up",
+    "en1": "confidence",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Tiếp tục, tiếp theo"
+    "vn1": "sự tin cậy, tin tưởng"
   },
   {
     "id": 137,
-    "en1": "Expert",
-    "en2": "Expertise",
+    "en1": "call in",
+    "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Thành thạo, tinh thông"
+    "vn1": "yêu cầu, mời tới"
   },
   {
     "id": 136,
-    "en1": "Constantly",
+    "en1": "be ready for",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Luôn luôn, không đổi"
+    "vn1": "sẵn sàng cho"
   },
   {
     "id": 135,
-    "en1": "Confidence",
-    "en2": "Confident",
-    "en3": "Confidently",
+    "en1": "background",
+    "en2": "",
+    "en3": "",
     "en4": "",
-    "vn1": "Tự tin"
+    "vn1": "quá trình đào tạo"
   },
   {
     "id": 134,
-    "en1": "Call in",
+    "en1": "apply",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": ""
+    "vn1": "nộp, ứng tuyển"
   },
   {
     "id": 133,
-    "en1": "Be ready for",
+    "en1": "ability",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Sẵn sàng cho"
-  },
-  {
-    "id": 132,
-    "en1": "Background",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Kinh nghiệm"
-  },
-  {
-    "id": 131,
-    "en1": "Apply",
-    "en2": "Applicant",
-    "en3": "Application",
-    "en4": "",
-    "vn1": "Xin việc, tìm việc"
-  },
-  {
-    "id": 130,
-    "en1": "Ability",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Khả năng"
+    "vn1": "khả năng"
   }
 ]
