@@ -1,5 +1,5 @@
-<div class="container mt-5">
-  <div class="container" style="min-height: 300px">
+<div class="container mt-2">
+  <div class="container" style="min-height: 200px">
     <div>{{ countSawWords }}</div>
     <div *ngIf="see && !show">
       <div class="row" style="min-height: 80px">
@@ -87,6 +87,28 @@
           Mute
         </button>
       </div>
+    </div>
+
+    <div class="row mt-3">
+      <div class="col-4"></div>
+      <div class="col-4">
+        <div *ngFor="let voice of voices">
+          <div class="row">
+            <button
+              class="btn btn-sm mt-1"
+              [ngClass]="
+                voice.name == selectedVoice?.name
+                  ? 'btn-primary'
+                  : 'btn-secondary'
+              "
+              (click)="selectVoice(voice)"
+            >
+              {{ voice.name | slice: 10:30 }}
+            </button>
+          </div>
+        </div>
+      </div>
+      <div class="col-4"></div>
     </div>
   </div>
 </div>
