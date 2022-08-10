@@ -161,7 +161,10 @@ export class AppComponent {
   checkAbleSpeak() {
     this.voices = window.speechSynthesis.getVoices();
     if (this.voices.length > 0) {
-      this.selectedVoice = (this.voices[0] || null);
+      // this.voices.forEach((element, idx) => {
+      //   console.log(element.lang, idx)
+      // });
+      this.selectedVoice = this.voices.filter(voice => voice.lang == "en-US")[0];
       this.canSpeak = true;
     }
   }
