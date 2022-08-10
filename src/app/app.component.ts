@@ -80,7 +80,17 @@ export class AppComponent {
   words: Word[] = [];
   countSawWords = 0;
 
+  // speak
+  selectedVoice: SpeechSynthesisVoice | null;
+  voices: SpeechSynthesisVoice[];
+  selectedRate: number = 1;
+  canSpeak: boolean = false;
+
   constructor() {
+    this.selectedVoice = null;
+    this.voices = [];
+    this.selectedRate = 1;
+
     this.words = this.words.concat(wordList1, wordList2, wordList3, wordList4, wordList5, wordList6, wordList7, wordList8, wordList9, wordList10, wordList11, wordList12, wordList13, wordList14, wordList15);
     let id = this.getRandomArbitrary(this.min, this.max);
     let word = this.words.find((obj) => {
@@ -94,6 +104,7 @@ export class AppComponent {
       this.enWord4 = word.en4;
     }
   }
+
 
   change() {
     if (!this.show) {
@@ -138,5 +149,20 @@ export class AppComponent {
     selBox.select();
     document.execCommand('copy');
     document.body.removeChild(selBox);
+  }
+
+  speakMessage() {
+    var utterance = new SpeechSynthesisUtterance(this.enWord1);
+    utterance.voice = this.selectedVoice;
+    utterance.rate = this.selectedRate;
+    speechSynthesis.speak(utterance);
+  }
+
+  checkAbleSpeak() {
+    this.voices = window.speechSynthesis.getVoices();
+    if (this.voices.length > 0) {
+      this.selectedVoice = (this.voices[0] || null);
+      this.canSpeak = true;
+    }
   }
 }
