@@ -8,99 +8,99 @@
     "vn1": ""
   },
   {
-    "id": 165,
-    "en1": "Wage",
+    "id": 168,
+    "en1": "be aware of",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Tiền công"
+    "vn1": "biết được, am hiểu"
+  },
+  {
+    "id": 167,
+    "en1": "wage",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "tiền công, tiền lương"
+  },
+  {
+    "id": 166,
+    "en1": "vested",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "được trao, được ban"
+  },
+  {
+    "id": 165,
+    "en1": "retire",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "nghỉ hưu"
   },
   {
     "id": 164,
-    "en1": "Vested",
+    "en1": "raise",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Được quyền, được phép"
+    "vn1": "nâng lên, tăng lên"
   },
   {
     "id": 163,
-    "en1": "Retire",
-    "en2": "Retirement",
-    "en3": "Retired",
+    "en1": "negotiate",
+    "en2": "",
+    "en3": "",
     "en4": "",
-    "vn1": "Nghỉ hưu"
+    "vn1": "thương lượng, đàm phán"
   },
   {
     "id": 162,
-    "en1": "Raise",
+    "en1": "flexibly",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Sự tăng lương"
+    "vn1": "một cách linh hoạt"
   },
   {
     "id": 161,
-    "en1": "Negotiate",
-    "en2": "Negotiation",
-    "en3": "Negotiator",
+    "en1": "eligible",
+    "en2": "",
+    "en3": "",
     "en4": "",
-    "vn1": "Đàm phán, thương lượng"
+    "vn1": "thích hợp, đủ tiêu chuẩn"
   },
   {
     "id": 160,
-    "en1": "Flexible",
+    "en1": "delicately",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Dễ sai khiến, dễ uốn nắn"
+    "vn1": "một cách tế nhị"
   },
   {
     "id": 159,
-    "en1": "Eligible",
+    "en1": "compensate",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Đủ tư cách"
+    "vn1": "đền bù, bồi thường"
   },
   {
     "id": 158,
-    "en1": "Delicate",
+    "en1": "benefit",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Nhạy bén, khéo léo"
+    "vn1": "lợi ích, phúc lợi"
   },
   {
     "id": 157,
-    "en1": "Compensate",
-    "en2": "Compensation",
-    "en3": "Compensatory",
-    "en4": "",
-    "vn1": "Đền bù, bồi thường, khoản bồi thường"
-  },
-  {
-    "id": 156,
-    "en1": "Benefits",
-    "en2": "Benefit",
-    "en3": "Beneficial",
-    "en4": "",
-    "vn1": "Tiền trợ cấp, Giúp ích cho"
-  },
-  {
-    "id": 155,
-    "en1": "Be aware of",
+    "en1": "basis",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Am hiểu về…"
-  },
-  {
-    "id": 154,
-    "en1": "Basis",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Nền tảng, cơ sở"
+    "vn1": "nền tảng, cơ sở"
   }
 ]
