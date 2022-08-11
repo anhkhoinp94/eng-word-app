@@ -14,7 +14,7 @@ import wordList12 from '../assets/json/words12.json';
 import wordList13 from '../assets/json/words13.json';
 import wordList14 from '../assets/json/words14.json';
 import wordList15 from '../assets/json/words15.json';
-// import wordList16 from '../assets/json/words16.json';
+import wordList16 from '../assets/json/words16.json';
 // import wordList17 from '../assets/json/words17.json';
 // import wordList18 from '../assets/json/words18.json';
 // import wordList19 from '../assets/json/words19.json';
@@ -70,7 +70,7 @@ export class AppComponent {
   no = 1;
   min = 1;
   // max = 565;
-  max = 181;
+  max = 193;
   vnWord1 = '';
   vnWord2 = '';
   enWord1 = '';
@@ -91,7 +91,7 @@ export class AppComponent {
     this.voices = [];
     this.selectedRate = 1;
 
-    this.words = this.words.concat(wordList1, wordList2, wordList3, wordList4, wordList5, wordList6, wordList7, wordList8, wordList9, wordList10, wordList11, wordList12, wordList13, wordList14, wordList15);
+    this.words = this.words.concat(wordList1, wordList2, wordList3, wordList4, wordList5, wordList6, wordList7, wordList8, wordList9, wordList10, wordList11, wordList12, wordList13, wordList14, wordList15, wordList16);
     let id = this.getRandomArbitrary(this.min, this.max);
     let word = this.words.find((obj) => {
       return obj.id === id;

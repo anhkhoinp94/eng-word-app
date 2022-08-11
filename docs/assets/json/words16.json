@@ -8,99 +8,99 @@
     "vn1": ""
   },
   {
-    "id": 189,
-    "en1": "Trend",
+    "id": 192,
+    "en1": "trend",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Xu hướng"
+    "vn1": "xu hướng"
+  },
+  {
+    "id": 191,
+    "en1": "strictly",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "một cách nghiêm ngặt"
+  },
+  {
+    "id": 190,
+    "en1": "merchandise",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "hàng hoá"
+  },
+  {
+    "id": 189,
+    "en1": "mandatory",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "lệnh, bắt buộc"
   },
   {
     "id": 188,
-    "en1": "Strict",
-    "en2": "Strictness",
-    "en3": "Strictly",
+    "en1": "item",
+    "en2": "",
+    "en3": "",
     "en4": "",
-    "vn1": "Nghiêm khác,chính xác"
+    "vn1": "mục, mặt hàng"
   },
   {
     "id": 187,
-    "en1": "Merchandise",
+    "en1": "explore",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Hàng hoá"
+    "vn1": "khám phá, thăm dò"
   },
   {
     "id": 186,
-    "en1": "Mandatory",
+    "en1": "expand",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Bắt buộc, thiết yếu"
+    "vn1": "mở rộng"
   },
   {
     "id": 185,
-    "en1": "Item",
+    "en1": "comfort",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Điều khoản"
+    "vn1": "sự thoải mái"
   },
   {
     "id": 184,
-    "en1": "Explore",
-    "en2": "Exploration",
-    "en3": "Exploratory",
+    "en1": "checkout",
+    "en2": "",
+    "en3": "",
     "en4": "",
-    "vn1": "Thăm dò, khảo sát"
+    "vn1": "thanh toán"
   },
   {
     "id": 183,
-    "en1": "Expand",
-    "en2": "Expansion",
-    "en3": "Expanded",
+    "en1": "behaviour",
+    "en2": "",
+    "en3": "",
     "en4": "",
-    "vn1": "Mở rộng"
+    "vn1": "hành vi, cách cư xử"
   },
   {
     "id": 182,
-    "en1": "Comfort",
-    "en2": "Comfortable",
-    "en3": "Comfortably",
+    "en1": "bear",
+    "en2": "",
+    "en3": "",
     "en4": "",
-    "vn1": "Thoải mái, tiện nghi"
+    "vn1": "chịu đựng, cam chịu"
   },
   {
     "id": 181,
-    "en1": "Checkout",
+    "en1": "bargain",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "(Sự) thanh toán tiền"
-  },
-  {
-    "id": 180,
-    "en1": "Behavior",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Cách cư xử"
-  },
-  {
-    "id": 179,
-    "en1": "Bear",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Chịu đựng, cam chịu"
-  },
-  {
-    "id": 178,
-    "en1": "Bargain",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Trả giá, mặc cả"
+    "vn1": "trả giá, mặc cả"
   }
 ]
