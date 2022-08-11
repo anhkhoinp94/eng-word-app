@@ -8,99 +8,99 @@
     "vn1": ""
   },
   {
-    "id": 237,
-    "en1": "Verify",
+    "id": 240,
+    "en1": "verify",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Xác minh, kiểm lại"
+    "vn1": "thẩm tra, xác minh"
+  },
+  {
+    "id": 239,
+    "en1": "tedious",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "chán ngắt, buồn tẻ"
+  },
+  {
+    "id": 238,
+    "en1": "subtract",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "trừ đi, khấu trừ"
+  },
+  {
+    "id": 237,
+    "en1": "scan",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "xem lướt, xem qua"
   },
   {
     "id": 236,
-    "en1": "Tedious",
+    "en1": "run",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Chán ngắt, buồn tẻ"
+    "vn1": "chạy, vận hành"
   },
   {
     "id": 235,
-    "en1": "Subtract",
+    "en1": "reflection",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Trừ đi, khấu trừ"
+    "vn1": "sự phản chiếu, phản ánh"
   },
   {
     "id": 234,
-    "en1": "Scan",
+    "en1": "liability",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Kiểm tra nhanh"
+    "vn1": "trách nhiệm pháp lý/nguy cơ"
   },
   {
     "id": 233,
-    "en1": "Run",
+    "en1": "disturb",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Chạy, hoạt động"
+    "vn1": "quấy rầy, làm phiền"
   },
   {
     "id": 232,
-    "en1": "Reflect",
-    "en2": "Reflection",
-    "en3": "Reflector",
+    "en1": "discrepancy",
+    "en2": "",
+    "en3": "",
     "en4": "",
-    "vn1": "Phản ánh, tương ứng với"
+    "vn1": "sự khác nhau, không nhất quán"
   },
   {
     "id": 231,
-    "en1": "Liability",
+    "en1": "crucial",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Trách nhiệm pháp lý"
+    "vn1": "chủ yếu, có tính quyết định"
   },
   {
     "id": 230,
-    "en1": "Disturb",
-    "en2": "Disturbance",
-    "en3": "Disturbingly",
+    "en1": "automatically",
+    "en2": "",
+    "en3": "",
     "en4": "",
-    "vn1": "Làm rối loạn, gây cản trở"
+    "vn1": "một cách tự động"
   },
   {
     "id": 229,
-    "en1": "Discrepancy",
+    "en1": "adjustment",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Sự khác biệt"
-  },
-  {
-    "id": 228,
-    "en1": "Crucial",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Quan trọng, chủ yếu"
-  },
-  {
-    "id": 227,
-    "en1": "Automatic",
-    "en2": "Automation",
-    "en3": "Automatically",
-    "en4": "",
-    "vn1": "Tự động"
-  },
-  {
-    "id": 226,
-    "en1": "Adjust",
-    "en2": "Adjustment",
-    "en3": "Adjustable",
-    "en4": "",
-    "vn1": "Điều chỉnh, dàn xếp"
+    "vn1": "điều chỉnh"
   }
 ]
