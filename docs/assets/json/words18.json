@@ -8,99 +8,99 @@
     "vn1": ""
   },
   {
-    "id": 213,
-    "en1": "Supply",
+    "id": 216,
+    "en1": "supply",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Cung cấp"
+    "vn1": "cung cấp"
+  },
+  {
+    "id": 215,
+    "en1": "sufficient",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "đủ, có đủ"
+  },
+  {
+    "id": 214,
+    "en1": "ship",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "vận chuyển"
+  },
+  {
+    "id": 213,
+    "en1": "remember",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "nhớ, ghi nhớ"
   },
   {
     "id": 212,
-    "en1": "Sufficient",
+    "en1": "on hand",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Đủ"
+    "vn1": "có sẵn"
   },
   {
     "id": 211,
-    "en1": "Ship",
-    "en2": "Shipper",
-    "en3": "Shipment",
+    "en1": "minimize",
+    "en2": "",
+    "en3": "",
     "en4": "",
-    "vn1": "Vận chuyển, Việc gởi hàng"
+    "vn1": "giảm thiểu, tối thiểu hóa"
   },
   {
     "id": 210,
-    "en1": "Remember",
+    "en1": "inventory",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Nhớ, nhớ lại"
+    "vn1": "hàng hóa tồn kho"
   },
   {
     "id": 209,
-    "en1": "On hand",
+    "en1": "integral",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Có sẵn"
+    "vn1": "tính toàn vẹn, không thể thiếu"
   },
   {
     "id": 208,
-    "en1": "Minimize",
-    "en2": "Minimal",
-    "en3": "Minimum",
+    "en1": "catalog",
+    "en2": "",
+    "en3": "",
     "en4": "",
-    "vn1": "Giảm bớt, hạn chế, tối thiểu"
+    "vn1": "quyển danh mục"
   },
   {
     "id": 207,
-    "en1": "Inventory",
+    "en1": "fulfill",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Kiểm kê(hàng hoá)"
+    "vn1": "thực hiện, thi hành"
   },
   {
     "id": 206,
-    "en1": "Integral",
+    "en1": "carrier",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Integral"
+    "vn1": "người chuyên chở"
   },
   {
     "id": 205,
-    "en1": "Fulfill",
-    "en2": "Fulfilling",
-    "en3": "Fulfillment",
-    "en4": "",
-    "vn1": "Thực hiện, thi hành"
-  },
-  {
-    "id": 204,
-    "en1": "Catalog",
+    "en1": "accurately",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Sách danh mục chi tiết"
-  },
-  {
-    "id": 203,
-    "en1": "Carrier",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Người chuyên chở"
-  },
-  {
-    "id": 202,
-    "en1": "Accurate",
-    "en2": "Accuracy",
-    "en3": "Accurately",
-    "en4": "",
-    "vn1": "Đúng, chính xác"
+    "vn1": "một cách chính xác"
   }
 ]

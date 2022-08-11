@@ -8,99 +8,99 @@
     "vn1": ""
   },
   {
-    "id": 201,
-    "en1": "Stationery",
+    "id": 204,
+    "en1": "stationery",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Đồ dùng văn phòng"
+    "vn1": "đồ dùng văn phòng"
+  },
+  {
+    "id": 203,
+    "en1": "source",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "nguồn, nguồn gốc"
+  },
+  {
+    "id": 202,
+    "en1": "smooth",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "trôi chảy"
+  },
+  {
+    "id": 201,
+    "en1": "quality",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "chất lượng"
   },
   {
     "id": 200,
-    "en1": "Source",
+    "en1": "prerequisite",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Nguồn, nguồn gốc"
+    "vn1": "điều kiện tiên quyết"
   },
   {
     "id": 199,
-    "en1": "Smooth",
-    "en2": "Smooth out",
-    "en3": "Smoothly",
+    "en1": "obtain",
+    "en2": "",
+    "en3": "",
     "en4": "",
-    "vn1": "Êm thấm, suôn sẻ"
+    "vn1": "đạt được, giành được"
   },
   {
     "id": 198,
-    "en1": "Quality",
+    "en1": "maintain",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Chất lượng"
+    "vn1": "duy trì"
   },
   {
     "id": 197,
-    "en1": "Prerequisite",
+    "en1": "function",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Điều kiện tiên quyết"
+    "vn1": "chức năng, nhiệm vụ"
   },
   {
     "id": 196,
-    "en1": "Obtain",
+    "en1": "everyday",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Đạt được, giành được"
+    "vn1": "hàng ngày"
   },
   {
     "id": 195,
-    "en1": "Maintain",
-    "en2": "Maintainability",
-    "en3": "Maintainable",
+    "en1": "essentially",
+    "en2": "",
+    "en3": "",
     "en4": "",
-    "vn1": "Duy trì"
+    "vn1": "cần thiết"
   },
   {
     "id": 194,
-    "en1": "Function",
-    "en2": "Functional",
+    "en1": "enterprise",
+    "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Hoạt động"
+    "vn1": "hãng, công ty"
   },
   {
     "id": 193,
-    "en1": "Everyday",
+    "en1": "diversify",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Hàng ngày"
-  },
-  {
-    "id": 192,
-    "en1": "Essential",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Cần thiết"
-  },
-  {
-    "id": 191,
-    "en1": "Enterprise",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Xí nghiệp"
-  },
-  {
-    "id": 190,
-    "en1": "Diverse",
-    "en2": "Diversify",
-    "en3": "Diversity",
-    "en4": "",
-    "vn1": "Đa dạng, Đa dạng hoá"
+    "vn1": "đa dạng hóa"
   }
 ]
