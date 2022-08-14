@@ -8,99 +8,99 @@
     "vn1": ""
   },
   {
-    "id": 273,
-    "en1": "Wise",
-    "en2": "Wisdom",
-    "en3": "Wisely",
+    "id": 276,
+    "en1": "wisely",
+    "en2": "",
+    "en3": "",
     "en4": "",
-    "vn1": "Từng trải,hiểu biết nhiều"
+    "vn1": "khôn ngoan"
+  },
+  {
+    "id": 275,
+    "en1": "return",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "tiền lãi, tiền lời"
+  },
+  {
+    "id": 274,
+    "en1": "resource",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "tài nguyên, tài sản"
+  },
+  {
+    "id": 273,
+    "en1": "pull out",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "rút ra, rút khỏi"
   },
   {
     "id": 272,
-    "en1": "Return",
-    "en2": "Returns",
-    "en3": "Returnable",
+    "en1": "portfolio",
+    "en2": "",
+    "en3": "",
     "en4": "",
-    "vn1": "Tiền thu về, lợi nhuận"
+    "vn1": "danh mục đầu tư"
   },
   {
     "id": 271,
-    "en1": "Resource",
+    "en1": "long-term",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Tài sản"
+    "vn1": "dài hạn"
   },
   {
     "id": 270,
-    "en1": "Pull out",
+    "en1": "invest",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Sự rút lui"
+    "vn1": "đầu tư"
   },
   {
     "id": 269,
-    "en1": "Portfolio",
+    "en1": "fund",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Danh mục vốn đầu tư"
+    "vn1": "quỹ"
   },
   {
     "id": 268,
-    "en1": "Long-term",
+    "en1": "conservative",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Dài hạn"
+    "vn1": "bảo thủ, thận trọng"
   },
   {
     "id": 267,
-    "en1": "Invest",
-    "en2": "Investment",
-    "en3": "Investor",
+    "en1": "commit",
+    "en2": "",
+    "en3": "",
     "en4": "",
-    "vn1": "Đầu tư,Sự đầu tư, người đầu tư"
+    "vn1": "hứa, cam kết"
   },
   {
     "id": 266,
-    "en1": "Fund",
+    "en1": "attitude",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Quỹ"
+    "vn1": "thái độ"
   },
   {
     "id": 265,
-    "en1": "Conservative",
+    "en1": "aggressively",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Bảo thủ"
-  },
-  {
-    "id": 264,
-    "en1": "Commitment",
-    "en2": "Commit",
-    "en3": "Noncommittal",
-    "en4": "",
-    "vn1": "Lời cam kết, Cam kết"
-  },
-  {
-    "id": 263,
-    "en1": "Attitude",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Thái độ"
-  },
-  {
-    "id": 262,
-    "en1": "Aggressive",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Có sức cạnh tranh"
+    "vn1": "hùng hổ/xông xáo"
   }
 ]

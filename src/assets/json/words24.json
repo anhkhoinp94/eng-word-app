@@ -8,99 +8,99 @@
     "vn1": ""
   },
   {
-    "id": 285,
-    "en1": "Withhold",
+    "id": 288,
+    "en1": "withhold",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Ngăn cản, giữ lại"
+    "vn1": "ngăn cản, giữ lại"
+  },
+  {
+    "id": 287,
+    "en1": "spouse",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "chồng, vợ"
+  },
+  {
+    "id": 286,
+    "en1": "refund",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "sự trả lại tiền"
+  },
+  {
+    "id": 285,
+    "en1": "preparation",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "sự chuẩn bị"
   },
   {
     "id": 284,
-    "en1": "Spouse",
+    "en1": "penalty",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Chồng, vợ"
+    "vn1": "phạt, khoản tiền phạt"
   },
   {
     "id": 283,
-    "en1": "Refund",
+    "en1": "owe",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Sự trả lại, trả lại"
+    "vn1": "mắc nợ, mang ơn"
   },
   {
     "id": 282,
-    "en1": "Prepare",
-    "en2": "Preparation",
-    "en3": "Preparatory",
+    "en1": "joint",
+    "en2": "",
+    "en3": "",
     "en4": "",
-    "vn1": "Chuẩn bị"
+    "vn1": "chung, cùng"
   },
   {
     "id": 281,
-    "en1": "Penalty",
-    "en2": "Penalize",
-    "en3": "Penal",
+    "en1": "give up",
+    "en2": "",
+    "en3": "",
     "en4": "",
-    "vn1": "Sự trừng phạt, tiền phạt, Trừng phạt"
+    "vn1": "từ bỏ"
   },
   {
     "id": 280,
-    "en1": "Owe",
-    "en2": "Owner",
-    "en3": "Owing",
+    "en1": "fill out",
+    "en2": "",
+    "en3": "",
     "en4": "",
-    "vn1": "Nợ, Chủ nhân"
+    "vn1": "điền vào, hoàn thành"
   },
   {
     "id": 279,
-    "en1": "Joint",
+    "en1": "file",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Nối, gia nhập, tham gia"
+    "vn1": "sắp xếp, sắp đặt"
   },
   {
     "id": 278,
-    "en1": "Give up",
+    "en1": "deadline",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Đầu hàng"
+    "vn1": "hạn chót"
   },
   {
     "id": 277,
-    "en1": "Fill out",
+    "en1": "calculate",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Điền vào"
-  },
-  {
-    "id": 276,
-    "en1": "File",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Hồ sơ, tài liệu"
-  },
-  {
-    "id": 275,
-    "en1": "Deadline",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Đường giới hạn"
-  },
-  {
-    "id": 274,
-    "en1": "Calculate",
-    "en2": "Calculation",
-    "en3": "Calculator",
-    "en4": "",
-    "vn1": "Tính toán"
+    "vn1": "tính toán"
   }
 ]

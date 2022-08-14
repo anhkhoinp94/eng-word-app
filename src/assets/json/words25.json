@@ -8,99 +8,99 @@
     "vn1": ""
   },
   {
-    "id": 297,
-    "en1": "Yield",
+    "id": 300,
+    "en1": "yield",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Lợi nhuận, lợi tức"
+    "vn1": "lợi tức, hoa lợi"
+  },
+  {
+    "id": 299,
+    "en1": "typical",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "điển hình, đặc trưng"
+  },
+  {
+    "id": 298,
+    "en1": "translation",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "dịch, sự chuyển đổi"
+  },
+  {
+    "id": 297,
+    "en1": "target",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "mục tiêu, mục đích"
   },
   {
     "id": 296,
-    "en1": "Typical",
+    "en1": "realistic",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Đặc thù, đặc trưng"
+    "vn1": "thực tế, hiện thực"
   },
   {
     "id": 295,
-    "en1": "Translation",
-    "en2": "Translate",
-    "en3": "Translatable",
+    "en1": "project",
+    "en2": "",
+    "en3": "",
     "en4": "",
-    "vn1": "Dịch, sự chuyển đổi"
+    "vn1": "kế hoạch, dự án"
   },
   {
     "id": 294,
-    "en1": "Target",
+    "en1": "perspective",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Mục tiêu"
+    "vn1": "viễn cảnh, triển vọng"
   },
   {
     "id": 293,
-    "en1": "Realistic",
-    "en2": "Reality",
-    "en3": "Realistic",
+    "en1": "overall",
+    "en2": "",
+    "en3": "",
     "en4": "",
-    "vn1": "Thực tế, thực tại"
+    "vn1": "toàn bộ, nói chung"
   },
   {
     "id": 292,
-    "en1": "Projected",
-    "en2": "Project",
+    "en1": "level",
+    "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Có kế hoạch, Kế hoạch, dự kiến"
+    "vn1": "mức độ, cấp bậc, trình độ"
   },
   {
     "id": 291,
-    "en1": "Perspective",
+    "en1": "forecast",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Quan điểm, cách nhìn"
+    "vn1": "dự báo"
   },
   {
     "id": 290,
-    "en1": "Overall",
+    "en1": "detail",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Toàn bộ, toàn diện"
+    "vn1": "chi tiết"
   },
   {
     "id": 289,
-    "en1": "Level",
+    "en1": "desire",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Mức độ"
-  },
-  {
-    "id": 288,
-    "en1": "Forecast",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Dự báo"
-  },
-  {
-    "id": 287,
-    "en1": "Detail",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Chi tiết"
-  },
-  {
-    "id": 286,
-    "en1": "Desired",
-    "en2": "Desire",
-    "en3": "",
-    "en4": "",
-    "vn1": "Mong muốn, Sự mong muốn"
+    "vn1": "khao khát, ao ước"
   }
 ]

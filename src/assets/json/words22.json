@@ -8,99 +8,99 @@
     "vn1": ""
   },
   {
-    "id": 261,
-    "en1": "Turnover",
+    "id": 264,
+    "en1": "turnover",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Doanh số, doanh thu"
+    "vn1": "doanh số, doanh thu"
+  },
+  {
+    "id": 263,
+    "en1": "reconcile",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "hòa giải, giảng hòa"
+  },
+  {
+    "id": 262,
+    "en1": "profitably",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "có lợi, có ích"
+  },
+  {
+    "id": 261,
+    "en1": "outstanding",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "còn tồn tại, chưa trả nợ"
   },
   {
     "id": 260,
-    "en1": "Reconcile",
+    "en1": "debt",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "dàn xếp"
+    "vn1": "món nợ"
   },
   {
     "id": 259,
-    "en1": "Profitable",
-    "en2": "Profit",
+    "en1": "client",
+    "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Có sinh lợi, Lợi nhuận, thu lợi"
+    "vn1": "khách hàng"
   },
   {
     "id": 258,
-    "en1": "Outstanding balance",
+    "en1": "build up",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Số dư chưa thanh toán"
+    "vn1": "tăng cường"
   },
   {
     "id": 257,
-    "en1": "Debt",
+    "en1": "budget",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Món nợ"
+    "vn1": "ngân sách, ngân quỹ"
   },
   {
     "id": 256,
-    "en1": "Client",
+    "en1": "audit",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Khách hàng"
+    "vn1": "kiểm toán"
   },
   {
     "id": 255,
-    "en1": "Build up",
+    "en1": "asset",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Sự tăng cường"
+    "vn1": "tài sản"
   },
   {
     "id": 254,
-    "en1": "Budget",
-    "en2": "Budget",
-    "en3": "Budgetary",
+    "en1": "accumulate",
+    "en2": "",
+    "en3": "",
     "en4": "",
-    "vn1": "Ngân sách, ngân quỹ, Ghi vào ngân sách"
+    "vn1": "tích lũy, tích góp"
   },
   {
     "id": 253,
-    "en1": "Audit",
+    "en1": "accounting",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Kiểm toán"
-  },
-  {
-    "id": 252,
-    "en1": "Asset",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Tài sản"
-  },
-  {
-    "id": 251,
-    "en1": "Accumulate",
-    "en2": "Accumulation",
-    "en3": "Accumulated",
-    "en4": "",
-    "vn1": "Tích trữ, tích lũy"
-  },
-  {
-    "id": 250,
-    "en1": "Accounting",
-    "en2": "Accountant",
-    "en3": "",
-    "en4": "",
-    "vn1": "kế toán, nhân viên kế toán"
+    "vn1": "công việc kế toán"
   }
 ]

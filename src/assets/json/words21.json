@@ -8,99 +8,99 @@
     "vn1": ""
   },
   {
-    "id": 249,
-    "en1": "Transaction",
+    "id": 252,
+    "en1": "transaction",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Giao dịch"
+    "vn1": "giao dịch"
+  },
+  {
+    "id": 251,
+    "en1": "take out",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "rút tiền"
+  },
+  {
+    "id": 250,
+    "en1": "signature",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "chữ ký"
+  },
+  {
+    "id": 249,
+    "en1": "restricted",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "bị hạn chế"
   },
   {
     "id": 248,
-    "en1": "Take out",
+    "en1": "mortgage",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Rút( tiền)"
+    "vn1": "sự thế chấp"
   },
   {
     "id": 247,
-    "en1": "Signature",
-    "en2": "Sign",
+    "en1": "down payment",
+    "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Chữ ký"
+    "vn1": "tiền đặt cọc"
   },
   {
     "id": 246,
-    "en1": "Restriction",
-    "en2": "Restrict",
-    "en3": "Restricted",
+    "en1": "dividend",
+    "en2": "",
+    "en3": "",
     "en4": "",
-    "vn1": "Hạn chế, giới hạn"
+    "vn1": "cổ tức/số bị chia"
   },
   {
     "id": 245,
-    "en1": "Mortgage",
+    "en1": "deduct",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Tiền thế chấp"
+    "vn1": "trừ đi, khấu trừ"
   },
   {
     "id": 244,
-    "en1": "Down payment",
+    "en1": "cautiously",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Tiền đặt cọc"
+    "vn1": "thận trọng, cẩn thận"
   },
   {
     "id": 243,
-    "en1": "Dividend",
+    "en1": "borrow",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Tiền lãi cổ phần, Cổ tức"
+    "vn1": "vay, mượn"
   },
   {
     "id": 242,
-    "en1": "Deduct",
-    "en2": "Deductible",
-    "en3": "Deduction",
+    "en1": "balance",
+    "en2": "",
+    "en3": "",
     "en4": "",
-    "vn1": "Trừ đi, khấu trừ"
+    "vn1": "số dư tài khoản/cái cân"
   },
   {
     "id": 241,
-    "en1": "Cautious",
+    "en1": "accept",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Thận trọng"
-  },
-  {
-    "id": 240,
-    "en1": "Borrow",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Vay, mượn"
-  },
-  {
-    "id": 239,
-    "en1": "Balance",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Số dư(tài khoản)"
-  },
-  {
-    "id": 238,
-    "en1": "Accept",
-    "en2": "Acceptance",
-    "en3": "Acceptable",
-    "en4": "",
-    "vn1": "Nhận, chấp nhận"
+    "vn1": "chấp nhận"
   }
 ]
