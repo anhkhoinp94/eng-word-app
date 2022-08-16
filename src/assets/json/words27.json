@@ -8,99 +8,99 @@
     "vn1": ""
   },
   {
-    "id": 320,
-    "en1": "Waste",
+    "id": 324,
+    "en1": "waste",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Vô giá trị"
+    "vn1": "lãng phí, vô giá trị"
+  },
+  {
+    "id": 323,
+    "en1": "progress",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "tiến triển, tiến bộ"
+  },
+  {
+    "id": 322,
+    "en1": "priority",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "quyền ưu tiên"
+  },
+  {
+    "id": 321,
+    "en1": "periodically",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "định kỳ, chu kỳ"
+  },
+  {
+    "id": 320,
+    "en1": "matter",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "chủ đề, vấn đề"
   },
   {
     "id": 319,
-    "en1": "Progress",
-    "en2": "Progression",
-    "en3": "Progressive",
+    "en1": "lengthy",
+    "en2": "",
+    "en3": "",
     "en4": "",
-    "vn1": "Tiến triển"
+    "vn1": "dài, dài dòng"
   },
   {
     "id": 318,
-    "en1": "Priority",
-    "en2": "Prioritize",
-    "en3": "Prior",
+    "en1": "goal",
+    "en2": "",
+    "en3": "",
     "en4": "",
-    "vn1": "Quyền ưu tiên, Dành ưu tiên"
+    "vn1": "mục tiêu, mục đích"
   },
   {
     "id": 317,
-    "en1": "Periodically",
-    "en2": "Period",
-    "en3": "Periondic",
+    "en1": "go ahead",
+    "en2": "",
+    "en3": "",
     "en4": "",
-    "vn1": "Một cách định kỳ, Giai đoạn, thời kỳ"
+    "vn1": "tiến hành"
   },
   {
     "id": 316,
-    "en1": "Matter",
+    "en1": "conclude",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Chủ đề"
+    "vn1": "chấm dứt/kết luận"
   },
   {
     "id": 315,
-    "en1": "Lengthy",
+    "en1": "bring up",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Dài dòng"
+    "vn1": "đưa ra"
   },
   {
     "id": 314,
-    "en1": "Goal",
+    "en1": "agenda",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Mục tiêu, mục đích"
+    "vn1": "chương trình nghị sự"
   },
   {
     "id": 313,
-    "en1": "Go ahead",
+    "en1": "adhere to",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Cho phép, tiếp tục"
-  },
-  {
-    "id": 312,
-    "en1": "Conclude",
-    "en2": "Conclusion",
-    "en3": "Conclusive",
-    "en4": "",
-    "vn1": "Kết luận"
-  },
-  {
-    "id": 311,
-    "en1": "Bring up",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Đưa ra"
-  },
-  {
-    "id": 310,
-    "en1": "Agenda",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Chương trình nghị sự"
-  },
-  {
-    "id": 309,
-    "en1": "Adhere to",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Tuân thủ"
+    "vn1": "tuân thủ"
   }
 ]

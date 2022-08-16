@@ -24,11 +24,11 @@ import wordList22 from '../assets/json/words22.json';
 import wordList23 from '../assets/json/words23.json';
 import wordList24 from '../assets/json/words24.json';
 import wordList25 from '../assets/json/words25.json';
-// import wordList26 from '../assets/json/words26.json';
-// import wordList27 from '../assets/json/words27.json';
-// import wordList28 from '../assets/json/words28.json';
-// import wordList29 from '../assets/json/words29.json';
-// import wordList30 from '../assets/json/words30.json';
+import wordList26 from '../assets/json/words26.json';
+import wordList27 from '../assets/json/words27.json';
+import wordList28 from '../assets/json/words28.json';
+import wordList29 from '../assets/json/words29.json';
+import wordList30 from '../assets/json/words30.json';
 // import wordList31 from '../assets/json/words31.json';
 // import wordList32 from '../assets/json/words32.json';
 // import wordList33 from '../assets/json/words33.json';
@@ -70,7 +70,7 @@ export class AppComponent {
   no = 1;
   min = 1;
   // max = 565;
-  max = 301;
+  max = 361;
   vnWord1 = '';
   vnWord2 = '';
   enWord1 = '';
@@ -91,7 +91,7 @@ export class AppComponent {
     this.voices = [];
     this.selectedRate = 1;
 
-    this.words = this.words.concat(wordList1, wordList2, wordList3, wordList4, wordList5, wordList6, wordList7, wordList8, wordList9, wordList10, wordList11, wordList12, wordList13, wordList14, wordList15, wordList16, wordList17, wordList18, wordList19, wordList20, wordList21, wordList22, wordList23, wordList24, wordList25);
+    this.words = this.words.concat(wordList1, wordList2, wordList3, wordList4, wordList5, wordList6, wordList7, wordList8, wordList9, wordList10, wordList11, wordList12, wordList13, wordList14, wordList15, wordList16, wordList17, wordList18, wordList19, wordList20, wordList21, wordList22, wordList23, wordList24, wordList25, wordList26, wordList27, wordList28, wordList29, wordList30);
     let id = this.getRandomArbitrary(this.min, this.max);
     let word = this.words.find((obj) => {
       return obj.id === id;

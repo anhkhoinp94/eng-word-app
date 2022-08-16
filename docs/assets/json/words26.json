@@ -8,91 +8,99 @@
     "vn1": ""
   },
   {
-    "id": 308,
-    "en1": "Scrutinize",
-    "en2": "Scrutiny",
-    "en3": "Inscrutable",
+    "id": 312,
+    "en1": "scrutiny",
+    "en2": "",
+    "en3": "",
     "en4": "",
-    "vn1": "Nhìn kỹ, chăm chú, Sự nhìn chăm chú"
+    "vn1": "xem xét, kiểm tra kỹ lưỡng"
+  },
+  {
+    "id": 311,
+    "en1": "opt",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "chọn, chọn lựa"
+  },
+  {
+    "id": 310,
+    "en1": "open to",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "tiếp thu"
+  },
+  {
+    "id": 309,
+    "en1": "move up",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "tiến lên, thăng tiến"
+  },
+  {
+    "id": 308,
+    "en1": "lobby",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "hành lang, sảnh chờ"
   },
   {
     "id": 307,
-    "en1": "Opt",
-    "en2": "Option",
-    "en3": "Optimal",
+    "en1": "inconsiderately",
+    "en2": "",
+    "en3": "",
     "en4": "",
-    "vn1": "Chọn lựa,chọn"
+    "vn1": "thiếu thận trọng, thiếu suy nghĩ"
   },
   {
     "id": 306,
-    "en1": "Move up",
+    "en1": "hamper",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Tiến lên"
+    "vn1": "cản trở"
   },
   {
     "id": 305,
-    "en1": "Lobby",
+    "en1": "disruption",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Phòng ngoài, hành lang"
+    "vn1": "sự đập gãy, phá vỡ"
   },
   {
     "id": 304,
-    "en1": "Inconsiderate",
+    "en1": "conducive",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Thiếu quan tâm"
+    "vn1": "có ích, có lợi"
   },
   {
     "id": 303,
-    "en1": "Hamper",
+    "en1": "concentrate",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Cản trở"
+    "vn1": "tập trung"
   },
   {
     "id": 302,
-    "en1": "Disrupt",
-    "en2": "Disruption",
-    "en3": "Disruptive",
+    "en1": "collaboration",
+    "en2": "",
+    "en3": "",
     "en4": "",
-    "vn1": "Quấy rối, phá vỡ, Sự phá vỡ"
+    "vn1": "sự cộng tác, hợp tác"
   },
   {
     "id": 301,
-    "en1": "Conducive",
+    "en1": "adjacent",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Có ích, có lợi"
-  },
-  {
-    "id": 300,
-    "en1": "Concentrate",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Tập trung"
-  },
-  {
-    "id": 299,
-    "en1": "Collaboration",
-    "en2": "Collaborate",
-    "en3": "Collaboration",
-    "en4": "",
-    "vn1": "Sự cộng tác, Cộng tác"
-  },
-  {
-    "id": 298,
-    "en1": "Adjacent",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Kế liền, sát ngay"
+    "vn1": "kế bên, liền kề"
   }
 ]

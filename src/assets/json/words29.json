@@ -8,99 +8,99 @@
     "vn1": ""
   },
   {
-    "id": 344,
-    "en1": "Systematic",
+    "id": 348,
+    "en1": "systematic",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Có hệ thống"
+    "vn1": "có hệ thống, có phương pháp"
+  },
+  {
+    "id": 347,
+    "en1": "supervisor",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "người giám sát"
+  },
+  {
+    "id": 346,
+    "en1": "solve",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "giải quyết"
+  },
+  {
+    "id": 345,
+    "en1": "responsibility",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "trách nhiệm, bổn phận"
+  },
+  {
+    "id": 344,
+    "en1": "research",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "nghiên cứu"
   },
   {
     "id": 343,
-    "en1": "Supervisor",
+    "en1": "logical",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Người giám sát"
+    "vn1": "hợp logic, hợp lý"
   },
   {
     "id": 342,
-    "en1": "Solve",
+    "en1": "experiment",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Giải quyết"
+    "vn1": "làm thí nghiệm"
   },
   {
     "id": 341,
-    "en1": "Responsibility",
-    "en2": "Responsible",
-    "en3": "Responsibly",
+    "en1": "examine",
+    "en2": "",
+    "en3": "",
     "en4": "",
-    "vn1": "Trách nhiệm, Chịu trách nhiệm. Một cách có trách nhiệm"
+    "vn1": "khám xét, xem xét"
   },
   {
     "id": 340,
-    "en1": "Research",
+    "en1": "decade",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Nghiên cứu"
+    "vn1": "thập kỷ"
   },
   {
     "id": 339,
-    "en1": "Logical",
+    "en1": "assume",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Hợp logic, hợp lý"
+    "vn1": "giả sử, cho rằng"
   },
   {
     "id": 338,
-    "en1": "Experiment",
-    "en2": "Experimentation",
-    "en3": "Experimental",
+    "en1": "ascertain",
+    "en2": "",
+    "en3": "",
     "en4": "",
-    "vn1": "Làm thí nghiệm"
+    "vn1": "biết chắc, xác định rõ ràng"
   },
   {
     "id": 337,
-    "en1": "Examine",
+    "en1": "anxious",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Xem xét chi tiết"
-  },
-  {
-    "id": 336,
-    "en1": "Decade",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Thập kỷ"
-  },
-  {
-    "id": 335,
-    "en1": "Assume",
-    "en2": "Assumed",
-    "en3": "Assumption",
-    "en4": "",
-    "vn1": "Cho rằng, thừa nhận, Làm ra vẻ, giả bộ"
-  },
-  {
-    "id": 334,
-    "en1": "Ascertain",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Xác định"
-  },
-  {
-    "id": 333,
-    "en1": "Anxious",
-    "en2": "Anxiety",
-    "en3": "Anxiously",
-    "en4": "",
-    "vn1": "Lo âu, băn khoăn"
+    "vn1": "lo âu, băn khoăn"
   }
 ]

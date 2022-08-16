@@ -8,99 +8,99 @@
     "vn1": ""
   },
   {
-    "id": 356,
-    "en1": "Subject to",
+    "id": 360,
+    "en1": "subject to",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Tùy thuộc vào"
+    "vn1": "tùy theo, lệ thuộc vào"
+  },
+  {
+    "id": 359,
+    "en1": "option",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "sự chọn lựa"
+  },
+  {
+    "id": 358,
+    "en1": "occupy",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "sở hữu, chiếm hữu"
+  },
+  {
+    "id": 357,
+    "en1": "lock into",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "nhốt giam, ràng buộc chặt"
+  },
+  {
+    "id": 356,
+    "en1": "lease",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "cho thuê, hợp đồng cho thuê"
   },
   {
     "id": 355,
-    "en1": "Option",
+    "en1": "indicator",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Sự chọn lựa"
+    "vn1": "chỉ, chỉ thị"
   },
   {
     "id": 354,
-    "en1": "Occupancy",
+    "en1": "get out of",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Sự cư ngụ"
+    "vn1": "rời bỏ, thoát khỏi"
   },
   {
     "id": 353,
-    "en1": "Lock into",
+    "en1": "fluctuate",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "NO"
+    "vn1": "dao động, lên xuống"
   },
   {
     "id": 352,
-    "en1": "Lease",
+    "en1": "due to",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Hợp đồng cho thuê"
+    "vn1": "bởi vì"
   },
   {
     "id": 351,
-    "en1": "Indicator",
-    "en2": "Indicate",
-    "en3": "Indication",
+    "en1": "condition",
+    "en2": "",
+    "en3": "",
     "en4": "",
-    "vn1": "Chỉ, cho biết, ra dấu"
+    "vn1": "điều kiện, hoàn cảnh"
   },
   {
     "id": 350,
-    "en1": "Get out of",
+    "en1": "circumstance",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Rời khỏi"
+    "vn1": "hoàn cảnh, tình huống"
   },
   {
     "id": 349,
-    "en1": "Fluctuate",
-    "en2": "Fluctuation",
-    "en3": "Fluctuating",
-    "en4": "",
-    "vn1": "Biến động, thay đổi bất thường, Sự dao động"
-  },
-  {
-    "id": 348,
-    "en1": "Due to",
+    "en1": "apprehensive",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Bởi vì"
-  },
-  {
-    "id": 347,
-    "en1": "Condition",
-    "en2": "Conditional",
-    "en3": "Condition",
-    "en4": "",
-    "vn1": "Điều kiện, Có điều kiện"
-  },
-  {
-    "id": 346,
-    "en1": "Circumstance",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Hoàn cảnh, tình huống"
-  },
-  {
-    "id": 345,
-    "en1": "Apprehensive",
-    "en2": "Apprehend",
-    "en3": "Apprehension",
-    "en4": "",
-    "vn1": "Sợ hãi, e sợ"
+    "vn1": "sợ hãi, e sợ"
   }
 ]
