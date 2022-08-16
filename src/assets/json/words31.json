@@ -8,99 +8,99 @@
     "vn1": ""
   },
   {
-    "id": 368,
-    "en1": "Suggest",
-    "en2": "Suggestion",
-    "en3": "Suggestible",
+    "id": 372,
+    "en1": "suggestion",
+    "en2": "",
+    "en3": "",
     "en4": "",
-    "vn1": "Đề nghị, giới thiệu, Sự đề nghị"
+    "vn1": "đề nghị, sự gợi ý"
+  },
+  {
+    "id": 371,
+    "en1": "subjective",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "chủ quan"
+  },
+  {
+    "id": 370,
+    "en1": "secure",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "an toàn, an ninh"
+  },
+  {
+    "id": 369,
+    "en1": "rely",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "dựa vào, tin cậy vào"
+  },
+  {
+    "id": 368,
+    "en1": "mix",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "trộn, pha lẫn"
   },
   {
     "id": 367,
-    "en1": "Subjective",
+    "en1": "majority",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Chủ quan"
+    "vn1": "đa số, phần lớn"
   },
   {
     "id": 366,
-    "en1": "Secure",
+    "en1": "guide",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Chắc chắn, Tìm được, đạt được"
+    "vn1": "người hướng dẫn, người chỉ dẫn"
   },
   {
     "id": 365,
-    "en1": "Rely",
-    "en2": "Reliability",
-    "en3": "reliable",
+    "en1": "familiar",
+    "en2": "",
+    "en3": "",
     "en4": "",
-    "vn1": "Tin vào, dựa vào, Độ tin cậy."
+    "vn1": "quen, quen thuộc"
   },
   {
     "id": 364,
-    "en1": "Mix",
-    "en2": "Mixture",
-    "en3": "Mixable",
+    "en1": "daringly",
+    "en2": "",
+    "en3": "",
     "en4": "",
-    "vn1": "Trộn, pha lẫn"
+    "vn1": "táo bạo, cả gan"
   },
   {
     "id": 363,
-    "en1": "Majority",
+    "en1": "compromise",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Phần lớn, đa số"
+    "vn1": "sự thỏa hiệp"
   },
   {
     "id": 362,
-    "en1": "Guide",
-    "en2": "Guidance",
-    "en3": "Guidable",
+    "en1": "arrive",
+    "en2": "",
+    "en3": "",
     "en4": "",
-    "vn1": "Người chỉ dẫn Sự chỉ đạo, có thể chỉ dấn"
+    "vn1": "đến, đi đến"
   },
   {
     "id": 361,
-    "en1": "Familiar",
+    "en1": "appeal",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Quen thuộc, thường thấy"
-  },
-  {
-    "id": 360,
-    "en1": "Daring",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Táo bạo, cả gan"
-  },
-  {
-    "id": 359,
-    "en1": "Compromise",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Thỏa hiệp"
-  },
-  {
-    "id": 358,
-    "en1": "Arrive",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Tới (một nơi)"
-  },
-  {
-    "id": 357,
-    "en1": "Appeal",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Hấp dẫn"
+    "vn1": "hấp dẫn, lôi cuốn"
   }
 ]

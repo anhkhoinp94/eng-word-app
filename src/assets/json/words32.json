@@ -8,99 +8,99 @@
     "vn1": ""
   },
   {
-    "id": 380,
-    "en1": "Remind",
+    "id": 384,
+    "en1": "remind",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Nhắc nhở"
+    "vn1": "nhắc nhở"
+  },
+  {
+    "id": 383,
+    "en1": "randomly",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "ngẫu nhiên, tình cờ"
+  },
+  {
+    "id": 382,
+    "en1": "predict",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "dự đoán, dự báo"
+  },
+  {
+    "id": 381,
+    "en1": "patron",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "người bảo trợ, ông bầu"
+  },
+  {
+    "id": 380,
+    "en1": "mix-up",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "lộn xộn"
   },
   {
     "id": 379,
-    "en1": "Random",
+    "en1": "judge",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Ngẫu nhiên"
+    "vn1": "xét xử, phân xử"
   },
   {
     "id": 378,
-    "en1": "Predict",
-    "en2": "Prediction",
-    "en3": "Predictable",
+    "en1": "ingredient",
+    "en2": "",
+    "en3": "",
     "en4": "",
-    "vn1": "Dự đoán, Báo trước, nói trước"
+    "vn1": "thành phần"
   },
   {
     "id": 377,
-    "en1": "Patron",
+    "en1": "forget",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Người bảo trợ - bảo hộ, người khách quen"
+    "vn1": "quên"
   },
   {
     "id": 376,
-    "en1": "Mix-up",
+    "en1": "flavor",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Lộn xộn"
+    "vn1": "mùi vị, hương vị"
   },
   {
     "id": 375,
-    "en1": "Judge",
+    "en1": "excite",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Đánh giá"
+    "vn1": "kích động, khuấy động"
   },
   {
     "id": 374,
-    "en1": "Ingredient",
+    "en1": "complete",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Thành phần"
+    "vn1": "hoàn thành, đầy đủ"
   },
   {
     "id": 373,
-    "en1": "Forget",
-    "en2": "Forgetful",
-    "en3": "Forgettable",
-    "en4": "",
-    "vn1": "Quên, hay quên"
-  },
-  {
-    "id": 372,
-    "en1": "Flavor",
+    "en1": "basic",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Vị ngon, mùi vị"
-  },
-  {
-    "id": 371,
-    "en1": "Excite",
-    "en2": "Excitement",
-    "en3": "Exciting",
-    "en4": "",
-    "vn1": "Gây hứng thú, Sự phấn khích."
-  },
-  {
-    "id": 370,
-    "en1": "Complete",
-    "en2": "Completion",
-    "en3": "Completely",
-    "en4": "",
-    "vn1": "Đầy đủ, chọn vẹn, Làm cho đầy đủ"
-  },
-  {
-    "id": 369,
-    "en1": "Basic",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Cơ bản"
+    "vn1": "cơ bản"
   }
 ]
