@@ -8,91 +8,99 @@
     "vn1": ""
   },
   {
-    "id": 426,
-    "en1": "Valid",
-    "en2": "Validate",
-    "en3": "Validation",
+    "id": 432,
+    "en1": "valid",
+    "en2": "",
+    "en3": "",
     "en4": "",
-    "vn1": "Hợp lý, đúng đắn"
+    "vn1": "có giá trị, có hiệu lực"
+  },
+  {
+    "id": 431,
+    "en1": "prohibit",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "ngăn cấm, ngăn chặn"
+  },
+  {
+    "id": 430,
+    "en1": "itinerary",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "lịch trình"
+  },
+  {
+    "id": 429,
+    "en1": "embarkation",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "quá trình lên tàu, cho lên tàu"
+  },
+  {
+    "id": 428,
+    "en1": "depart",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "rời khỏi, khởi hành"
+  },
+  {
+    "id": 427,
+    "en1": "delay",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "chậm trễ, trì hoãn"
+  },
+  {
+    "id": 426,
+    "en1": "claim",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "nhận lại, lấy lại"
   },
   {
     "id": 425,
-    "en1": "Prohibit",
+    "en1": "board",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Ngăn chặn, cấm"
+    "vn1": "lên tàu"
   },
   {
     "id": 424,
-    "en1": "Itinerary",
+    "en1": "blanket",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Hành trình"
+    "vn1": "mền, chăn"
   },
   {
     "id": 423,
-    "en1": "Embark",
+    "en1": "beverage",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Tham gia, dấn mình vào"
+    "vn1": "đồ uống, thức uống"
   },
   {
     "id": 422,
-    "en1": "Delay",
+    "en1": "announcement",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Trù hoãn"
+    "vn1": "thông báo, công bố"
   },
   {
     "id": 421,
-    "en1": "Claim",
+    "en1": "agency",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Đòi"
-  },
-  {
-    "id": 420,
-    "en1": "Board",
-    "en2": "Onboard",
-    "en3": "",
-    "en4": "",
-    "vn1": "Lên tàu, Trên tàu"
-  },
-  {
-    "id": 419,
-    "en1": "Blanket",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Mền, chăn"
-  },
-  {
-    "id": 418,
-    "en1": "Beverage",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Nước giải khát"
-  },
-  {
-    "id": 417,
-    "en1": "Announcement",
-    "en2": "Announce",
-    "en3": "Announcer",
-    "en4": "",
-    "vn1": "Thông cáo, Loan báo"
-  },
-  {
-    "id": 416,
-    "en1": "Agency",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Đại lý"
+    "vn1": "đại lý"
   }
 ]

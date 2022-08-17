@@ -8,91 +8,99 @@
     "vn1": ""
   },
   {
-    "id": 437,
-    "en1": "Substantial",
-    "en2": "Substance",
-    "en3": "Substantially",
+    "id": 444,
+    "en1": "system",
+    "en2": "",
+    "en3": "",
     "en4": "",
-    "vn1": "Đáng kể, Thực chất, căn bản"
+    "vn1": "hệ thống"
+  },
+  {
+    "id": 443,
+    "en1": "substantially",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "đáng kể, về thực chất, về bản chất"
+  },
+  {
+    "id": 442,
+    "en1": "situation",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "tình huống, hoàn cảnh"
+  },
+  {
+    "id": 441,
+    "en1": "prospective",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "có triển vọng, tương lai"
+  },
+  {
+    "id": 440,
+    "en1": "extend",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "gia hạn, mở rộng"
+  },
+  {
+    "id": 439,
+    "en1": "expense",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "phí tốn, chi phí"
+  },
+  {
+    "id": 438,
+    "en1": "excursion",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "chuyến thăm quan"
+  },
+  {
+    "id": 437,
+    "en1": "equivalent",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "tương đương"
   },
   {
     "id": 436,
-    "en1": "Situation",
+    "en1": "economize",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Tình huống"
+    "vn1": "tiết kiệm"
   },
   {
     "id": 435,
-    "en1": "Prospective",
+    "en1": "distinguish",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Có triển vọng, về sau, sắp tới"
+    "vn1": "phân biệt, nhận biết"
   },
   {
     "id": 434,
-    "en1": "Extend",
+    "en1": "destination",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Gia hạn"
+    "vn1": "nơi đến"
   },
   {
     "id": 433,
-    "en1": "Expensive",
-    "en2": "Expense",
-    "en3": "Expensively",
-    "en4": "",
-    "vn1": "Đắt tiền, Vật đắt tiền"
-  },
-  {
-    "id": 432,
-    "en1": "Excursion",
+    "en1": "deal with",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Chuyến thăm quan"
-  },
-  {
-    "id": 431,
-    "en1": "Equivalent",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Tương đương, bằng nhau"
-  },
-  {
-    "id": 430,
-    "en1": "Economical",
-    "en2": "Economy",
-    "en3": "Economize",
-    "en4": "",
-    "vn1": "Tiết kiệm, Sự tiết kiệm"
-  },
-  {
-    "id": 429,
-    "en1": "Distinguish",
-    "en2": "Distinguishable",
-    "en3": "Distinguishably",
-    "en4": "",
-    "vn1": "Nhận ra, nhận biết"
-  },
-  {
-    "id": 428,
-    "en1": "Destination",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Nơi đến"
-  },
-  {
-    "id": 427,
-    "en1": "Deal with",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Đối phó với"
+    "vn1": "giải quyết, đối phó"
   }
 ]

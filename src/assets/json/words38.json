@@ -8,99 +8,99 @@
     "vn1": ""
   },
   {
-    "id": 449,
-    "en1": "Remote",
-    "en2": "Remoteness",
-    "en3": "Remotely",
+    "id": 456,
+    "en1": "remote",
+    "en2": "",
+    "en3": "",
     "en4": "",
-    "vn1": "Xa xôi, cách biệt"
+    "vn1": "xa xôi, cách biệt"
+  },
+  {
+    "id": 455,
+    "en1": "remainder",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "phần còn lại"
+  },
+  {
+    "id": 454,
+    "en1": "relatively",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "tương đối, vừa phải"
+  },
+  {
+    "id": 453,
+    "en1": "punctually",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "đúng giờ, không chậm trễ"
+  },
+  {
+    "id": 452,
+    "en1": "operate",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "hoạt động"
+  },
+  {
+    "id": 451,
+    "en1": "offset",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "đền bù, bù đắp"
+  },
+  {
+    "id": 450,
+    "en1": "fare",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "cước phí, tiền vé"
+  },
+  {
+    "id": 449,
+    "en1": "entitle",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "cho phép làm cái gì"
   },
   {
     "id": 448,
-    "en1": "Remainder",
+    "en1": "duration",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Phần còn lại"
+    "vn1": "khoảng thời gian"
   },
   {
     "id": 447,
-    "en1": "Relatively",
+    "en1": "directory",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Vừa phải, tương đối"
+    "vn1": "danh bạ, sách hướng dẫn"
   },
   {
     "id": 446,
-    "en1": "Punctual",
-    "en2": "Punctuality",
-    "en3": "Punctually",
+    "en1": "deluxe",
+    "en2": "",
+    "en3": "",
     "en4": "",
-    "vn1": "Đúng giờ, Tính đúng giờ"
+    "vn1": "xa xỉ, xa hoa, sang trọng"
   },
   {
     "id": 445,
-    "en1": "Operate",
-    "en2": "Operation",
-    "en3": "Operational",
-    "en4": "",
-    "vn1": "Hoạt động"
-  },
-  {
-    "id": 444,
-    "en1": "Offset",
+    "en1": "comprehensive",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Đền bù, bù đắp"
-  },
-  {
-    "id": 443,
-    "en1": "Fare",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Tiền xe, tiền vé"
-  },
-  {
-    "id": 442,
-    "en1": "Entitle",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Cho quyền(làm gì)"
-  },
-  {
-    "id": 441,
-    "en1": "Duration",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Khoảng thời gian mà một việc tồn tại"
-  },
-  {
-    "id": 440,
-    "en1": "Directory",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Danh mục"
-  },
-  {
-    "id": 439,
-    "en1": "Deluxe",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Sang trọng"
-  },
-  {
-    "id": 438,
-    "en1": "Comprehensive",
-    "en2": "Comprehensiveness",
-    "en3": "Comprehensively",
-    "en4": "",
-    "vn1": "Toàn diện"
+    "vn1": "toàn diện"
   }
 ]

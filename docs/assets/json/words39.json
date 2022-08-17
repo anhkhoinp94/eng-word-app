@@ -8,179 +8,99 @@
     "vn1": ""
   },
   {
-    "id": 471,
-    "en1": "",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Dãy, tầng, lớp"
-  },
-  {
-    "id": 470,
-    "en1": "Thrill",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Sợ hãi, xúc động"
-  },
-  {
-    "id": 469,
-    "en1": "Tempt",
-    "en2": "Temptation",
-    "en3": "Tempting",
-    "en4": "",
-    "vn1": "Cám dỗ, lôi cuốn"
-  },
-  {
     "id": 468,
-    "en1": "Optional",
+    "en1": "service",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Không bắt buộc"
+    "vn1": "dịch vụ"
   },
   {
     "id": 467,
-    "en1": "Nervous",
-    "en2": "Nervousness",
-    "en3": "Nervously",
+    "en1": "reservation",
+    "en2": "",
+    "en3": "",
     "en4": "",
-    "vn1": "Hay giận"
+    "vn1": "sự dành trước, sự đặt chổ trước"
   },
   {
     "id": 466,
-    "en1": "License",
+    "en1": "rate",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Giấy phép, đăng ký"
+    "vn1": "mức, giá"
   },
   {
     "id": 465,
-    "en1": "Intend",
-    "en2": "Intention",
-    "en3": "Intent",
+    "en1": "quote",
+    "en2": "",
+    "en3": "",
     "en4": "",
-    "vn1": "Định, dự định, Ý định, mục đích"
+    "vn1": "trích dẫn"
   },
   {
     "id": 464,
-    "en1": "Disappoint",
+    "en1": "preclude",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Làm thất vọng"
+    "vn1": "báo, thông báo"
   },
   {
     "id": 463,
-    "en1": "Contact",
+    "en1": "notify",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Liên lạc với ai"
+    "vn1": "báo, thông báo"
   },
   {
     "id": 462,
-    "en1": "Confusion",
+    "en1": "housekeeper",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Nhầm lẫn"
+    "vn1": "quản gia"
   },
   {
     "id": 461,
-    "en1": "Coincide",
-    "en2": "Coincidence",
-    "en3": "Coincidentally",
+    "en1": "expect",
+    "en2": "",
+    "en3": "",
     "en4": "",
-    "vn1": "Trùng hợp, Xảy ra đồng thời"
+    "vn1": "mong chờ, mong đợi"
   },
   {
     "id": 460,
-    "en1": "Reserve",
-    "en2": "Reservation",
+    "en1": "confirm",
+    "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Dự trữ"
+    "vn1": "xác nhận, chứng thực"
   },
   {
     "id": 459,
-    "en1": "Rate",
+    "en1": "check in",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Giá (cả)"
+    "vn1": "làm thủ tục đăng ký"
   },
   {
     "id": 458,
-    "en1": "Quote",
-    "en2": "Quotation",
-    "en3": "Quotable",
+    "en1": "chain",
+    "en2": "",
+    "en3": "",
     "en4": "",
-    "vn1": "Trích dẫn"
+    "vn1": "chuỗi"
   },
   {
     "id": 457,
-    "en1": "Preclude",
+    "en1": "advanced",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Phá tan, phòng ngừa"
-  },
-  {
-    "id": 456,
-    "en1": "Notify",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Thồng báo, cho biết"
-  },
-  {
-    "id": 455,
-    "en1": "Housekeeper",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Quản gia"
-  },
-  {
-    "id": 454,
-    "en1": "Expect",
-    "en2": "Expectation",
-    "en3": "Expectant",
-    "en4": "",
-    "vn1": "Chờ đợi"
-  },
-  {
-    "id": 453,
-    "en1": "Confirm",
-    "en2": "Confirmation",
-    "en3": "Confirmed",
-    "en4": "",
-    "vn1": "Xác nhận"
-  },
-  {
-    "id": 452,
-    "en1": "Check in",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Đăng ký vào"
-  },
-  {
-    "id": 451,
-    "en1": "Chain",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Chuỗi"
-  },
-  {
-    "id": 450,
-    "en1": "Advance",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Sự tiến lên, tiến bộ"
+    "vn1": "tiên tiến, tiến bộ"
   }
 ]
