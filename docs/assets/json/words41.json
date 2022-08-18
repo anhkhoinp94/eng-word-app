@@ -8,99 +8,99 @@
     "vn1": ""
   },
   {
-    "id": 483,
-    "en1": "Successive",
+    "id": 492,
+    "en1": "successive",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Nối tiếp, Lần lượt"
+    "vn1": "kế tiếp, liên tiếp"
+  },
+  {
+    "id": 491,
+    "en1": "separately",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "tách rời, riêng rẽ"
+  },
+  {
+    "id": 490,
+    "en1": "representation",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "đại diện - diễn tả"
+  },
+  {
+    "id": 489,
+    "en1": "release",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "công bố, phát hành"
+  },
+  {
+    "id": 488,
+    "en1": "range",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "phạm vi, lĩnh vực"
+  },
+  {
+    "id": 487,
+    "en1": "influence",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "ảnh hưởng, tác động"
+  },
+  {
+    "id": 486,
+    "en1": "entertainment",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "sự giải trí"
+  },
+  {
+    "id": 485,
+    "en1": "disperse",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "giải tán, phân tán"
+  },
+  {
+    "id": 484,
+    "en1": "description",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "sự mô tả"
+  },
+  {
+    "id": 483,
+    "en1": "continue",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "tiếp tục"
   },
   {
     "id": 482,
-    "en1": "Separate",
+    "en1": "combine",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Riêng biệt"
+    "vn1": "kết hợp, phối hợp"
   },
   {
     "id": 481,
-    "en1": "Represent",
+    "en1": "attainment",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Đóng, diễn (kịch)"
-  },
-  {
-    "id": 480,
-    "en1": "Release",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Phát hành"
-  },
-  {
-    "id": 479,
-    "en1": "Range",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Phạm vi, trình độ"
-  },
-  {
-    "id": 478,
-    "en1": "Influence",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Ảnh hưởng, tác động"
-  },
-  {
-    "id": 477,
-    "en1": "Entertainment",
-    "en2": "Entertain",
-    "en3": "Entertaining",
-    "en4": "",
-    "vn1": "Sự giải trí"
-  },
-  {
-    "id": 476,
-    "en1": "Disperse",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Phân tán"
-  },
-  {
-    "id": 475,
-    "en1": "Description",
-    "en2": "Describe",
-    "en3": "Descriptive",
-    "en4": "",
-    "vn1": "Sự mô tả"
-  },
-  {
-    "id": 474,
-    "en1": "Continue",
-    "en2": "Continuation",
-    "en3": "Continual",
-    "en4": "",
-    "vn1": "Tiếp tục"
-  },
-  {
-    "id": 473,
-    "en1": "Combine",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Kết hợp, phối hợp"
-  },
-  {
-    "id": 472,
-    "en1": "Attain",
-    "en2": "Attainment",
-    "en3": "Attainable",
-    "en4": "",
-    "vn1": "Giành được, đạt được"
+    "vn1": "giành được, đạt được"
   }
 ]

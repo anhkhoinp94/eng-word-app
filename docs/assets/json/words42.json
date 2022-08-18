@@ -8,99 +8,99 @@
     "vn1": ""
   },
   {
-    "id": 495,
-    "en1": "Sold out",
+    "id": 504,
+    "en1": "sold out",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Hết hàng"
+    "vn1": "hết hàng"
+  },
+  {
+    "id": 503,
+    "en1": "review",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "sự phê bình, lời phê bình"
+  },
+  {
+    "id": 502,
+    "en1": "rehearse",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "diễn tập, nhắc lại"
+  },
+  {
+    "id": 501,
+    "en1": "perform",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "thực hiện, thi hành"
+  },
+  {
+    "id": 500,
+    "en1": "occur",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "xảy ra, xảy đến"
+  },
+  {
+    "id": 499,
+    "en1": "experience",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "kinh nghiệm, từng trải"
+  },
+  {
+    "id": 498,
+    "en1": "element",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "yếu tố, nguyên tố"
+  },
+  {
+    "id": 497,
+    "en1": "dialogue",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "cuộc đối thoại, giai thoại"
+  },
+  {
+    "id": 496,
+    "en1": "creative",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "sáng tạo"
+  },
+  {
+    "id": 495,
+    "en1": "audience",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "khán giả"
   },
   {
     "id": 494,
-    "en1": "Review",
+    "en1": "approach",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Sự phê bình, lời phê bình"
+    "vn1": "tiến gần, tiếp cận"
   },
   {
     "id": 493,
-    "en1": "Rehearse",
+    "en1": "action",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Diễn tập"
-  },
-  {
-    "id": 492,
-    "en1": "Perform",
-    "en2": "Performance",
-    "en3": "Performer",
-    "en4": "",
-    "vn1": "Biểu diễn, trình diễn"
-  },
-  {
-    "id": 491,
-    "en1": "Occur",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Xảy ra, xuất hiện"
-  },
-  {
-    "id": 490,
-    "en1": "Experience",
-    "en2": "Experienced",
-    "en3": "",
-    "en4": "",
-    "vn1": "Kinh nghiệm, lão luyện"
-  },
-  {
-    "id": 489,
-    "en1": "Element",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Chi tiết"
-  },
-  {
-    "id": 488,
-    "en1": "Dialogue",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Hội thoại"
-  },
-  {
-    "id": 487,
-    "en1": "Create",
-    "en2": "Creation",
-    "en3": "Creative",
-    "en4": "",
-    "vn1": "Tạo ra, sáng tạo"
-  },
-  {
-    "id": 486,
-    "en1": "Audience",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Khán giả"
-  },
-  {
-    "id": 485,
-    "en1": "Approach",
-    "en2": "Approachable",
-    "en3": "",
-    "en4": "",
-    "vn1": "Đến gần, lại gần Có thể đến gần"
-  },
-  {
-    "id": 484,
-    "en1": "Acting",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Diễn xuất"
+    "vn1": "diễn biến của vở kịch"
   }
 ]

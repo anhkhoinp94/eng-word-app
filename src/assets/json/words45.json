@@ -8,91 +8,99 @@
     "vn1": ""
   },
   {
+    "id": 540,
+    "en1": "thorough",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "thấu đáo, triệt để, hoàn toàn"
+  },
+  {
+    "id": 539,
+    "en1": "subscribe",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "đặt mua, đăng ký"
+  },
+  {
+    "id": 538,
+    "en1": "link",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "nối, liên kết"
+  },
+  {
+    "id": 537,
+    "en1": "investigative",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "điều tra, nghiên cứu"
+  },
+  {
+    "id": 536,
+    "en1": "in-depth",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "tỉ mỉ, chu đáo, chi tiết"
+  },
+  {
+    "id": 535,
+    "en1": "impact",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "tác động mạnh, ảnh hưởng mạnh"
+  },
+  {
+    "id": 534,
+    "en1": "disseminate",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "truyền bá, phổ biến"
+  },
+  {
+    "id": 533,
+    "en1": "decision",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "sự quyết định"
+  },
+  {
+    "id": 532,
+    "en1": "constitute",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "tạo thành, thiết lập"
+  },
+  {
+    "id": 531,
+    "en1": "constantly",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "liên tục"
+  },
+  {
+    "id": 530,
+    "en1": "choose",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "lựa chọn"
+  },
+  {
     "id": 529,
-    "en1": "Thorough",
-    "en2": "Thoroughness",
-    "en3": "Thoroughly",
-    "en4": "",
-    "vn1": "Hoàn toàn, Kỹ lưỡng, Triệt để"
-  },
-  {
-    "id": 528,
-    "en1": "Subscribe",
-    "en2": "Subscription",
-    "en3": "Subscribers",
-    "en4": "",
-    "vn1": "Đặt mua, đăng ký"
-  },
-  {
-    "id": 527,
-    "en1": "Investigative",
-    "en2": "Investigation",
-    "en3": "Investigate",
-    "en4": "",
-    "vn1": "Điều tra"
-  },
-  {
-    "id": 526,
-    "en1": "In-depth",
+    "en1": "assignment",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Chuyên sâu"
-  },
-  {
-    "id": 525,
-    "en1": "Impact",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Sự tác động, va chạm"
-  },
-  {
-    "id": 524,
-    "en1": "Disseminate",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Phổ biến"
-  },
-  {
-    "id": 523,
-    "en1": "Decisive",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Quyết đoán"
-  },
-  {
-    "id": 522,
-    "en1": "Constitute",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Cấu tạo"
-  },
-  {
-    "id": 521,
-    "en1": "Constant",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Hằng số"
-  },
-  {
-    "id": 520,
-    "en1": "Choose",
-    "en2": "Choice",
-    "en3": "Choosy",
-    "en4": "",
-    "vn1": "Lựa chọn"
-  },
-  {
-    "id": 519,
-    "en1": "Assignment",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Nhiệm vụ, công việc"
+    "vn1": "nhiệm vụ, công việc"
   }
 ]

@@ -8,99 +8,99 @@
     "vn1": ""
   },
   {
-    "id": 507,
-    "en1": "Urge",
+    "id": 516,
+    "en1": "urge",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Thúc giục"
+    "vn1": "thúc giục"
+  },
+  {
+    "id": 515,
+    "en1": "taste",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "nếm, thưởng thức"
+  },
+  {
+    "id": 514,
+    "en1": "relaxation",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "sự, thư giãn, giải trí"
+  },
+  {
+    "id": 513,
+    "en1": "reason",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "lý do"
+  },
+  {
+    "id": 512,
+    "en1": "prefer",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "thích hơn, ưa hơn"
+  },
+  {
+    "id": 511,
+    "en1": "instinct",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "bản năng, năng khiếu"
+  },
+  {
+    "id": 510,
+    "en1": "favor",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "thiên vị, thích, thiện cảm"
+  },
+  {
+    "id": 509,
+    "en1": "divide",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "chia ra, phân chia"
+  },
+  {
+    "id": 508,
+    "en1": "disparate",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "khác nhau, khác loại"
+  },
+  {
+    "id": 507,
+    "en1": "category",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "hạng, loại"
   },
   {
     "id": 506,
-    "en1": "Taste",
+    "en1": "broaden",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Sự thưởng thức"
+    "vn1": "mở rộng, nới rộng"
   },
   {
     "id": 505,
-    "en1": "Relaxation",
-    "en2": "Relax",
-    "en3": "Relaxed",
-    "en4": "",
-    "vn1": "Nghỉ ngơi., thoải mái"
-  },
-  {
-    "id": 504,
-    "en1": "Reason",
+    "en1": "available",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Lý do"
-  },
-  {
-    "id": 503,
-    "en1": "Preference",
-    "en2": "Prefer",
-    "en3": "Preferential",
-    "en4": "",
-    "vn1": "Sở thích, Thích hơn, Ưu đãi"
-  },
-  {
-    "id": 502,
-    "en1": "Instinct",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Bản năng"
-  },
-  {
-    "id": 501,
-    "en1": "Favorite",
-    "en2": "Favorable",
-    "en3": "Favorably",
-    "en4": "",
-    "vn1": "Được yêu thích nhất"
-  },
-  {
-    "id": 500,
-    "en1": "Divide",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Chia, phân ra"
-  },
-  {
-    "id": 499,
-    "en1": "Disparate",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Khác nhau, Khác loại"
-  },
-  {
-    "id": 498,
-    "en1": "Category",
-    "en2": "Categorize",
-    "en3": "Categorical",
-    "en4": "",
-    "vn1": "Hạng, loại"
-  },
-  {
-    "id": 497,
-    "en1": "Broad",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Bao la, mênh mông"
-  },
-  {
-    "id": 496,
-    "en1": "Available",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Có sẵn, Sẵn sàng để dùng"
+    "vn1": "sẵn có, sẵn sàng"
   }
 ]

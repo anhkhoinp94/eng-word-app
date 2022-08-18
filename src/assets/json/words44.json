@@ -8,91 +8,99 @@
     "vn1": ""
   },
   {
-    "id": 518,
-    "en1": "Specialize",
-    "en2": "Specialist",
-    "en3": "Specialized",
+    "id": 528,
+    "en1": "spectrum",
+    "en2": "",
+    "en3": "",
     "en4": "",
-    "vn1": "Chuyên môn hóa, Chuyên gia, chuyên dụng"
+    "vn1": "quang phổ"
+  },
+  {
+    "id": 527,
+    "en1": "specialize",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "chuyên môn hóa"
+  },
+  {
+    "id": 526,
+    "en1": "significant",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "quan trọng, hệ trọng"
+  },
+  {
+    "id": 525,
+    "en1": "schedule",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "thời gian biểu, lịch trình"
+  },
+  {
+    "id": 524,
+    "en1": "respond",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "hồi âm, phúc đáp"
+  },
+  {
+    "id": 523,
+    "en1": "leisure",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "thời gian, nhàn rỗi, nhàn hạ"
+  },
+  {
+    "id": 522,
+    "en1": "fashion",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "thời trang"
+  },
+  {
+    "id": 521,
+    "en1": "express",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "bày tỏ/ nhanh"
+  },
+  {
+    "id": 520,
+    "en1": "criticism",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "lời phê bình"
+  },
+  {
+    "id": 519,
+    "en1": "collection",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "sưu tầm, thu thập"
+  },
+  {
+    "id": 518,
+    "en1": "admire",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "khâm phục, ngưỡng mộ"
   },
   {
     "id": 517,
-    "en1": "Significant",
+    "en1": "acquire",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Có ý nghĩa, quan trọng"
-  },
-  {
-    "id": 516,
-    "en1": "Schedule",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Kế hoạch làm việc"
-  },
-  {
-    "id": 515,
-    "en1": "Respond",
-    "en2": "Response",
-    "en3": "Responsive",
-    "en4": "",
-    "vn1": "Đáp lại, phản ứng lại"
-  },
-  {
-    "id": 514,
-    "en1": "Leisure",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Thời gian rỗi"
-  },
-  {
-    "id": 513,
-    "en1": "Fashion",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Thời trang"
-  },
-  {
-    "id": 512,
-    "en1": "Express",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Bày tỏ"
-  },
-  {
-    "id": 511,
-    "en1": "Criticism",
-    "en2": "Criticize",
-    "en3": "Critic",
-    "en4": "",
-    "vn1": "Lời phê bình"
-  },
-  {
-    "id": 510,
-    "en1": "Collection",
-    "en2": "Collect",
-    "en3": "Collector",
-    "en4": "",
-    "vn1": "Sưu tập"
-  },
-  {
-    "id": 509,
-    "en1": "Admire",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Khâm phục, hâm mộ"
-  },
-  {
-    "id": 508,
-    "en1": "Acquire",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Thu được, giành được"
+    "vn1": "đạt được, thu được"
   }
 ]

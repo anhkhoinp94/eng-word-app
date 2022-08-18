@@ -39,11 +39,11 @@ import wordList37 from '../assets/json/words37.json';
 import wordList38 from '../assets/json/words38.json';
 import wordList39 from '../assets/json/words39.json';
 import wordList40 from '../assets/json/words40.json';
-// import wordList41 from '../assets/json/words41.json';
-// import wordList42 from '../assets/json/words42.json';
-// import wordList43 from '../assets/json/words43.json';
-// import wordList44 from '../assets/json/words44.json';
-// import wordList45 from '../assets/json/words45.json';
+import wordList41 from '../assets/json/words41.json';
+import wordList42 from '../assets/json/words42.json';
+import wordList43 from '../assets/json/words43.json';
+import wordList44 from '../assets/json/words44.json';
+import wordList45 from '../assets/json/words45.json';
 // import wordList46 from '../assets/json/words46.json';
 // import wordList47 from '../assets/json/words47.json';
 // import wordList48 from '../assets/json/words48.json';
@@ -71,7 +71,7 @@ export class AppComponent {
   no = 1;
   min = 1;
   // max = 565;
-  max = 481;
+  max = 541;
   vnWord1 = '';
   vnWord2 = '';
   enWord1 = '';
@@ -92,7 +92,7 @@ export class AppComponent {
     this.voices = [];
     this.selectedRate = 1;
 
-    this.words = this.words.concat(wordList1, wordList2, wordList3, wordList4, wordList5, wordList6, wordList7, wordList8, wordList9, wordList10, wordList11, wordList12, wordList13, wordList14, wordList15, wordList16, wordList17, wordList18, wordList19, wordList20, wordList21, wordList22, wordList23, wordList24, wordList25, wordList26, wordList27, wordList28, wordList29, wordList30, wordList31, wordList32, wordList33, wordList34, wordList35, wordList36, wordList37, wordList38, wordList39, wordList40);
+    this.words = this.words.concat(wordList1, wordList2, wordList3, wordList4, wordList5, wordList6, wordList7, wordList8, wordList9, wordList10, wordList11, wordList12, wordList13, wordList14, wordList15, wordList16, wordList17, wordList18, wordList19, wordList20, wordList21, wordList22, wordList23, wordList24, wordList25, wordList26, wordList27, wordList28, wordList29, wordList30, wordList31, wordList32, wordList33, wordList34, wordList35, wordList36, wordList37, wordList38, wordList39, wordList40, wordList41, wordList42, wordList43, wordList44, wordList45);
     let id = this.getRandomArbitrary(this.min, this.max);
     let word = this.words.find((obj) => {
       return obj.id === id;
