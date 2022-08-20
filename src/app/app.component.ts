@@ -70,6 +70,7 @@ export class AppComponent {
   show = true;
   see = false;
   no = 1;
+  id = 1;
   min = 1;
   max = 603;
   vnWord1 = '';
@@ -93,10 +94,10 @@ export class AppComponent {
     this.selectedRate = 1;
 
     this.words = this.words.concat(wordList1, wordList2, wordList3, wordList4, wordList5, wordList6, wordList7, wordList8, wordList9, wordList10, wordList11, wordList12, wordList13, wordList14, wordList15, wordList16, wordList17, wordList18, wordList19, wordList20, wordList21, wordList22, wordList23, wordList24, wordList25, wordList26, wordList27, wordList28, wordList29, wordList30, wordList31, wordList32, wordList33, wordList34, wordList35, wordList36, wordList37, wordList38, wordList39, wordList40, wordList41, wordList42, wordList43, wordList44, wordList45, wordList46, wordList47, wordList48, wordList49, wordList50, others);
-    let id = this.getRandomArbitrary(this.min, this.max);
-    // let id = 1;
+    this.id = this.getRandomArbitrary(this.min, this.max);
+    // this.id = 1;
     let word = this.words.find((obj) => {
-      return obj.id === id;
+      return obj.id === this.id;
     });
     if (word) {
       this.vnWord1 = word.vn1;
@@ -122,9 +123,9 @@ export class AppComponent {
     this.no = this.no * -1;
     this.show = this.no > 0;
     this.see = !this.show;
-    let id = this.getRandomArbitrary(this.min, this.max)
+    this.id = this.getRandomArbitrary(this.min, this.max)
     let word = this.words.find((obj) => {
-      return obj.id === id;
+      return obj.id === this.id;
     });
     if (word) {
       this.vnWord1 = word.vn1;

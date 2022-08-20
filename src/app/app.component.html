@@ -1,6 +1,7 @@
 <div class="container mt-2">
-  <div class="container" style="min-height: 230px">
+  <div class="container" style="min-height: 200px">
     <div>{{ countSawWords }}</div>
+    <div>{{ id }}</div>
     <div *ngIf="see && !show">
       <div class="row" style="min-height: 80px">
         <h1 style="float: right; font-size: 40px; text-align: center">
@@ -32,7 +33,7 @@
   </div>
 
   <div class="row" style="min-height: 100px">
-    <div class="col-12" style="font-size: 20px; text-align: center">
+    <div class="col-12" style="font-size: 20px; text-align: center" *ngIf="canSpeak && see && show">
       {{ enWord2 }}
     </div>
   </div>
@@ -78,7 +79,7 @@
               float: right;
             "
             (click)="speakSentence()"
-            *ngIf="canSpeak"
+            *ngIf="canSpeak && see && show"
           >
             Sentence
           </button>
