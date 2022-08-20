@@ -8,124 +8,99 @@
     "vn1": ""
   },
   {
-    "id": 0,
-    "en1": "",
-    "en2": "",
+    "id": 600,
+    "en1": "volunteer",
+    "en2": "Several staff members volunteered for early retirement.",
     "en3": "",
     "en4": "",
-    "vn1": ""
+    "vn1": "người tình nguyện"
+  },
+  {
+    "id": 599,
+    "en1": "sense",
+    "en2": "I got the sense it would be better to get my prescription filled right away.",
+    "en3": "",
+    "en4": "",
+    "vn1": "khả năng phán đoán"
+  },
+  {
+    "id": 598,
+    "en1": "sample",
+    "en2": "A sample of the population taking the new medicine was surveyed to determine whether it caused side effects.",
+    "en3": "",
+    "en4": "",
+    "vn1": "mẫu, vật mẫu"
+  },
+  {
+    "id": 597,
+    "en1": "potential",
+    "en2": "To avoid any potential side effects from the medication, be sure to tell your doctor all the drugs you are currently taking.",
+    "en3": "",
+    "en4": "",
+    "vn1": "tiềm năng, tiềm tàng"
+  },
+  {
+    "id": 596,
+    "en1": "monitor",
+    "en2": "The patient had weekly appointments so that the doctor could monitor their progress.",
+    "en3": "",
+    "en4": "",
+    "vn1": "màn hình vi tính"
+  },
+  {
+    "id": 595,
+    "en1": "limit",
+    "en2": "We were reaching the limits of civilization.",
+    "en3": "",
+    "en4": "",
+    "vn1": "giới hạn"
+  },
+  {
+    "id": 594,
+    "en1": "interaction",
+    "en2": "My pharmacist was concerned about the interaction of the two medications I was prescribed.",
+    "en3": "",
+    "en4": "",
+    "vn1": "sự tương tác, ảnh hưởng lẫn nhau"
+  },
+  {
+    "id": 593,
+    "en1": "factor",
+    "en2": "Could my cat be a factor contributing to my asthma?",
+    "en3": "",
+    "en4": "",
+    "vn1": "nhân tố"
+  },
+  {
+    "id": 592,
+    "en1": "detect",
+    "en2": "The tests are designed to detect the disease early.",
+    "en3": "",
+    "en4": "",
+    "vn1": "dò ra, tìm ra, khám phá ra"
   },
   {
     "id": 591,
-    "en1": "conference",
-    "en2": "",
+    "en1": "convenient",
+    "en2": "Is this a convenient location for you to pick up your prescription?",
     "en3": "",
     "en4": "",
-    "vn1": "hội nghị"
+    "vn1": "tiện lợi, thuận tiện"
   },
   {
     "id": 590,
-    "en1": "warranty",
-    "en2": "",
+    "en1": "control",
+    "en2": "Please take your medication every day to control your high blood pressure",
     "en3": "",
     "en4": "",
-    "vn1": "sự bảo đảm"
+    "vn1": "điều khiển, kiểm soát"
   },
-
   {
     "id": 589,
-    "en1": "Volunteer",
-    "en2": "Volunteerism",
-    "en3": "Voluntary",
-    "en4": "",
-    "vn1": "Người tình nguyện"
-  },
-  {
-    "id": 588,
-    "en1": "Sense",
-    "en2": "",
+    "en1": "consult",
+    "en2": "If the pain continues, consult your doctor.",
     "en3": "",
     "en4": "",
-    "vn1": "Khả năng phán đoán"
-  },
-  {
-    "id": 587,
-    "en1": "Sample",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Mẫu, vật mẫu"
-  },
-  {
-    "id": 586,
-    "en1": "Potential",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Tiềm năng, tiềm tàng"
-  },
-  {
-    "id": 585,
-    "en1": "Monitor",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Theo dõi ,nắm được"
-  },
-  {
-    "id": 584,
-    "en1": "Limit",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Giới hạn"
-  },
-  {
-    "id": 583,
-    "en1": "Interaction",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Sự ản hưởng lẫn nhau"
-  },
-  {
-    "id": 582,
-    "en1": "Factor",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Nhân tố"
-  },
-  {
-    "id": 581,
-    "en1": "Detect",
-    "en2": "Detection",
-    "en3": "Detectable",
-    "en4": "",
-    "vn1": "Phát hiện ra, không phá ra"
-  },
-  {
-    "id": 580,
-    "en1": "Convenient",
-    "en2": "Convenience",
-    "en3": "Conveniently",
-    "en4": "",
-    "vn1": "Tiện lợi thuận tiện"
-  },
-  {
-    "id": 579,
-    "en1": "Control",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Điều khiển"
-  },
-  {
-    "id": 578,
-    "en1": "Consult",
-    "en2": "Consultation",
-    "en3": "Consultative",
-    "en4": "",
-    "vn1": "Hỏi ý kiến, tham khảo"
+    "vn1": "hỏi ý kiến, tham khảo"
   }
 ]

@@ -8,99 +8,99 @@
     "vn1": ""
   },
   {
+    "id": 552,
+    "en1": "serious",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "nghiêm trọng, trầm trọng"
+  },
+  {
+    "id": 551,
+    "en1": "refer",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "ám chỉ, nói đến"
+  },
+  {
+    "id": 550,
+    "en1": "record",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "hồ sơ, sổ sách"
+  },
+  {
+    "id": 549,
+    "en1": "recommendation",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "sự giới thiệu, tiến cử"
+  },
+  {
+    "id": 548,
+    "en1": "prevent",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "ngăn ngừa, ngăn chặn"
+  },
+  {
+    "id": 547,
+    "en1": "manage",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "tìm cách xoay sở"
+  },
+  {
+    "id": 546,
+    "en1": "instrument",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "dụng cụ, công cụ, nhạc cụ"
+  },
+  {
+    "id": 545,
+    "en1": "effective",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "có hiệu quả"
+  },
+  {
+    "id": 544,
+    "en1": "diagnose",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "chẩn đoán"
+  },
+  {
+    "id": 543,
+    "en1": "assess",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "đánh giá, ước lượng"
+  },
+  {
+    "id": 542,
+    "en1": "appointment",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "cuộc hẹn"
+  },
+  {
     "id": 541,
-    "en1": "Serious",
+    "en1": "annually",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Nghiêm trọng"
-  },
-  {
-    "id": 540,
-    "en1": "Refer",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Tham khảo, xem"
-  },
-  {
-    "id": 539,
-    "en1": "Record",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Ghi lại"
-  },
-  {
-    "id": 538,
-    "en1": "Recommend",
-    "en2": "Recommendation",
-    "en3": "Recommendable",
-    "en4": "",
-    "vn1": "Đề nghị, giới thiệu"
-  },
-  {
-    "id": 537,
-    "en1": "Prevent",
-    "en2": "Prevention",
-    "en3": "Preventive",
-    "en4": "",
-    "vn1": "Tránh, ngăn chặn"
-  },
-  {
-    "id": 536,
-    "en1": "Manage",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Tìm cách xoay sở"
-  },
-  {
-    "id": 535,
-    "en1": "Instrument",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Dụng cụ, công cụ"
-  },
-  {
-    "id": 534,
-    "en1": "Effective",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Có hiệu quả"
-  },
-  {
-    "id": 533,
-    "en1": "Diagnose",
-    "en2": "Diagnosis",
-    "en3": "Diagnostic",
-    "en4": "",
-    "vn1": "Chẩn đoán"
-  },
-  {
-    "id": 532,
-    "en1": "Assess",
-    "en2": "Assessment",
-    "en3": "Assessable",
-    "en4": "",
-    "vn1": "Ứớc định, định giá"
-  },
-  {
-    "id": 531,
-    "en1": "Appointment",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Cuộc hẹn"
-  },
-  {
-    "id": 530,
-    "en1": "Annual",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Xảy ra hàng năm"
+    "vn1": "hàng năm"
   }
 ]

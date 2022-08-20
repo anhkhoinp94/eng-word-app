@@ -8,99 +8,99 @@
     "vn1": ""
   },
   {
+    "id": 588,
+    "en1": "usually",
+    "en2": "I'm usually home by 6 o'clock.",
+    "en3": "",
+    "en4": "",
+    "vn1": "thông thường, thường lệ"
+  },
+  {
+    "id": 587,
+    "en1": "statement",
+    "en2": "My bank sends me monthly statement.",
+    "en3": "",
+    "en4": "",
+    "vn1": "sự trình bày, sự phát biểu"
+  },
+  {
+    "id": 586,
+    "en1": "result",
+    "en2": "The scientific results prove that the new prodedure is not significantly safer than the traditional one.",
+    "en3": "",
+    "en4": "",
+    "vn1": "kết quả"
+  },
+  {
+    "id": 585,
+    "en1": "procedure",
+    "en2": "Call the hospital to schedule this procedure for tomorrow.",
+    "en3": "",
+    "en4": "",
+    "vn1": "thủ tục"
+  },
+  {
+    "id": 584,
+    "en1": "pertinent",
+    "en2": "He should speak a pertinent problem.",
+    "en3": "",
+    "en4": "",
+    "vn1": "thích đáng, thích hợp"
+  },
+  {
+    "id": 583,
+    "en1": "permit",
+    "en2": "Smoking is not permitted anywhere inside the hospital.",
+    "en3": "",
+    "en4": "",
+    "vn1": "cho phép"
+  },
+  {
+    "id": 582,
+    "en1": "mission",
+    "en2": "The nurse explained that the mission of everyone in the unit was to make sure the patients got well as soon as possible.",
+    "en3": "",
+    "en4": "",
+    "vn1": "sứ mệnh, nhiệm vụ"
+  },
+  {
+    "id": 581,
+    "en1": "identify",
+    "en2": "The tiny bracelets identified each baby in the nursery.",
+    "en3": "",
+    "en4": "",
+    "vn1": "nhận dạng, nhận biết"
+  },
+  {
+    "id": 580,
+    "en1": "escort",
+    "en2": "You cannot leave the unit on your own, you'll have to wait for an escort.",
+    "en3": "",
+    "en4": "",
+    "vn1": "vệ sĩ, đội hộ tống"
+  },
+  {
+    "id": 579,
+    "en1": "designate",
+    "en2": "This floor has been designated a no-smoking area.",
+    "en3": "",
+    "en4": "",
+    "vn1": "chỉ rõ, định rõ"
+  },
+  {
+    "id": 578,
+    "en1": "authorize",
+    "en2": "We cannot share the test results with you until we have been authorized to do so by your doctor.",
+    "en3": "",
+    "en4": "",
+    "vn1": "ủy quyền, cho phép"
+  },
+  {
     "id": 577,
-    "en1": "Usual",
-    "en2": "",
+    "en1": "admit",
+    "en2": "The injured patient was admitted to the unit directly from the emergency room.",
     "en3": "",
     "en4": "",
-    "vn1": "Bình thường"
-  },
-  {
-    "id": 576,
-    "en1": "Statement",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Sự trình bày, Bản tường trình"
-  },
-  {
-    "id": 575,
-    "en1": "Result",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Kết quả"
-  },
-  {
-    "id": 574,
-    "en1": "Procedure",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Thủ tục"
-  },
-  {
-    "id": 573,
-    "en1": "Pertinent",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Thích đáng thích hợp"
-  },
-  {
-    "id": 572,
-    "en1": "Permit",
-    "en2": "Permissible",
-    "en3": "Permission",
-    "en4": "",
-    "vn1": "Cho phép"
-  },
-  {
-    "id": 571,
-    "en1": "Missing",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Mất tích, vắng mặt"
-  },
-  {
-    "id": 570,
-    "en1": "Identify",
-    "en2": "Identifiable",
-    "en3": "Identification",
-    "en4": "",
-    "vn1": "Nhận dạng, nhận biết"
-  },
-  {
-    "id": 569,
-    "en1": "Escort",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Vệ sĩ, đội hộ tống"
-  },
-  {
-    "id": 568,
-    "en1": "Designate",
-    "en2": "Designation",
-    "en3": "Designator",
-    "en4": "",
-    "vn1": "Được chỉ định"
-  },
-  {
-    "id": 567,
-    "en1": "Authorization",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Sự cấp, cho phép"
-  },
-  {
-    "id": 566,
-    "en1": "Admit",
-    "en2": "Admittance",
-    "en3": "Admission",
-    "en4": "",
-    "vn1": "Chấp nhận"
+    "vn1": "thú nhận, thừa nhận"
   }
 ]

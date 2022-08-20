@@ -8,99 +8,99 @@
     "vn1": ""
   },
   {
+    "id": 564,
+    "en1": "restore",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "phục hồi, khôi phục"
+  },
+  {
+    "id": 563,
+    "en1": "regularly",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "thường xuyên"
+  },
+  {
+    "id": 562,
+    "en1": "position",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "chức vụ"
+  },
+  {
+    "id": 561,
+    "en1": "overview",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "tổng quan"
+  },
+  {
+    "id": 560,
+    "en1": "irritate",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "làm phát cáu, trọc tức"
+  },
+  {
+    "id": 559,
+    "en1": "illuminate",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "chiếu sáng, làm sáng tỏ"
+  },
+  {
+    "id": 558,
+    "en1": "habit",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "thói quen, tập quán"
+  },
+  {
+    "id": 557,
+    "en1": "evident",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "hiển nhiên, rõ ràng"
+  },
+  {
+    "id": 556,
+    "en1": "encouragement",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "khuyến khích, động viên"
+  },
+  {
+    "id": 555,
+    "en1": "distraction",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "sự sao nhãng, đãng trí"
+  },
+  {
+    "id": 554,
+    "en1": "catch up",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "bắt kịp, làm kịp"
+  },
+  {
     "id": 553,
-    "en1": "Restore",
+    "en1": "aware",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "Khôi phục"
-  },
-  {
-    "id": 552,
-    "en1": "Regularly",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Thường xuyên"
-  },
-  {
-    "id": 551,
-    "en1": "Position",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Chức vụ"
-  },
-  {
-    "id": 550,
-    "en1": "Overview",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Tổng quan"
-  },
-  {
-    "id": 549,
-    "en1": "Irritate",
-    "en2": "Irritation",
-    "en3": "Irritable",
-    "en4": "",
-    "vn1": "Làm phát cáu, trọc tức"
-  },
-  {
-    "id": 548,
-    "en1": "Illuminate",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Chiếu sáng, làm sáng tỏ"
-  },
-  {
-    "id": 547,
-    "en1": "Habit",
-    "en2": "Habitual",
-    "en3": "Habitually",
-    "en4": "",
-    "vn1": "Thói quen, tập quán"
-  },
-  {
-    "id": 546,
-    "en1": "Evident",
-    "en2": "Evidence",
-    "en3": "Evidently",
-    "en4": "",
-    "vn1": "Hiển nhiên, rõ ràng"
-  },
-  {
-    "id": 545,
-    "en1": "Encouragement",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Khuyến khích, động viên"
-  },
-  {
-    "id": 544,
-    "en1": "Distraction",
-    "en2": "Distract",
-    "en3": "Distracted",
-    "en4": "",
-    "vn1": "Sự sao nhãng, đãng trí"
-  },
-  {
-    "id": 543,
-    "en1": "Catch up",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Bắt kịp"
-  },
-  {
-    "id": 542,
-    "en1": "Aware",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "Nhận thức"
+    "vn1": "biết, nhận thức"
   }
 ]
