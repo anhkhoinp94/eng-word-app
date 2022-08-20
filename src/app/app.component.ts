@@ -94,6 +94,7 @@ export class AppComponent {
 
     this.words = this.words.concat(wordList1, wordList2, wordList3, wordList4, wordList5, wordList6, wordList7, wordList8, wordList9, wordList10, wordList11, wordList12, wordList13, wordList14, wordList15, wordList16, wordList17, wordList18, wordList19, wordList20, wordList21, wordList22, wordList23, wordList24, wordList25, wordList26, wordList27, wordList28, wordList29, wordList30, wordList31, wordList32, wordList33, wordList34, wordList35, wordList36, wordList37, wordList38, wordList39, wordList40, wordList41, wordList42, wordList43, wordList44, wordList45, wordList46, wordList47, wordList48, wordList49, wordList50, others);
     let id = this.getRandomArbitrary(this.min, this.max);
+    // let id = 1;
     let word = this.words.find((obj) => {
       return obj.id === id;
     });
@@ -138,22 +139,17 @@ export class AppComponent {
     return Math.floor(Math.random() * (max - min) + min);
   }
 
-  copyMessage() {
-    const selBox = document.createElement('textarea');
-    selBox.style.position = 'fixed';
-    selBox.style.left = '0';
-    selBox.style.top = '0';
-    selBox.style.opacity = '0';
-    selBox.value = this.enWord1;
-    document.body.appendChild(selBox);
-    selBox.focus();
-    selBox.select();
-    document.execCommand('copy');
-    document.body.removeChild(selBox);
-  }
+
 
   speakMessage() {
     var utterance = new SpeechSynthesisUtterance(this.enWord1);
+    utterance.voice = this.selectedVoice;
+    utterance.rate = this.selectedRate;
+    speechSynthesis.speak(utterance);
+  }
+
+  speakSentence() {
+    var utterance = new SpeechSynthesisUtterance(this.enWord2);
     utterance.voice = this.selectedVoice;
     utterance.rate = this.selectedRate;
     speechSynthesis.speak(utterance);
