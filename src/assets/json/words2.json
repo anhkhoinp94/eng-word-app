@@ -2,7 +2,7 @@
   {
     "id": 24,
     "en1": "satisfaction",
-    "en2": "",
+    "en2": "How would you rate your job satisfaction?",
     "en3": "",
     "en4": "",
     "vn1": "sự thỏa mãn, sự hài lòng"
@@ -10,7 +10,7 @@
   {
     "id": 23,
     "en1": "productive",
-    "en2": "",
+    "en2": "Training makes workers highly productive.",
     "en3": "",
     "en4": "",
     "vn1": "có hiệu quả"
@@ -18,7 +18,7 @@
   {
     "id": 22,
     "en1": "persuasion",
-    "en2": "",
+    "en2": "I had to use a little gentle persuasion to get her to agree.",
     "en3": "",
     "en4": "",
     "vn1": "sự thuyết phục"
