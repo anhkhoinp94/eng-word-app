@@ -70,5 +70,21 @@
     "en3": "",
     "en4": "",
     "vn1": "Tuân thủ"
+  },
+  {
+    "id": 9,
+    "en1": "Conduct",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Chỉ đạo"
+  },
+  {
+    "id": 10,
+    "en1": "Penetration testing",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Kiểm tra xâm nhập"
   }
 ]
