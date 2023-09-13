@@ -102,5 +102,29 @@
     "en3": "",
     "en4": "",
     "vn1": "Bao gồm"
+  },
+  {
+    "id": 13,
+    "en1": "Threshold",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Ngưỡng"
+  },
+  {
+    "id": 14,
+    "en1": "Vulnerable",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Dễ bị tổn thương"
+  },
+  {
+    "id": 15,
+    "en1": "Isolation",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Sự cách ly"
   }
 ]
