@@ -126,5 +126,45 @@
     "en3": "",
     "en4": "",
     "vn1": "Sự cách ly"
+  },
+  {
+    "id": 16,
+    "en1": "Permissive",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Dễ dãi"
+  },
+  {
+    "id": 17,
+    "en1": "Simplify",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Đơn giản hóa"
+  },
+  {
+    "id": 18,
+    "en1": "Fault tolerance",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Khả năng chịu lỗi"
+  },
+  {
+    "id": 19,
+    "en1": "Underlying",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Cơ bản"
+  },
+  {
+    "id": 20,
+    "en1": "Eager",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Háo hức"
   }
 ]
