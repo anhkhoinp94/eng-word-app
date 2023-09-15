@@ -278,5 +278,37 @@
     "en3": "",
     "en4": "",
     "vn1": "Nghĩa vụ"
+  },
+  {
+    "id": 35,
+    "en1": "Restrict",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Hạn chế"
+  },
+  {
+    "id": 36,
+    "en1": "Utilize",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Sử dụng"
+  },
+  {
+    "id": 37,
+    "en1": "Audit",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Kiểm tra, kiểm toán"
+  },
+  {
+    "id": 38,
+    "en1": "Provision",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Cung cấp"
   }
 ]
