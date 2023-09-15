@@ -310,5 +310,29 @@
     "en3": "",
     "en4": "",
     "vn1": "Cung cấp"
+  },
+  {
+    "id": 39,
+    "en1": "Assume",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Giả định"
+  },
+  {
+    "id": 40,
+    "en1": "Resilience",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Khả năng phục hồi"
+  },
+  {
+    "id": 41,
+    "en1": "Mitigate",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Giảm nhẹ"
   }
 ]
