@@ -198,5 +198,45 @@
     "en3": "",
     "en4": "",
     "vn1": "Dư thừa"
+  },
+  {
+    "id": 25,
+    "en1": "Disruption",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Gián đoạn"
+  },
+  {
+    "id": 26,
+    "en1": "Reliability",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Độ tin cậy"
+  },
+  {
+    "id": 27,
+    "en1": "Solely",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Cô độc"
+  },
+  {
+    "id": 28,
+    "en1": "Duty",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Nhiệm vụ"
+  },
+  {
+    "id": 29,
+    "en1": "Concierge",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Hướng dẫn viên"
   }
 ]
