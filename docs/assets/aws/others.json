@@ -238,5 +238,37 @@
     "en3": "",
     "en4": "",
     "vn1": "Hướng dẫn viên"
+  },
+  {
+    "id": 30,
+    "en1": "Unified",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Thống nhât"
+  },
+  {
+    "id": 31,
+    "en1": "Agility",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Sự nhanh nhẹn"
+  },
+  {
+    "id": 32,
+    "en1": "Rotate",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Quay, thay phiên"
+  },
+  {
+    "id": 33,
+    "en1": "Tier",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "Tầng"
   }
 ]
