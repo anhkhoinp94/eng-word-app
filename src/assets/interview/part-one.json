@@ -1,0 +1,18 @@
+[
+  {
+    "id": 0,
+    "en1": "",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": ""
+  },
+  {
+    "id": 1,
+    "en1": "What's a Go slice, and how is it not the same as an array?",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "A Go slice is like a list of things you can easily change, like adding or taking away items. It's like having a rubber band that can stretch or shrink. An array is more like a box where you decide how many things can fit, and that number doesn't change. Slices are for when you want a list that can grow or get smaller, and arrays are for when you want a fixed-size list."
+  }
+]
