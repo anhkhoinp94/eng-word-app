@@ -75,7 +75,7 @@ export class AppComponent {
   id = 1;
   min = 1;
   // max = 603;
-  max = 44;
+  max = 1;
   vnWord1 = '';
   vnWord2 = '';
   enWord1 = '';
@@ -152,7 +152,7 @@ export class AppComponent {
   }
 
   speakSentence() {
-    var utterance = new SpeechSynthesisUtterance(this.enWord2);
+    var utterance = new SpeechSynthesisUtterance(this.vnWord1);
     utterance.voice = this.selectedVoice;
     utterance.rate = this.selectedRate;
     speechSynthesis.speak(utterance);
