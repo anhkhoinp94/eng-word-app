@@ -22,5 +22,13 @@
     "en3": "",
     "en4": "",
     "vn1": "In Go, a Goroutine is like a small worker that can do different jobs at the same time. It's useful to make your program run fast and smoothly because it can handle many tasks without slowing down. So, think of Goroutines as your program's helpful assistants for getting things done quickly."
+  },
+  {
+    "id": 3,
+    "en1": "How does error handling work in Go, and why is it important?",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "In Go, we handle errors by using \"if\" statements to check if something went wrong. It's vital because it helps us write reliable programs. When something unexpected happens, like a file not found or a network problem, we can deal with it and keep the program running smoothly."
   }
 ]
