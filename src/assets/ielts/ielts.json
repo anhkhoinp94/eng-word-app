@@ -1,27 +1,19 @@
 [
   {
-    "id": 0,
-    "en1": "",
+    "id": 5,
+    "en1": "magnetism",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": ""
+    "vn1": "từ tính"
   },
   {
-    "id": 1,
-    "en1": "aggressive",
+    "id": 4,
+    "en1": "transmutation",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "hung hăng, quyết liệt"
-  },
-  {
-    "id": 2,
-    "en1": "argue",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "tranh luận"
+    "vn1": "sự chuyển hóa"
   },
   {
     "id": 3,
@@ -32,11 +24,27 @@
     "vn1": "kháng cự, chống lại"
   },
   {
-    "id": 4,
-    "en1": "transmutation",
+    "id": 2,
+    "en1": "argue",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "sự chuyển hóa"
+    "vn1": "tranh luận"
+  },
+  {
+    "id": 1,
+    "en1": "aggressive",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "hung hăng, quyết liệt"
+  },
+  {
+    "id": 0,
+    "en1": "",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": ""
   }
 ]
