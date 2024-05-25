@@ -1,5 +1,29 @@
 [
   {
+    "id": 24,
+    "en1": "deductive",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "suy diễn"
+  },
+  {
+    "id": 23,
+    "en1": "deduct",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "phép trừ"
+  },
+  {
+    "id": 22,
+    "en1": "in fashion",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "phổ biến"
+  },
+  {
     "id": 21,
     "en1": "speculate",
     "en2": "",
