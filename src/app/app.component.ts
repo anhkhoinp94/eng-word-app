@@ -90,7 +90,7 @@ export class AppComponent {
   selectedVoice: SpeechSynthesisVoice | null;
   voices: SpeechSynthesisVoice[];
   selectedRate: number = 1;
-  canSpeak: boolean = false;
+  canSpeak: boolean = true;
 
   constructor() {
     this.selectedVoice = null;
