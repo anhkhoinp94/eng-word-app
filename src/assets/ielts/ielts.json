@@ -1,5 +1,109 @@
 [
   {
+    "id": 45,
+    "en1": "obstacle",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "trở ngại"
+  },
+  {
+    "id": 44,
+    "en1": "vibrate",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "rung động"
+  },
+  {
+    "id": 43,
+    "en1": "grateful",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "biết ơn"
+  },
+  {
+    "id": 42,
+    "en1": "pursue",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "theo đuổi"
+  },
+  {
+    "id": 41,
+    "en1": "embrace",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "ôm lấy"
+  },
+  {
+    "id": 40,
+    "en1": "abundance",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "sự phong phú"
+  },
+  {
+    "id": 39,
+    "en1": "wealth",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "sự giàu có"
+  },
+  {
+    "id": 38,
+    "en1": "constantly",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "liên tục"
+  },
+  {
+    "id": 37,
+    "en1": "be aware of",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "nhận thức được"
+  },
+  {
+    "id": 36,
+    "en1": "discipline",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "sự kỉ luật"
+  },
+  {
+    "id": 35,
+    "en1": "deeds and thoughts",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "suy nghĩ và hành động"
+  },
+  {
+    "id": 34,
+    "en1": "harmony",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "sự hòa hợp"
+  },
+  {
+    "id": 33,
+    "en1": "integrity",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "sự chính trực"
+  },
+  {
     "id": 32,
     "en1": "outgoing",
     "en2": "",
