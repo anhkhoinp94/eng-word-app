@@ -1,5 +1,53 @@
 [
   {
+    "id": 32,
+    "en1": "outgoing",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "hòa đồng"
+  },
+  {
+    "id": 31,
+    "en1": "bold",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "dũng cảm"
+  },
+  {
+    "id": 30,
+    "en1": "exude",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "toát ra"
+  },
+  {
+    "id": 29,
+    "en1": "anxiety",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "sự lo lắng"
+  },
+  {
+    "id": 28,
+    "en1": "frustration",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "sự thất vọng"
+  },
+  {
+    "id": 27,
+    "en1": "courageous",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "can đảm"
+  },
+  {
     "id": 26,
     "en1": "ancestor",
     "en2": "",
