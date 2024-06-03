@@ -1,5 +1,165 @@
 [
   {
+    "id": 65,
+    "en1": "propose",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "đề xuất"
+  },
+  {
+    "id": 64,
+    "en1": "steer",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "lái, điều khiển"
+  },
+  {
+    "id": 63,
+    "en1": "nautical miles",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "hải lý"
+  },
+  {
+    "id": 62,
+    "en1": "banish",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "loại bỏ"
+  },
+  {
+    "id": 61,
+    "en1": "voyage",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "cuộc hành trình"
+  },
+  {
+    "id": 60,
+    "en1": "yacht",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "thuyền buồm"
+  },
+  {
+    "id": 59,
+    "en1": "missionary",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "người truyền giáo"
+  },
+  {
+    "id": 58,
+    "en1": "observer",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "người quan sát"
+  },
+  {
+    "id": 57,
+    "en1": "narrative",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "bản tường thuật"
+  },
+  {
+    "id": 56,
+    "en1": "denigrate",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "coi thường"
+  },
+  {
+    "id": 55,
+    "en1": "assessment",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "sự đánh giá"
+  },
+  {
+    "id": 54,
+    "en1": "deserve",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "xứng đáng"
+  },
+  {
+    "id": 53,
+    "en1": "good fortune",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "may mắn"
+  },
+  {
+    "id": 52,
+    "en1": "settlement",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "sự định cư"
+  },
+  {
+    "id": 51,
+    "en1": "expertise",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "kỹ năng chuyên môn"
+  },
+  {
+    "id": 50,
+    "en1": "assert",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "khẳng định"
+  },
+  {
+    "id": 49,
+    "en1": "exaggerated",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "phóng đại"
+  },
+  {
+    "id": 48,
+    "en1": "navigator",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "thủy thủ, nhà thám hiểm"
+  },
+  {
+    "id": 47,
+    "en1": "fleets",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "các đội tàu"
+  },
+  {
+    "id": 46,
+    "en1": "debate",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "cuộc tranh luận"
+  },
+  {
     "id": 45,
     "en1": "obstacle",
     "en2": "",
