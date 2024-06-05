@@ -1,5 +1,77 @@
 [
   {
+    "id": 101,
+    "en1": "biodiversity",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "sự đa dạng sinh học"
+  },
+  {
+    "id": 100,
+    "en1": "roam",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "đi lang thang"
+  },
+  {
+    "id": 99,
+    "en1": "bane",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "tai ương,mối phiền toái"
+  },
+  {
+    "id": 98,
+    "en1": "mammalian",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "động vật có vú"
+  },
+  {
+    "id": 97,
+    "en1": "bait",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "mồi, đặt bả"
+  },
+  {
+    "id": 96,
+    "en1": "scrubland",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "bụi rậm"
+  },
+  {
+    "id": 95,
+    "en1": "ranch",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "trang trại"
+  },
+  {
+    "id": 94,
+    "en1": "grazier",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "người chăn nuôi gia súc"
+  },
+  {
+    "id": 93,
+    "en1": "pests",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "loài gây hại"
+  },
+  {
     "id": 92,
     "en1": "resurrect",
     "en2": "",
