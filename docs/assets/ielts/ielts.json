@@ -1,5 +1,29 @@
 [
   {
+    "id": 133,
+    "en1": "solitary",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "đơn độc"
+  },
+  {
+    "id": 132,
+    "en1": "recolonize",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "tái định cư"
+  },
+  {
+    "id": 131,
+    "en1": "recolonize",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "tái định cư"
+  },
+  {
     "id": 130,
     "en1": "counter-productive",
     "en2": "",
@@ -33,7 +57,7 @@
   },
   {
     "id": 126,
-    "en1": "calves",
+    "en1": "calves / calf",
     "en2": "",
     "en3": "",
     "en4": "",
