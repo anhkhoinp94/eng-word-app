@@ -1,5 +1,157 @@
 [
   {
+    "id": 156,
+    "en1": "harsh, harshest",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) thô ráp, khắc nghiệt nhất"
+  },
+  {
+    "id": 155,
+    "en1": "desperate",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) tuyệt vọng"
+  },
+  {
+    "id": 154,
+    "en1": "shrinking",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự thu hẹp lại"
+  },
+  {
+    "id": 153,
+    "en1": "contracted",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) co lại"
+  },
+  {
+    "id": 152,
+    "en1": "extent",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) phạm vi"
+  },
+  {
+    "id": 151,
+    "en1": "gradually",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "dần dần"
+  },
+  {
+    "id": 150,
+    "en1": "underway",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) đang diễn ra"
+  },
+  {
+    "id": 149,
+    "en1": "expansive",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "rộng lớn"
+  },
+  {
+    "id": 148,
+    "en1": "intersect",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) giao nhau"
+  },
+  {
+    "id": 147,
+    "en1": "comprise",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) bao gồm"
+  },
+  {
+    "id": 146,
+    "en1": "inhabit",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) trú ngụ"
+  },
+  {
+    "id": 145,
+    "en1": "tenant",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "người thuê nhà"
+  },
+  {
+    "id": 144,
+    "en1": "refer to",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "ám chỉ, nói đến"
+  },
+  {
+    "id": 143,
+    "en1": "cartographer",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "người vẽ bản đồ"
+  },
+  {
+    "id": 142,
+    "en1": "renowned, celebrated",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "nổi tiếng"
+  },
+  {
+    "id": 141,
+    "en1": "hemisphere",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "bán cầu"
+  },
+  {
+    "id": 140,
+    "en1": "immigrant",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "người di trú"
+  },
+  {
+    "id": 139,
+    "en1": "offshore",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "ngoài khơi"
+  },
+  {
+    "id": 138,
+    "en1": "offspring",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "con cháu"
+  },
+  {
     "id": 137,
     "en1": "prescription",
     "en2": "",
@@ -309,7 +461,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "tai ương,mối phiền toái"
+    "vn1": "tai ương, mối phiền toái"
   },
   {
     "id": 98,
