@@ -1,5 +1,69 @@
 [
   {
+    "id": 165,
+    "en1": "acquaintance",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "người quen"
+  },
+  {
+    "id": 164,
+    "en1": "frugality",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "tính tiết kiệm"
+  },
+  {
+    "id": 163,
+    "en1": "blood transfusion",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "truyền máu"
+  },
+  {
+    "id": 162,
+    "en1": "suicide",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "tự sát"
+  },
+  {
+    "id": 161,
+    "en1": "endurance",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "sức bền"
+  },
+  {
+    "id": 160,
+    "en1": "barely",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "chỉ vừa"
+  },
+  {
+    "id": 159,
+    "en1": "conscious",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) tỉnh táo"
+  },
+  {
+    "id": 158,
+    "en1": "desire",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) mong muốn"
+  },
+  {
     "id": 157,
     "en1": "convict",
     "en2": "",
@@ -249,7 +313,7 @@
   },
   {
     "id": 126,
-    "en1": "calves / calf",
+    "en1": "calves, calf",
     "en2": "",
     "en3": "",
     "en4": "",
