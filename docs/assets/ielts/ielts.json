@@ -1,5 +1,101 @@
 [
   {
+    "id": 177,
+    "en1": "thrive",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "phát triển"
+  },
+  {
+    "id": 176,
+    "en1": "nomadic",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "dân du mục"
+  },
+  {
+    "id": 175,
+    "en1": "breed",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) giống, (v) sinh sản"
+  },
+  {
+    "id": 174,
+    "en1": "degree",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "mức độ"
+  },
+  {
+    "id": 173,
+    "en1": "towards",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "về phía"
+  },
+  {
+    "id": 172,
+    "en1": "pollen, pollination",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "phấn hoa, sự thụ phấn"
+  },
+  {
+    "id": 171,
+    "en1": "broad",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "rộng"
+  },
+  {
+    "id": 170,
+    "en1": "blunt beak",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "mỏ cùn (chim)"
+  },
+  {
+    "id": 169,
+    "en1": "substance",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "chất"
+  },
+  {
+    "id": 168,
+    "en1": "mould",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "định hình"
+  },
+  {
+    "id": 167,
+    "en1": "creature",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "sinh vật"
+  },
+  {
+    "id": 166,
+    "en1": "benign",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "ôn hòa"
+  },
+  {
     "id": 165,
     "en1": "acquaintance",
     "en2": "",
@@ -1273,11 +1369,11 @@
   },
   {
     "id": 6,
-    "en1": "coin (v)",
+    "en1": "coin",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "to create a new word"
+    "vn1": "(v) to create a new word"
   },
   {
     "id": 5,
