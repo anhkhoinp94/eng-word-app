@@ -1,5 +1,117 @@
 [
   {
+    "id": 234,
+    "en1": "veneer",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "lớp vỏ bọc"
+  },
+  {
+    "id": 233,
+    "en1": "beneath",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "bên dưới"
+  },
+  {
+    "id": 232,
+    "en1": "lurk",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "ẩn nấp, núp, trốn"
+  },
+  {
+    "id": 231,
+    "en1": "rationality",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "sự hợp lý"
+  },
+  {
+    "id": 230,
+    "en1": "prognosis",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "sự chẩn đoán, tiên lượng bệnh"
+  },
+  {
+    "id": 229,
+    "en1": "therapeutic",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "liệu pháp"
+  },
+  {
+    "id": 228,
+    "en1": "apparently",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "rõ ràng"
+  },
+  {
+    "id": 227,
+    "en1": "limb",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "chi thể"
+  },
+  {
+    "id": 226,
+    "en1": "startled and mystified",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "giật mình và bối rối"
+  },
+  {
+    "id": 225,
+    "en1": "paralyzed",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "bị liệt"
+  },
+  {
+    "id": 224,
+    "en1": "stroke",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "đột quỵ"
+  },
+  {
+    "id": 223,
+    "en1": "extraordinary",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "lạ thường, khác thường"
+  },
+  {
+    "id": 222,
+    "en1": "demonstration",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "sự chứng minh, biểu hiện"
+  },
+  {
+    "id": 221,
+    "en1": "ultrasound",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "sóng siêu âm"
+  },
+  {
     "id": 220,
     "en1": "respiratory",
     "en2": "",
@@ -625,7 +737,7 @@
   },
   {
     "id": 142,
-    "en1": "renowned, celebrated",
+    "en1": "renowned, celebrated, prominent",
     "en2": "",
     "en3": "",
     "en4": "",
@@ -729,7 +841,7 @@
   },
   {
     "id": 129,
-    "en1": "deteriorate",
+    "en1": "deteriorate, deterioration",
     "en2": "",
     "en3": "",
     "en4": "",
