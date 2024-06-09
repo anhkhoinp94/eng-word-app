@@ -1,5 +1,173 @@
 [
   {
+    "id": 208,
+    "en1": "jaws",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "hàm"
+  },
+  {
+    "id": 207,
+    "en1": "compensate",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "đền bù, bù đắp"
+  },
+  {
+    "id": 206,
+    "en1": "come in bouts",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "xuất hiện thành từng đợt, cơn"
+  },
+  {
+    "id": 205,
+    "en1": "cough",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "ho"
+  },
+  {
+    "id": 204,
+    "en1": "stifle",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "kìm nén"
+  },
+  {
+    "id": 203,
+    "en1": "typical",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "điển hình"
+  },
+  {
+    "id": 202,
+    "en1": "inevitability",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "sự tất yếu, không thể tránh khỏi"
+  },
+  {
+    "id": 201,
+    "en1": "sneeze",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "hắt hơi"
+  },
+  {
+    "id": 200,
+    "en1": "stimulus",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "kích thích"
+  },
+  {
+    "id": 199,
+    "en1": "reflex",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "phản xạ"
+  },
+  {
+    "id": 198,
+    "en1": "instinctive",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "theo bản năng"
+  },
+  {
+    "id": 197,
+    "en1": "ethology",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "tập tính học"
+  },
+  {
+    "id": 196,
+    "en1": "invariant",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "đồng nhất"
+  },
+  {
+    "id": 195,
+    "en1": "stereotyped",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "điển hình"
+  },
+  {
+    "id": 194,
+    "en1": "contagion",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "sự lây lan"
+  },
+  {
+    "id": 193,
+    "en1": "gape",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "há miệng"
+  },
+  {
+    "id": 192,
+    "en1": "derived from",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "xuất phát từ"
+  },
+  {
+    "id": 191,
+    "en1": "neuroscience",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "khoa học thần kinh"
+  },
+  {
+    "id": 190,
+    "en1": "quirky",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "kì quặc"
+  },
+  {
+    "id": 189,
+    "en1": "merit",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "giá trị, công lao"
+  },
+  {
+    "id": 188,
+    "en1": "yawn",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "ngáp"
+  },
+  {
     "id": 187,
     "en1": "wild, the wild",
     "en2": "",
