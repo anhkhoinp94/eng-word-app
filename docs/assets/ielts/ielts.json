@@ -1,5 +1,53 @@
 [
   {
+    "id": 220,
+    "en1": "respiratory",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) hô hấp"
+  },
+  {
+    "id": 219,
+    "en1": "cardiovascular",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) tim mạch"
+  },
+  {
+    "id": 218,
+    "en1": "salivate",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "tiết nước bọt"
+  },
+  {
+    "id": 217,
+    "en1": "narrow",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "hẹp"
+  },
+  {
+    "id": 216,
+    "en1": "stretch",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "kéo dãn"
+  },
+  {
+    "id": 215,
+    "en1": "nasal ,oral",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "mũi, miệng"
+  },
+  {
     "id": 214,
     "en1": "sensation",
     "en2": "",
@@ -233,11 +281,11 @@
   },
   {
     "id": 185,
-    "en1": "adequate",
+    "en1": "adequate, adequacy",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "đầy đủ"
+    "vn1": "(a,n) đầy đủ"
   },
   {
     "id": 184,
