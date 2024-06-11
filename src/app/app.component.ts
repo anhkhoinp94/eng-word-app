@@ -74,9 +74,9 @@ export class AppComponent {
   see = false;
   no = 1;
   id = 1;
-  min = 100;
+  min = 1;
   // max = 603;
-  max = 234;
+  max = 236;
   vnWord1 = '';
   vnWord2 = '';
   enWord1 = '';
