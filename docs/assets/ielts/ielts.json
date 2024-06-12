@@ -1,5 +1,133 @@
 [
   {
+    "id": 252,
+    "en1": "pleasant",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "dễ chịu"
+  },
+  {
+    "id": 251,
+    "en1": "noble",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "quý tộc"
+  },
+  {
+    "id": 250,
+    "en1": "wanton, immoral",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "phóng đãng"
+  },
+  {
+    "id": 249,
+    "en1": "expedient",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "thủ đoạn"
+  },
+  {
+    "id": 248,
+    "en1": "flattering",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "hay nịnh hót"
+  },
+  {
+    "id": 247,
+    "en1": "vengeanful",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "thù dai"
+  },
+  {
+    "id": 246,
+    "en1": "sensitive",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "nhạy cảm"
+  },
+  {
+    "id": 245,
+    "en1": "emotive",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "dễ xúc động"
+  },
+  {
+    "id": 244,
+    "en1": "passionate",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "nồng nàn"
+  },
+  {
+    "id": 243,
+    "en1": "miserable",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "khốn khổ"
+  },
+  {
+    "id": 242,
+    "en1": "gracious",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "tử tế, hào hiệp"
+  },
+  {
+    "id": 241,
+    "en1": "conceited",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "tự phụ"
+  },
+  {
+    "id": 240,
+    "en1": "courteous",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "lịch thiệp"
+  },
+  {
+    "id": 239,
+    "en1": "mischievous",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "quậy phá, tinh nghịch"
+  },
+  {
+    "id": 238,
+    "en1": "obedient",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "biết nghe lời"
+  },
+  {
+    "id": 237,
+    "en1": "arrogant",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "kiêu ngạo"
+  },
+  {
     "id": 236,
     "en1": "otherwise",
     "en2": "",
@@ -561,7 +689,7 @@
   },
   {
     "id": 166,
-    "en1": "benign",
+    "en1": "benign, mild",
     "en2": "",
     "en3": "",
     "en4": "",
