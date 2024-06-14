@@ -1,5 +1,61 @@
 [
   {
+    "id": 293,
+    "en1": "appetite",
+    "en2": "She has a healthy appetite and enjoys trying new foods.",
+    "en3": "",
+    "en4": "",
+    "vn1": "sự thèm ăn"
+  },
+  {
+    "id": 292,
+    "en1": "lucrative",
+    "en2": "She decided to pursue a career in medicine because it is known to be a lucrative field.",
+    "en3": "",
+    "en4": "",
+    "vn1": "có lợi nhuận cao"
+  },
+  {
+    "id": 291,
+    "en1": "expel",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "trục xuất, đuổi"
+  },
+  {
+    "id": 290,
+    "en1": "expel",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "trục xuất, đuổi"
+  },
+  {
+    "id": 289,
+    "en1": "ally",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n,v) liên minh"
+  },
+  {
+    "id": 288,
+    "en1": "dictator",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "kẻ độc tài"
+  },
+  {
+    "id": 287,
+    "en1": "enslave",
+    "en2": "The dictator enslaved thousands of people to work in his mines.",
+    "en3": "",
+    "en4": "",
+    "vn1": "bắt làm nô lệ"
+  },
+  {
     "id": 286,
     "en1": "cultivation",
     "en2": "",
@@ -41,15 +97,15 @@
   },
   {
     "id": 281,
-    "en1": "condiment",
+    "en1": "ethnic",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "ngoại lai, lạ"
+    "vn1": "(a) dân tộc thiểu số"
   },
   {
     "id": 280,
-    "en1": "condiment",
+    "en1": "exotic",
     "en2": "",
     "en3": "",
     "en4": "",
