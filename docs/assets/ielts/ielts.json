@@ -1,5 +1,213 @@
 [
   {
+    "id": 286,
+    "en1": "cultivation",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "sự trồng trọt, canh tác"
+  },
+  {
+    "id": 285,
+    "en1": "exorbitant",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "quá đáng, cắt cổ"
+  },
+  {
+    "id": 284,
+    "en1": "monopoly",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "độc quyền"
+  },
+  {
+    "id": 283,
+    "en1": "merchant",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "người kinh doanh, thương gia"
+  },
+  {
+    "id": 282,
+    "en1": "disposal",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) việc xử lí, loại bỏ"
+  },
+  {
+    "id": 281,
+    "en1": "condiment",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "ngoại lai, lạ"
+  },
+  {
+    "id": 280,
+    "en1": "condiment",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "ngoại lai, lạ"
+  },
+  {
+    "id": 279,
+    "en1": "condiment",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "gia vị"
+  },
+  {
+    "id": 278,
+    "en1": "biblical",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "liên quan đến Kinh Thánh"
+  },
+  {
+    "id": 277,
+    "en1": "fragrant",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "thơm"
+  },
+  {
+    "id": 276,
+    "en1": "prejudice",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "định kiến"
+  },
+  {
+    "id": 275,
+    "en1": "arise",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "lên án, chỉ trích"
+  },
+  {
+    "id": 274,
+    "en1": "arise",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "nảy sinh, bắt nguồn"
+  },
+  {
+    "id": 273,
+    "en1": "depict",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "miêu tả, mô tả"
+  },
+  {
+    "id": 272,
+    "en1": "fuzzy",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "không rõ ràng, mơ hồ"
+  },
+  {
+    "id": 271,
+    "en1": "trawl",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "tìm kiếm một cách kỹ lưỡng"
+  },
+  {
+    "id": 270,
+    "en1": "sophisticated",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "tinh vi, tinh tế"
+  },
+  {
+    "id": 269,
+    "en1": "trick into",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "dụ dỗ, lừa gạt"
+  },
+  {
+    "id": 268,
+    "en1": "artificial",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "nhân tạo"
+  },
+  {
+    "id": 267,
+    "en1": "distraction",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "sự xao lãng"
+  },
+  {
+    "id": 266,
+    "en1": "alleviate",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "làm giảm bớt, nhẹ bớt"
+  },
+  {
+    "id": 265,
+    "en1": "detrimental",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "có hại"
+  },
+  {
+    "id": 264,
+    "en1": "threshold",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "giới hạn, ngưỡng"
+  },
+  {
+    "id": 263,
+    "en1": "curiosity",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "sự tò mò"
+  },
+  {
+    "id": 262,
+    "en1": "prone to",
+    "en2": "He is prone to getting colds in the winter.",
+    "en3": "",
+    "en4": "",
+    "vn1": "dễ bị ảnh hưởng"
+  },
+  {
+    "id": 261,
+    "en1": "intriguingly",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "một cách thú vị"
+  },
+  {
     "id": 260,
     "en1": "infectious",
     "en2": "",
@@ -481,7 +689,7 @@
   },
   {
     "id": 200,
-    "en1": "stimulus",
+    "en1": "stimulus, stimulation",
     "en2": "",
     "en3": "",
     "en4": "",
