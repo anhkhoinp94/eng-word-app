@@ -1,5 +1,45 @@
 [
   {
+    "id": 340,
+    "en1": "correlate",
+    "en2": "There is a strong correlate between smoking and lung cancer.",
+    "en3": "",
+    "en4": "",
+    "vn1": "mối tương quan, liên hệ"
+  },
+  {
+    "id": 339,
+    "en1": "convey",
+    "en2": "He tried to convey his feelings through the letter.",
+    "en3": "",
+    "en4": "",
+    "vn1": "truyền đạt, chuyển tải"
+  },
+  {
+    "id": 338,
+    "en1": "controversy",
+    "en2": "The decision to build the factory in a residential area led to a great deal of controversy.",
+    "en3": "",
+    "en4": "",
+    "vn1": "sự tranh cãi"
+  },
+  {
+    "id": 337,
+    "en1": "constrain",
+    "en2": "The tight budget will constrain our ability to expand the project.",
+    "en3": "",
+    "en4": "",
+    "vn1": "hạn chế, ràng buộc"
+  },
+  {
+    "id": 336,
+    "en1": "comprehensive",
+    "en2": "The report provides a comprehensive analysis of the economic situation.",
+    "en3": "",
+    "en4": "",
+    "vn1": "toàn diện, bao quát"
+  },
+  {
     "id": 335,
     "en1": "coherent",
     "en2": "She gave a coherent explanation of the complex theory.",
