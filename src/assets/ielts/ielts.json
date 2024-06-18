@@ -1,5 +1,29 @@
 [
   {
+    "id": 332,
+    "en1": "advocate",
+    "en2": "Many experts advocate for the use of renewable energy sources.",
+    "en3": "",
+    "en4": "",
+    "vn1": "ủng hộ, tán thành"
+  },
+  {
+    "id": 331,
+    "en1": "proportion",
+    "en2": "The proportion of students who passed the exam was higher this year.",
+    "en3": "",
+    "en4": "",
+    "vn1": "tỷ lệ, tỷ trọng"
+  },
+  {
+    "id": 330,
+    "en1": "notion",
+    "en2": "The notion of freedom varies from culture to culture.",
+    "en3": "",
+    "en4": "",
+    "vn1": "khái niệm"
+  },
+  {
     "id": 329,
     "en1": "conference",
     "en2": "They organized a conference to discuss the latest advancements in medical research.",
@@ -2313,8 +2337,8 @@
   },
   {
     "id": 40,
-    "en1": "abundance",
-    "en2": "",
+    "en1": "abundant, abundance",
+    "en2": "The region is known for its abundant natural resources.",
     "en3": "",
     "en4": "",
     "vn1": "sự phong phú"
