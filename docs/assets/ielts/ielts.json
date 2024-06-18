@@ -1,5 +1,29 @@
 [
   {
+    "id": 335,
+    "en1": "coherent",
+    "en2": "She gave a coherent explanation of the complex theory.",
+    "en3": "",
+    "en4": "",
+    "vn1": "mạch lạc, chặt chẽ"
+  },
+  {
+    "id": 334,
+    "en1": "benevolent",
+    "en2": "She was known for her benevolent nature and always helped those in need.",
+    "en3": "",
+    "en4": "",
+    "vn1": "nhân từ, tốt bụng"
+  },
+  {
+    "id": 333,
+    "en1": "arbitrary",
+    "en2": "He was punished for arbitrary reasons that no one could understand.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) tùy tiện"
+  },
+  {
     "id": 332,
     "en1": "advocate",
     "en2": "Many experts advocate for the use of renewable energy sources.",
@@ -481,8 +505,8 @@
   },
   {
     "id": 272,
-    "en1": "fuzzy",
-    "en2": "",
+    "en1": "ambiguous, fuzzy",
+    "en2": "The instructions were ambiguous, so we weren't sure what to do.",
     "en3": "",
     "en4": "",
     "vn1": "không rõ ràng, mơ hồ"
@@ -2217,11 +2241,11 @@
   },
   {
     "id": 55,
-    "en1": "assessment",
+    "en1": "assess, assessment",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "sự đánh giá"
+    "vn1": "(v,n ) đánh giá"
   },
   {
     "id": 54,
