@@ -1,5 +1,21 @@
 [
   {
+    "id": 343,
+    "en1": "premise",
+    "en2": "The argument is based on the premise that all humans have the right to freedom.",
+    "en3": "",
+    "en4": "",
+    "vn1": "tiền đề"
+  },
+  {
+    "id": 342,
+    "en1": "criterion, criteria",
+    "en2": "The main criterion for selection is experience.",
+    "en3": "",
+    "en4": "",
+    "vn1": "tiêu chí, tiêu chuẩn"
+  },
+  {
     "id": 341,
     "en1": "manipulate",
     "en2": "He knows how to manipulate people to get what he wants.",
@@ -2293,7 +2309,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "(v,n ) đánh giá"
+    "vn1": "(v,n) đánh giá"
   },
   {
     "id": 54,
@@ -2537,11 +2553,11 @@
   },
   {
     "id": 24,
-    "en1": "deductive",
-    "en2": "",
+    "en1": "deductive, deduce",
+    "en2": "In deductive reasoning, if all premises are true, the conclusion must also be true.",
     "en3": "",
     "en4": "",
-    "vn1": "suy diễn"
+    "vn1": "(a,v) suy diễn, suy luận"
   },
   {
     "id": 23,
