@@ -124,6 +124,12 @@ export class AppComponent {
     }
   }
 
+  handleClick(event: Event): void {
+    const target = event.target as HTMLButtonElement;
+    target.blur();
+    this.next(); // Call the next method
+  }
+
   next() {
     this.countSawWords += 1;
     this.no = this.no * -1;
