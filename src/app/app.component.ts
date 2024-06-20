@@ -76,7 +76,7 @@ export class AppComponent {
   id = 1;
   min = 1;
   // max = 603;
-  max = 340;
+  max = 341;
   vnWord1 = '';
   vnWord2 = '';
   enWord1 = '';
@@ -122,12 +122,6 @@ export class AppComponent {
     if (!this.see) {
       this.see = true;
     }
-  }
-
-  handleClick(event: Event): void {
-    const target = event.target as HTMLButtonElement;
-    target.blur();
-    this.next();
   }
 
   next() {
