@@ -1,5 +1,29 @@
 [
   {
+    "id": 346,
+    "en1": "deviation",
+    "en2": "There was a deviation from the original plan due to unexpected circumstances.",
+    "en3": "",
+    "en4": "",
+    "vn1": "sự lệch lạc, sai lệch"
+  },
+  {
+    "id": 345,
+    "en1": "denote",
+    "en2": "In many cultures, the color red denotes passion and love.",
+    "en3": "",
+    "en4": "",
+    "vn1": "chỉ ra, biểu thị"
+  },
+  {
+    "id": 344,
+    "en1": "deficient",
+    "en2": "The company's training program was deficient in providing practical skills.",
+    "en3": "",
+    "en4": "",
+    "vn1": "thiếu sót, không đầy đủ"
+  },
+  {
     "id": 343,
     "en1": "premise",
     "en2": "The argument is based on the premise that all humans have the right to freedom.",
@@ -1122,7 +1146,7 @@
   {
     "id": 203,
     "en1": "typical",
-    "en2": "",
+    "en2": "It's typical for children to enjoy playing with toys.",
     "en3": "",
     "en4": "",
     "vn1": "điển hình"
@@ -1185,11 +1209,11 @@
   },
   {
     "id": 195,
-    "en1": "stereotyped",
-    "en2": "",
+    "en1": "stereotype",
+    "en2": "Many people believe the stereotype that all cats hate water, but my cat loves to play in the bathtub.",
     "en3": "",
     "en4": "",
-    "vn1": "điển hình"
+    "vn1": "quan niệm"
   },
   {
     "id": 194,
@@ -2742,13 +2766,5 @@
     "en3": "",
     "en4": "",
     "vn1": "hung hăng, quyết liệt"
-  },
-  {
-    "id": 0,
-    "en1": "",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": ""
   }
 ]
