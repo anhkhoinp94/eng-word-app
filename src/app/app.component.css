@@ -1,3 +1,7 @@
+button {
+  touch-action: manipulation;
+}
+
 button:focus {
   outline: none;
 }

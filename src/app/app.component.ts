@@ -127,7 +127,7 @@ export class AppComponent {
   handleClick(event: Event): void {
     const target = event.target as HTMLButtonElement;
     target.blur();
-    this.next(); // Call the next method
+    this.next();
   }
 
   next() {
