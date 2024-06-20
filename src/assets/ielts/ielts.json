@@ -1,5 +1,37 @@
 [
   {
+    "id": 350,
+    "en1": "evident",
+    "en2": "The mistakes in the report were evident and needed to be corrected.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) rõ ràng, hiển nhiên"
+  },
+  {
+    "id": 349,
+    "en1": "enhance",
+    "en2": "The new software update is designed to enhance performance.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) nâng cao, tăng cường"
+  },
+  {
+    "id": 348,
+    "en1": "empirical",
+    "en2": "The scientist conducted an empirical study to gather real-world data.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) thực nghiệm"
+  },
+  {
+    "id": 347,
+    "en1": "elaborate",
+    "en2": "The architect designed an elaborate building.",
+    "en3": "",
+    "en4": "",
+    "vn1": "phức tạp"
+  },
+  {
     "id": 346,
     "en1": "deviation",
     "en2": "There was a deviation from the original plan due to unexpected circumstances.",
@@ -2738,33 +2770,33 @@
   {
     "id": 4,
     "en1": "transmutation",
-    "en2": "",
+    "en2": "In physics, transmutation refers to the change of one chemical element into another through nuclear reactions.",
     "en3": "",
     "en4": "",
-    "vn1": "sự chuyển hóa"
+    "vn1": "(n) sự chuyển hóa"
   },
   {
     "id": 3,
     "en1": "resist",
-    "en2": "",
+    "en2": "She couldn't resist the temptation to eat the chocolate cake.",
     "en3": "",
     "en4": "",
-    "vn1": "kháng cự, chống lại"
+    "vn1": "(v) kháng cự, chống lại"
   },
   {
     "id": 2,
     "en1": "argue",
-    "en2": "",
+    "en2": "They argued for hours but couldn't reach a conclusion.",
     "en3": "",
     "en4": "",
-    "vn1": "tranh luận"
+    "vn1": "(v) tranh cãi, tranh luận"
   },
   {
     "id": 1,
     "en1": "aggressive",
-    "en2": "",
+    "en2": "The dog became aggressive when it felt threatened.",
     "en3": "",
     "en4": "",
-    "vn1": "hung hăng, quyết liệt"
+    "vn1": "(a) hung hăng, quyết liệt"
   }
 ]

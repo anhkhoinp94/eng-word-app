@@ -76,7 +76,7 @@ export class AppComponent {
   id = 1;
   min = 1;
   // max = 603;
-  max = 346;
+  max = 350;
   vnWord1 = '';
   vnWord2 = '';
   enWord1 = '';
@@ -143,7 +143,7 @@ export class AppComponent {
   }
 
   getRandomArbitrary(min: number, max: number) {
-    return Math.floor(Math.random() * (max - min) + min);
+    return Math.floor(Math.random() * (max - min + 1)) + min;
   }
 
   speakMessage() {
