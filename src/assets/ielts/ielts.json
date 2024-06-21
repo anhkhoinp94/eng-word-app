@@ -1,5 +1,125 @@
 [
   {
+    "id": 371,
+    "en1": "subsequent",
+    "en2": "The team won the first match and all subsequent matches in the tournament.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) xảy ra sau đó, tiếp theo"
+  },
+  {
+    "id": 370,
+    "en1": "simulate",
+    "en2": "The video game simulates the experience of being a race car driver.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) mô phỏng, giả lập"
+  },
+  {
+    "id": 369,
+    "en1": "significant",
+    "en2": "The discovery of penicillin was a significant breakthrough in medical history.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) quan trọng, đáng kể"
+  },
+  {
+    "id": 368,
+    "en1": "restrict",
+    "en2": "Traffic was restricted due to heavy snowfall.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) hạn chế"
+  },
+  {
+    "id": 367,
+    "en1": "reside, inhabit",
+    "en2": "The president of the company resides in a luxurious penthouse downtown.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) cư trú"
+  },
+  {
+    "id": 366,
+    "en1": "reluctant",
+    "en2": "They were reluctant to leave the party early.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) lưỡng lự, miễn cưỡng"
+  },
+  {
+    "id": 365,
+    "en1": "radical",
+    "en2": "They proposed a radical solution to the problem.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) triệt để"
+  },
+  {
+    "id": 364,
+    "en1": "plausible",
+    "en2": "The detective found a plausible explanation for the mysterious disappearance.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) hợp lý, đáng tin cậy"
+  },
+  {
+    "id": 363,
+    "en1": "phenomenon",
+    "en2": "The rise of social media is a global phenomenon that has transformed communication.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) hiện tượng"
+  },
+  {
+    "id": 362,
+    "en1": "persist",
+    "en2": "Despite the obstacles, she decided to persist with her studies.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) kiên trì, bền bỉ"
+  },
+  {
+    "id": 361,
+    "en1": "tension",
+    "en2": "There was a lot of tension in the room during the negotiation.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự căng thẳng"
+  },
+  {
+    "id": 360,
+    "en1": "perceive",
+    "en2": "She could perceive the tension in the room as soon as she walked in.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) nhận thức, nhận biết"
+  },
+  {
+    "id": 359,
+    "en1": "paradigm",
+    "en2": "The shift from traditional classrooms to online learning represents a new educational paradigm.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) mô hình, kiểu mẫu"
+  },
+  {
+    "id": 358,
+    "en1": "legitimate",
+    "en2": "The company is looking for legitimate ways to reduce costs.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a,v) hợp pháp, hợp lệ"
+  },
+  {
+    "id": 357,
+    "en1": "justify",
+    "en2": "She justified her actions by explaining the circumstances that led to her decision.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) biện minh, giải thích"
+  },
+  {
     "id": 356,
     "en1": "intervene",
     "en2": "The government decided to intervene in the economic crisis to stabilize the market.",
@@ -1681,11 +1801,11 @@
   },
   {
     "id": 146,
-    "en1": "inhabit",
-    "en2": "",
+    "en1": "inhabit, reside",
+    "en2": "People have inhabited this region for thousands of years.",
     "en3": "",
     "en4": "",
-    "vn1": "(v) trú ngụ"
+    "vn1": "(v) cư trú"
   },
   {
     "id": 145,
@@ -2642,18 +2762,18 @@
   {
     "id": 26,
     "en1": "ancestor",
-    "en2": "",
+    "en2": "In many cultures, honoring ancestors is an important tradition.",
     "en3": "",
     "en4": "",
-    "vn1": "tổ tiên"
+    "vn1": "(n) tổ tiên"
   },
   {
     "id": 25,
     "en1": "migrate",
-    "en2": "",
+    "en2": "Some fish species migrate upstream to spawn.",
     "en3": "",
     "en4": "",
-    "vn1": "di cư"
+    "vn1": "(v) di cư, di trú"
   },
   {
     "id": 24,
