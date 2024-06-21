@@ -1,5 +1,53 @@
 [
   {
+    "id": 356,
+    "en1": "intervene",
+    "en2": "The government decided to intervene in the economic crisis to stabilize the market.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) can thiệp"
+  },
+  {
+    "id": 355,
+    "en1": "integrate",
+    "en2": "It's important to integrate exercise into your daily routine.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) tích hợp"
+  },
+  {
+    "id": 354,
+    "en1": "infer",
+    "en2": "From the data collected, we can infer that the new policy has been effective.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) suy ra, luận ra"
+  },
+  {
+    "id": 353,
+    "en1": "indicate",
+    "en2": "The data indicate that there has been a significant increase in sales this quarter.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) chỉ ra, ám chỉ"
+  },
+  {
+    "id": 352,
+    "en1": "incentive",
+    "en2": "The company offers financial incentives to employees who meet their sales targets.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự khích lệ, thúc đẩy"
+  },
+  {
+    "id": 351,
+    "en1": "imply",
+    "en2": "Her smile implied that she was pleased with the results.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) ám chỉ, ngụ ý"
+  },
+  {
     "id": 350,
     "en1": "evident",
     "en2": "The mistakes in the report were evident and needed to be corrected.",
@@ -770,15 +818,15 @@
   {
     "id": 254,
     "en1": "itinerary",
-    "en2": "",
+    "en2": "Our travel agent sent us a detailed itinerary for our trip to Europe.",
     "en3": "",
     "en4": "",
-    "vn1": "hành trình"
+    "vn1": "(n) hành trình, lịch trình"
   },
   {
     "id": 253,
     "en1": "blockbuster",
-    "en2": "",
+    "en2": "Titanic was a blockbuster movie that broke numerous records worldwide.",
     "en3": "",
     "en4": "",
     "vn1": "bom tấn (phim)"
@@ -786,10 +834,10 @@
   {
     "id": 252,
     "en1": "pleasant",
-    "en2": "",
+    "en2": "We had a pleasant conversation over dinner.",
     "en3": "",
     "en4": "",
-    "vn1": "dễ chịu"
+    "vn1": "(a) dễ chịu"
   },
   {
     "id": 251,
@@ -962,18 +1010,18 @@
   {
     "id": 230,
     "en1": "prognosis",
-    "en2": "",
+    "en2": "The doctor gave him a good prognosis after the successful surgery.",
     "en3": "",
     "en4": "",
-    "vn1": "sự chẩn đoán, tiên lượng bệnh"
+    "vn1": "(a) sự chẩn đoán, tiên lượng bệnh"
   },
   {
     "id": 229,
     "en1": "therapeutic",
-    "en2": "",
+    "en2": "Spending time in nature can be therapeutic for reducing stress.",
     "en3": "",
     "en4": "",
-    "vn1": "liệu pháp"
+    "vn1": "(a) có tác dụng trị liệu"
   },
   {
     "id": 228,
@@ -1234,10 +1282,10 @@
   {
     "id": 196,
     "en1": "invariant",
-    "en2": "",
+    "en2": "The company's commitment to quality remained invariant over the years.",
     "en3": "",
     "en4": "",
-    "vn1": "đồng nhất"
+    "vn1": "(a,n) đồng nhất, không thay đổi"
   },
   {
     "id": 195,
