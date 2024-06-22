@@ -153,6 +153,12 @@ export class AppComponent {
     speechSynthesis.speak(utterance);
   }
 
+  speakMessage5() {
+    for (let index = 0; index < 5; index++) {
+      this.speakMessage();
+    }
+  }
+
   speakSentence() {
     var utterance = new SpeechSynthesisUtterance(this.enWord2);
     utterance.voice = this.selectedVoice;
