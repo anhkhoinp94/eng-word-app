@@ -160,6 +160,12 @@ export class AppComponent {
     speechSynthesis.speak(utterance);
   }
 
+  speakSentence8() {
+    for (let index = 0; index < 8; index++) {
+      this.speakSentence();
+    }
+  }
+
   checkAbleSpeak() {
     this.voices = window.speechSynthesis
       .getVoices()
