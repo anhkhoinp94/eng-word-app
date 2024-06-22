@@ -1,5 +1,37 @@
 [
   {
+    "id": 375,
+    "en1": "widespread",
+    "en2": "There is widespread support for the new education policy.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) phổ biến, lan rộng"
+  },
+  {
+    "id": 374,
+    "en1": "weigh",
+    "en2": "He carefully weighed the pros and cons before making his decision.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) cân nhắc, xem xét kỹ lưỡng"
+  },
+  {
+    "id": 373,
+    "en1": "validate, verify",
+    "en2": "The scientists conducted experiments to validate their hypothesis.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) xác nhận, xác thực"
+  },
+  {
+    "id": 372,
+    "en1": "temporal",
+    "en2": "The brain has specific areas responsible for processing temporal information.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) lq thời gian"
+  },
+  {
     "id": 371,
     "en1": "subsequent",
     "en2": "The team won the first match and all subsequent matches in the tournament.",
@@ -1289,11 +1321,11 @@
   },
   {
     "id": 210,
-    "en1": "sufficient",
-    "en2": "",
+    "en1": "sufficient, adequate",
+    "en2": "I have sufficient experience to handle the job.",
     "en3": "",
     "en4": "",
-    "vn1": "hợp lý, đầy đủ"
+    "vn1": "(a) đầy đủ"
   },
   {
     "id": 209,
@@ -1401,7 +1433,7 @@
   },
   {
     "id": 196,
-    "en1": "invariant",
+    "en1": "invariant, vary",
     "en2": "The company's commitment to quality remained invariant over the years.",
     "en3": "",
     "en4": "",
@@ -1490,7 +1522,7 @@
   {
     "id": 185,
     "en1": "adequate, adequacy",
-    "en2": "",
+    "en2": "The team made an adequate effort to complete the project on time.",
     "en3": "",
     "en4": "",
     "vn1": "(a,n) đầy đủ"
