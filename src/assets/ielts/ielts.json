@@ -1530,42 +1530,42 @@
   {
     "id": 184,
     "en1": "equitable",
-    "en2": "",
+    "en2": "The company strives to create an equitable workplace for all employees.",
     "en3": "",
     "en4": "",
-    "vn1": "công bằng"
+    "vn1": "(a) công bằng"
   },
   {
     "id": 183,
     "en1": "collapse",
-    "en2": "",
+    "en2": "The old building collapsed during the earthquake.",
     "en3": "",
     "en4": "",
-    "vn1": "sụp đổ"
+    "vn1": "(v,n) sụp đổ"
   },
   {
     "id": 182,
     "en1": "hollow",
-    "en2": "",
+    "en2": "The tree trunk was completely hollow.",
     "en3": "",
     "en4": "",
-    "vn1": "rỗng"
+    "vn1": "(a) rỗng, trống rỗng"
   },
   {
     "id": 181,
     "en1": "nest",
-    "en2": "",
+    "en2": "The bird built a nest in the tree.",
     "en3": "",
     "en4": "",
-    "vn1": "ổ, tổ chim"
+    "vn1": "(n) ổ, tổ chim"
   },
   {
     "id": 180,
     "en1": "drain",
-    "en2": "",
+    "en2": "Please drain the pasta before adding the sauce.",
     "en3": "",
     "en4": "",
-    "vn1": "rút, tháo nước"
+    "vn1": "(v) làm ráo, làm cạn"
   },
   {
     "id": 179,
@@ -1577,11 +1577,11 @@
   },
   {
     "id": 178,
-    "en1": "probably",
-    "en2": "",
+    "en1": "probably, perhaps",
+    "en2": "He is probably the best player on the team.",
     "en3": "",
     "en4": "",
-    "vn1": "có lẽ"
+    "vn1": "(av) có lẽ"
   },
   {
     "id": 177,
@@ -1906,10 +1906,10 @@
   {
     "id": 137,
     "en1": "prescription",
-    "en2": "",
+    "en2": "She went to the pharmacy to pick up her prescription for antibiotics.",
     "en3": "",
     "en4": "",
-    "vn1": "phương án - phương thuốc"
+    "vn1": "(n) đơn thuốc"
   },
   {
     "id": 136,
@@ -2849,11 +2849,11 @@
   },
   {
     "id": 19,
-    "en1": "perhaps",
-    "en2": "",
+    "en1": "perhaps, probably",
+    "en2": "Perhaps we should try a different approach.",
     "en3": "",
     "en4": "",
-    "vn1": "có lẽ"
+    "vn1": "(av) có lẽ"
   },
   {
     "id": 18,
@@ -2874,26 +2874,26 @@
   {
     "id": 16,
     "en1": "philosophy",
-    "en2": "",
+    "en2": "His philosophy of life is to live in the moment and enjoy every day.",
     "en3": "",
     "en4": "",
-    "vn1": "triết lý"
+    "vn1": "(n) triết lý"
   },
   {
     "id": 15,
     "en1": "analogy",
-    "en2": "",
+    "en2": "The teacher used an analogy to explain the complex concept.",
     "en3": "",
     "en4": "",
-    "vn1": "sự giống nhau"
+    "vn1": "(n) sự tương tự, so sánh"
   },
   {
     "id": 14,
     "en1": "astronomy",
-    "en2": "",
+    "en2": "Astronomy helps us understand the universe and our place in it.",
     "en3": "",
     "en4": "",
-    "vn1": "thiên văn học"
+    "vn1": "(n) thiên văn học"
   },
   {
     "id": 13,
