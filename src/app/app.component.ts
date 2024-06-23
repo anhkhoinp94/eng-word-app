@@ -148,10 +148,13 @@ export class AppComponent {
   }
 
   speakMessage() {
-    var utterance = new SpeechSynthesisUtterance(this.enWord1);
-    utterance.voice = this.selectedVoice;
-    utterance.rate = this.selectedRate;
-    speechSynthesis.speak(utterance);
+    let words = this.enWord1.split(',');
+    if (words.length > 0) {
+      var utterance = new SpeechSynthesisUtterance(words[0].trim());
+      utterance.voice = this.selectedVoice;
+      utterance.rate = this.selectedRate;
+      speechSynthesis.speak(utterance);
+    }
   }
 
   speakMessage5() {
