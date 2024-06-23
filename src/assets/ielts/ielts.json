@@ -1,5 +1,149 @@
 [
   {
+    "id": 415,
+    "en1": "undermine",
+    "en2": "The leaked emails undermined their reputation.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) làm suy yếu"
+  },
+  {
+    "id": 414,
+    "en1": "transparent",
+    "en2": "The window is made of transparent glass.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) trong suốt; rõ ràng, minh bạch"
+  },
+  {
+    "id": 413,
+    "en1": "tentative",
+    "en2": "The date for the event is tentative and subject to change.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) không chắc chắn, tạm thời"
+  },
+  {
+    "id": 412,
+    "en1": "surpass",
+    "en2": "The new technology has surpassed all expectations.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) vượt qua, vượt lên trên"
+  },
+  {
+    "id": 411,
+    "en1": "substantiate",
+    "en2": "The scientist needs to substantiate her findings with more experiments.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) chứng minh, làm cho cái gì thành chân thực"
+  },
+  {
+    "id": 410,
+    "en1": "stimulate, encourage",
+    "en2": "Coffee can stimulate alertness due to its caffeine content.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) kích thích, khuyến khích"
+  },
+  {
+    "id": 409,
+    "en1": "spectrum",
+    "en2": "Visible light is just a small part of the electromagnetic spectrum.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) quang phổ"
+  },
+  {
+    "id": 408,
+    "en1": "skeptical",
+    "en2": "The new product received skeptical reviews from industry experts.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) hoài nghi, nghi ngờ"
+  },
+  {
+    "id": 407,
+    "en1": "scrutinize",
+    "en2": "He scrutinized the contract before signing it.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) nghiên cứu kỹ lưỡng"
+  },
+  {
+    "id": 406,
+    "en1": "admission",
+    "en2": "Admission to the concert is free for children under five.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự nhận vào"
+  },
+  {
+    "id": 405,
+    "en1": "rigorous",
+    "en2": "The university has a rigorous admissions process.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) nghiêm ngặt, cẩn thận"
+  },
+  {
+    "id": 404,
+    "en1": "retain",
+    "en2": "He wanted to retain his position as team captain.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) giữ lại, duy trì"
+  },
+  {
+    "id": 403,
+    "en1": "renew",
+    "en2": "I need to renew my passport before it expires.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) làm mới, gia hạn, khôi phục"
+  },
+  {
+    "id": 402,
+    "en1": "refute, negate",
+    "en2": "He refuted the rumor that he was quitting his job.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) bác bỏ"
+  },
+  {
+    "id": 401,
+    "en1": "propagate",
+    "en2": "Social media can quickly propagate false information.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) truyền bá, lan truyền"
+  },
+  {
+    "id": 400,
+    "en1": "celebrated, renowned",
+    "en2": "The celebrated artist held an exhibition of his latest works.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) nổi tiếng"
+  },
+  {
+    "id": 399,
+    "en1": "prominent",
+    "en2": "His nose is a prominent feature of his face.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) nổi bật, dễ thấy"
+  },
+  {
+    "id": 398,
+    "en1": "proliferate",
+    "en2": "Social media platforms have allowed fake news to proliferate rapidly.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) phát triển nhanh"
+  },
+  {
     "id": 397,
     "en1": "perpetuate, sustain",
     "en2": "Teaching children kindness helps perpetuate empathy in society.",
@@ -821,7 +965,7 @@
     "en2": "The company implemented new policies to reinforce workplace safety.",
     "en3": "",
     "en4": "",
-    "vn1": "củng cố, tăng cường"
+    "vn1": "(v) củng cố, gia cố"
   },
   {
     "id": 294,
@@ -1010,10 +1154,10 @@
   {
     "id": 271,
     "en1": "trawl",
-    "en2": "",
+    "en2": "The ship trawled for squid in deep waters.",
     "en3": "",
     "en4": "",
-    "vn1": "tìm kiếm một cách kỹ lưỡng"
+    "vn1": "(v) kéo lưới"
   },
   {
     "id": 270,
@@ -1581,7 +1725,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "kích thích"
+    "vn1": "(n) kích thích"
   },
   {
     "id": 199,
@@ -1826,10 +1970,10 @@
   {
     "id": 169,
     "en1": "substance",
-    "en2": "",
+    "en2": "Her speech lacked substance; it was filled with empty promises.",
     "en3": "",
     "en4": "",
-    "vn1": "chất"
+    "vn1": "(n) chất liệu, nội dung"
   },
   {
     "id": 168,
@@ -2041,11 +2185,11 @@
   },
   {
     "id": 142,
-    "en1": "renowned, celebrated, prominent",
-    "en2": "",
+    "en1": "renowned, celebrated",
+    "en2": "He is a renowned scientist known for his groundbreaking research.",
     "en3": "",
     "en4": "",
-    "vn1": "nổi tiếng"
+    "vn1": "(a) nổi tiếng"
   },
   {
     "id": 141,
@@ -2513,11 +2657,11 @@
   },
   {
     "id": 83,
-    "en1": "negate",
-    "en2": "",
+    "en1": "negate, refute",
+    "en2": "His apology could not negate the damage caused by his actions.",
     "en3": "",
     "en4": "",
-    "vn1": "phủ nhận"
+    "vn1": "(v) bác bỏ"
   },
   {
     "id": 82,
@@ -2530,10 +2674,10 @@
   {
     "id": 81,
     "en1": "simultaneous",
-    "en2": "",
+    "en2": "The two events happened simultaneously",
     "en3": "",
     "en4": "",
-    "vn1": "đồng thời"
+    "vn1": "(a) đồng thời"
   },
   {
     "id": 80,
@@ -2626,10 +2770,10 @@
   {
     "id": 69,
     "en1": "precise",
-    "en2": "",
+    "en2": "Her instructions were very precise, so no one got confused.",
     "en3": "",
     "en4": "",
-    "vn1": "chính xác"
+    "vn1": "(a) chính xác, rõ ràng"
   },
   {
     "id": 68,

@@ -70,13 +70,13 @@ interface Word {
 })
 export class AppComponent {
   // Up O
-  show = true;
-  see = false;
+  show = false;
+  see = true;
   no = 1;
   id = 1;
   min = 1;
   // max = 603;
-  max = 397;
+  max = 415;
   vnWord1 = '';
   vnWord2 = '';
   enWord1 = '';
@@ -129,7 +129,12 @@ export class AppComponent {
     this.countSawWords += 1;
     this.no = this.no * -1;
     this.show = this.no > 0;
-    this.see = !this.show;
+
+    // Chỉ xuất hiện tiếng anh trước
+    // this.see = !this.show;
+    this.show = false;
+    this.see = true;
+    
     this.id = this.getRandomArbitrary(this.min, this.max);
     let word = this.words.find((obj) => {
       return obj.id === this.id;
