@@ -101,6 +101,7 @@ export class AppComponent {
     // this.words = this.words.concat(aws);
     // this.words = this.words.concat(partOne);
     this.words = this.words.concat(ielts);
+    console.log(this.words.filter((item) => item.en2 === '').length);
     this.id = this.getRandomArbitrary(this.min, this.max);
     // this.id = 1;
     let word = this.words.find((obj) => {
