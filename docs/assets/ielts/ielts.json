@@ -1,5 +1,181 @@
 [
   {
+    "id": 397,
+    "en1": "perpetuate, sustain",
+    "en2": "Teaching children kindness helps perpetuate empathy in society.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) duy trì"
+  },
+  {
+    "id": 396,
+    "en1": "mitigate, alleviate",
+    "en2": "Planting more trees can help mitigate climate change by absorbing carbon dioxide.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) làm giảm thiểu, làm dịu"
+  },
+  {
+    "id": 395,
+    "en1": "invoke",
+    "en2": "The president invoked emergency powers to handle the crisis.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) tận dụng lợi thế, quyền lợi"
+  },
+  {
+    "id": 394,
+    "en1": "inhibit",
+    "en2": "Overthinking can inhibit decision-making.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) làm cản trở"
+  },
+  {
+    "id": 393,
+    "en1": "foster",
+    "en2": "The mentor aims to foster creativity and innovation in his students.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) khuyến khích"
+  },
+  {
+    "id": 392,
+    "en1": "facilitate",
+    "en2": "The new software will facilitate online learning for students.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) tạo điều kiện thuận lợi"
+  },
+  {
+    "id": 391,
+    "en1": "explicit",
+    "en2": "The contract was explicit about the terms of payment.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) rõ ràng, minh bạch"
+  },
+  {
+    "id": 390,
+    "en1": "dedication",
+    "en2": "The teacher's dedication to her students is truly admirable.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự cống hiến, sự tận tâm"
+  },
+  {
+    "id": 389,
+    "en1": "exemplify",
+    "en2": "This case study exemplifies the challenges faced by small businesses.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) minh họa, làm ví dụ điển hình"
+  },
+  {
+    "id": 388,
+    "en1": "equate",
+    "en2": "Many people equate wealth with happiness.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) coi là bằng nhau, tương đương"
+  },
+  {
+    "id": 387,
+    "en1": "discrete",
+    "en2": "The course is divided into several discrete modules that can be studied independently.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) riêng biệt, tách biệt"
+  },
+  {
+    "id": 386,
+    "en1": "diligent",
+    "en2": "She is a diligent student who always completes her assignments on time.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) siêng năng, cần cù"
+  },
+  {
+    "id": 385,
+    "en1": "deter",
+    "en2": "The high cost of living in the city deterred many young families from moving there.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) ngăn cản, ngăn chặn"
+  },
+  {
+    "id": 384,
+    "en1": "detect",
+    "en2": "The security system can detect movement in the building.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) phát hiện, nhận biết"
+  },
+  {
+    "id": 383,
+    "en1": "convene",
+    "en2": "The board of directors will convene next week to discuss the new budget proposal.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) triệu tập, tụ họp"
+  },
+  {
+    "id": 382,
+    "en1": "constitute",
+    "en2": "Hard work and dedication constitute the key to success.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) tạo thành, cấu thành"
+  },
+  {
+    "id": 381,
+    "en1": "circumstance",
+    "en2": "She excelled in her career despite difficult circumstances in her personal life.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) điều kiện, hoàn cảnh"
+  },
+  {
+    "id": 380,
+    "en1": "attribute",
+    "en2": "Her intelligence is an important attribute for this job.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) thuộc tính, đặc điểm"
+  },
+  {
+    "id": 379,
+    "en1": "attain",
+    "en2": "She worked hard to attain her goal of becoming a doctor.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) đạt được"
+  },
+  {
+    "id": 378,
+    "en1": "articulate",
+    "en2": "She is known for being very articulate in her presentations.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) diễn đạt rõ ràng, thông suốt"
+  },
+  {
+    "id": 377,
+    "en1": "ambivalent",
+    "en2": "He was ambivalent about moving to a new city.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) mâu thuẫn, lưỡng lự"
+  },
+  {
+    "id": 376,
+    "en1": "allocate, assign",
+    "en2": "The manager allocated the tasks among the team members.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) phân bổ, cấp cho"
+  },
+  {
     "id": 375,
     "en1": "widespread",
     "en2": "There is widespread support for the new education policy.",
@@ -818,10 +994,10 @@
   {
     "id": 273,
     "en1": "depict",
-    "en2": "",
-    "en3": "",
+    "en2": "The book depicts the daily life of a small town through vivid descriptions of its people and places.",
+    "en3": "The artist depicted a beautiful sunset using bright colors and sweeping brushstrokes.",
     "en4": "",
-    "vn1": "miêu tả, mô tả"
+    "vn1": "(v) miêu tả, biểu hiện"
   },
   {
     "id": 272,
@@ -873,11 +1049,11 @@
   },
   {
     "id": 266,
-    "en1": "alleviate",
+    "en1": "alleviate, lessen",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "làm giảm bớt, nhẹ bớt"
+    "vn1": "(v) làm giảm thiểu, làm dịu"
   },
   {
     "id": 265,
@@ -2089,11 +2265,11 @@
   },
   {
     "id": 114,
-    "en1": "lessen",
+    "en1": "lessen, mitigate",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "làm giảm"
+    "vn1": "(v) làm giảm thiểu, làm dịu"
   },
   {
     "id": 113,
@@ -2130,10 +2306,10 @@
   {
     "id": 109,
     "en1": "unleash",
-    "en2": "",
+    "en2": "The coach encouraged the team to unleash their full potential during the championship.",
     "en3": "",
     "en4": "",
-    "vn1": "thả, tháo xích"
+    "vn1": "(v) thả ra, giải phóng"
   },
   {
     "id": 108,
@@ -2145,11 +2321,11 @@
   },
   {
     "id": 107,
-    "en1": "sustain",
-    "en2": "",
+    "en1": "sustain, perpetuate",
+    "en2": "Farmers work hard to sustain their crops during dry seasons.",
     "en3": "",
     "en4": "",
-    "vn1": "duy trì, chịu đựng"
+    "vn1": "(v) duy trì"
   },
   {
     "id": 106,
@@ -2162,10 +2338,10 @@
   {
     "id": 105,
     "en1": "continent",
-    "en2": "",
+    "en2": "Asia is the largest continent by both land area and population.",
     "en3": "",
     "en4": "",
-    "vn1": "lục địa"
+    "vn1": "(n) lục địa"
   },
   {
     "id": 104,
