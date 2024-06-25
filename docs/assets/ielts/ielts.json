@@ -1,6 +1,6 @@
 [
   {
-    "id": 420,
+    "id": 421,
     "en1": "incentive",
     "en2": "The company offers financial incentives to employees who meet their targets.",
     "en3": "",
@@ -8,7 +8,7 @@
     "vn1": "(n) sự khích lệ"
   },
   {
-    "id": 419,
+    "id": 420,
     "en1": "reliance",
     "en2": "The company's reliance on technology has increased over the years.",
     "en3": "",
@@ -16,7 +16,7 @@
     "vn1": "(n) sự phụ thuộc"
   },
   {
-    "id": 418,
+    "id": 419,
     "en1": "finite, restricted",
     "en2": "The earth's resources are finite and must be used wisely.",
     "en3": "",
@@ -24,7 +24,7 @@
     "vn1": "(a) có giới hạn, hạn chế"
   },
   {
-    "id": 417,
+    "id": 418,
     "en1": "vital",
     "en2": "Good nutrition is vital for maintaining a healthy body.",
     "en3": "",
@@ -32,12 +32,20 @@
     "vn1": "(a) rất cần thiết, quan trọng"
   },
   {
-    "id": 416,
+    "id": 417,
     "en1": "obesity",
     "en2": "Obesity increases the risk of many serious health conditions.",
     "en3": "",
     "en4": "",
     "vn1": "(n) béo phì"
+  },
+  {
+    "id": 416,
+    "en1": "concrete",
+    "en2": "We need a concrete plan before we start the project.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a, n) cụ thể; bê tông"
   },
   {
     "id": 415,
