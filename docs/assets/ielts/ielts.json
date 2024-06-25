@@ -1,5 +1,21 @@
 [
   {
+    "id": 423,
+    "en1": "infection",
+    "en2": "She developed an infection after the surgery.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự nhiễm trùng, tình trạng bị nhiễm trùng"
+  },
+  {
+    "id": 422,
+    "en1": "isolation",
+    "en2": "The patient was kept in isolation to prevent the spread of the infection.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự cô lập, sự tách biệt"
+  },
+  {
     "id": 421,
     "en1": "incentive",
     "en2": "The company offers financial incentives to employees who meet their targets.",
@@ -85,7 +101,7 @@
     "en2": "The scientist needs to substantiate her findings with more experiments.",
     "en3": "",
     "en4": "",
-    "vn1": "(v) chứng minh, làm cho cái gì thành chân thực"
+    "vn1": "(v) chứng minh"
   },
   {
     "id": 410,
