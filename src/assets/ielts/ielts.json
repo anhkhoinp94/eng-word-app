@@ -1,5 +1,45 @@
 [
   {
+    "id": 420,
+    "en1": "incentive",
+    "en2": "The company offers financial incentives to employees who meet their targets.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự khích lệ"
+  },
+  {
+    "id": 419,
+    "en1": "reliance",
+    "en2": "The company's reliance on technology has increased over the years.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự phụ thuộc"
+  },
+  {
+    "id": 418,
+    "en1": "finite, restricted",
+    "en2": "The earth's resources are finite and must be used wisely.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) có giới hạn, hạn chế"
+  },
+  {
+    "id": 417,
+    "en1": "vital",
+    "en2": "Good nutrition is vital for maintaining a healthy body.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) rất cần thiết, quan trọng"
+  },
+  {
+    "id": 416,
+    "en1": "obesity",
+    "en2": "Obesity increases the risk of many serious health conditions.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) béo phì"
+  },
+  {
     "id": 415,
     "en1": "undermine",
     "en2": "The leaked emails undermined their reputation.",
@@ -377,11 +417,11 @@
   },
   {
     "id": 368,
-    "en1": "restrict",
+    "en1": "restricted, finite",
     "en2": "Traffic was restricted due to heavy snowfall.",
     "en3": "",
     "en4": "",
-    "vn1": "(v) hạn chế"
+    "vn1": "(a) có giới hạn, hạn chế"
   },
   {
     "id": 367,

@@ -76,7 +76,7 @@ export class AppComponent {
   id = 1;
   min = 1;
   // max = 603;
-  max = 415;
+  max = 420;
   vnWord1 = '';
   vnWord2 = '';
   enWord1 = '';
@@ -134,7 +134,7 @@ export class AppComponent {
     // this.see = !this.show;
     this.show = false;
     this.see = true;
-    
+
     this.id = this.getRandomArbitrary(this.min, this.max);
     let word = this.words.find((obj) => {
       return obj.id === this.id;
