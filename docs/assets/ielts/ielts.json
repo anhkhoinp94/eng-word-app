@@ -1,5 +1,37 @@
 [
   {
+    "id": 427,
+    "en1": "institution",
+    "en2": "Schools are important institutions for educating young people.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) tổ chức, cơ quan"
+  },
+  {
+    "id": 426,
+    "en1": "symptom",
+    "en2": "Coughing and fever are common symptoms of the flu.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) triệu chứng"
+  },
+  {
+    "id": 425,
+    "en1": "awareness, consciousness",
+    "en2": "He lacks awareness of how his actions affect others.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự nhận thức, hiểu biết"
+  },
+  {
+    "id": 424,
+    "en1": "mindfulness meditation",
+    "en2": "Mindfulness meditation helps people to stay present and reduce stress.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) thiền chánh niệm"
+  },
+  {
     "id": 423,
     "en1": "infection",
     "en2": "She developed an infection after the surgery.",
@@ -1170,26 +1202,26 @@
   {
     "id": 277,
     "en1": "fragrant",
-    "en2": "",
+    "en2": "She bought a fragrant candle that smelled like lavender.",
     "en3": "",
     "en4": "",
-    "vn1": "thơm"
+    "vn1": "(a) thơm"
   },
   {
     "id": 276,
     "en1": "prejudice",
-    "en2": "",
+    "en2": "Educating people about cultural diversity can help reduce prejudice.",
     "en3": "",
     "en4": "",
-    "vn1": "định kiến"
+    "vn1": "(n) định kiến"
   },
   {
     "id": 275,
     "en1": "condemn",
-    "en2": "",
+    "en2": "The government strongly condemned the terrorist attack.",
     "en3": "",
     "en4": "",
-    "vn1": "lên án, chỉ trích"
+    "vn1": "(v) lên án, chỉ trích"
   },
   {
     "id": 274,
@@ -2442,10 +2474,10 @@
   {
     "id": 118,
     "en1": "corruption",
-    "en2": "",
+    "en2": "Corruption is a serious issue that undermines trust in government institutions.",
     "en3": "",
     "en4": "",
-    "vn1": "tham nhũng"
+    "vn1": "(n) sự tham nhũng"
   },
   {
     "id": 117,
@@ -2994,10 +3026,10 @@
   {
     "id": 49,
     "en1": "exaggerated",
-    "en2": "",
+    "en2": "His story was so exaggerated that nobody believed him.",
     "en3": "",
     "en4": "",
-    "vn1": "phóng đại"
+    "vn1": "(a) bị phóng đại"
   },
   {
     "id": 48,
