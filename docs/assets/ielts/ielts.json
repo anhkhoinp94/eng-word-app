@@ -1,5 +1,37 @@
 [
   {
+    "id": 431,
+    "en1": "appropriate",
+    "en2": "It is important to wear appropriate clothing for the interview.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) phù hợp; (v) chiếm đoạt"
+  },
+  {
+    "id": 430,
+    "en1": "viable",
+    "en2": "The plan needs to be viable in the long term.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) khả thi"
+  },
+  {
+    "id": 429,
+    "en1": "utilize",
+    "en2": "We need to utilize all available resources to complete the project on time.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) sử dụng, tận dụng"
+  },
+  {
+    "id": 428,
+    "en1": "underpin, reinforce",
+    "en2": "The theory is underpinned by extensive research and data.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) hỗ trợ, củng cố"
+  },
+  {
     "id": 427,
     "en1": "institution",
     "en2": "Schools are important institutions for educating young people.",
@@ -845,15 +877,15 @@
     "en2": "The new management team aims to reinvigorate the company with innovative strategies.",
     "en3": "",
     "en4": "",
-    "vn1": "làm mạnh hơn, làm mới, khôi phục lại"
+    "vn1": "(v) khôi phục"
   },
   {
     "id": 321,
     "en1": "apparel",
-    "en2": "The store offers a wide range of stylish apparel for men and women.",
+    "en2": "The store specializes in women's apparel.",
     "en3": "",
     "en4": "",
-    "vn1": "trang phục, thời trang"
+    "vn1": "(n) trang phục"
   },
   {
     "id": 320,
@@ -1057,11 +1089,11 @@
   },
   {
     "id": 295,
-    "en1": "reinforce",
+    "en1": "reinforce, underpin",
     "en2": "The company implemented new policies to reinforce workplace safety.",
     "en3": "",
     "en4": "",
-    "vn1": "(v) củng cố, gia cố"
+    "vn1": "(v) hỗ trợ, củng cố"
   },
   {
     "id": 294,
@@ -1834,18 +1866,18 @@
   {
     "id": 198,
     "en1": "instinctive",
-    "en2": "",
+    "en2": "Her instinctive kindness made her popular among her peers.",
     "en3": "",
     "en4": "",
-    "vn1": "theo bản năng"
+    "vn1": "(a) theo bản năng"
   },
   {
     "id": 197,
     "en1": "ethology",
-    "en2": "",
+    "en2": "She is studying ethology to understand the behavior of wolves in the wild.",
     "en3": "",
     "en4": "",
-    "vn1": "tập tính học"
+    "vn1": "(n) tập tính học"
   },
   {
     "id": 196,
@@ -3162,18 +3194,18 @@
   {
     "id": 32,
     "en1": "outgoing",
-    "en2": "",
+    "en2": "She has an outgoing personality, always making new friends wherever she goes.",
     "en3": "",
     "en4": "",
-    "vn1": "hòa đồng"
+    "vn1": "(a) hòa đồng"
   },
   {
     "id": 31,
-    "en1": "bold",
-    "en2": "",
+    "en1": "bold, courageous",
+    "en2": "She made a bold decision to start her own business.",
     "en3": "",
     "en4": "",
-    "vn1": "dũng cảm"
+    "vn1": "(a) dũng cảm"
   },
   {
     "id": 30,
@@ -3201,11 +3233,11 @@
   },
   {
     "id": 27,
-    "en1": "courageous",
-    "en2": "",
+    "en1": "courageous, bold",
+    "en2": "The firefighter's courageous actions saved many lives.",
     "en3": "",
     "en4": "",
-    "vn1": "can đảm"
+    "vn1": "(a) dũng cảm"
   },
   {
     "id": 26,
@@ -3362,15 +3394,15 @@
   {
     "id": 7,
     "en1": "superstition",
-    "en2": "",
+    "en2": "There are many superstitions associated with Friday the 13th.",
     "en3": "",
     "en4": "",
-    "vn1": "mê tín dị đoan"
+    "vn1": "(n) mê tín dị đoan"
   },
   {
     "id": 6,
     "en1": "coin",
-    "en2": "",
+    "en2": "The marketing team coined a new slogan for the product launch.",
     "en3": "",
     "en4": "",
     "vn1": "(v) to create a new word"
