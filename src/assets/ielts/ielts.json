@@ -1,5 +1,53 @@
 [
   {
+    "id": 437,
+    "en1": "preserve, retain",
+    "en2": "We must preserve our natural resources for future generations.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) duy trì"
+  },
+  {
+    "id": 436,
+    "en1": "notable, significant",
+    "en2": "The most notable feature of the building is its large dome.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) quan trọng, đáng kể"
+  },
+  {
+    "id": 435,
+    "en1": "glaring",
+    "en2": "There was a glaring mistake in the report.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) rõ ràng"
+  },
+  {
+    "id": 434,
+    "en1": "contradiction",
+    "en2": "There is a contradiction between his words and his actions.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự mâu thuẫn, đối lập"
+  },
+  {
+    "id": 433,
+    "en1": "negligible",
+    "en2": "The cost of the repairs was negligible.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) không đáng kể"
+  },
+  {
+    "id": 432,
+    "en1": "consciousness, awareness",
+    "en2": "She lost consciousness after the accident.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự nhận thức, hiểu biết"
+  },
+  {
     "id": 431,
     "en1": "appropriate",
     "en2": "It is important to wear appropriate clothing for the interview.",
@@ -217,11 +265,11 @@
   },
   {
     "id": 404,
-    "en1": "retain",
+    "en1": "retain, preserve",
     "en2": "He wanted to retain his position as team captain.",
     "en3": "",
     "en4": "",
-    "vn1": "(v) giữ lại, duy trì"
+    "vn1": "(v) duy trì"
   },
   {
     "id": 403,
@@ -497,7 +545,7 @@
   },
   {
     "id": 369,
-    "en1": "significant",
+    "en1": "significant, notable",
     "en2": "The discovery of penicillin was a significant breakthrough in medical history.",
     "en3": "",
     "en4": "",
