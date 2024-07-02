@@ -1,5 +1,53 @@
 [
   {
+    "id": 457,
+    "en1": "undergraduate",
+    "en2": "He enrolled in an undergraduate program in computer science.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sinh viên"
+  },
+  {
+    "id": 456,
+    "en1": "tuition",
+    "en2": "Many students rely on scholarships to cover their tuition costs.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) học phí"
+  },
+  {
+    "id": 455,
+    "en1": "faculty, faculties",
+    "en2": "She is a member of the science faculty.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) giảng viên"
+  },
+  {
+    "id": 454,
+    "en1": "dormitory",
+    "en2": "The university dormitory is located near the main campus.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) ký túc xá"
+  },
+  {
+    "id": 453,
+    "en1": "representative",
+    "en2": "The company's representative met with the clients to discuss the contract.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a, n) đại diện"
+  },
+  {
+    "id": 452,
+    "en1": "telecommunication",
+    "en2": "The company specializes in telecommunication services.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) viễn thông"
+  },
+  {
     "id": 451,
     "en1": "excursion",
     "en2": "The students enjoyed a day excursion to the zoo.",
