@@ -1,5 +1,13 @@
 [
   {
+    "id": 445,
+    "en1": "convention, conference",
+    "en2": "Shaking hands is a social convention for first-time meetings.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) quy ước, hội nghị"
+  },
+  {
     "id": 444,
     "en1": "gratitude, gratefulness",
     "en2": "She expressed her gratitude for the help she received.",
@@ -921,11 +929,11 @@
   },
   {
     "id": 329,
-    "en1": "conference",
+    "en1": "conference, convention",
     "en2": "They organized a conference to discuss the latest advancements in medical research.",
     "en3": "",
     "en4": "",
-    "vn1": "hội nghị, hội thảo"
+    "vn1": "(n) hội nghị"
   },
   {
     "id": 328,
