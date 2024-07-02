@@ -1,5 +1,942 @@
 [
   {
+    "id": 578,
+    "en1": "fluctuation, volatility",
+    "en2": "The fluctuation of temperatures makes it hard to plan outdoor activities.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự biến động"
+  },
+  {
+    "id": 577,
+    "en1": "volatility, fluctuation",
+    "en2": "The volatility of the stock market makes it risky for investors.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự biến động"
+  },
+  {
+    "id": 576,
+    "en1": "dissemination",
+    "en2": "They focused on the dissemination of health education in rural areas.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự phổ biến"
+  },
+  {
+    "id": 575,
+    "en1": "culinary",
+    "en2": "They offer a variety of culinary classes for beginners.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) thuộc về ẩm thực"
+  },
+  {
+    "id": 574,
+    "en1": "contemporary",
+    "en2": "The gallery features contemporary art from local artists.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) hiện đại, đương đại"
+  },
+  {
+    "id": 573,
+    "en1": "interplay",
+    "en2": "There is a constant interplay between the players on the team.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự tương tác, tác động"
+  },
+  {
+    "id": 572,
+    "en1": "versatile",
+    "en2": "She is a versatile actress who can play a wide range of roles.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) đa năng"
+  },
+  {
+    "id": 571,
+    "en1": "take for granted",
+    "en2": "She took his love for granted and didn't realize how much he cared for her.",
+    "en3": "",
+    "en4": "",
+    "vn1": "coi là điều hiển nhiên"
+  },
+  {
+    "id": 570,
+    "en1": "overblown, exaggerated",
+    "en2": "His reaction to the small mistake was completely overblown.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) bị phóng đại"
+  },
+  {
+    "id": 569,
+    "en1": "ethically",
+    "en2": "The company always ensures that its practices are conducted ethically.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(av) một cách có đạo đức"
+  },
+  {
+    "id": 568,
+    "en1": "deceive",
+    "en2": "He tried to deceive his friends about his true intentions.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) lừa dối, lừa gạt"
+  },
+  {
+    "id": 567,
+    "en1": "allegation",
+    "en2": "Despite the allegations, there was no concrete evidence found.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) cáo buộc"
+  },
+  {
+    "id": 566,
+    "en1": "conclusive",
+    "en2": "The test results were conclusive, confirming the diagnosis.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) thuyết phục, mang tính quyết định"
+  },
+  {
+    "id": 565,
+    "en1": "thesis",
+    "en2": "His thesis was well-researched and highly praised by the committee.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) luận văn, luận điểm"
+  },
+  {
+    "id": 564,
+    "en1": "comprehension",
+    "en2": "His comprehension of complex mathematical concepts is impressive.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) khả năng hiểu biết"
+  },
+  {
+    "id": 563,
+    "en1": "literacy",
+    "en2": "Literacy rates have improved significantly over the past decade.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) khả năng đọc viết"
+  },
+  {
+    "id": 562,
+    "en1": "asteroid",
+    "en2": "The asteroid belt is located between Mars and Jupiter.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) tiểu hành tinh"
+  },
+  {
+    "id": 561,
+    "en1": "engage",
+    "en2": "They decided to engage after dating for three years.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) đính hôn, tham gia, thu hút"
+  },
+  {
+    "id": 560,
+    "en1": "oversee",
+    "en2": "He oversees all operations in the factory.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) giám sát, quan sát"
+  },
+  {
+    "id": 559,
+    "en1": "whirlwind",
+    "en2": "After the whirlwind of the wedding day, the couple finally relaxed on their honeymoon.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) cơn lốc, gió xoáy"
+  },
+  {
+    "id": 558,
+    "en1": "be off to",
+    "en2": "I'm off to the store to buy some groceries.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(phr v) rời đi để đến"
+  },
+  {
+    "id": 557,
+    "en1": "bark",
+    "en2": "The dog will bark if it sees a stranger.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) sủa"
+  },
+  {
+    "id": 556,
+    "en1": "occupy",
+    "en2": "The new sofa occupies most of the living room space.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) chiếm lấy"
+  },
+  {
+    "id": 555,
+    "en1": "damp",
+    "en2": "The damp patches on his shirt drew together like shapes in an atlas",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a,n,v) ẩm ướt; làm ẩm"
+  },
+  {
+    "id": 554,
+    "en1": "sweat",
+    "en2": "He wiped the sweat from the back of his neck.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) mồ hôi"
+  },
+  {
+    "id": 553,
+    "en1": "wipe",
+    "en2": "She wiped the spills from the kitchen counter.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v,n) lau chùi; khăn lau"
+  },
+  {
+    "id": 552,
+    "en1": "lick, taste",
+    "en2": "The dog licked my hand.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) liếm"
+  },
+  {
+    "id": 551,
+    "en1": "twist",
+    "en2": "She twisted the cap off the bottle.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) xoay"
+  },
+  {
+    "id": 550,
+    "en1": "lift",
+    "en2": "He lifted the box onto the table.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v,n) nâng lên; thang máy"
+  },
+  {
+    "id": 549,
+    "en1": "stew",
+    "en2": "She made a delicious beef stew for dinner.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) món hầm"
+  },
+  {
+    "id": 548,
+    "en1": "chop",
+    "en2": "He chopped the vegetables for the stew.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) cắt, chặt, đốn"
+  },
+  {
+    "id": 547,
+    "en1": "daunt",
+    "en2": "The difficult task did not daunt him, he faced it with courage.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) làm cho sợ hãi, làm nản lòng"
+  },
+  {
+    "id": 546,
+    "en1": "intricacy, subtlety",
+    "en2": "Understanding the intricacy of human emotions can be challenging.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự phức tạp, tinh vi"
+  },
+  {
+    "id": 545,
+    "en1": "postpone, put off",
+    "en2": "We decided to postpone the meeting until next week.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) trì hoãn"
+  },
+  {
+    "id": 544,
+    "en1": "veterinary",
+    "en2": "She is studying veterinary medicine at the university.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n,a) bác sĩ thú y, liên quan đến y học thú y"
+  },
+  {
+    "id": 543,
+    "en1": "delineate, depict",
+    "en2": "The architect will delineate the layout of the building.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) mô tả, phác họa"
+  },
+  {
+    "id": 542,
+    "en1": "bugle",
+    "en2": "The soldier played the bugle at dawn.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n,v) kèn bugle; thổi kèn bugle"
+  },
+  {
+    "id": 541,
+    "en1": "intuit",
+    "en2": "She could intuit his feelings just by looking at his face.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) cảm nhận bằng trực giác"
+  },
+  {
+    "id": 540,
+    "en1": "rival",
+    "en2": "She is my biggest rival in the competition.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n,v) đối thủ; cạnh tranh với"
+  },
+  {
+    "id": 539,
+    "en1": "overripe",
+    "en2": "The bananas were overripe and starting to turn brown.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) quá chín"
+  },
+  {
+    "id": 538,
+    "en1": "priest",
+    "en2": "He decided to become a priest and dedicate his life to the church.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) linh mục, thầy tu"
+  },
+  {
+    "id": 537,
+    "en1": "extract, derive",
+    "en2": "They use a special machine to extract oil from the olives.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) trích xuất"
+  },
+  {
+    "id": 536,
+    "en1": "neglected, abandoned",
+    "en2": "Middle children tend to feel neglected and insecure.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) bị bỏ rơi"
+  },
+  {
+    "id": 535,
+    "en1": "criticize, condemn",
+    "en2": "The film was criticized by many reviewers for its weak plot.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) chỉ trích"
+  },
+  {
+    "id": 534,
+    "en1": "rebellious, disobedient",
+    "en2": "The rebellious teenagers refused to follow the school's rules.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) nổi loạn"
+  },
+  {
+    "id": 533,
+    "en1": "ruddy, reddish",
+    "en2": "His ruddy cheeks showed that he had been outside in the cold.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) hồng hào"
+  },
+  {
+    "id": 532,
+    "en1": "squint",
+    "en2": "She had to squint to read the small print on the contract.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) nheo mắt"
+  },
+  {
+    "id": 531,
+    "en1": "hoof",
+    "en2": "The horse's hoof needs to be trimmed regularly.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n,v) móng guốc, đi bộ"
+  },
+  {
+    "id": 530,
+    "en1": "flick",
+    "en2": "He flicked through the magazine quickly.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) lướt qua, búng nhẹ"
+  },
+  {
+    "id": 529,
+    "en1": "patch",
+    "en2": "The garden has a beautiful patch of flowers.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n,v) khu vực nhỏ, bản vá"
+  },
+  {
+    "id": 528,
+    "en1": "contrast",
+    "en2": "The contrast between the two paintings is striking.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự tương phản"
+  },
+  {
+    "id": 527,
+    "en1": "reverse",
+    "en2": "She decided to reverse her decision after considering all the pros and cons.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) đảo ngược, lật ngược"
+  },
+  {
+    "id": 526,
+    "en1": "disastrous",
+    "en2": "The earthquake had a disastrous effect on the city.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) thảm khốc, thảm họa"
+  },
+  {
+    "id": 525,
+    "en1": "staggering",
+    "en2": "The results of the experiment were staggering, revealing unexpected findings.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) sững sờ, choáng váng"
+  },
+  {
+    "id": 524,
+    "en1": "dump",
+    "en2": "The city has a new waste dump for all of the garbage.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n,v) bãi rác, loại bỏ"
+  },
+  {
+    "id": 523,
+    "en1": "premiere",
+    "en2": "The film’s premiere was held at the Grand Theater in Hollywood.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n,v) ra mắt"
+  },
+  {
+    "id": 522,
+    "en1": "precipitation, deposition",
+    "en2": "The precipitation of salt from the solution was observed in the lab.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự lắng đọng"
+  },
+  {
+    "id": 521,
+    "en1": "deposition, precipitation",
+    "en2": "The deposition of ice on the roads made driving hazardous.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự lắng đọng, sự phế truất, lời khai"
+  },
+  {
+    "id": 520,
+    "en1": "excerpt",
+    "en2": "She read an excerpt from her favorite novel during the book club meeting.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n,v) đoạn trích, trích đoạn"
+  },
+  {
+    "id": 519,
+    "en1": "thrilling",
+    "en2": "She found the novel thrilling from beginning to end.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) kịch tính, hấp dẫn"
+  },
+  {
+    "id": 518,
+    "en1": "dimension",
+    "en2": "The new policy added a different dimension to the company's strategy.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) khía cạnh, kích thước"
+  },
+  {
+    "id": 517,
+    "en1": "plot",
+    "en2": "The plot of the novel was filled with unexpected twists.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) cốt truyện, âm mưu, mảnh đất"
+  },
+  {
+    "id": 516,
+    "en1": "botanist",
+    "en2": "She became a botanist because of her love for plants and nature.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) nhà thực vật học"
+  },
+  {
+    "id": 515,
+    "en1": "worship",
+    "en2": "Many people gather at the temple for worship every Sunday.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) tôn thờ"
+  },
+  {
+    "id": 514,
+    "en1": "spirit",
+    "en2": "Her spirit is very uplifting and motivates everyone around her.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) tinh thần, linh hồn"
+  },
+  {
+    "id": 513,
+    "en1": "invade",
+    "en2": "The new software could invade users' privacy if not properly secured.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) xâm chiếm"
+  },
+  {
+    "id": 512,
+    "en1": "tribe",
+    "en2": "Each tribe has its own unique customs and traditions.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) bộ lạc"
+  },
+  {
+    "id": 511,
+    "en1": "niche",
+    "en2": "The company found a niche in the market for eco-friendly products.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) thị trường ngách"
+  },
+  {
+    "id": 510,
+    "en1": "consistent",
+    "en2": "The results are consistent with our expectations.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) nhất quán"
+  },
+  {
+    "id": 509,
+    "en1": "biography",
+    "en2": "Reading his biography gave me a deeper understanding of his achievements",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) tiểu sử"
+  },
+  {
+    "id": 508,
+    "en1": "proficient, capable",
+    "en2": "He is proficient in multiple programming languages.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) có khả năng, thành thạo"
+  },
+  {
+    "id": 507,
+    "en1": "capable, proficient",
+    "en2": "The new manager is capable of leading the team to success.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) có khả năng, thành thạo"
+  },
+  {
+    "id": 506,
+    "en1": "underestimate",
+    "en2": "Don’t underestimate her abilities just because she’s young.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v, n) đánh giá thấp"
+  },
+  {
+    "id": 505,
+    "en1": "diagnose, assess",
+    "en2": "The doctor will diagnose the patient after running several tests.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) chẩn đoán, đánh giá"
+  },
+  {
+    "id": 504,
+    "en1": "empathy",
+    "en2": "His empathy for the homeless led him to start a charity organization.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự đồng cảm"
+  },
+  {
+    "id": 503,
+    "en1": "reserve",
+    "en2": "I would like to reserve a table for two at your restaurant.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) đặt trước"
+  },
+  {
+    "id": 502,
+    "en1": "catering",
+    "en2": "The catering for the wedding was handled by a top restaurant in the city.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) dịch vụ ăn uống"
+  },
+  {
+    "id": 501,
+    "en1": "take over",
+    "en2": "She will take over as the new manager next month.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) tiếp quản, chiếm ưu thế"
+  },
+  {
+    "id": 500,
+    "en1": "amenity",
+    "en2": "The hotel offers many amenities, including a spa and a swimming pool.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) tiện nghi"
+  },
+  {
+    "id": 499,
+    "en1": "circulate",
+    "en2": "The air circulates through the room to keep it cool.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) phát tán"
+  },
+  {
+    "id": 498,
+    "en1": "spot",
+    "en2": "Can you spot the difference between these two pictures?",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) nhận biết, phát hiện"
+  },
+  {
+    "id": 497,
+    "en1": "conserve, preserve",
+    "en2": "We need to conserve water during the drought.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) bảo tồn, duy trì"
+  },
+  {
+    "id": 496,
+    "en1": "bury",
+    "en2": "He decided to bury the treasure in a secret location.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) chôn cất"
+  },
+  {
+    "id": 495,
+    "en1": "mausoleum",
+    "en2": "The mausoleum was built to honor the great king.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) lăng mộ"
+  },
+  {
+    "id": 494,
+    "en1": "precious",
+    "en2": "Time is precious, so don't waste it.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) quý giá"
+  },
+  {
+    "id": 493,
+    "en1": "marble",
+    "en2": "The statue was carved from white marble.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) đá cẩm thạch, viên bi"
+  },
+  {
+    "id": 492,
+    "en1": "archway",
+    "en2": "They walked through the ancient archway into the castle.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) cổng vòm"
+  },
+  {
+    "id": 491,
+    "en1": "fountain",
+    "en2": "The park has a beautiful fountain in the center",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) đài phun nước"
+  },
+  {
+    "id": 490,
+    "en1": "dome",
+    "en2": "The dome of the cathedral is an architectural marvel.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) mái vòm"
+  },
+  {
+    "id": 489,
+    "en1": "consult, refer to",
+    "en2": "I need to consult a lawyer before signing the contract.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) tham khảo"
+  },
+  {
+    "id": 488,
+    "en1": "encyclopedia",
+    "en2": "He consulted the encyclopedia for information on ancient civilizations.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) bách khoa toàn thư"
+  },
+  {
+    "id": 487,
+    "en1": "addiction",
+    "en2": "His addiction to smoking has affected his health.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) nghiện ngập"
+  },
+  {
+    "id": 486,
+    "en1": "adopter",
+    "en2": "Early adopters play a crucial role in the success of new technologies.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) người nhận nuôi, người chấp nhận"
+  },
+  {
+    "id": 485,
+    "en1": "ironically",
+    "en2": "Ironically, the thief's car was stolen while he was robbing the bank.",
+    "en3": "",
+    "en4": " Gd",
+    "vn1": "(av) một cách mỉa mai, trớ trêu thay"
+  },
+  {
+    "id": 484,
+    "en1": "finalise",
+    "en2": "We need to finalise the details of the contract by tomorrow.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) hoàn thiện, hoàn tất"
+  },
+  {
+    "id": 483,
+    "en1": "spectacular, magnificent",
+    "en2": "We had a spectacular view of the mountains from our hotel room.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) ngoạn mục, ấn tượng"
+  },
+  {
+    "id": 482,
+    "en1": "authentic, real",
+    "en2": "The painting was confirmed to be authentic.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) thật, đáng tin cậy"
+  },
+  {
+    "id": 481,
+    "en1": "severe",
+    "en2": "The storm caused severe damage to the town.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) nghiêm trọng, khắc nghiệt"
+  },
+  {
+    "id": 480,
+    "en1": "patient",
+    "en2": "You need to be patient while waiting for the results.",
+    "en3": "",
+    "en4": "",
+    "en5": "",
+    "vn1": "(a,n) kiên nhẫn; bệnh nhân"
+  },
+  {
+    "id": 479,
+    "en1": "explore",
+    "en2": "Let's explore different options before making a decision.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) khám phá, tìm hiểu"
+  },
+  {
+    "id": 478,
+    "en1": "uncertain",
+    "en2": "The weather is uncertain, so bring an umbrella.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) không chắc chắn"
+  },
+  {
+    "id": 477,
+    "en1": "qualified",
+    "en2": "The candidate is qualified to teach advanced mathematics.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) đủ điều kiện"
+  },
+  {
+    "id": 476,
+    "en1": "intensive, concentrated",
+    "en2": "She completed an intensive language course in just three months.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) tập trung, chuyên sâu"
+  },
+  {
+    "id": 475,
+    "en1": "prospective, potential",
+    "en2": "Prospective students should visit the campus before making a decision.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adj) tiềm năng, có triển vọng, thuộc về tương lai"
+  },
+  {
+    "id": 474,
+    "en1": "prospectus, brochure",
+    "en2": "The university sent out a prospectus to all prospective students.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) bản giới thiệu"
+  },
+  {
+    "id": 473,
+    "en1": "whether",
+    "en2": "You need to tell me whether you can attend the meeting.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(conj) liệu"
+  },
+  {
+    "id": 472,
+    "en1": "refreshment",
+    "en2": "Light refreshments will be served during the break.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) đồ ăn uống nhẹ; sự làm mới"
+  },
+  {
+    "id": 471,
+    "en1": "venue",
+    "en2": "The conference venue was spacious and well-equipped.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) địa điểm tổ chức sự kiện"
+  },
+  {
+    "id": 470,
+    "en1": "reference",
+    "en2": "He provided his potential employer with three references.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự tham khảo, đề cập; thư giới thiệu"
+  },
+  {
+    "id": 469,
+    "en1": "revision, review",
+    "en2": "He spent the weekend doing revision for his exams.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự xem lại, sự ôn tập"
+  },
+  {
+    "id": 468,
+    "en1": "infographic",
+    "en2": "She created an infographic to explain the benefits of a healthy diet.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) biểu đồ"
+  },
+  {
+    "id": 467,
+    "en1": "satisfactory, sufficient",
+    "en2": "The customer service was satisfactory, meeting all our expectations.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) đủ, đạt yêu cầu"
+  },
+  {
+    "id": 466,
+    "en1": "hassle",
+    "en2": "Traveling during the holidays can be a real hassle.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) rắc rối, phiền phức"
+  },
+  {
+    "id": 465,
+    "en1": "drowsiness",
+    "en2": "Drowsiness can affect your ability to drive safely.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) tình trạng buồn ngủ"
+  },
+  {
+    "id": 464,
+    "en1": "prerequisite",
+    "en2": "You must complete the prerequisite courses before enrolling in the advanced class.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) điều kiện tiên quyết"
+  },
+  {
+    "id": 463,
+    "en1": "proof",
+    "en2": "The lawyer presented new proof of the defendant's innocence.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) bằng chứng"
+  },
+  {
+    "id": 462,
+    "en1": "declare",
+    "en2": "The president declared a state of emergency.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) tuyên bố, công bố"
+  },
+  {
     "id": 461,
     "en1": "balcony",
     "en2": "The apartment has a small balcony overlooking the garden.",
@@ -453,7 +1390,7 @@
     "en2": "The university has a rigorous admissions process.",
     "en3": "",
     "en4": "",
-    "vn1": "(a) nghiêm ngặt, cẩn thận"
+    "vn1": "(a) nghiêm ngặt"
   },
   {
     "id": 404,
@@ -701,7 +1638,7 @@
     "en2": "He carefully weighed the pros and cons before making his decision.",
     "en3": "",
     "en4": "",
-    "vn1": "(v) cân nhắc, xem xét kỹ lưỡng"
+    "vn1": "(v) cân đo, cân nhắc"
   },
   {
     "id": 373,
@@ -1186,10 +2123,10 @@
   {
     "id": 313,
     "en1": "engender",
-    "en2": "His speech engendered a sense of hope and unity among the audience.",
+    "en2": "Her actions engendered a sense of trust in the community.",
     "en3": "",
     "en4": "",
-    "vn1": "gây ra, sinh ra"
+    "vn1": "(v) gây ra, sinh ra"
   },
   {
     "id": 312,
@@ -1249,11 +2186,11 @@
   },
   {
     "id": 305,
-    "en1": "subtlety",
-    "en2": "The painting is admired for its subtlety of color and light.",
+    "en1": "subtle",
+    "en2": "There was a subtle tension in the room that everyone could sense but no one could explain.",
     "en3": "",
     "en4": "",
-    "vn1": "sự tinh tế, tinh vi, tinh túy"
+    "vn1": "(a) tinh tế, nhẹ nhàng, khó nhận thấy"
   },
   {
     "id": 304,
@@ -1362,18 +2299,18 @@
   {
     "id": 291,
     "en1": "expel",
-    "en2": "",
+    "en2": "The school decided to expel the student for cheating.",
     "en3": "",
     "en4": "",
-    "vn1": "trục xuất, đuổi"
+    "vn1": "(v) trục xuất, đuổi"
   },
   {
     "id": 290,
-    "en1": "expel",
-    "en2": "",
+    "en1": "fitness",
+    "en2": "Regular exercise is essential for good fitness.",
     "en3": "",
     "en4": "",
-    "vn1": "trục xuất, đuổi"
+    "vn1": "(n) sự khỏe mạnh"
   },
   {
     "id": 289,
@@ -1489,11 +2426,11 @@
   },
   {
     "id": 275,
-    "en1": "condemn",
+    "en1": "condemn, criticize",
     "en2": "The government strongly condemned the terrorist attack.",
     "en3": "",
     "en4": "",
-    "vn1": "(v) lên án, chỉ trích"
+    "vn1": "(v) lên án"
   },
   {
     "id": 274,
@@ -1505,11 +2442,11 @@
   },
   {
     "id": 273,
-    "en1": "depict",
+    "en1": "depict, delineate",
     "en2": "The book depicts the daily life of a small town through vivid descriptions of its people and places.",
     "en3": "The artist depicted a beautiful sunset using bright colors and sweeping brushstrokes.",
     "en4": "",
-    "vn1": "(v) miêu tả, biểu hiện"
+    "vn1": "(v) mô tả, phác họa"
   },
   {
     "id": 272,
@@ -1650,10 +2587,10 @@
   {
     "id": 255,
     "en1": "undertake",
-    "en2": "",
+    "en2": "We will undertake the responsibility of organizing the event.",
     "en3": "",
     "en4": "",
-    "vn1": "đảm nhận"
+    "vn1": "(v) đảm nhận"
   },
   {
     "id": 254,
@@ -1778,10 +2715,10 @@
   {
     "id": 239,
     "en1": "mischievous",
-    "en2": "",
+    "en2": "His mischievous behavior often gets him into trouble.",
     "en3": "",
     "en4": "",
-    "vn1": "quậy phá, tinh nghịch"
+    "vn1": "(a) tinh nghịch"
   },
   {
     "id": 238,
@@ -1802,10 +2739,10 @@
   {
     "id": 236,
     "en1": "otherwise",
-    "en2": "",
+    "en2": "You can choose to stay here. Otherwise, you can go home.",
     "en3": "",
     "en4": "",
-    "vn1": "nếu không thì"
+    "vn1": "(av) nếu không thì, mặt khác"
   },
   {
     "id": 235,
@@ -2153,11 +3090,11 @@
   },
   {
     "id": 192,
-    "en1": "derived from",
-    "en2": "",
+    "en1": "derive from, extract",
+    "en2": "The company derives a significant portion of its revenue from online sales.",
     "en3": "",
     "en4": "",
-    "vn1": "xuất phát từ"
+    "vn1": "(v) trích xuất, xuất phát từ"
   },
   {
     "id": 191,
@@ -2297,11 +3234,11 @@
   },
   {
     "id": 174,
-    "en1": "degree",
-    "en2": "",
+    "en1": "degree, extent",
+    "en2": "To a certain degree, I agree with you.",
     "en3": "",
     "en4": "",
-    "vn1": "mức độ"
+    "vn1": "(n) mức độ, phạm vi"
   },
   {
     "id": 173,
@@ -2394,26 +3331,26 @@
   {
     "id": 162,
     "en1": "suicide",
-    "en2": "",
+    "en2": "Talking openly about suicide can help prevent it.",
     "en3": "",
     "en4": "",
-    "vn1": "tự sát"
+    "vn1": "(n,v) tự sát"
   },
   {
     "id": 161,
     "en1": "endurance",
-    "en2": "",
+    "en2": "She showed great endurance during the long hike.",
     "en3": "",
     "en4": "",
-    "vn1": "sức bền"
+    "vn1": "(n) sức chịu đựng, sức bền"
   },
   {
     "id": 160,
     "en1": "barely",
-    "en2": "",
+    "en2": "There was barely enough food for everyone.",
     "en3": "",
     "en4": "",
-    "vn1": "chỉ vừa"
+    "vn1": "(av) chỉ vừa đủ"
   },
   {
     "id": 159,
@@ -2441,11 +3378,11 @@
   },
   {
     "id": 156,
-    "en1": "harsh, harshest",
-    "en2": "",
+    "en1": "harsh, severe",
+    "en2": "The desert has a harsh climate.",
     "en3": "",
     "en4": "",
-    "vn1": "(a) thô ráp, khắc nghiệt nhất"
+    "vn1": "(a) khắc nghiệt, nghiêm trọng"
   },
   {
     "id": 155,
@@ -2473,11 +3410,11 @@
   },
   {
     "id": 152,
-    "en1": "extent",
-    "en2": "",
+    "en1": "extent, degree",
+    "en2": "The extent of the damage was severe.",
     "en3": "",
     "en4": "",
-    "vn1": "(n) phạm vi"
+    "vn1": "(n) mức độ, phạm vi"
   },
   {
     "id": 151,
@@ -2537,11 +3474,11 @@
   },
   {
     "id": 144,
-    "en1": "refer to",
-    "en2": "",
+    "en1": "refer to, consult",
+    "en2": "Please refer to the manual for more detailed instructions.",
     "en3": "",
     "en4": "",
-    "vn1": "ám chỉ, nói đến"
+    "vn1": "(v) tham khảo"
   },
   {
     "id": 143,
@@ -3297,7 +4234,7 @@
   },
   {
     "id": 49,
-    "en1": "exaggerated",
+    "en1": "exaggerated, overblown",
     "en2": "His story was so exaggerated that nobody believed him.",
     "en3": "",
     "en4": "",
