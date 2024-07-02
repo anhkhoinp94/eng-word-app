@@ -1,5 +1,37 @@
 [
   {
+    "id": 461,
+    "en1": "balcony",
+    "en2": "The apartment has a small balcony overlooking the garden.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) ban công"
+  },
+  {
+    "id": 460,
+    "en1": "flat",
+    "en2": "The flat has two bedrooms and a balcony.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) căn hộ"
+  },
+  {
+    "id": 459,
+    "en1": "cathedral",
+    "en2": "The cathedral is a famous landmark in the city.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) nhà thờ lớn"
+  },
+  {
+    "id": 458,
+    "en1": "en-suite",
+    "en2": "All the rooms in this hotel are en-suite.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) có nhà vệ sinh, nhà tắm riêng"
+  },
+  {
     "id": 457,
     "en1": "undergraduate",
     "en2": "He enrolled in an undergraduate program in computer science.",
