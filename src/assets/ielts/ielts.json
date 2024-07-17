@@ -1,5 +1,77 @@
 [
   {
+    "id": 587,
+    "en1": "resentment",
+    "en2": "She felt a deep sense of resentment towards her boss for not recognizing her hard work.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự bực bội"
+  },
+  {
+    "id": 586,
+    "en1": "carry out, implement",
+    "en2": "The team will carry out the project according to the client’s specifications.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) thực hiện"
+  },
+  {
+    "id": 585,
+    "en1": "hierarchy, ranking",
+    "en2": "The company has a strict hierarchy with clear levels of authority.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) hệ thống cấp bậc"
+  },
+  {
+    "id": 584,
+    "en1": "vague, ambiguous",
+    "en2": "Her explanation was too vague for us to understand.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) mơ hồ"
+  },
+  {
+    "id": 583,
+    "en1": "democratic",
+    "en2": "They believe in a democratic system where everyone has a voice.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) dân chủ"
+  },
+  {
+    "id": 582,
+    "en1": "be unaccounted for",
+    "en2": "Several people are still unaccounted for after the earthquake.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) không rõ tung tích"
+  },
+  {
+    "id": 581,
+    "en1": "track",
+    "en2": "We need to track the shipment to ensure it arrives on time.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) theo dõi"
+  },
+  {
+    "id": 580,
+    "en1": "infrared",
+    "en2": "The infrared camera can detect heat signatures in the dark.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n,a) tia hồng ngoại"
+  },
+  {
+    "id": 579,
+    "en1": "hazardous",
+    "en2": "The chemicals in the lab are hazardous to human health.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) dangerous"
+  },
+  {
     "id": 578,
     "en1": "fluctuation, volatility",
     "en2": "The fluctuation of temperatures makes it hard to plan outdoor activities.",
@@ -2454,7 +2526,7 @@
     "en2": "The instructions were ambiguous, so we weren't sure what to do.",
     "en3": "",
     "en4": "",
-    "vn1": "không rõ ràng, mơ hồ"
+    "vn1": "(a) mơ hồ"
   },
   {
     "id": 271,
