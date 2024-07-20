@@ -1,5 +1,45 @@
 [
   {
+    "id": 596,
+    "en1": "turnover rate",
+    "en2": "The company is trying to reduce its high turnover rate.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) tỷ lệ nghỉ việc"
+  },
+  {
+    "id": 595,
+    "en1": "strive",
+    "en2": "We must strive to achieve our goals.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) cố gắng"
+  },
+  {
+    "id": 594,
+    "en1": "excessive, exorbitant",
+    "en2": "The price of the concert tickets was excessive.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) quá mức, quá đáng"
+  },
+  {
+    "id": 593,
+    "en1": "retention, conservation",
+    "en2": "The retention of employees is crucial for the success of the company.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự duy trì"
+  },
+  {
+    "id": 592,
+    "en1": "sacrifice",
+    "en2": "She made a great sacrifice to ensure her children had a better future.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n,v) hy sinh"
+  },
+  {
     "id": 591,
     "en1": "subordinate",
     "en2": "As a manager, it's important to understand the needs of your subordinates.",
@@ -2450,11 +2490,11 @@
   },
   {
     "id": 285,
-    "en1": "exorbitant",
-    "en2": "",
+    "en1": "exorbitant, excessive",
+    "en2": "The hotel charged an exorbitant price for a simple room.",
     "en3": "",
     "en4": "",
-    "vn1": "quá đáng, cắt cổ"
+    "vn1": "(a) quá mức, quá đáng"
   },
   {
     "id": 284,
