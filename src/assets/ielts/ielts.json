@@ -1,10 +1,66 @@
 [
   {
+    "id": 605,
+    "en1": "protest",
+    "en2": "The workers staged a protest against the new working conditions.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n,v) phản đối, phản kháng"
+  },
+  {
+    "id": 604,
+    "en1": "opposition, rivalry",
+    "en2": "The opposition party criticized the government's new policy.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự đối lập"
+  },
+  {
+    "id": 603,
+    "en1": "owe",
+    "en2": "They owe a debt of gratitude to their mentors.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) nợ"
+  },
+  {
+    "id": 602,
+    "en1": "disposable",
+    "en2": "Many people are concerned about the environmental impact of disposable products.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) dùng 1 lần"
+  },
+  {
+    "id": 601,
+    "en1": "overconsumption",
+    "en2": "The overconsumption of sugar has been linked to various health issues.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự tiêu thụ quá mức"
+  },
+  {
+    "id": 600,
+    "en1": "overspending",
+    "en2": "Overspending on vacations can lead to financial problems.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự chi tiêu quá mức"
+  },
+  {
+    "id": 599,
+    "en1": "spring up, emerge",
+    "en2": "As the weather warmed, flowers began to spring up in the garden.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) xuất hiện, nổi lên"
+  },
+  {
     "id": 598,
     "en1": "pre-date",
-    "en2": "The artifacts found at the site pre-date the Roman Empire. (Những hiện vật được tìm thấy tại địa điểm đó có niên đại trước Đế chế La Mã.)",
-    "en3": "The old manuscript is believed to pre-date the 15th century. (Cuốn bản thảo cổ được cho là có niên đại trước thế kỷ 15.)",
-    "en4": "The design of this building pre-dates the modern architectural style. (Thiết kế của tòa nhà này có từ trước phong cách kiến trúc hiện đại.)",
+    "en2": "The artifacts found at the site pre-date the Roman Empire.",
+    "en3": "",
+    "en4": "",
     "vn1": "(v) xảy ra trước một thời điểm cụ thể."
   },
   {
@@ -2410,11 +2466,11 @@
   },
   {
     "id": 297,
-    "en1": "emerge",
+    "en1": "emerge, arise",
     "en2": "After weeks of investigation, new evidence began to emerge.",
     "en3": "",
     "en4": "",
-    "vn1": "xuất hiện, nổi lên"
+    "vn1": "(v) xuất hiện, nổi lên"
   },
   {
     "id": 296,
@@ -2594,11 +2650,11 @@
   },
   {
     "id": 274,
-    "en1": "arise",
-    "en2": "",
+    "en1": "arise, spring up",
+    "en2": "Problems may arise if we do not follow the guidelines.",
     "en3": "",
     "en4": "",
-    "vn1": "nảy sinh, bắt nguồn"
+    "vn1": "(v) xuất hiện, nổi lên"
   },
   {
     "id": 273,
@@ -4211,10 +4267,10 @@
   {
     "id": 72,
     "en1": "expenditure",
-    "en2": "",
+    "en2": "The company's annual expenditure on research and development has increased significantly.",
     "en3": "",
     "en4": "",
-    "vn1": "chi phí, tiêu hao"
+    "vn1": "(n) chi phí"
   },
   {
     "id": 71,
