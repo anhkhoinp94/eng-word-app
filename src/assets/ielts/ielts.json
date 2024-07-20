@@ -1626,11 +1626,11 @@
   },
   {
     "id": 418,
-    "en1": "vital",
+    "en1": "vital, crucial",
     "en2": "Good nutrition is vital for maintaining a healthy body.",
     "en3": "",
     "en4": "",
-    "vn1": "(a) rất cần thiết, quan trọng"
+    "vn1": "(a) quan trọng"
   },
   {
     "id": 417,
@@ -3019,10 +3019,10 @@
   {
     "id": 244,
     "en1": "passionate",
-    "en2": "",
+    "en2": "She is passionate about helping others.",
     "en3": "",
     "en4": "",
-    "vn1": "nồng nàn"
+    "vn1": "(a) đam mê, nhiệt huyết"
   },
   {
     "id": 243,
@@ -4967,5 +4967,109 @@
     "en3": "",
     "en4": "",
     "vn1": "(a) hung hăng, quyết liệt"
+  },
+  {
+    "id": 622,
+    "en1": "defect",
+    "en2": "The new phone has a defect in its battery.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) khuyết điểm, lỗi"
+  },
+  {
+    "id": 623,
+    "en1": "susceptible, vulnerable",
+    "en2": "She is susceptible to cold weather due to her low immunity.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) dễ bị tổn thương"
+  },
+  {
+    "id": 624,
+    "en1": "gorge",
+    "en2": "The river carved a deep gorge through the mountains.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) khe núi"
+  },
+  {
+    "id": 625,
+    "en1": "tragic. sorrowful",
+    "en2": "The tragic death of the young athlete shocked the community.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) thảm kịch, bi thảm"
+  },
+  {
+    "id": 626,
+    "en1": "crucial, vital",
+    "en2": "Making the right decision at this point is crucial for the project's success.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) quan trọng"
+  },
+  {
+    "id": 627,
+    "en1": "bring about, cause",
+    "en2": "The new policy is expected to bring about significant changes in the company.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) gây ra"
+  },
+  {
+    "id": 628,
+    "en1": "intense",
+    "en2": "The heat during the summer months can be extremely intense.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) mạnh mẽ, dữ dội"
+  },
+  {
+    "id": 629,
+    "en1": "spark",
+    "en2": "The movie sparked a lot of interest and discussion among the audience.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n,v) tia lửa, khơi dậy"
+  },
+  {
+    "id": 630,
+    "en1": "resistant",
+    "en2": "She is resistant to criticism and always stands by her opinions.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) kháng cự, chống lại"
+  },
+  {
+    "id": 631,
+    "en1": "inferior",
+    "en2": "The quality of the materials used in this product is inferior to those in the previous model.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) kém hơn"
+  },
+  {
+    "id": 632,
+    "en1": "velocity",
+    "en2": "The velocity of the car increased as it went downhill.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) tốc độ"
+  },
+  {
+    "id": 633,
+    "en1": "be subject to",
+    "en2": "All employees are subject to company policies and regulations.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) phải chịu đựng"
+  },
+  {
+    "id": 634,
+    "en1": "regulation",
+    "en2": "The new regulation requires all companies to reduce their carbon emissions.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) quy định"
   }
 ]
