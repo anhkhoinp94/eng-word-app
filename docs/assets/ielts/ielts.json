@@ -1,5 +1,93 @@
 [
   {
+    "id": 621,
+    "en1": "fridge",
+    "en2": "I need to put the milk back in the fridge before it spoils.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) tủ lạnh"
+  },
+  {
+    "id": 620,
+    "en1": "juggle",
+    "en2": "It's challenging to juggle a full-time job and a family.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) ném ; xử lý nhiều công việc cùng lúc"
+  },
+  {
+    "id": 619,
+    "en1": "slight",
+    "en2": "He felt a slight pain in his back after lifting the heavy box.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a,n) nhỏ, nhẹ; sự coi thường, xúc phạm nhẹ"
+  },
+  {
+    "id": 618,
+    "en1": "commute",
+    "en2": "The commute from the suburbs to the city can take over an hour.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n,v) hành trình di chuyển"
+  },
+  {
+    "id": 617,
+    "en1": "pro-rata",
+    "en2": "The employee is entitled to 20 days of annual leave, pro-rata based on their start date.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a,av) theo tỷ lệ"
+  },
+  {
+    "id": 616,
+    "en1": "bounce off",
+    "en2": "I want to bounce some ideas off you.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) thảo luận ý tưởng; phản xạ lại"
+  },
+  {
+    "id": 615,
+    "en1": "irrelevant",
+    "en2": "His comments were completely irrelevant to the topic.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) không liên quan, không thích hợp"
+  },
+  {
+    "id": 614,
+    "en1": "informal",
+    "en2": "The meeting was very informal and relaxed.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) không chính thức; thân mật, tự nhiên"
+  },
+  {
+    "id": 613,
+    "en1": "concession",
+    "en2": "The company made several concessions to avoid a strike.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự nhượng bộ"
+  },
+  {
+    "id": 612,
+    "en1": "clock in, clock out",
+    "en2": "Employees must clock in when they arrive at work.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) chấm công"
+  },
+  {
+    "id": 611,
+    "en1": "wear out",
+    "en2": "Working late every night is starting to wear me out.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) làm kiệt sức"
+  },
+  {
     "id": 610,
     "en1": "fraud, scam",
     "en2": "The company was involved in a major fraud scandal.",
