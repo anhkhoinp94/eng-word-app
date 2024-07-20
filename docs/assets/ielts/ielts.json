@@ -1,5 +1,45 @@
 [
   {
+    "id": 610,
+    "en1": "fraud, scam",
+    "en2": "The company was involved in a major fraud scandal.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) gian lận, lừa đảo"
+  },
+  {
+    "id": 609,
+    "en1": "accommodation",
+    "en2": "The hotel provides comfortable accommodation for its guests.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) chỗ ở"
+  },
+  {
+    "id": 608,
+    "en1": "stall",
+    "en2": "The vendor set up his stall at the market to sell fresh fruits and vegetables.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) gian hàng"
+  },
+  {
+    "id": 607,
+    "en1": "wool, woollen",
+    "en2": "She knitted a warm sweater from soft, natural wool.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) len"
+  },
+  {
+    "id": 606,
+    "en1": "underutilised",
+    "en2": "The community center's facilities are underutilised due to lack of awareness.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) sử dụng không hiệu quả, đầy đủ"
+  },
+  {
     "id": 605,
     "en1": "protest",
     "en2": "The workers staged a protest against the new working conditions.",
@@ -177,7 +217,7 @@
   },
   {
     "id": 583,
-    "en1": "democratic",
+    "en1": "democratic, democratize",
     "en2": "They believe in a democratic system where everyone has a voice.",
     "en3": "",
     "en4": "",
