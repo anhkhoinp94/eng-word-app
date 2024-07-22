@@ -2638,7 +2638,7 @@
     "en2": "She decided to pursue a career in medicine because it is known to be a lucrative field.",
     "en3": "",
     "en4": "",
-    "vn1": "có lợi nhuận cao"
+    "vn1": "(a) có lợi nhuận cao"
   },
   {
     "id": 291,
@@ -3354,7 +3354,7 @@
   },
   {
     "id": 202,
-    "en1": "inevitability",
+    "en1": "inevitability, inevitable",
     "en2": "",
     "en3": "",
     "en4": "",
@@ -4994,7 +4994,7 @@
   },
   {
     "id": 625,
-    "en1": "tragic. sorrowful",
+    "en1": "tragic, sorrowful",
     "en2": "The tragic death of the young athlete shocked the community.",
     "en3": "",
     "en4": "",
@@ -5071,5 +5071,101 @@
     "en3": "",
     "en4": "",
     "vn1": "(n) quy định"
+  },
+  {
+    "id": 635,
+    "en1": "altitude, elevation",
+    "en2": "The weather can change rapidly at high altitudes.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) độ cao"
+  },
+  {
+    "id": 636,
+    "en1": "kidney",
+    "en2": "The kidneys play a crucial role in filtering waste from the blood.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) thận"
+  },
+  {
+    "id": 637,
+    "en1": "ascent, ascend",
+    "en2": "The ascent to the summit took them six hours.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n,v) leo lên, thăng tiến"
+  },
+  {
+    "id": 638,
+    "en1": "scale",
+    "en2": "We need to scale our business to meet demand.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) leo lên, tăng theo tỉ lệ"
+  },
+  {
+    "id": 639,
+    "en1": "summit",
+    "en2": "They reached the summit of the mountain after a long climb.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) đỉnh chóp; hội nghị thượng đỉnh"
+  },
+  {
+    "id": 640,
+    "en1": "descent, descendant",
+    "en2": "The plane began its descent toward the runway.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự đi xuống"
+  },
+  {
+    "id": 641,
+    "en1": "cope with, deal with",
+    "en2": "She had to cope with the stress of her new job.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) đương đầu"
+  },
+  {
+    "id": 642,
+    "en1": "pulse, beat",
+    "en2": "I can feel my pulse quicken after running up the stairs.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) nhịp đập"
+  },
+  {
+    "id": 643,
+    "en1": "incredible, remarkable",
+    "en2": "The magician's performance was so incredible that everyone was speechless.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) đáng kinh ngạc"
+  },
+  {
+    "id": 644,
+    "en1": "mental",
+    "en2": "Mental health is as important as physical health.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) thuộc về tâm trí; tâm lý"
+  },
+  {
+    "id": 645,
+    "en1": "fungus",
+    "en2": "Mushrooms are a common type of fungus that people often eat.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) nấm"
+  },
+  {
+    "id": 646,
+    "en1": "shoot",
+    "en2": "The gardener was excited to see new shoots on the rose bushes.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v,n) nảy mầm; mầm"
   }
 ]
