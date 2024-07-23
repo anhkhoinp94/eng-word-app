@@ -3386,7 +3386,7 @@
   },
   {
     "id": 198,
-    "en1": "instinctive",
+    "en1": "instinctive, instinct",
     "en2": "Her instinctive kindness made her popular among her peers.",
     "en3": "",
     "en4": "",
@@ -5406,7 +5406,7 @@
     "en2": "His idiocy was evident in how he handled the situation.",
     "en3": "",
     "en4": "",
-    "vn1": "(n) sự ngu dốt, hành vi hoặc quyết định không thông minh"
+    "vn1": "(n) sự ngu dốt"
   },
   {
     "id": 677,
@@ -5439,5 +5439,29 @@
     "en3": "",
     "en4": "",
     "vn1": "(n) quy tắc ứng xử"
+  },
+  {
+    "id": 681,
+    "en1": "mindset",
+    "en2": "Having a positive mindset can help you overcome challenges.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) tư duy"
+  },
+  {
+    "id": 682,
+    "en1": "tribalism",
+    "en2": "Political tribalism can create deep divisions within a society.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) chủ nghĩa bộ lạc"
+  },
+  {
+    "id": 683,
+    "en1": "lifespan",
+    "en2": "The average human lifespan has increased significantly over the last century.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) tuổi thọ"
   }
 ]
