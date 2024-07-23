@@ -2238,7 +2238,7 @@
     "en2": "The main criterion for selection is experience.",
     "en3": "",
     "en4": "",
-    "vn1": "tiêu chí, tiêu chuẩn"
+    "vn1": "(n) tiêu chí, tiêu chuẩn"
   },
   {
     "id": 341,
@@ -3042,11 +3042,11 @@
   },
   {
     "id": 241,
-    "en1": "conceited",
-    "en2": "",
+    "en1": "conceited, arrogant",
+    "en2": "His conceited attitude made it difficult for others to work with him.",
     "en3": "",
     "en4": "",
-    "vn1": "tự phụ"
+    "vn1": "(a) tự phụ, kiêu ngạo"
   },
   {
     "id": 240,
@@ -3074,11 +3074,11 @@
   },
   {
     "id": 237,
-    "en1": "arrogant",
-    "en2": "",
+    "en1": "arrogant, pompous",
+    "en2": "She is often criticized for her arrogant attitude towards others.",
     "en3": "",
     "en4": "",
-    "vn1": "kiêu ngạo"
+    "vn1": "(a) tự phụ, kiêu ngạo"
   },
   {
     "id": 236,
@@ -3706,8 +3706,8 @@
   },
   {
     "id": 158,
-    "en1": "desire",
-    "en2": "",
+    "en1": "desire, long",
+    "en2": "She has a strong desire to travel the world and experience new cultures.",
     "en3": "",
     "en4": "",
     "vn1": "(v) mong muốn"
@@ -5255,5 +5255,189 @@
     "en3": "",
     "en4": "",
     "vn1": "(a) cẩn thận, thận trọng"
+  },
+  {
+    "id": 658,
+    "en1": "honesty, truthfulness",
+    "en2": "Her honesty was appreciated during the investigation.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự trung thực"
+  },
+  {
+    "id": 659,
+    "en1": "mundane",
+    "en2": "She found her job mundane and longed for something more exciting.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) trần tục, tầm thường"
+  },
+  {
+    "id": 660,
+    "en1": "long, desire",
+    "en2": "He longed for the day when he could travel the world.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) mong muốn"
+  },
+  {
+    "id": 661,
+    "en1": "nuances",
+    "en2": "She noticed the subtle nuances in his speech that indicated he was nervous.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sắc thái"
+  },
+  {
+    "id": 662,
+    "en1": "pompous, conceited",
+    "en2": "He delivered his report in a pompous manner, making everyone feel uncomfortable.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) tự phụ, kiêu ngạo"
+  },
+  {
+    "id": 663,
+    "en1": "pigeonhole",
+    "en2": "It's unfair to pigeonhole someone based on their appearance.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) đánh giá, xếp loại"
+  },
+  {
+    "id": 664,
+    "en1": "stark",
+    "en2": "There is a stark contrast between the rich and the poor in the city.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) hoàn toàn, rõ ràng"
+  },
+  {
+    "id": 665,
+    "en1": "break the ice",
+    "en2": "At the start of the meeting, the manager told a funny story to break the ice.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(idiom) phá vỡ bầu không khí ngượng ngập, căng thẳng"
+  },
+  {
+    "id": 666,
+    "en1": "stand in good stead",
+    "en2": "Her language skills will stand her in good stead when she travels abroad.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(idiom) sẽ có lợi cho ai đó trong tương lai"
+  },
+  {
+    "id": 667,
+    "en1": "be conceived as",
+    "en2": "The new policy is conceived as a step towards greater efficiency.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(phrasal verb) được coi như là"
+  },
+  {
+    "id": 668,
+    "en1": "norm, criterion",
+    "en2": "Following social norms is essential for community harmony.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) tiêu chí, tiêu chuẩn"
+  },
+  {
+    "id": 669,
+    "en1": "etiquette, manner",
+    "en2": "Office etiquette includes respecting your colleagues' privacy and not interrupting meetings.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) quy tắc ứng xử"
+  },
+  {
+    "id": 670,
+    "en1": "doctorate",
+    "en2": "She earned her doctorate in neuroscience after years of rigorous study.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) bằng tiến sĩ"
+  },
+  {
+    "id": 671,
+    "en1": "disgustingly",
+    "en2": "The food was prepared disgustingly, with dirt and hair mixed in.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(av) một cách ghê tởm"
+  },
+  {
+    "id": 672,
+    "en1": "overlook",
+    "en2": "I overlooked a mistake in the report, which led to some confusion.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) bỏ qua; nhìn từ trên cao xuống="
+  },
+  {
+    "id": 673,
+    "en1": "suspicion",
+    "en2": "The police officer's suspicion led to a thorough investigation of the case.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự nghi ngờ"
+  },
+  {
+    "id": 674,
+    "en1": "even",
+    "en2": "The results were so unexpected that they even surprised the experts.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(av) thậm chí"
+  },
+  {
+    "id": 675,
+    "en1": "proverb",
+    "en2": "The proverb 'Actions speak louder than words' suggests that what you do is more important than what you say.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) câu tục ngữ, châm ngôn"
+  },
+  {
+    "id": 676,
+    "en1": "idiocy, stupidity",
+    "en2": "His idiocy was evident in how he handled the situation.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự ngu dốt, hành vi hoặc quyết định không thông minh"
+  },
+  {
+    "id": 677,
+    "en1": "interpret, clarify",
+    "en2": "She tried to interpret the meaning of the poem.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) giải thích, làm rõ"
+  },
+  {
+    "id": 678,
+    "en1": "awkward",
+    "en2": "He felt awkward dancing in front of everyone.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) khó xử, không tự nhiên"
+  },
+  {
+    "id": 679,
+    "en1": "superior",
+    "en2": "He was promoted to a superior position.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n,a) cấp trên, tốt hơn"
+  },
+  {
+    "id": 680,
+    "en1": "manner",
+    "en2": "Her manner was polite and friendly.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) quy tắc ứng xử"
   }
 ]
