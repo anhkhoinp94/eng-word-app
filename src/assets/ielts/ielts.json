@@ -1706,7 +1706,7 @@
   },
   {
     "id": 408,
-    "en1": "skeptical",
+    "en1": "skeptical, cynical",
     "en2": "The new product received skeptical reviews from industry experts.",
     "en3": "",
     "en4": "",
@@ -4059,7 +4059,7 @@
   {
     "id": 114,
     "en1": "lessen, mitigate",
-    "en2": "",
+    "en2": "Regular exercise can help lessen the risk of heart disease.",
     "en3": "",
     "en4": "",
     "vn1": "(v) làm giảm thiểu, làm dịu"
@@ -5543,5 +5543,165 @@
     "en3": "",
     "en4": "",
     "vn1": "(v) thúc đẩy, tăng tốc"
+  },
+  {
+    "id": 694,
+    "en1": "innate",
+    "en2": "She has an innate talent for music.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) bẩm sinh, tự nhiên"
+  },
+  {
+    "id": 695,
+    "en1": "hone",
+    "en2": "She spent years honing her skills as a violinist.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) trau dồi"
+  },
+  {
+    "id": 696,
+    "en1": "sugarcoat",
+    "en2": "Don't sugarcoat the news; tell me the truth.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) che đậy"
+  },
+  {
+    "id": 697,
+    "en1": "perceptive",
+    "en2": "She has a perceptive mind that quickly understands complex issues.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) sâu sắc, nhạy bén"
+  },
+  {
+    "id": 698,
+    "en1": "cynical, skeptical",
+    "en2": "She has a cynical view of politics and believes all politicians are corrupt.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) hoài nghi, nghi ngờ"
+  },
+  {
+    "id": 699,
+    "en1": "neutralize",
+    "en2": "The medication helped to neutralize the effects of the poison.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) trung hòa, vô hiệu hóa"
+  },
+  {
+    "id": 700,
+    "en1": "particularly",
+    "en2": "She was particularly interested in the history of ancient Egypt.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(av) đặc biệt"
+  },
+  {
+    "id": 701,
+    "en1": "intention",
+    "en2": "Her intention was to become a doctor.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) ý định, mục đích"
+  },
+  {
+    "id": 702,
+    "en1": "motive",
+    "en2": "The police are trying to determine the motive for the crime.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) động cơ, lý do"
+  },
+  {
+    "id": 703,
+    "en1": "plasticity, flexibility",
+    "en2": "The plasticity of the brain allows it to adapt to new learning experiences.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) tính linh hoạt"
+  },
+  {
+    "id": 704,
+    "en1": "obligatory, compulsory",
+    "en2": "It is obligatory to submit your tax return by April 15th.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) bắt buộc"
+  },
+  {
+    "id": 705,
+    "en1": "praise",
+    "en2": "She received high praise for her performance in the play.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n,v) khen"
+  },
+  {
+    "id": 706,
+    "en1": "diminish, lessen",
+    "en2": "The pain will gradually diminish over time.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) làm giảm"
+  },
+  {
+    "id": 707,
+    "en1": "cushion",
+    "en2": "The company implemented measures to cushion the impact of the economic downturn.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v,n) làm giảm; gối, đệm"
+  },
+  {
+    "id": 708,
+    "en1": "sake",
+    "en2": "He did it for the sake of his family.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) lợi ích"
+  },
+  {
+    "id": 709,
+    "en1": "psychologist",
+    "en2": "The psychologist helped her work through her anxiety.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) nhà tâm lý học"
+  },
+  {
+    "id": 710,
+    "en1": "proponent",
+    "en2": "She is a strong proponent of renewable energy.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) người ủng hộ"
+  },
+  {
+    "id": 711,
+    "en1": "seemingly",
+    "en2": "The project was seemingly successful, but there were hidden issues.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(av) có vẻ như"
+  },
+  {
+    "id": 712,
+    "en1": "appraisal, evaluation",
+    "en2": "Annual performance appraisals are conducted to assess employees' contributions.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự đánh giá, assessment"
+  },
+  {
+    "id": 713,
+    "en1": "corridor",
+    "en2": "She walked down the corridor to reach the conference room.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) hành lang, lối đi"
   }
 ]
