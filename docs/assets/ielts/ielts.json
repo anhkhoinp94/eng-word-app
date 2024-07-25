@@ -2262,7 +2262,7 @@
     "en2": "He tried to convey his feelings through the letter.",
     "en3": "",
     "en4": "",
-    "vn1": "truyền đạt, chuyển tải"
+    "vn1": "(v) truyền đạt, chuyển tải"
   },
   {
     "id": 338,
@@ -5703,5 +5703,221 @@
     "en3": "",
     "en4": "",
     "vn1": "(n) hành lang, lối đi"
+  },
+  {
+    "id": 714,
+    "en1": "desperation",
+    "en2": "In his desperation, he made a reckless decision.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự tuyệt vọng"
+  },
+  {
+    "id": 715,
+    "en1": "creepy",
+    "en2": "The old house had a creepy atmosphere at night.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) rùng rợn, đáng sợ"
+  },
+  {
+    "id": 716,
+    "en1": "suspense",
+    "en2": "The suspense in the movie kept the audience on the edge of their seats.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự hồi hộp, căng thẳng"
+  },
+  {
+    "id": 717,
+    "en1": "handy",
+    "en2": "This tool is very handy for fixing things around the house.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) tiện lợi"
+  },
+  {
+    "id": 718,
+    "en1": "jump out of one's skin",
+    "en2": "He jumped out of his skin when he heard the unexpected news.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(idiom) giật mình"
+  },
+  {
+    "id": 719,
+    "en1": "resourceful",
+    "en2": "She is a very resourceful person, always finding a way to get things done.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) tháo vát"
+  },
+  {
+    "id": 720,
+    "en1": "genres",
+    "en2": "Science fiction and fantasy are popular genres of literature.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) thể loại"
+  },
+  {
+    "id": 721,
+    "en1": "conventional",
+    "en2": "Wearing a suit to a job interview is considered conventional.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) thông thường, theo truyền thống"
+  },
+  {
+    "id": 722,
+    "en1": "frightened, afraid",
+    "en2": "She was frightened by the loud noise.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) sợ hãi"
+  },
+  {
+    "id": 723,
+    "en1": "trope",
+    "en2": "The ‘reluctant hero’ trope is common in fantasy novels.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) hình mẫu, mô típ"
+  },
+  {
+    "id": 724,
+    "en1": "abuse",
+    "en2": "The child was removed from the home due to signs of abuse.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n,v) lạm dụng"
+  },
+  {
+    "id": 725,
+    "en1": "basement",
+    "en2": "The family uses the basement as a game room.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) tầng hầm"
+  },
+  {
+    "id": 726,
+    "en1": "protagonist",
+    "en2": "The protagonist of the novel is a young detective trying to solve a mystery.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) nhân vật chính"
+  },
+  {
+    "id": 727,
+    "en1": "innocent",
+    "en2": "The jury found him innocent of all charges.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a,n) vô tội, ngây thơ, trong sáng"
+  },
+  {
+    "id": 728,
+    "en1": "tough",
+    "en2": "The tough material can withstand extreme temperatures.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) khó khăn, cứng rắn, kiên cường"
+  },
+  {
+    "id": 729,
+    "en1": "hitchhiker",
+    "en2": "The hitchhiker was picked up by a kind driver on the highway.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) người quá giang"
+  },
+  {
+    "id": 730,
+    "en1": "get through",
+    "en2": "I tried calling him several times but couldn't get through.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) liên lạc với ai đó, vượt qua, hoàn thành"
+  },
+  {
+    "id": 731,
+    "en1": "reckless",
+    "en2": "He was fined for reckless driving.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) liều lĩnh"
+  },
+  {
+    "id": 732,
+    "en1": "evolve",
+    "en2": "The company has evolved from a small startup to a leading tech giant.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) phát triển"
+  },
+  {
+    "id": 733,
+    "en1": "artifact",
+    "en2": "The museum has many ancient artifacts on display.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) hiện vật, tạo tác"
+  },
+  {
+    "id": 734,
+    "en1": "mutate, mutation",
+    "en2": "The virus can mutate rapidly, making it difficult to treat.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) đột biến, thay đổi"
+  },
+  {
+    "id": 735,
+    "en1": "civilisation",
+    "en2": "The ancient Egyptian civilisation is known for its pyramids and pharaohs.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) nền văn minh"
+  },
+  {
+    "id": 736,
+    "en1": "map out",
+    "en2": "We need to map out a strategy for the new project.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(phr v) lập kế hoạch chi tiết"
+  },
+  {
+    "id": 737,
+    "en1": "clue",
+    "en2": "I can't solve the puzzle without a clue.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) gợi ý, dấu hiệu"
+  },
+  {
+    "id": 738,
+    "en1": "primate",
+    "en2": "Chimpanzees are one of the closest relatives to humans among the primates.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) loài linh trưởng"
+  },
+  {
+    "id": 739,
+    "en1": "vowel",
+    "en2": "Pronouncing vowels correctly is important for clear speech.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) nguyên âm"
+  },
+  {
+    "id": 740,
+    "en1": "consonant",
+    "en2": "Correct pronunciation of consonants is crucial for clear communication.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) phụ âm"
   }
 ]
