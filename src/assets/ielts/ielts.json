@@ -2282,7 +2282,7 @@
   },
   {
     "id": 336,
-    "en1": "comprehensive",
+    "en1": "comprehensive, holistic",
     "en2": "The report provides a comprehensive analysis of the economic situation.",
     "en3": "",
     "en4": "",
@@ -5378,7 +5378,7 @@
   },
   {
     "id": 673,
-    "en1": "suspicion",
+    "en1": "suspicion, suspect",
     "en2": "The police officer's suspicion led to a thorough investigation of the case.",
     "en3": "",
     "en4": "",
@@ -5919,5 +5919,301 @@
     "en3": "",
     "en4": "",
     "vn1": "(n) phụ âm"
+  },
+  {
+    "id": 741,
+    "en1": "cardboard",
+    "en2": "The package was made of cardboard.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) bìa cứng"
+  },
+  {
+    "id": 742,
+    "en1": "tedious",
+    "en2": "The process of filling out the forms was tedious.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) nhàm chán"
+  },
+  {
+    "id": 743,
+    "en1": "astonishing",
+    "en2": "The magician's performance was astonishing.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) ngạc nhiên, kinh ngạc"
+  },
+  {
+    "id": 744,
+    "en1": "rehearse",
+    "en2": "The actors rehearsed their lines before the play.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) diễn tập"
+  },
+  {
+    "id": 745,
+    "en1": "periodically",
+    "en2": "She reviews her budget periodically to ensure she stays on track.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(av) định kỳ"
+  },
+  {
+    "id": 746,
+    "en1": "compound",
+    "en2": "Water is a compound made from hydrogen and oxygen.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) hợp chất"
+  },
+  {
+    "id": 747,
+    "en1": "radiation",
+    "en2": "Radiation from the sun can be harmful if you're exposed for too long.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự bức xạ"
+  },
+  {
+    "id": 748,
+    "en1": "revelation, enlightenment",
+    "en2": "The revelation about the company's financial troubles shocked everyone.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự tiết lộ, khai sáng"
+  },
+  {
+    "id": 749,
+    "en1": "rover",
+    "en2": "The Mars rover has sent back valuable data about the planet's surface.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) robot thám hiểm"
+  },
+  {
+    "id": 750,
+    "en1": "replenish",
+    "en2": "After a long day of hiking, he drank a lot of water to replenish his energy.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) bổ sung"
+  },
+  {
+    "id": 751,
+    "en1": "milestone",
+    "en2": "Graduating from university was a major milestone in her life.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) cột mốc quan trọng, điểm đánh dấu"
+  },
+  {
+    "id": 752,
+    "en1": "fascinate",
+    "en2": "The documentary on space fascinated him.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) làm say mê"
+  },
+  {
+    "id": 753,
+    "en1": "expedition",
+    "en2": "The expedition to the South Pole was a great success.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) cuộc thám hiểm"
+  },
+  {
+    "id": 754,
+    "en1": "contamination",
+    "en2": "The contamination of the river by industrial waste was severe.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự ô nhiễm, nhiễm khuẩn"
+  },
+  {
+    "id": 755,
+    "en1": "variation",
+    "en2": "There is considerable variation in the color of the leaves during autumn.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự thay đổi, biến thể"
+  },
+  {
+    "id": 756,
+    "en1": "organism",
+    "en2": "The scientist discovered a new organism in the deep sea that glows in the dark.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sinh vật, tổ chức"
+  },
+  {
+    "id": 757,
+    "en1": "smooth-sailing experience",
+    "en2": "The flight was quick and uneventful, making it a smooth-sailing experience.",
+    "en3": "",
+    "en4": "",
+    "vn1": "trải nghiệm suôn sẻ"
+  },
+  {
+    "id": 758,
+    "en1": "feel pulled in both directions",
+    "en2": "She feels pulled in both directions between her career and her family.",
+    "en3": "",
+    "en4": "",
+    "vn1": "cảm thấy bị kéo về hai phía"
+  },
+  {
+    "id": 759,
+    "en1": "learn the ropes",
+    "en2": "It will take some time for the new employee to learn the ropes.",
+    "en3": "",
+    "en4": "",
+    "vn1": "học cách làm việc"
+  },
+  {
+    "id": 760,
+    "en1": "see the big picture",
+    "en2": "Before making a decision, try to see the big picture and understand how it will impact the entire project.",
+    "en3": "",
+    "en4": "",
+    "vn1": "nhìn nhận toàn cảnh"
+  },
+  {
+    "id": 761,
+    "en1": "give a heads-up",
+    "en2": "Just giving you a heads-up, there might be traffic on your way to work.",
+    "en3": "",
+    "en4": "",
+    "vn1": "cảnh báo trước"
+  },
+  {
+    "id": 762,
+    "en1": "move the goalposts",
+    "en2": "Every time we meet their requirements, they move the goalposts.",
+    "en3": "",
+    "en4": "",
+    "vn1": "thay đổi quy tắc, mục tiêu"
+  },
+  {
+    "id": 763,
+    "en1": "touch base",
+    "en2": "After your vacation, we should touch base to discuss the upcoming events.",
+    "en3": "",
+    "en4": "",
+    "vn1": "liên lạc với"
+  },
+  {
+    "id": 764,
+    "en1": "feel stretched, overwhelmed",
+    "en2": "I'm feeling stretched with the amount of work I have to do this week.",
+    "en3": "",
+    "en4": "",
+    "vn1": "quá tải, căng thẳng"
+  },
+  {
+    "id": 765,
+    "en1": "autonomy",
+    "en2": "The company gives its employees a lot of autonomy in their work.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) quyền tự chủ"
+  },
+  {
+    "id": 766,
+    "en1": "delegation",
+    "en2": "Effective delegation is key to managing a successful team.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) ủy quyền"
+  },
+  {
+    "id": 767,
+    "en1": "presume, assume",
+    "en2": "He presumed that everyone understood the new policy.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) giả sử"
+  },
+  {
+    "id": 768,
+    "en1": "holistic, comprehensive",
+    "en2": "The holistic view of education considers not only academic learning but also personal development.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) toàn diện, bao quát"
+  },
+  {
+    "id": 769,
+    "en1": "conscientious",
+    "en2": "She is a conscientious worker who always double-checks her work.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) tận tâm, trách nhiệm"
+  },
+  {
+    "id": 770,
+    "en1": "eager",
+    "en2": "She was eager to start her new job.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) háo hức, khao khát"
+  },
+  {
+    "id": 771,
+    "en1": "pledge, commitment",
+    "en2": "He made a pledge to donate a large sum of money to the charity.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) lời hứa, cam kết"
+  },
+  {
+    "id": 772,
+    "en1": "prosperous",
+    "en2": "They live in a prosperous neighborhood with many luxury homes.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) thịnh vượng, phát đạt"
+  },
+  {
+    "id": 773,
+    "en1": "rural",
+    "en2": "The rural lifestyle can be peaceful but also isolated.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) thuộc nông thôn"
+  },
+  {
+    "id": 774,
+    "en1": "wage",
+    "en2": "She receives a fair wage for her work.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) lương"
+  },
+  {
+    "id": 775,
+    "en1": "scrap",
+    "en2": "The company decided to scrap the outdated software.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) loại bỏ, vứt bỏ"
+  },
+  {
+    "id": 776,
+    "en1": "jargon",
+    "en2": "The lawyer used legal jargon that was difficult for the layperson to understand.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) ngôn ngữ chuyên ngành, khó hiểu"
+  },
+  {
+    "id": 777,
+    "en1": "beacon",
+    "en2": "The lighthouse served as a beacon for ships navigating through the fog.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) đèn hiệu"
   }
 ]
