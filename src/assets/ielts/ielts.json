@@ -437,7 +437,7 @@
     "en2": "Despite the allegations, there was no concrete evidence found.",
     "en3": "",
     "en4": "",
-    "vn1": "(n) cáo buộc"
+    "vn1": "(n) sự buộc tội"
   },
   {
     "id": 566,
@@ -6215,5 +6215,141 @@
     "en3": "",
     "en4": "",
     "vn1": "(n) đèn hiệu"
+  },
+  {
+    "id": 778,
+    "en1": "sustainable",
+    "en2": "The company adopted sustainable practices to reduce their environmental impact.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) bền vững"
+  },
+  {
+    "id": 779,
+    "en1": "pact",
+    "en2": "The two countries signed a peace pact.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) hiệp ước, thoả thuận"
+  },
+  {
+    "id": 780,
+    "en1": "veil of secrecy",
+    "en2": "The project was developed under a veil of secrecy.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) lớp màn bí mật"
+  },
+  {
+    "id": 781,
+    "en1": "the lion's share",
+    "en2": "She received the lion's share of the inheritance.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) phần lớn nhất"
+  },
+  {
+    "id": 782,
+    "en1": "take matters into own hands",
+    "en2": "When the repairs were taking too long, she decided to take matters into her own hands and fixed it herself.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(phr v) tự mình giải quyết vấn đề"
+  },
+  {
+    "id": 783,
+    "en1": "backlash",
+    "en2": "The company faced a major backlash from customers after raising their prices.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) phản ứng dữ dội"
+  },
+  {
+    "id": 784,
+    "en1": "come under fire",
+    "en2": "The politician came under fire for his controversial remarks.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(phr v) bị chỉ trích"
+  },
+  {
+    "id": 785,
+    "en1": "surplus",
+    "en2": "The company had a surplus of $5 million at the end of the fiscal year.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n,a) dư thừa"
+  },
+  {
+    "id": 786,
+    "en1": "accusation, allegation",
+    "en2": "She faced an accusation of cheating in the exam.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự buộc tội"
+  },
+  {
+    "id": 787,
+    "en1": "compost",
+    "en2": "We use compost to enrich the soil in our garden.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) phân bón hữu cơ"
+  },
+  {
+    "id": 788,
+    "en1": "transparency",
+    "en2": "The company’s transparency about its financial situation was appreciated by investors.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự minh bạch="
+  },
+  {
+    "id": 789,
+    "en1": "inspiration",
+    "en2": "Her speech was a great source of inspiration for everyone in the audience.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) nguồn cảm hứng"
+  },
+  {
+    "id": 790,
+    "en1": "be down to, be willing to",
+    "en2": "Are you down to go for a hike this weekend?",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) sẵn sàng"
+  },
+  {
+    "id": 791,
+    "en1": "eradicate",
+    "en2": "We need to eradicate poverty to ensure a better quality of life for everyone.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) loại bỏ"
+  },
+  {
+    "id": 792,
+    "en1": "contraception",
+    "en2": "Many people use contraception to plan their families and prevent unintended pregnancies.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) biện pháp tránh thai"
+  },
+  {
+    "id": 793,
+    "en1": "life expectancy",
+    "en2": "In developed countries, the average life expectancy has increased due to improvements in healthcare and living conditions.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) tuổi thọ"
+  },
+  {
+    "id": 794,
+    "en1": "lottery",
+    "en2": "Winning the lottery can change a person's life overnight.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) xổ số"
   }
 ]
