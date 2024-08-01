@@ -2142,7 +2142,7 @@
     "en2": "From the data collected, we can infer that the new policy has been effective.",
     "en3": "",
     "en4": "",
-    "vn1": "(v) suy ra, luận ra"
+    "vn1": "(v) suy luận"
   },
   {
     "id": 353,
@@ -2363,10 +2363,10 @@
   {
     "id": 326,
     "en1": "timber",
-    "en2": "",
+    "en2": "They used timber from the forest to build their house.",
     "en3": "",
     "en4": "",
-    "vn1": "gỗ"
+    "vn1": "(n) gỗ"
   },
   {
     "id": 325,
@@ -4563,18 +4563,18 @@
   {
     "id": 51,
     "en1": "expertise",
-    "en2": "",
+    "en2": "Her expertise in computer science made her a valuable asset to the tech company.",
     "en3": "",
     "en4": "",
-    "vn1": "kỹ năng chuyên môn"
+    "vn1": "(n) kỹ năng chuyên môn"
   },
   {
     "id": 50,
     "en1": "assert",
-    "en2": "",
+    "en2": "He asserted his right to speak at the meeting.",
     "en3": "",
     "en4": "",
-    "vn1": "khẳng định"
+    "vn1": "(v) khẳng định"
   },
   {
     "id": 49,
@@ -4587,10 +4587,10 @@
   {
     "id": 48,
     "en1": "navigator",
-    "en2": "",
+    "en2": "With the help of a GPS navigator, we found the fastest route to our destination.",
     "en3": "",
     "en4": "",
-    "vn1": "thủy thủ, nhà thám hiểm"
+    "vn1": "(n) hoa tiêu, thiết bị định vị"
   },
   {
     "id": 47,
@@ -4603,18 +4603,18 @@
   {
     "id": 46,
     "en1": "debate",
-    "en2": "",
+    "en2": "The debate on climate change was intense and lasted for hours.",
     "en3": "",
     "en4": "",
-    "vn1": "cuộc tranh luận"
+    "vn1": "(n,v) tranh luận"
   },
   {
     "id": 45,
     "en1": "obstacle",
-    "en2": "",
+    "en2": "The fallen tree was an obstacle on the hiking trail.",
     "en3": "",
     "en4": "",
-    "vn1": "trở ngại"
+    "vn1": "(n) trở ngại"
   },
   {
     "id": 44,
@@ -4635,10 +4635,10 @@
   {
     "id": 42,
     "en1": "pursue",
-    "en2": "",
+    "en2": "She decided to pursue a career in medicine after completing her undergraduate studies.",
     "en3": "",
     "en4": "",
-    "vn1": "theo đuổi"
+    "vn1": "(v) theo đuổi"
   },
   {
     "id": 41,
@@ -4659,18 +4659,18 @@
   {
     "id": 39,
     "en1": "wealth",
-    "en2": "",
+    "en2": "She shared her wealth by donating to various charities.",
     "en3": "",
     "en4": "",
-    "vn1": "sự giàu có"
+    "vn1": "(n) sự giàu có"
   },
   {
     "id": 38,
     "en1": "constantly",
-    "en2": "",
-    "en3": "",
+    "en2": "constantly",
+    "en3": "She is constantly checking her phone for new messages.",
     "en4": "",
-    "vn1": "liên tục"
+    "vn1": "(av) liên tục"
   },
   {
     "id": 37,
@@ -4683,10 +4683,10 @@
   {
     "id": 36,
     "en1": "discipline",
-    "en2": "",
+    "en2": "Maintaining discipline in the classroom is essential for effective teaching.",
     "en3": "",
     "en4": "",
-    "vn1": "sự kỉ luật"
+    "vn1": "(n) sự kỉ luật"
   },
   {
     "id": 35,
@@ -4707,10 +4707,10 @@
   {
     "id": 33,
     "en1": "integrity",
-    "en2": "",
+    "en2": "Her integrity and honesty make her a trusted leader.",
     "en3": "",
     "en4": "",
-    "vn1": "sự chính trực"
+    "vn1": "(n) sự chính trực"
   },
   {
     "id": 32,
@@ -4747,10 +4747,10 @@
   {
     "id": 28,
     "en1": "frustration",
-    "en2": "",
+    "en2": "Her frustration was evident when she couldn't solve the problem.",
     "en3": "",
     "en4": "",
-    "vn1": "sự thất vọng"
+    "vn1": "(n) sự thất vọng"
   },
   {
     "id": 27,
@@ -4811,10 +4811,10 @@
   {
     "id": 20,
     "en1": "axis",
-    "en2": "",
+    "en2": "In a graph, the x-axis and y-axis are used to plot data.",
     "en3": "",
     "en4": "",
-    "vn1": "trục"
+    "vn1": "(n) trục"
   },
   {
     "id": 19,
@@ -4827,10 +4827,10 @@
   {
     "id": 18,
     "en1": "orbit",
-    "en2": "",
+    "en2": "The Earth's orbit around the Sun takes approximately 365 days.",
     "en3": "",
     "en4": "",
-    "vn1": "quỹ đạo"
+    "vn1": "(n) quỹ đạo"
   },
   {
     "id": 17,
@@ -4875,18 +4875,18 @@
   {
     "id": 12,
     "en1": "polarity",
-    "en2": "",
+    "en2": "The battery has a positive and a negative polarity.",
     "en3": "",
     "en4": "",
-    "vn1": "sự phân cực"
+    "vn1": "(n) sự phân cực"
   },
   {
     "id": 11,
     "en1": "repel",
-    "en2": "",
+    "en2": "The soldiers managed to repel the enemy attack.",
     "en3": "",
     "en4": "",
-    "vn1": "đẩy lùi"
+    "vn1": "(v) đẩy lùi"
   },
   {
     "id": 10,
@@ -4899,18 +4899,18 @@
   {
     "id": 9,
     "en1": "helmsmen",
-    "en2": "",
+    "en2": "The helmsman skillfully navigated the ship through the storm.",
     "en3": "",
     "en4": "",
-    "vn1": "người cầm lái"
+    "vn1": "(n) người lái tàu"
   },
   {
     "id": 8,
     "en1": "compass",
-    "en2": "",
+    "en2": "The hiker used a compass to find his way through the forest.",
     "en3": "",
     "en4": "",
-    "vn1": "la bàn"
+    "vn1": "(n) la bàn"
   },
   {
     "id": 7,
@@ -4931,10 +4931,10 @@
   {
     "id": 5,
     "en1": "magnetism",
-    "en2": "",
+    "en2": "Magnetism is a fundamental force in physics.",
     "en3": "",
     "en4": "",
-    "vn1": "từ tính"
+    "vn1": "(n) từ tính"
   },
   {
     "id": 4,
@@ -5374,7 +5374,7 @@
     "en2": "I overlooked a mistake in the report, which led to some confusion.",
     "en3": "",
     "en4": "",
-    "vn1": "(v) bỏ qua; nhìn từ trên cao xuống="
+    "vn1": "(v) bỏ qua; nhìn từ trên cao xuống"
   },
   {
     "id": 673,
@@ -6302,7 +6302,7 @@
     "en2": "The company’s transparency about its financial situation was appreciated by investors.",
     "en3": "",
     "en4": "",
-    "vn1": "(n) sự minh bạch="
+    "vn1": "(n) sự minh bạch"
   },
   {
     "id": 789,
@@ -6383,5 +6383,125 @@
     "en3": "",
     "en4": "",
     "vn1": "(n) khoáng chất"
+  },
+  {
+    "id": 799,
+    "en1": "confront",
+    "en2": "She decided to confront her boss about the unfair treatment.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) đối mặt"
+  },
+  {
+    "id": 800,
+    "en1": "stand out",
+    "en2": "Her bright red hair made her stand out in the crowd.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(phr. v) nổi bật"
+  },
+  {
+    "id": 801,
+    "en1": "harassment",
+    "en2": "She reported the harassment to her supervisor.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự quấy rối"
+  },
+  {
+    "id": 802,
+    "en1": "synthesize",
+    "en2": "She synthesized the information from the books to write her essay.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) tổng hợp"
+  },
+  {
+    "id": 803,
+    "en1": "postpone",
+    "en2": "We had to postpone the trip because of bad weather.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) hoãn lại"
+  },
+  {
+    "id": 804,
+    "en1": "fingerprint",
+    "en2": "Each person has unique fingerprints.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) dấu vân tay"
+  },
+  {
+    "id": 805,
+    "en1": "gamification",
+    "en2": "Gamification of the learning process can make education more engaging for students.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) trò chơi hóa"
+  },
+  {
+    "id": 806,
+    "en1": "landfall",
+    "en2": "The hurricane is expected to make landfall on the eastern coast tonight.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự đổ bộ"
+  },
+  {
+    "id": 807,
+    "en1": "amend",
+    "en2": "She has been working hard to amend her mistakes.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) sửa đổi"
+  },
+  {
+    "id": 808,
+    "en1": "fulfillment",
+    "en2": "The fulfillment of the project took longer than expected.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự hoàn thành"
+  },
+  {
+    "id": 809,
+    "en1": "captivate",
+    "en2": "The magician's performance captivated the audience.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) thu hút"
+  },
+  {
+    "id": 810,
+    "en1": "legacy",
+    "en2": "He left a lasting legacy through his charitable work.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) di sản"
+  },
+  {
+    "id": 811,
+    "en1": "gravity",
+    "en2": "The gravity of the Earth pulls objects toward its center.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) trọng lực; tính nghiêm trọng"
+  },
+  {
+    "id": 814,
+    "en1": "shuttle",
+    "en2": "NASA's Space Shuttle was used to transport astronauts to and from space.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) tàu con thoi"
+  },
+  {
+    "id": 815,
+    "en1": "tremendous",
+    "en2": "The team made a tremendous effort to win the championship.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) to lớn"
   }
 ]
