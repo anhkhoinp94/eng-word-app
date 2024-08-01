@@ -174,8 +174,8 @@ export class AppComponent {
     speechSynthesis.speak(utterance);
   }
 
-  speakSentence8() {
-    for (let index = 0; index < 8; index++) {
+  speakSentence4() {
+    for (let index = 0; index < 4; index++) {
       this.speakSentence();
     }
   }
