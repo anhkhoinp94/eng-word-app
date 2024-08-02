@@ -139,7 +139,7 @@ export class AppComponent {
 
   next() {
     this.showReviseButton = true;
-    if (this.reviseCount >= 4 && this.reviseWords.length > 0) {
+    if (this.reviseCount >= 3 && this.reviseWords.length > 0) {
       this.countSawWords += 1;
       this.no = this.no * -1;
       this.show = this.no > 0;
