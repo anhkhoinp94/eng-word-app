@@ -5018,11 +5018,11 @@
   },
   {
     "id": 628,
-    "en1": "intense",
+    "en1": "intense, fierce",
     "en2": "The heat during the summer months can be extremely intense.",
     "en3": "",
     "en4": "",
-    "vn1": "(a) mạnh mẽ, dữ dội"
+    "vn1": "(a) dữ dội, mãnh liệt"
   },
   {
     "id": 629,
@@ -6575,5 +6575,125 @@
     "en3": "",
     "en4": "",
     "vn1": "(a) tàn nhẫn"
+  },
+  {
+    "id": 823,
+    "en1": "flutter",
+    "en2": "The butterfly fluttered from flower to flower.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) đập cánh"
+  },
+  {
+    "id": 824,
+    "en1": "whisper",
+    "en2": "She leaned in to whisper a secret in his ear.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v,n) thì thầm"
+  },
+  {
+    "id": 825,
+    "en1": "aquatic",
+    "en2": "Dolphins are aquatic mammals that live in the ocean.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) thủy sinh"
+  },
+  {
+    "id": 826,
+    "en1": "flame",
+    "en2": "He watched the flames dance in the fireplace, lost in thought.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n,v) ngọn lửa; bùng cháy"
+  },
+  {
+    "id": 827,
+    "en1": "companion",
+    "en2": "She brought her dog as a companion on the long journey.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) bạn đồng hành"
+  },
+  {
+    "id": 828,
+    "en1": "symphony",
+    "en2": "The orchestra performed Beethoven's Ninth Symphony.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) bản giao hưởng"
+  },
+  {
+    "id": 829,
+    "en1": "grape",
+    "en2": "She ate a bunch of grapes for a snack.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) nho"
+  },
+  {
+    "id": 830,
+    "en1": "vine",
+    "en2": "He pruned the vines to ensure a better harvest next season.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) cây nho, cây leo"
+  },
+  {
+    "id": 831,
+    "en1": "ripe",
+    "en2": "She waited until the fruit was ripe before making the jam.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) chín, trưởng thành"
+  },
+  {
+    "id": 832,
+    "en1": "harbor",
+    "en2": "The ships docked in the harbor to wait out the storm.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) cảng; (v) chứa chấp, bảo vệ"
+  },
+  {
+    "id": 833,
+    "en1": "glisten",
+    "en2": "Her eyes glistened with tears of joy.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) lấp lánh"
+  },
+  {
+    "id": 834,
+    "en1": "juggle",
+    "en2": "He can juggle three balls effortlessly during his performance.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) tung hứng"
+  },
+  {
+    "id": 835,
+    "en1": "ladder",
+    "en2": "He climbed the ladder to fix the roof.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) cái thang"
+  },
+  {
+    "id": 836,
+    "en1": "fierce, intense",
+    "en2": "The fierce storm caused significant damage to the town.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) dữ dội, mãnh liệt"
+  },
+  {
+    "id": 837,
+    "en1": "prune",
+    "en2": "He pruned the rose bushes to encourage new growth.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) cắt tỉa"
   }
 ]
