@@ -85,6 +85,18 @@ export class AppComponent {
   words: Word[] = [];
   countSawWords = 0;
 
+  showReviseButton = true;
+  reviseCount = 0;
+  selectedWord: Word = {
+    id: 0,
+    en1: '',
+    en2: '',
+    en3: '',
+    en4: '',
+    vn1: 'aaaa',
+  };
+  reviseWords: Word[] = [];
+
   // speak
   selectedVoice: SpeechSynthesisVoice | null;
   voices: SpeechSynthesisVoice[];
@@ -107,6 +119,7 @@ export class AppComponent {
       return obj.id === this.id;
     });
     if (word) {
+      this.selectedWord = word;
       this.vnWord1 = word.vn1;
       this.enWord1 = word.en1;
       this.enWord2 = word.en2;
@@ -125,26 +138,59 @@ export class AppComponent {
   }
 
   next() {
-    this.countSawWords += 1;
-    this.no = this.no * -1;
-    this.show = this.no > 0;
+    this.showReviseButton = true;
+    if (this.reviseCount >= 4 && this.reviseWords.length > 0) {
+      this.countSawWords += 1;
+      this.no = this.no * -1;
+      this.show = this.no > 0;
 
-    // Chỉ xuất hiện tiếng anh trước
-    // this.see = !this.show;
-    this.show = false;
-    this.see = true;
+      // Chỉ xuất hiện tiếng anh trước
+      // this.see = !this.show;
+      this.show = false;
+      this.see = true;
 
-    this.id = this.getRandomArbitrary(this.min, this.max);
-    let word = this.words.find((obj) => {
-      return obj.id === this.id;
-    });
-    if (word) {
-      this.vnWord1 = word.vn1;
-      this.enWord1 = word.en1;
-      this.enWord2 = word.en2;
-      this.enWord3 = word.en3;
-      this.enWord4 = word.en4;
+      let idx = this.getRandomArbitrary(0, this.reviseWords.length - 1);
+      let word = this.reviseWords[idx];
+      if (word) {
+        this.reviseCount = 0;
+        this.selectedWord = word;
+        this.id = word.id;
+        this.vnWord1 = word.vn1;
+        this.enWord1 = word.en1;
+        this.enWord2 = word.en2;
+        this.enWord3 = word.en3;
+        this.enWord4 = word.en4;
+        this.reviseWords = this.reviseWords.filter((e) => e.id != word.id);
+      }
+    } else {
+      this.countSawWords += 1;
+      this.no = this.no * -1;
+      this.show = this.no > 0;
+
+      // Chỉ xuất hiện tiếng anh trước
+      // this.see = !this.show;
+      this.show = false;
+      this.see = true;
+
+      this.id = this.getRandomArbitrary(this.min, this.max);
+      let word = this.words.find((obj) => {
+        return obj.id === this.id;
+      });
+      if (word) {
+        this.reviseCount++;
+        this.selectedWord = word;
+        this.vnWord1 = word.vn1;
+        this.enWord1 = word.en1;
+        this.enWord2 = word.en2;
+        this.enWord3 = word.en3;
+        this.enWord4 = word.en4;
+      }
     }
+  }
+
+  revise() {
+    this.reviseWords.push(this.selectedWord);
+    this.showReviseButton = false;
   }
 
   getRandomArbitrary(min: number, max: number) {
