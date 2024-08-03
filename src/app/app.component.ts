@@ -128,6 +128,14 @@ export class AppComponent {
     }
   }
 
+  renderEnWord = (value: string): string => {
+    if (!this.show) {
+      let words = value.split(',');
+      return words[0];
+    }
+    return value;
+  };
+
   change() {
     if (!this.show) {
       this.show = true;
@@ -139,7 +147,7 @@ export class AppComponent {
 
   next() {
     this.showReviseButton = true;
-    if (this.reviseCount >= 3 && this.reviseWords.length > 0) {
+    if (this.reviseCount >= 2 && this.reviseWords.length > 0) {
       this.countSawWords += 1;
       this.no = this.no * -1;
       this.show = this.no > 0;
