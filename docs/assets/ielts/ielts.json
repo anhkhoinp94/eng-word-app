@@ -2683,10 +2683,10 @@
   {
     "id": 286,
     "en1": "cultivation",
-    "en2": "",
+    "en2": "The cultivation of rice is a major agricultural activity in many Asian countries.",
     "en3": "",
     "en4": "",
-    "vn1": "sự trồng trọt, canh tác"
+    "vn1": "(n) sự canh tác"
   },
   {
     "id": 285,
@@ -2707,50 +2707,50 @@
   {
     "id": 283,
     "en1": "merchant",
-    "en2": "",
+    "en2": "E-commerce merchants use online platforms to reach customers worldwide.",
     "en3": "",
     "en4": "",
-    "vn1": "người kinh doanh, thương gia"
+    "vn1": "(n) thương nhân"
   },
   {
     "id": 282,
     "en1": "disposal",
-    "en2": "",
+    "en2": "The company had the disposal of surplus equipment to free up storage space.",
     "en3": "",
     "en4": "",
-    "vn1": "(n) việc xử lí, loại bỏ"
+    "vn1": "(n) việc xử lí"
   },
   {
     "id": 281,
     "en1": "ethnic",
-    "en2": "",
+    "en2": "Ethnic tensions have been a challenge in the region for decades.",
     "en3": "",
     "en4": "",
-    "vn1": "(a) dân tộc thiểu số"
+    "vn1": "(a) sắc tộc"
   },
   {
     "id": 280,
     "en1": "exotic",
-    "en2": "",
+    "en2": "The exotic decorations in the restaurant gave it a unique and intriguing atmosphere.",
     "en3": "",
     "en4": "",
-    "vn1": "ngoại lai, lạ"
+    "vn1": "(a) kỳ lạ"
   },
   {
     "id": 279,
     "en1": "condiment",
-    "en2": "",
+    "en2": "Salt and pepper are common condiments found on dining tables.",
     "en3": "",
     "en4": "",
-    "vn1": "gia vị"
+    "vn1": "(n) gia vị"
   },
   {
     "id": 278,
     "en1": "biblical",
-    "en2": "",
+    "en2": "The story of David and Goliath is a well-known biblical tale.",
     "en3": "",
     "en4": "",
-    "vn1": "liên quan đến Kinh Thánh"
+    "vn1": "(a) thuộc về Kinh Thánh"
   },
   {
     "id": 277,
@@ -2811,10 +2811,10 @@
   {
     "id": 270,
     "en1": "sophisticated",
-    "en2": "",
+    "en2": "The new smartphone has a sophisticated design with advanced features.",
     "en3": "",
     "en4": "",
-    "vn1": "tinh vi, tinh tế"
+    "vn1": "(a) phức tạp"
   },
   {
     "id": 269,
@@ -2827,18 +2827,18 @@
   {
     "id": 268,
     "en1": "artificial",
-    "en2": "",
+    "en2": "The artificial flowers looked very realistic but were made of plastic.",
     "en3": "",
     "en4": "",
-    "vn1": "nhân tạo"
+    "vn1": "(a) nhân tạo"
   },
   {
     "id": 267,
     "en1": "distraction",
-    "en2": "",
+    "en2": "The constant noise from the construction site was a major distraction while I was trying to work.",
     "en3": "",
     "en4": "",
-    "vn1": "sự xao lãng"
+    "vn1": "(n) sự phân tâm"
   },
   {
     "id": 266,
@@ -2851,10 +2851,10 @@
   {
     "id": 265,
     "en1": "detrimental",
-    "en2": "",
+    "en2": "Smoking is known to be detrimental to your health.",
     "en3": "",
     "en4": "",
-    "vn1": "có hại"
+    "vn1": "(a) có hại"
   },
   {
     "id": 264,
@@ -2867,10 +2867,10 @@
   {
     "id": 263,
     "en1": "curiosity",
-    "en2": "",
+    "en2": "Her curiosity about space led her to study astronomy.",
     "en3": "",
     "en4": "",
-    "vn1": "sự tò mò"
+    "vn1": "(n) sự tò mò"
   },
   {
     "id": 262,
@@ -2882,11 +2882,11 @@
   },
   {
     "id": 261,
-    "en1": "intriguingly",
-    "en2": "",
+    "en1": "intriguing, interesting",
+    "en2": "The plot of the movie was so intriguing that I couldn’t stop watching.",
     "en3": "",
     "en4": "",
-    "vn1": "một cách thú vị"
+    "vn1": "(a) hấp dẫn"
   },
   {
     "id": 260,
@@ -4475,10 +4475,10 @@
   {
     "id": 62,
     "en1": "banish",
-    "en2": "",
+    "en2": "The king decided to banish the traitor from the kingdom.",
     "en3": "",
     "en4": "",
-    "vn1": "loại bỏ"
+    "vn1": "(v) loại bỏ"
   },
   {
     "id": 61,
@@ -4499,26 +4499,26 @@
   {
     "id": 59,
     "en1": "missionary",
-    "en2": "",
+    "en2": "Many missionaries have worked to improve education and healthcare in underserved regions.",
     "en3": "",
     "en4": "",
-    "vn1": "người truyền giáo"
+    "vn1": "(n) người truyền giáo"
   },
   {
     "id": 58,
     "en1": "observer",
-    "en2": "",
+    "en2": "The observer noted the changes in the behavior of the animals over the seasons.",
     "en3": "",
     "en4": "",
-    "vn1": "người quan sát"
+    "vn1": "(n) người quan sát"
   },
   {
     "id": 57,
     "en1": "narrative",
-    "en2": "",
+    "en2": "He told us a narrative about his travels through South America.",
     "en3": "",
     "en4": "",
-    "vn1": "bản tường thuật"
+    "vn1": "(n) câu chuyện"
   },
   {
     "id": 56,
@@ -6703,5 +6703,13 @@
     "en3": "",
     "en4": "",
     "vn1": "(n) giải trừ vũ khí"
+  },
+  {
+    "id": 839,
+    "en1": "traitor",
+    "en2": "He was branded a traitor after he switched sides during the conflict.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) kẻ phản bội"
   }
 ]
