@@ -2659,7 +2659,7 @@
   {
     "id": 289,
     "en1": "ally",
-    "en2": "",
+    "en2": "The two countries became allies during the war.",
     "en3": "",
     "en4": "",
     "vn1": "(n,v) liên minh"
@@ -2667,10 +2667,10 @@
   {
     "id": 288,
     "en1": "dictator",
-    "en2": "",
+    "en2": "Under the dictator's rule, freedom of speech and press were severely restricted.",
     "en3": "",
     "en4": "",
-    "vn1": "kẻ độc tài"
+    "vn1": "(n) nhà độc tài"
   },
   {
     "id": 287,
@@ -4523,15 +4523,15 @@
   {
     "id": 56,
     "en1": "denigrate",
-    "en2": "",
+    "en2": "The politician tried to denigrate his opponent’s reputation during the campaign.",
     "en3": "",
     "en4": "",
-    "vn1": "coi thường"
+    "vn1": "(v) hạ thấp"
   },
   {
     "id": 55,
     "en1": "assess, assessment",
-    "en2": "",
+    "en2": "The teacher will assess the students' progress at the end of the semester.",
     "en3": "",
     "en4": "",
     "vn1": "(v,n) đánh giá"
@@ -4539,10 +4539,10 @@
   {
     "id": 54,
     "en1": "deserve",
-    "en2": "",
+    "en2": "She worked hard and truly deserves the promotion.cs",
     "en3": "",
     "en4": "",
-    "vn1": "xứng đáng"
+    "vn1": "(v) xứng đáng"
   },
   {
     "id": 53,
@@ -4555,10 +4555,10 @@
   {
     "id": 52,
     "en1": "settlement",
-    "en2": "",
+    "en2": "The early settlers founded a small settlement by the river.",
     "en3": "",
     "en4": "",
-    "vn1": "sự định cư"
+    "vn1": "(n) cộng đồng cư dân"
   },
   {
     "id": 51,
@@ -4675,10 +4675,10 @@
   {
     "id": 37,
     "en1": "be aware of",
-    "en2": "",
+    "en2": "You should be aware of the risks before you invest your money.",
     "en3": "",
     "en4": "",
-    "vn1": "nhận thức được"
+    "vn1": "(v) nhận thức về"
   },
   {
     "id": 36,
@@ -4691,18 +4691,18 @@
   {
     "id": 35,
     "en1": "deeds and thoughts",
-    "en2": "",
+    "en2": "In judging a person, one must consider both their deeds and thoughts.",
     "en3": "",
     "en4": "",
-    "vn1": "suy nghĩ và hành động"
+    "vn1": "(n) suy nghĩ và hành động"
   },
   {
     "id": 34,
     "en1": "harmony",
-    "en2": "",
+    "en2": "Living in harmony with nature is essential for a sustainable future.",
     "en3": "",
     "en4": "",
-    "vn1": "sự hòa hợp"
+    "vn1": "(n) sự hài hòa"
   },
   {
     "id": 33,
@@ -4731,18 +4731,18 @@
   {
     "id": 30,
     "en1": "exude",
-    "en2": "",
+    "en2": "He exudes confidence whenever he speaks in public.",
     "en3": "",
     "en4": "",
-    "vn1": "toát ra"
+    "vn1": "(v) tỏa ra"
   },
   {
     "id": 29,
     "en1": "anxiety",
-    "en2": "",
+    "en2": "His anxiety about the future kept him awake at night.",
     "en3": "",
     "en4": "",
-    "vn1": "sự lo lắng"
+    "vn1": "(n) sự lo lắng"
   },
   {
     "id": 28,
@@ -4891,10 +4891,10 @@
   {
     "id": 10,
     "en1": "fur",
-    "en2": "",
+    "en2": "The rabbit's fur is soft and warm.",
     "en3": "",
     "en4": "",
-    "vn1": "lông thú"
+    "vn1": "(n) lông thú"
   },
   {
     "id": 9,
