@@ -147,7 +147,29 @@ export class AppComponent {
 
   next() {
     this.showReviseButton = true;
-    if (this.reviseCount >= 2 && this.reviseWords.length > 0) {
+    if (this.reviseWords.length > 6) {
+      this.countSawWords += 1;
+      this.no = this.no * -1;
+      this.show = this.no > 0;
+
+      // Chỉ xuất hiện tiếng anh trước
+      // this.see = !this.show;
+      this.show = false;
+      this.see = true;
+      let idx = this.getRandomArbitrary(0, this.reviseWords.length - 1);
+      let word = this.reviseWords[idx];
+      if (word) {
+        this.reviseCount = 0;
+        this.selectedWord = word;
+        this.id = word.id;
+        this.vnWord1 = word.vn1;
+        this.enWord1 = word.en1;
+        this.enWord2 = word.en2;
+        this.enWord3 = word.en3;
+        this.enWord4 = word.en4;
+        this.reviseWords = this.reviseWords.filter((e) => e.id != word.id);
+      }
+    } else if (this.reviseCount >= 2 && this.reviseWords.length > 0) {
       this.countSawWords += 1;
       this.no = this.no * -1;
       this.show = this.no > 0;
