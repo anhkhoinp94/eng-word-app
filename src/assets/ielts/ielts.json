@@ -13,7 +13,7 @@
     "en2": "It's challenging to juggle a full-time job and a family.",
     "en3": "",
     "en4": "",
-    "vn1": "(v) ném ; xử lý nhiều công việc cùng lúc"
+    "vn1": "(v) xử lý nhiều công việc cùng lúc; tung hứng"
   },
   {
     "id": 619,
@@ -33,11 +33,11 @@
   },
   {
     "id": 617,
-    "en1": "pro-rata",
-    "en2": "The employee is entitled to 20 days of annual leave, pro-rata based on their start date.",
+    "en1": "brisk",
+    "en2": "We took a brisk walk in the park to enjoy the cool morning air.",
     "en3": "",
     "en4": "",
-    "vn1": "(a,av) theo tỷ lệ"
+    "vn1": "(a) nhanh nhẹn"
   },
   {
     "id": 616,
@@ -837,7 +837,7 @@
     "en2": "The plot of the novel was filled with unexpected twists.",
     "en3": "",
     "en4": "",
-    "vn1": "(n) cốt truyện, âm mưu, mảnh đất"
+    "vn1": "(n) cốt truyện"
   },
   {
     "id": 516,
@@ -2110,7 +2110,7 @@
     "en2": "The company is looking for legitimate ways to reduce costs.",
     "en3": "",
     "en4": "",
-    "vn1": "(a,v) hợp pháp, hợp lệ"
+    "vn1": "(a,v) hợp pháp"
   },
   {
     "id": 357,
@@ -3267,18 +3267,18 @@
   {
     "id": 213,
     "en1": "clench",
-    "en2": "",
+    "en2": "She clenched her jaw to keep from shouting.",
     "en3": "",
     "en4": "",
-    "vn1": "nghiến răng"
+    "vn1": "(v) giữ chặt"
   },
   {
     "id": 212,
-    "en1": "nostrils",
-    "en2": "",
+    "en1": "nostril",
+    "en2": "She pinched her nostrils together to stop the bleeding from her nose.",
     "en3": "",
     "en4": "",
-    "vn1": "lỗ mũi"
+    "vn1": "(n) lỗ mũi"
   },
   {
     "id": 211,
@@ -3371,10 +3371,10 @@
   {
     "id": 200,
     "en1": "stimulus, stimulation",
-    "en2": "",
+    "en2": "The new tax cuts were a stimulus for economic growth.",
     "en3": "",
     "en4": "",
-    "vn1": "(n) kích thích"
+    "vn1": "(n) tác nhân kích thích"
   },
   {
     "id": 199,
@@ -3771,7 +3771,7 @@
   {
     "id": 150,
     "en1": "underway",
-    "en2": "",
+    "en2": "The construction of the new bridge is already underway and should be completed by next year.",
     "en3": "",
     "en4": "",
     "vn1": "(a) đang diễn ra"
@@ -5022,7 +5022,7 @@
     "en2": "The heat during the summer months can be extremely intense.",
     "en3": "",
     "en4": "",
-    "vn1": "(a) dữ dội, mãnh liệt"
+    "vn1": "(a) mãnh liệt"
   },
   {
     "id": 629,
@@ -6666,11 +6666,11 @@
   },
   {
     "id": 834,
-    "en1": "juggle",
-    "en2": "He can juggle three balls effortlessly during his performance.",
+    "en1": "bequeath",
+    "en2": "She bequeathed her jewelry collection to her daughter.",
     "en3": "",
     "en4": "",
-    "vn1": "(v) tung hứng"
+    "vn1": "(v) để lại di chúc"
   },
   {
     "id": 835,
@@ -6686,7 +6686,7 @@
     "en2": "The fierce storm caused significant damage to the town.",
     "en3": "",
     "en4": "",
-    "vn1": "(a) dữ dội, mãnh liệt"
+    "vn1": "(a) mãnh liệt"
   },
   {
     "id": 837,
@@ -7015,5 +7015,21 @@
     "en3": "",
     "en4": "",
     "vn1": "(n) quyền tự do"
+  },
+  {
+    "id": 878,
+    "en1": "auditorium",
+    "en2": "The conference will be held in the main auditorium of the convention center.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) khán phòng"
+  },
+  {
+    "id": 879,
+    "en1": "dramatic",
+    "en2": "The company experienced a dramatic increase in profits after launching the new product.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) mãnh liệt"
   }
 ]
