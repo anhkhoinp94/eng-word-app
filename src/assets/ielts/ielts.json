@@ -305,11 +305,11 @@
   },
   {
     "id": 583,
-    "en1": "democratic, democratize",
-    "en2": "They believe in a democratic system where everyone has a voice.",
+    "en1": "democracy",
+    "en2": "In a democracy, citizens have the right to vote for their leaders and influence government policies.",
     "en3": "",
     "en4": "",
-    "vn1": "(a) dân chủ"
+    "vn1": "(n) nền dân chủ"
   },
   {
     "id": 582,
@@ -626,18 +626,18 @@
   {
     "id": 543,
     "en1": "delineate, depict",
-    "en2": "The architect will delineate the layout of the building.",
+    "en2": "Many families in the slum struggle with poor living conditions and lack of access to clean water.",
     "en3": "",
     "en4": "",
     "vn1": "(v) mô tả, phác họa"
   },
   {
     "id": 542,
-    "en1": "bugle",
+    "en1": "slum",
     "en2": "The soldier played the bugle at dawn.",
     "en3": "",
     "en4": "",
-    "vn1": "(n,v) kèn bugle; thổi kèn bugle"
+    "vn1": "(n) khu ổ chuột"
   },
   {
     "id": 541,
@@ -1125,7 +1125,7 @@
     "en2": "The storm caused severe damage to the town.",
     "en3": "",
     "en4": "",
-    "vn1": "(a) nghiêm trọng, khắc nghiệt"
+    "vn1": "(a) nghiêm trọng"
   },
   {
     "id": 480,
@@ -1862,7 +1862,7 @@
     "en2": "This case study exemplifies the challenges faced by small businesses.",
     "en3": "",
     "en4": "",
-    "vn1": "(v) minh họa, làm ví dụ điển hình"
+    "vn1": "(v) minh họa"
   },
   {
     "id": 388,
@@ -2302,7 +2302,7 @@
     "en2": "She was known for her benevolent nature and always helped those in need.",
     "en3": "",
     "en4": "",
-    "vn1": "(a) nhân từ"
+    "vn1": "(a) nhân ái"
   },
   {
     "id": 333,
@@ -3722,11 +3722,11 @@
   },
   {
     "id": 156,
-    "en1": "harsh, severe",
+    "en1": "harsh",
     "en2": "The desert has a harsh climate.",
     "en3": "",
     "en4": "",
-    "vn1": "(a) khắc nghiệt, nghiêm trọng"
+    "vn1": "(a) khắc nghiệt"
   },
   {
     "id": 155,
@@ -6486,7 +6486,7 @@
     "en2": "The gravity of the Earth pulls objects toward its center.",
     "en3": "",
     "en4": "",
-    "vn1": "(n) trọng lực; tính nghiêm trọng"
+    "vn1": "(n) trọng lực"
   },
   {
     "id": 812,
@@ -6758,7 +6758,7 @@
     "en2": "He quickly grasped the basic concepts of the new software.",
     "en3": "",
     "en4": "",
-    "vn1": "(v) nắm, hiểu"
+    "vn1": "(v) hiểu"
   },
   {
     "id": 846,
@@ -6791,5 +6791,205 @@
     "en3": "",
     "en4": "",
     "vn1": "(v) khơi gợi"
+  },
+  {
+    "id": 850,
+    "en1": "illustrate",
+    "en2": "The teacher used a story to illustrate the importance of honesty.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) minh họa"
+  },
+  {
+    "id": 851,
+    "en1": "criminal",
+    "en2": "The criminal was arrested by the police after a long investigation.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n,a) tội phạm"
+  },
+  {
+    "id": 852,
+    "en1": "arrest",
+    "en2": "The police will arrest anyone found breaking the law.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v,n) bắt giữ"
+  },
+  {
+    "id": 853,
+    "en1": "minister",
+    "en2": "She was appointed as the Minister of Education in the new cabinet.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) bộ trưởng; mục sư"
+  },
+  {
+    "id": 854,
+    "en1": "encapsulate",
+    "en2": "Encapsulation in object-oriented programming helps to protect the internal state of an object.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) đóng gói"
+  },
+  {
+    "id": 855,
+    "en1": "delve",
+    "en2": "The researchers delved into the effects of climate change on local ecosystems.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) đào sâu"
+  },
+  {
+    "id": 856,
+    "en1": "intricate",
+    "en2": "The watch mechanism is intricate, with tiny gears and springs working together.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) phức tạp"
+  },
+  {
+    "id": 857,
+    "en1": "insist on",
+    "en2": "She insisted on paying for dinner despite everyone’s objections.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) khăng khăng"
+  },
+  {
+    "id": 858,
+    "en1": "tie",
+    "en2": "The ties between the two countries have strengthened over the years through various trade agreements.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) mối quan hệ; cà vạt"
+  },
+  {
+    "id": 859,
+    "en1": "bureaucrat",
+    "en2": "The bureaucrat was responsible for implementing new regulations within the department.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) viên chức"
+  },
+  {
+    "id": 860,
+    "en1": "hay",
+    "en2": "The farmer stored the hay in the barn to feed the livestock during the winter.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) cỏ khô"
+  },
+  {
+    "id": 861,
+    "en1": "imitate",
+    "en2": "Children often imitate their parents' behaviors as they grow up.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) bắt chước"
+  },
+  {
+    "id": 862,
+    "en1": "gossip",
+    "en2": "The office was buzzing with gossip about the new manager.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) chuyện phiếm"
+  },
+  {
+    "id": 863,
+    "en1": "pardon",
+    "en2": "Please pardon my mistake; I will make sure it doesn't happen again.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) tha thứ"
+  },
+  {
+    "id": 864,
+    "en1": "ceremony",
+    "en2": "The wedding ceremony was a beautiful and traditional event.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) nghi lễ"
+  },
+  {
+    "id": 865,
+    "en1": "ordeal",
+    "en2": "The long wait in the emergency room was an ordeal for the patient and their family.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) thử thách"
+  },
+  {
+    "id": 866,
+    "en1": "grievous",
+    "en2": "His grievous mistake led to the failure of the entire project.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) nghiêm trọng"
+  },
+  {
+    "id": 867,
+    "en1": "boast",
+    "en2": "He likes to boast about his achievements at every opportunity.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v,n) khoe khoang"
+  },
+  {
+    "id": 868,
+    "en1": "indivisible",
+    "en2": "The rights of the individual are considered indivisible and must be protected.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) không thể phân chia"
+  },
+  {
+    "id": 869,
+    "en1": "assassination",
+    "en2": "The assassination of the president led to a period of instability in the country.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự ám sát"
+  },
+  {
+    "id": 870,
+    "en1": "comprehend",
+    "en2": "She struggled to comprehend the complex instructions given by the teacher.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) hiểu"
+  },
+  {
+    "id": 871,
+    "en1": "compassion",
+    "en2": "She showed great compassion towards the victims of the disaster.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự đồng cảm"
+  },
+  {
+    "id": 872,
+    "en1": "despair",
+    "en2": "After losing his job and his home, he was in a state of despair.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n,v) sự tuyệt vọng"
+  },
+  {
+    "id": 873,
+    "en1": "hatred",
+    "en2": "His hatred for the corrupt officials was evident in his speeches.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự thù hận"
+  },
+  {
+    "id": 874,
+    "en1": "disorder",
+    "en2": "The room was in complete disorder after the children played in it.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự hỗn loạn"
   }
 ]
