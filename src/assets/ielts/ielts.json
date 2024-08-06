@@ -1174,7 +1174,7 @@
     "en2": "Prospective students should visit the campus before making a decision.",
     "en3": "",
     "en4": "",
-    "vn1": "(adj) tiềm năng, có triển vọng, thuộc về tương lai"
+    "vn1": "(a) tiềm năng"
   },
   {
     "id": 474,
@@ -1602,11 +1602,11 @@
   },
   {
     "id": 421,
-    "en1": "incentive",
-    "en2": "The company offers financial incentives to employees who meet their targets.",
+    "en1": "catalyst",
+    "en2": "The new policy was a catalyst for economic growth.",
     "en3": "",
     "en4": "",
-    "vn1": "(n) sự khích lệ"
+    "vn1": "(n) chất xúc tác"
   },
   {
     "id": 420,
@@ -2158,7 +2158,7 @@
     "en2": "The company offers financial incentives to employees who meet their sales targets.",
     "en3": "",
     "en4": "",
-    "vn1": "(n) sự khích lệ, thúc đẩy"
+    "vn1": "(n) sự khuyến khích"
   },
   {
     "id": 351,
@@ -2246,7 +2246,7 @@
     "en2": "He knows how to manipulate people to get what he wants.",
     "en3": "",
     "en4": "",
-    "vn1": "thao túng, điều khiển"
+    "vn1": "(v) thao túng"
   },
   {
     "id": 340,
@@ -2294,7 +2294,7 @@
     "en2": "She gave a coherent explanation of the complex theory.",
     "en3": "",
     "en4": "",
-    "vn1": "mạch lạc, chặt chẽ"
+    "vn1": "(a) mạch lạc"
   },
   {
     "id": 334,
@@ -3227,10 +3227,10 @@
   {
     "id": 218,
     "en1": "salivate",
-    "en2": "",
+    "en2": "Just thinking about the delicious meal made him salivate uncontrollably.",
     "en3": "",
     "en4": "",
-    "vn1": "tiết nước bọt"
+    "vn1": "(v) tiết nước bọt"
   },
   {
     "id": 217,
@@ -3379,10 +3379,10 @@
   {
     "id": 199,
     "en1": "reflex",
-    "en2": "",
+    "en2": "The doctor tested his knee reflexes with a small hammer.",
     "en3": "",
     "en4": "",
-    "vn1": "phản xạ"
+    "vn1": "(n) phản xạ"
   },
   {
     "id": 198,
@@ -3635,10 +3635,10 @@
   {
     "id": 167,
     "en1": "creature",
-    "en2": "",
+    "en2": "The forest is home to many interesting creatures.",
     "en3": "",
     "en4": "",
-    "vn1": "sinh vật"
+    "vn1": "(n) sinh vật"
   },
   {
     "id": 166,
@@ -4123,10 +4123,10 @@
   {
     "id": 106,
     "en1": "livestock",
-    "en2": "",
+    "en2": "The farm raises livestock such as cattle, sheep, and pigs.",
     "en3": "",
     "en4": "",
-    "vn1": "gia súc, vật nuôi"
+    "vn1": "(n) gia súc"
   },
   {
     "id": 105,
@@ -4195,10 +4195,10 @@
   {
     "id": 97,
     "en1": "bait",
-    "en2": "",
+    "en2": "The trap was set with cheese as bait to catch the mice.",
     "en3": "",
     "en4": "",
-    "vn1": "mồi, đặt bả"
+    "vn1": "(n,v) đặt mồi"
   },
   {
     "id": 96,
@@ -4251,18 +4251,18 @@
   {
     "id": 90,
     "en1": "consequence",
-    "en2": "",
+    "en2": "The accident was a consequence of his careless driving.",
     "en3": "",
     "en4": "",
-    "vn1": "hệ quả"
+    "vn1": "(n) hệ quả"
   },
   {
     "id": 89,
-    "en1": "avenue",
-    "en2": "",
+    "en1": "avenue, boulevard",
+    "en2": "He walked down the avenue, admiring the architecture of the historic buildings.",
     "en3": "",
     "en4": "",
-    "vn1": "con đường"
+    "vn1": "(n) con đường"
   },
   {
     "id": 88,
@@ -4339,10 +4339,10 @@
   {
     "id": 79,
     "en1": "pioneer",
-    "en2": "",
+    "en2": "She is a pioneer in the field of medical research.",
     "en3": "",
     "en4": "",
-    "vn1": "tiên phong"
+    "vn1": "(n) người tiên phong"
   },
   {
     "id": 78,
@@ -4451,10 +4451,10 @@
   {
     "id": 65,
     "en1": "propose",
-    "en2": "",
+    "en2": "She proposed a new strategy for the project.",
     "en3": "",
     "en4": "",
-    "vn1": "đề xuất"
+    "vn1": "(v) đề xuất"
   },
   {
     "id": 64,
@@ -5214,7 +5214,7 @@
     "en2": "The forest is densely populated with various species of trees.",
     "en3": "",
     "en4": "",
-    "vn1": "(adv) dày đặc"
+    "vn1": "(av) dày đặc"
   },
   {
     "id": 653,
@@ -5862,7 +5862,7 @@
     "en2": "The museum has many ancient artifacts on display.",
     "en3": "",
     "en4": "",
-    "vn1": "(n) hiện vật, tạo tác"
+    "vn1": "(n) hiện vật"
   },
   {
     "id": 734,
