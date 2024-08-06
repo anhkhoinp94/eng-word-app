@@ -3187,18 +3187,18 @@
   {
     "id": 223,
     "en1": "extraordinary",
-    "en2": "",
+    "en2": "The scientist made an extraordinary discovery that could change our understanding of space.",
     "en3": "",
     "en4": "",
-    "vn1": "lạ thường, khác thường"
+    "vn1": "(a) khác thường"
   },
   {
     "id": 222,
     "en1": "demonstration",
-    "en2": "",
+    "en2": "The scientist gave a live demonstration of the new experiment to the audience.",
     "en3": "",
     "en4": "",
-    "vn1": "sự chứng minh, biểu hiện"
+    "vn1": "(n) sự chứng minh"
   },
   {
     "id": 221,
@@ -3403,10 +3403,10 @@
   {
     "id": 196,
     "en1": "invariant, vary",
-    "en2": "The company's commitment to quality remained invariant over the years.",
+    "en2": "In computer science, certain algorithms are designed to maintain invariant states throughout their execution.",
     "en3": "",
     "en4": "",
-    "vn1": "(a,n) đồng nhất, không thay đổi"
+    "vn1": "(a,n) bất biến"
   },
   {
     "id": 195,
@@ -4362,11 +4362,11 @@
   },
   {
     "id": 76,
-    "en1": "findings",
-    "en2": "",
+    "en1": "finding",
+    "en2": "The research team presented their findings at the international conference last week.",
     "en3": "",
     "en4": "",
-    "vn1": "những phát hiện"
+    "vn1": "(n) phát hiện"
   },
   {
     "id": 75,
@@ -6174,7 +6174,7 @@
     "en2": "They live in a prosperous neighborhood with many luxury homes.",
     "en3": "",
     "en4": "",
-    "vn1": "(a) thịnh vượng, phát đạt"
+    "vn1": "(a) thịnh vượng"
   },
   {
     "id": 773,
