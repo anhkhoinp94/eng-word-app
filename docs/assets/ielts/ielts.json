@@ -2994,27 +2994,27 @@
   },
   {
     "id": 247,
-    "en1": "vengeanful",
-    "en2": "",
+    "en1": "vengeful",
+    "en2": "He had a vengeful look in his eyes.",
     "en3": "",
     "en4": "",
-    "vn1": "thù dai"
+    "vn1": "(a) thù hận"
   },
   {
     "id": 246,
     "en1": "sensitive",
-    "en2": "",
+    "en2": "She is very sensitive and cries easily when criticized.",
     "en3": "",
     "en4": "",
-    "vn1": "nhạy cảm"
+    "vn1": "(a) nhạy cảm"
   },
   {
     "id": 245,
     "en1": "emotive",
-    "en2": "",
+    "en2": "His writing style is very emotive, often evoking strong feelings in readers.",
     "en3": "",
     "en4": "",
-    "vn1": "dễ xúc động"
+    "vn1": "(a) giàu cảm xúc"
   },
   {
     "id": 244,
@@ -3115,18 +3115,18 @@
   {
     "id": 232,
     "en1": "lurk",
-    "en2": "",
+    "en2": "Suspicious characters often lurk around the corners of the street at night.",
     "en3": "",
     "en4": "",
-    "vn1": "ẩn nấp, núp, trốn"
+    "vn1": "(v) ẩn nấp"
   },
   {
     "id": 231,
     "en1": "rationality",
-    "en2": "",
+    "en2": "In times of crisis, maintaining rationality can help people make better decisions.",
     "en3": "",
     "en4": "",
-    "vn1": "sự hợp lý"
+    "vn1": "(n) sự hợp lý"
   },
   {
     "id": 230,
@@ -5282,7 +5282,7 @@
   },
   {
     "id": 661,
-    "en1": "nuances",
+    "en1": "nuance",
     "en2": "She noticed the subtle nuances in his speech that indicated he was nervous.",
     "en3": "",
     "en4": "",
@@ -5622,7 +5622,7 @@
     "en2": "The plasticity of the brain allows it to adapt to new learning experiences.",
     "en3": "",
     "en4": "",
-    "vn1": "(n) tính linh hoạt"
+    "vn1": "(n) sự linh hoạt"
   },
   {
     "id": 704,
@@ -6783,5 +6783,13 @@
     "en3": "",
     "en4": "",
     "vn1": "(v) truyền cảm hứng"
+  },
+  {
+    "id": 849,
+    "en1": "evoke",
+    "en2": "The film's powerful message is designed to evoke a strong reaction from the audience.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) khơi gợi"
   }
 ]
