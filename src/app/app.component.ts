@@ -126,7 +126,7 @@ export class AppComponent {
       this.enWord3 = word.en3;
       this.enWord4 = word.en4;
     }
-    this.reviseWords = this.words.sort(() => 0.5 - Math.random()).slice(0, 100);
+    this.reviseWords = this.words.sort(() => 0.5 - Math.random()).slice(0, 40);
   }
 
   renderEnWord = (value: string): string => {
