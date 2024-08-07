@@ -133,7 +133,7 @@
     "en2": "The workers staged a protest against the new working conditions.",
     "en3": "",
     "en4": "",
-    "vn1": "(n,v) phản đối, phản kháng"
+    "vn1": "(n,v) phản đối"
   },
   {
     "id": 604,
@@ -1542,7 +1542,7 @@
     "en2": "We need to utilize all available resources to complete the project on time.",
     "en3": "",
     "en4": "",
-    "vn1": "(v) sử dụng, tận dụng"
+    "vn1": "(v) sử dụng"
   },
   {
     "id": 428,
@@ -2262,7 +2262,7 @@
     "en2": "He tried to convey his feelings through the letter.",
     "en3": "",
     "en4": "",
-    "vn1": "(v) truyền đạt, chuyển tải"
+    "vn1": "(v) truyền đạt"
   },
   {
     "id": 338,
@@ -2891,10 +2891,10 @@
   {
     "id": 260,
     "en1": "infectious",
-    "en2": "",
+    "en2": "The flu is an infectious disease that spreads easily from person to person.",
     "en3": "",
     "en4": "",
-    "vn1": "(a) truyền nhiễm"
+    "vn1": "(a) lây nhiễm"
   },
   {
     "id": 259,
@@ -3483,10 +3483,10 @@
   {
     "id": 186,
     "en1": "habitat",
-    "en2": "",
+    "en2": "The forest is the natural habitat of many wildlife species.",
     "en3": "",
     "en4": "",
-    "vn1": "môi trường sống"
+    "vn1": "(n) môi trường sống"
   },
   {
     "id": 185,
@@ -3995,10 +3995,10 @@
   {
     "id": 122,
     "en1": "predominate",
-    "en2": "",
+    "en2": "In this region, agricultural activities predominate over industrial ones.",
     "en3": "",
     "en4": "",
-    "vn1": "chiếm ưu thế"
+    "vn1": "(v) chiếm ưu thế"
   },
   {
     "id": 121,
@@ -4091,10 +4091,10 @@
   {
     "id": 110,
     "en1": "dwindle",
-    "en2": "",
+    "en2": "The town’s population has dwindled over the past decade.",
     "en3": "",
     "en4": "",
-    "vn1": "giảm, thu nhỏ"
+    "vn1": "(v) làm giảm thiểu"
   },
   {
     "id": 109,
@@ -4226,11 +4226,11 @@
   },
   {
     "id": 93,
-    "en1": "pests",
-    "en2": "",
+    "en1": "pest",
+    "en2": "Farmers use various methods to control pests in their fields.",
     "en3": "",
     "en4": "",
-    "vn1": "loài gây hại"
+    "vn1": "(n) loài gây hại"
   },
   {
     "id": 92,
@@ -5150,7 +5150,7 @@
     "en2": "Mental health is as important as physical health.",
     "en3": "",
     "en4": "",
-    "vn1": "(a) thuộc về tâm trí; tâm lý"
+    "vn1": "(a) thuộc về tinh thần"
   },
   {
     "id": 645,
@@ -5886,7 +5886,7 @@
     "en2": "We need to map out a strategy for the new project.",
     "en3": "",
     "en4": "",
-    "vn1": "(phr v) lập kế hoạch chi tiết"
+    "vn1": "(phr v) vạch ra"
   },
   {
     "id": 737,
