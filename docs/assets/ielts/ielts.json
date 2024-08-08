@@ -7111,5 +7111,37 @@
     "en3": "",
     "en4": "",
     "vn1": "(a) ổn định"
+  },
+  {
+    "id": 890,
+    "en1": "troublesome",
+    "en2": "The new software update has introduced some troublesome bugs.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) phiền toái"
+  },
+  {
+    "id": 891,
+    "en1": "postgraduate",
+    "en2": "The university offers several postgraduate courses in various fields.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n,a) sau đại học"
+  },
+  {
+    "id": 892,
+    "en1": "reiterate",
+    "en2": "The manager reiterated the importance of meeting the deadline.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) nhắc lại"
+  },
+  {
+    "id": 893,
+    "en1": "foremost",
+    "en2": "The company’s mission is foremost in their strategy for growth.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a,av) quan trọng nhất"
   }
 ]
