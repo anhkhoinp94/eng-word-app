@@ -75,7 +75,7 @@ export class AppComponent {
   no = 1;
   id = 1;
   min = 1;
-  max = 894;
+  max = 911;
   vnWord1 = '';
   vnWord2 = '';
   enWord1 = '';
@@ -126,7 +126,7 @@ export class AppComponent {
       this.enWord3 = word.en3;
       this.enWord4 = word.en4;
     }
-    this.reviseWords = this.words.sort(() => 0.5 - Math.random()).slice(0, 40);
+    this.reviseWords = this.words.sort(() => 0.5 - Math.random()).slice(0, 60);
   }
 
   renderEnWord = (value: string): string => {

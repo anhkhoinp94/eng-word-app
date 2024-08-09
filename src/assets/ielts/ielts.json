@@ -1782,7 +1782,7 @@
     "en2": "His nose is a prominent feature of his face.",
     "en3": "",
     "en4": "",
-    "vn1": "(a) nổi bật, dễ thấy"
+    "vn1": "(a) nổi bật"
   },
   {
     "id": 398,
@@ -3434,11 +3434,11 @@
   },
   {
     "id": 192,
-    "en1": "derive from, extract",
+    "en1": "derive, extract",
     "en2": "The company derives a significant portion of its revenue from online sales.",
     "en3": "",
     "en4": "",
-    "vn1": "(v) trích xuất, xuất phát từ"
+    "vn1": "(v) trích xuất"
   },
   {
     "id": 191,
@@ -4782,7 +4782,7 @@
     "en2": "In deductive reasoning, if all premises are true, the conclusion must also be true.",
     "en3": "",
     "en4": "",
-    "vn1": "(a,v) suy diễn, suy luận"
+    "vn1": "(a,v) suy diễn"
   },
   {
     "id": 23,
@@ -7151,5 +7151,141 @@
     "en3": "",
     "en4": "",
     "vn1": "(a) có khả năng, thành thạo"
+  },
+  {
+    "id": 895,
+    "en1": "chronic",
+    "en2": "She suffers from chronic back pain.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) mãn tính"
+  },
+  {
+    "id": 896,
+    "en1": "cognitive",
+    "en2": "Children’s cognitive development is crucial in the early years of life.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) nhận thức"
+  },
+  {
+    "id": 897,
+    "en1": "consensus",
+    "en2": "The committee reached a consensus on the new policy.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự đồng thuận"
+  },
+  {
+    "id": 898,
+    "en1": "contingent",
+    "en2": "The success of the project is contingent on the availability of funding.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) phụ thuộc vào"
+  },
+  {
+    "id": 899,
+    "en1": "corroborate",
+    "en2": "The documents corroborate the claim that the project was completed on time.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) xác thực"
+  },
+  {
+    "id": 900,
+    "en1": "deficit",
+    "en2": "The company is facing a budget deficit this year.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự thiếu hụt"
+  },
+  {
+    "id": 901,
+    "en1": "elicit",
+    "en2": "The detective tried to elicit information from the witness.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) trích xuất"
+  },
+  {
+    "id": 902,
+    "en1": "feasible",
+    "en2": "Is this project feasible within the given budget?",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) khả thi"
+  },
+  {
+    "id": 903,
+    "en1": "fragment",
+    "en2": "She found a fragment of the letter that provided a clue to the mystery.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) mảnh vỡ"
+  },
+  {
+    "id": 904,
+    "en1": "imminent",
+    "en2": "The weather forecast warned of an imminent storm.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) sắp xảy ra"
+  },
+  {
+    "id": 905,
+    "en1": "meticulous",
+    "en2": "She is known for her meticulous attention to detail in her work.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) tỉ mỉ"
+  },
+  {
+    "id": 906,
+    "en1": "preclude, prevent",
+    "en2": "The strict regulations preclude any illegal activities.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) ngăn chặn"
+  },
+  {
+    "id": 907,
+    "en1": "reconcile",
+    "en2": "They decided to reconcile after their argument, realizing that their friendship was more important.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) hòa giải"
+  },
+  {
+    "id": 908,
+    "en1": "remedy",
+    "en2": "To remedy the software issue, the development team released an update.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n,v) giải pháp"
+  },
+  {
+    "id": 909,
+    "en1": "salient",
+    "en2": "The salient features of the new policy were highlighted in the report.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) nổi bật"
+  },
+  {
+    "id": 910,
+    "en1": "tangible, concrete",
+    "en2": "The company’s tangible assets include buildings and machinery.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) hữu hình"
+  },
+  {
+    "id": 911,
+    "en1": "unprecedented, precedent",
+    "en2": "The team achieved an unprecedented level of success this season.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a,n) chưa có tiền lệ, tiền lệ"
   }
 ]
