@@ -1646,7 +1646,7 @@
     "en2": "We need a concrete plan before we start the project.",
     "en3": "",
     "en4": "",
-    "vn1": "(a, n) cụ thể; bê tông"
+    "vn1": "(a, n) cụ thể, bê tông"
   },
   {
     "id": 415,
@@ -2254,7 +2254,7 @@
     "en2": "There is a strong correlate between smoking and lung cancer.",
     "en3": "",
     "en4": "",
-    "vn1": "mối tương quan, liên hệ"
+    "vn1": "(n,v) liên quan"
   },
   {
     "id": 339,
@@ -2526,7 +2526,7 @@
     "en2": "She took notice of his warning and left the dangerous area.",
     "en3": "",
     "en4": "",
-    "vn1": "chú ý đến"
+    "vn1": "(v) chú ý đến"
   },
   {
     "id": 305,
@@ -2542,7 +2542,7 @@
     "en2": "The company's reputation for goodwill has helped it attract loyal customers.",
     "en3": "",
     "en4": "",
-    "vn1": "tính thiện chí, tốt lành"
+    "vn1": "(n) thiện chí"
   },
   {
     "id": 303,
@@ -2819,10 +2819,10 @@
   {
     "id": 269,
     "en1": "trick into",
-    "en2": "",
+    "en2": "She tricked him into signing the contract by pretending it was a gift.",
     "en3": "",
     "en4": "",
-    "vn1": "dụ dỗ, lừa gạt"
+    "vn1": "(v) lừa dối"
   },
   {
     "id": 268,
@@ -2843,7 +2843,7 @@
   {
     "id": 266,
     "en1": "alleviate, lessen",
-    "en2": "",
+    "en2": "The doctor prescribed medication to alleviate the patient's pain.",
     "en3": "",
     "en4": "",
     "vn1": "(v) làm giảm thiểu"
@@ -2862,7 +2862,7 @@
     "en2": "She stood at the threshold of her new home, excited for the future.",
     "en3": "",
     "en4": "",
-    "vn1": "(n) giới hạn, ngưỡng"
+    "vn1": "(n) ngưỡng"
   },
   {
     "id": 263,
@@ -2907,7 +2907,7 @@
   {
     "id": 258,
     "en1": "apathy, indifference",
-    "en2": "",
+    "en2": "The manager was frustrated by the team's apathy and lack of enthusiasm.",
     "en3": "",
     "en4": "",
     "vn1": "(n) thờ ơ"
@@ -3046,7 +3046,7 @@
     "en2": "His conceited attitude made it difficult for others to work with him.",
     "en3": "",
     "en4": "",
-    "vn1": "(a) tự phụ, kiêu ngạo"
+    "vn1": "(a) kiêu ngạo"
   },
   {
     "id": 240,
@@ -3078,7 +3078,7 @@
     "en2": "She is often criticized for her arrogant attitude towards others.",
     "en3": "",
     "en4": "",
-    "vn1": "(a) tự phụ, kiêu ngạo"
+    "vn1": "(a) kiêu ngạo"
   },
   {
     "id": 236,
@@ -3147,10 +3147,10 @@
   {
     "id": 228,
     "en1": "apparently",
-    "en2": "",
+    "en2": "Apparently, the restaurant is famous for its delicious seafood dishes.",
     "en3": "",
     "en4": "",
-    "vn1": "rõ ràng"
+    "vn1": "(av) rõ ràng"
   },
   {
     "id": 227,
@@ -3350,7 +3350,7 @@
     "en2": "It's typical for children to enjoy playing with toys.",
     "en3": "",
     "en4": "",
-    "vn1": "điển hình"
+    "vn1": "(a) điển hình"
   },
   {
     "id": 202,
@@ -3651,10 +3651,10 @@
   {
     "id": 165,
     "en1": "acquaintance",
-    "en2": "",
+    "en2": "Although we are only acquaintances, I felt a strong connection with him during our conversation.",
     "en3": "",
     "en4": "",
-    "vn1": "người quen"
+    "vn1": "(n) người quen"
   },
   {
     "id": 164,
@@ -3763,10 +3763,10 @@
   {
     "id": 151,
     "en1": "gradually",
-    "en2": "",
+    "en2": "The team gradually improved their performance through regular practice and feedback.",
     "en3": "",
     "en4": "",
-    "vn1": "dần dần"
+    "vn1": "(av) dần dần"
   },
   {
     "id": 150,
@@ -3827,10 +3827,10 @@
   {
     "id": 143,
     "en1": "cartographer",
-    "en2": "",
+    "en2": "As a cartographer, her job is to update and maintain the city's official maps.",
     "en3": "",
     "en4": "",
-    "vn1": "người vẽ bản đồ"
+    "vn1": "(n) người vẽ bản đồ"
   },
   {
     "id": 142,
@@ -3891,10 +3891,10 @@
   {
     "id": 135,
     "en1": "suppose",
-    "en2": "",
+    "en2": "I suppose we could try a different approach to solve the problem.",
     "en3": "",
     "en4": "",
-    "vn1": "giả sử"
+    "vn1": "(v) giả sử, cho rằng"
   },
   {
     "id": 134,
@@ -3962,11 +3962,11 @@
   },
   {
     "id": 126,
-    "en1": "calves, calf",
-    "en2": "",
+    "en1": "calf, calves",
+    "en2": "The calf was following its mother across the field.",
     "en3": "",
     "en4": "",
-    "vn1": "con bê"
+    "vn1": "(n) con bê"
   },
   {
     "id": 125,
@@ -4035,18 +4035,18 @@
   {
     "id": 117,
     "en1": "extinction",
-    "en2": "",
+    "en2": "Many species are facing extinction due to habitat loss and climate change.",
     "en3": "",
     "en4": "",
-    "vn1": "sự tuyệt chủng"
+    "vn1": "(n) sự tuyệt chủng"
   },
   {
     "id": 116,
     "en1": "territory",
-    "en2": "",
+    "en2": "The country expanded its territory through a series of successful military campaigns.",
     "en3": "",
     "en4": "",
-    "vn1": "lãnh thổ"
+    "vn1": "(n) lãnh thổ"
   },
   {
     "id": 115,
@@ -4075,10 +4075,10 @@
   {
     "id": 112,
     "en1": "scarce",
-    "en2": "",
+    "en2": "Water is becoming increasingly scarce in some regions due to prolonged droughts.",
     "en3": "",
     "en4": "",
-    "vn1": "khan hiếm"
+    "vn1": "(a) khan hiếm"
   },
   {
     "id": 111,
@@ -4403,18 +4403,18 @@
   {
     "id": 71,
     "en1": "contrary",
-    "en2": "",
+    "en2": "The weather was quite contrary to the forecast, with sunny skies instead of rain.",
     "en3": "",
     "en4": "",
-    "vn1": "trái, ngược chiều"
+    "vn1": "(a,n) trái ngược"
   },
   {
     "id": 70,
     "en1": "physiologist",
-    "en2": "",
+    "en2": "As a physiologist, she studies the functions of various organs and systems in the human body.",
     "en3": "",
     "en4": "",
-    "vn1": "nhà sinh lý học"
+    "vn1": "(n) nhà sinh lý học"
   },
   {
     "id": 69,
@@ -4443,10 +4443,10 @@
   {
     "id": 66,
     "en1": "gale",
-    "en2": "",
+    "en2": "The ship was caught in a gale at sea.",
     "en3": "",
     "en4": "",
-    "vn1": "gió mạnh"
+    "vn1": "(n) cơn gió mạnh"
   },
   {
     "id": 65,
@@ -4483,10 +4483,10 @@
   {
     "id": 61,
     "en1": "voyage",
-    "en2": "",
+    "en2": "The voyage was marked by unpredictable weather and numerous challenges.",
     "en3": "",
     "en4": "",
-    "vn1": "cuộc hành trình"
+    "vn1": "(n) cuộc hành trình"
   },
   {
     "id": 60,
@@ -4950,7 +4950,7 @@
     "en2": "She couldn't resist the temptation to eat the chocolate cake.",
     "en3": "",
     "en4": "",
-    "vn1": "(v) kháng cự, chống lại"
+    "vn1": "(v) chống lại, kháng cự"
   },
   {
     "id": 2,
@@ -5102,7 +5102,7 @@
     "en2": "We need to scale our business to meet demand.",
     "en3": "",
     "en4": "",
-    "vn1": "(v) leo lên, tăng theo tỉ lệ"
+    "vn1": "(v) leo lên, điều chỉnh"
   },
   {
     "id": 639,
@@ -5294,7 +5294,7 @@
     "en2": "He delivered his report in a pompous manner, making everyone feel uncomfortable.",
     "en3": "",
     "en4": "",
-    "vn1": "(a) tự phụ, kiêu ngạo"
+    "vn1": "(a) kiêu ngạo"
   },
   {
     "id": 663,
@@ -7038,7 +7038,7 @@
     "en2": "The new management regime improved the company's efficiency.",
     "en3": "",
     "en4": "",
-    "vn1": "(n) chế độ, hệ thống quản lý, phương thức quản lý"
+    "vn1": "(n) chế độ"
   },
   {
     "id": 881,
@@ -7287,5 +7287,21 @@
     "en3": "",
     "en4": "",
     "vn1": "(a,n) chưa có tiền lệ, tiền lệ"
+  },
+  {
+    "id": 912,
+    "en1": "pretend",
+    "en2": "The children pretended to be astronauts during their playtime.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) giả vờ"
+  },
+  {
+    "id": 913,
+    "en1": "prescribe",
+    "en2": "The doctor will prescribe antibiotics to treat the infection.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) kê đơn, quy định"
   }
 ]
