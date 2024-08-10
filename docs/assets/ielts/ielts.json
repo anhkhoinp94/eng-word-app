@@ -4203,10 +4203,10 @@
   {
     "id": 96,
     "en1": "scrubland",
-    "en2": "",
+    "en2": "The scrubland is home to various species of wildlife adapted to arid conditions.",
     "en3": "",
     "en4": "",
-    "vn1": "bụi rậm"
+    "vn1": "(n) bụi rậm"
   },
   {
     "id": 95,
@@ -4291,18 +4291,18 @@
   {
     "id": 85,
     "en1": "splice",
-    "en2": "",
+    "en2": "They spliced the two pieces of cable to extend the length.",
     "en3": "",
     "en4": "",
-    "vn1": "kết hợp"
+    "vn1": "(v,n) kết nối"
   },
   {
     "id": 84,
     "en1": "hypothesis",
-    "en2": "",
+    "en2": "The scientist proposed a hypothesis to explain the observed phenomenon.",
     "en3": "",
     "en4": "",
-    "vn1": "giả thuyết"
+    "vn1": "(n) giả thuyết"
   },
   {
     "id": 83,
@@ -4315,10 +4315,10 @@
   {
     "id": 82,
     "en1": "ambitious",
-    "en2": "",
+    "en2": "She has ambitious plans to start her own business.",
     "en3": "",
     "en4": "",
-    "vn1": "tham vọng"
+    "vn1": "(a) tham vọng"
   },
   {
     "id": 81,
@@ -4331,10 +4331,10 @@
   {
     "id": 80,
     "en1": "convince",
-    "en2": "",
+    "en2": "She tried to convince him to join the team.",
     "en3": "",
     "en4": "",
-    "vn1": "thuyết phục"
+    "vn1": "(v) thuyết phục"
   },
   {
     "id": 79,
@@ -4347,18 +4347,18 @@
   {
     "id": 78,
     "en1": "clever",
-    "en2": "",
+    "en2": "She is a clever student who always finds innovative solutions.",
     "en3": "",
     "en4": "",
-    "vn1": "thông minh, khéo léo"
+    "vn1": "(a) thông minh, khéo léo"
   },
   {
     "id": 77,
     "en1": "linguist",
-    "en2": "",
+    "en2": "A linguist studies the structure and evolution of languages.",
     "en3": "",
     "en4": "",
-    "vn1": "nhà ngôn ngữ học"
+    "vn1": "(n) nhà ngôn ngữ học"
   },
   {
     "id": 76,
@@ -4371,26 +4371,26 @@
   {
     "id": 75,
     "en1": "indeed",
-    "en2": "",
+    "en2": "If you have any doubts, I can assure you that, indeed, everything is under control.",
     "en3": "",
     "en4": "",
-    "vn1": "thực sự"
+    "vn1": "(av) thực sự"
   },
   {
     "id": 74,
     "en1": "receptive",
-    "en2": "",
+    "en2": "She is very receptive to feedback and always looks for ways to improve.",
     "en3": "",
     "en4": "",
-    "vn1": "dễ tiếp thu"
+    "vn1": "(a) dễ tiếp thu"
   },
   {
     "id": 73,
     "en1": "propel",
-    "en2": "",
+    "en2": "The engine propels the boat forward through the water.",
     "en3": "",
     "en4": "",
-    "vn1": "đẩy"
+    "vn1": "(v) đẩy, thúc đẩy"
   },
   {
     "id": 72,
@@ -4427,18 +4427,18 @@
   {
     "id": 68,
     "en1": "remote",
-    "en2": "",
+    "en2": "They live in a remote village in the mountains.",
     "en3": "",
     "en4": "",
-    "vn1": "xa xôi, hẻo lánh"
+    "vn1": "(a) xa xôi"
   },
   {
     "id": 67,
     "en1": "angle",
-    "en2": "",
+    "en2": "The triangle has three angles, each measuring 60 degrees.",
     "en3": "",
     "en4": "",
-    "vn1": "góc"
+    "vn1": "(n) góc"
   },
   {
     "id": 66,
