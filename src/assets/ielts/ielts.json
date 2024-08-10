@@ -3179,10 +3179,10 @@
   {
     "id": 224,
     "en1": "stroke",
-    "en2": "",
+    "en2": "He suffered a stroke and was taken to the hospital immediately.",
     "en3": "",
     "en4": "",
-    "vn1": "đột quỵ"
+    "vn1": "(n,v) đột quỵ, vuốt ve"
   },
   {
     "id": 223,
@@ -3203,7 +3203,7 @@
   {
     "id": 221,
     "en1": "ultrasound",
-    "en2": "",
+    "en2": "The doctor performed an ultrasound to check the baby's development.",
     "en3": "",
     "en4": "",
     "vn1": "sóng siêu âm"
@@ -3211,7 +3211,7 @@
   {
     "id": 220,
     "en1": "respiratory",
-    "en2": "",
+    "en2": "The respiratory system includes the lungs and airways.",
     "en3": "",
     "en4": "",
     "vn1": "(a) hô hấp"
@@ -3219,7 +3219,7 @@
   {
     "id": 219,
     "en1": "cardiovascular",
-    "en2": "",
+    "en2": "Regular exercise is essential for good cardiovascular health.",
     "en3": "",
     "en4": "",
     "vn1": "(a) tim mạch"
@@ -3235,18 +3235,18 @@
   {
     "id": 217,
     "en1": "narrow",
-    "en2": "",
+    "en2": "The street was too narrow for cars to pass.",
     "en3": "",
     "en4": "",
-    "vn1": "hẹp"
+    "vn1": "(a,v) hẹp"
   },
   {
     "id": 216,
     "en1": "stretch",
-    "en2": "",
+    "en2": "She stretched her arms after waking up.",
     "en3": "",
     "en4": "",
-    "vn1": "kéo dãn"
+    "vn1": "(v,n) kéo dãn"
   },
   {
     "id": 215,
@@ -3259,10 +3259,10 @@
   {
     "id": 214,
     "en1": "sensation",
-    "en2": "",
+    "en2": "The sensation of soft sand beneath her feet was soothing.",
     "en3": "",
     "en4": "",
-    "vn1": "cảm giác"
+    "vn1": "(n) cảm giác"
   },
   {
     "id": 213,
@@ -3283,10 +3283,10 @@
   {
     "id": 211,
     "en1": "inhalation, exhalation",
-    "en2": "",
+    "en2": "Inhalation of fresh air is essential for good health.",
     "en3": "",
     "en4": "",
-    "vn1": "sự hít vào, thở ra"
+    "vn1": "(n) sự hít vào, thở ra"
   },
   {
     "id": 210,
@@ -3299,50 +3299,50 @@
   {
     "id": 209,
     "en1": "pinch",
-    "en2": "",
+    "en2": "She pinched her brother's arm playfully.",
     "en3": "",
     "en4": "",
-    "vn1": "bóp, nhéo"
+    "vn1": "(v,n) nhéo, một chút"
   },
   {
     "id": 208,
     "en1": "jaws",
-    "en2": "",
+    "en2": "The jaws of the crocodile are incredibly strong.",
     "en3": "",
     "en4": "",
-    "vn1": "hàm"
+    "vn1": "(n) hàm"
   },
   {
     "id": 207,
     "en1": "compensate",
-    "en2": "",
+    "en2": "The company will compensate employees for overtime work.",
     "en3": "",
     "en4": "",
-    "vn1": "đền bù, bù đắp"
+    "vn1": "(v) bồi thường"
   },
   {
     "id": 206,
     "en1": "come in bouts",
-    "en2": "",
+    "en2": "The pain comes in bouts, with periods of relief in between.",
     "en3": "",
     "en4": "",
-    "vn1": "xuất hiện thành từng đợt, cơn"
+    "vn1": "xuất hiện theo đợt"
   },
   {
     "id": 205,
     "en1": "cough",
-    "en2": "",
+    "en2": "She coughed loudly during the meeting.",
     "en3": "",
     "en4": "",
-    "vn1": "ho"
+    "vn1": "(v,n) ho"
   },
   {
     "id": 204,
     "en1": "stifle",
-    "en2": "",
+    "en2": "She tried to stifle her laughter during the serious meeting.",
     "en3": "",
     "en4": "",
-    "vn1": "kìm nén"
+    "vn1": "(v) ngăn chặn"
   },
   {
     "id": 203,
@@ -3355,7 +3355,7 @@
   {
     "id": 202,
     "en1": "inevitability, inevitable",
-    "en2": "",
+    "en2": "The inevitability of change is a fundamental aspect of life.",
     "en3": "",
     "en4": "",
     "vn1": "sự tất yếu, không thể tránh khỏi"
@@ -3363,10 +3363,10 @@
   {
     "id": 201,
     "en1": "sneeze",
-    "en2": "",
+    "en2": "He sneezed loudly during the meeting.",
     "en3": "",
     "en4": "",
-    "vn1": "hắt hơi"
+    "vn1": "(v,n) hắt hơi"
   },
   {
     "id": 200,
@@ -3443,34 +3443,34 @@
   {
     "id": 191,
     "en1": "neuroscience",
-    "en2": "",
+    "en2": "Neuroscience is a rapidly evolving field with many exciting discoveries.",
     "en3": "",
     "en4": "",
-    "vn1": "khoa học thần kinh"
+    "vn1": "(n) khoa học thần kinh"
   },
   {
     "id": 190,
     "en1": "quirky",
-    "en2": "",
+    "en2": "She has a quirky sense of humor.",
     "en3": "",
     "en4": "",
-    "vn1": "kì quặc"
+    "vn1": "(a) kì quặc"
   },
   {
     "id": 189,
     "en1": "merit",
-    "en2": "",
+    "en2": "The project was praised for its merit and innovation.",
     "en3": "",
     "en4": "",
-    "vn1": "giá trị, công lao"
+    "vn1": "(n) giá trị, công lao"
   },
   {
     "id": 188,
     "en1": "yawn",
-    "en2": "",
+    "en2": "She couldn't stop yawning during the long lecture.",
     "en3": "",
     "en4": "",
-    "vn1": "ngáp"
+    "vn1": "(v) ngáp"
   },
   {
     "id": 187,
@@ -7303,5 +7303,13 @@
     "en3": "",
     "en4": "",
     "vn1": "(v) kê đơn, quy định"
+  },
+  {
+    "id": 914,
+    "en1": "fundamental",
+    "en2": "Understanding basic mathematics is fundamental to learning more advanced concepts.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) cơ bản"
   }
 ]
