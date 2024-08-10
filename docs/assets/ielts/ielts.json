@@ -2534,7 +2534,7 @@
     "en2": "There was a subtle tension in the room that everyone could sense but no one could explain.",
     "en3": "",
     "en4": "",
-    "vn1": "(a) tinh tế, nhẹ nhàng, khó nhận thấy"
+    "vn1": "(a) tinh tế, khó nhận thấy"
   },
   {
     "id": 304,
@@ -3627,10 +3627,10 @@
   {
     "id": 168,
     "en1": "mould",
-    "en2": "",
+    "en2": "They poured the jelly into the mould to set.",
     "en3": "",
     "en4": "",
-    "vn1": "định hình"
+    "vn1": "(n,v) khuôn mẫu, định hình"
   },
   {
     "id": 167,
@@ -3883,10 +3883,10 @@
   {
     "id": 136,
     "en1": "ecological",
-    "en2": "",
+    "en2": "The ecological impact of the new construction project was carefully assessed.",
     "en3": "",
     "en4": "",
-    "vn1": "sinh thái"
+    "vn1": "(a) sinh thái"
   },
   {
     "id": 135,
@@ -3899,18 +3899,18 @@
   {
     "id": 134,
     "en1": "loosen",
-    "en2": "",
+    "en2": "He loosened his tie after a long day at work.",
     "en3": "",
     "en4": "",
-    "vn1": "nới lỏng"
+    "vn1": "(v) nới lỏng"
   },
   {
     "id": 133,
     "en1": "solitary",
-    "en2": "",
+    "en2": "He enjoys solitary walks in the park to clear his mind.",
     "en3": "",
     "en4": "",
-    "vn1": "đơn độc"
+    "vn1": "(a) đơn độc"
   },
   {
     "id": 132,
@@ -3950,7 +3950,7 @@
     "en2": "Rice is a staple food in many Asian countries.",
     "en3": "",
     "en4": "",
-    "vn1": "(a) chính, chủ yếu"
+    "vn1": "(a,n) thiết yếu, gim"
   },
   {
     "id": 127,
@@ -4011,10 +4011,10 @@
   {
     "id": 120,
     "en1": "desolate",
-    "en2": "",
+    "en2": "The abandoned town looked desolate.",
     "en3": "",
     "en4": "",
-    "vn1": "hoang vắng"
+    "vn1": "(a) hoang vắng"
   },
   {
     "id": 119,
@@ -4154,11 +4154,11 @@
   },
   {
     "id": 102,
-    "en1": "millennia",
-    "en2": "",
+    "en1": "millennia, millennium",
+    "en2": "Human civilization has evolved over several millennia.",
     "en3": "",
     "en4": "",
-    "vn1": "thiên niên kỷ"
+    "vn1": "(a) thiên niên kỷ"
   },
   {
     "id": 101,
@@ -4179,18 +4179,18 @@
   {
     "id": 99,
     "en1": "bane",
-    "en2": "",
+    "en2": "Mosquitoes are the bane of my summer evenings.",
     "en3": "",
     "en4": "",
-    "vn1": "tai ương, mối phiền toái"
+    "vn1": "(n) tai ương"
   },
   {
     "id": 98,
     "en1": "mammalian",
-    "en2": "",
+    "en2": "Mammalian species include a wide range of animals from tiny rodents to large elephants.",
     "en3": "",
     "en4": "",
-    "vn1": "động vật có vú"
+    "vn1": "(a) động vật có vú"
   },
   {
     "id": 97,
@@ -4654,7 +4654,7 @@
     "en2": "The region is known for its abundant natural resources.",
     "en3": "",
     "en4": "",
-    "vn1": "sự phong phú"
+    "vn1": "(a) phong phú"
   },
   {
     "id": 39,
@@ -6366,7 +6366,7 @@
     "en2": "The airplane experienced turbulent weather during the flight.",
     "en3": "",
     "en4": "",
-    "vn1": "(a) hỗn loạn, bất ổn"
+    "vn1": "(a) hỗn loạn"
   },
   {
     "id": 797,
