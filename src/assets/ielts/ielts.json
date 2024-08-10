@@ -482,10 +482,10 @@
   {
     "id": 561,
     "en1": "engage",
-    "en2": "They decided to engage after dating for three years.",
+    "en2": "She decided to engage in volunteer work.",
     "en3": "",
     "en4": "",
-    "vn1": "(v) đính hôn, tham gia, thu hút"
+    "vn1": "(v) tham gia, kết nối"
   },
   {
     "id": 560,
@@ -589,7 +589,7 @@
     "en2": "He chopped the vegetables for the stew.",
     "en3": "",
     "en4": "",
-    "vn1": "(v) cắt, chặt, đốn"
+    "vn1": "(v) chặt, cắt"
   },
   {
     "id": 547,
@@ -2270,7 +2270,7 @@
     "en2": "The decision to build the factory in a residential area led to a great deal of controversy.",
     "en3": "",
     "en4": "",
-    "vn1": "sự tranh cãi"
+    "vn1": "(n) sự tranh cãi"
   },
   {
     "id": 337,
@@ -2574,7 +2574,7 @@
     "en2": "He gave a charitable contribution to support the local food bank.",
     "en3": "",
     "en4": "",
-    "vn1": "nhân ái, rộng lượng"
+    "vn1": "(a) nhân ái"
   },
   {
     "id": 299,
@@ -2622,7 +2622,7 @@
     "en2": "The new software update will supersede the previous version.",
     "en3": "",
     "en4": "",
-    "vn1": "thay thế, chiếm chỗ"
+    "vn1": "(v) thay thế"
   },
   {
     "id": 293,
@@ -3251,10 +3251,10 @@
   {
     "id": 215,
     "en1": "nasal, oral",
-    "en2": "",
+    "en2": "He spoke with a nasal tone.",
     "en3": "",
     "en4": "",
-    "vn1": "mũi, miệng"
+    "vn1": "(a) mũi, miệng"
   },
   {
     "id": 214,
@@ -3974,7 +3974,7 @@
     "en2": "The company has dominated the market for years with its innovative products.",
     "en3": "",
     "en4": "",
-    "vn1": "thống trị"
+    "vn1": "(v) thống trị"
   },
   {
     "id": 124,
@@ -4139,10 +4139,10 @@
   {
     "id": 104,
     "en1": "descendant",
-    "en2": "",
+    "en2": "The museum displays artifacts from the descendants of the original settlers.",
     "en3": "",
     "en4": "",
-    "vn1": "hậu duệ"
+    "vn1": "(n) hậu duệ"
   },
   {
     "id": 103,
@@ -4211,18 +4211,18 @@
   {
     "id": 95,
     "en1": "ranch",
-    "en2": "",
+    "en2": "They bought a large ranch to raise cattle and horses.",
     "en3": "",
     "en4": "",
-    "vn1": "trang trại"
+    "vn1": "(n) trang trại"
   },
   {
     "id": 94,
     "en1": "grazier",
-    "en2": "",
+    "en2": "As a grazier, he is responsible for the health and well-being of his livestock.",
     "en3": "",
     "en4": "",
-    "vn1": "người chăn nuôi gia súc"
+    "vn1": "(n) người chăn nuôi"
   },
   {
     "id": 93,
@@ -4235,18 +4235,18 @@
   {
     "id": 92,
     "en1": "resurrect",
-    "en2": "",
+    "en2": "The movie tells the story of a hero who is resurrected after death.",
     "en3": "",
     "en4": "",
-    "vn1": "phục hồi lại"
+    "vn1": "(v) hồi sinh"
   },
   {
     "id": 91,
     "en1": "renaissance",
-    "en2": "",
+    "en2": "The city experienced a renaissance with new investments and cultural events.",
     "en3": "",
     "en4": "",
-    "vn1": "sự phục hưng"
+    "vn1": "(n) thời kì phục hưng, sự hồi sinh"
   },
   {
     "id": 90,
@@ -4267,18 +4267,18 @@
   {
     "id": 88,
     "en1": "barrier",
-    "en2": "",
+    "en2": "The fence served as a barrier to keep animals out of the garden.",
     "en3": "",
     "en4": "",
-    "vn1": "rào cản"
+    "vn1": "(n) rào cản"
   },
   {
     "id": 87,
     "en1": "accordingly",
-    "en2": "",
+    "en2": "The weather forecast predicted rain, so we adjusted our plans accordingly.",
     "en3": "",
     "en4": "",
-    "vn1": "sao cho phù hợp"
+    "vn1": "(av) sao cho phù hợp"
   },
   {
     "id": 86,
@@ -5822,7 +5822,7 @@
     "en2": "The tough material can withstand extreme temperatures.",
     "en3": "",
     "en4": "",
-    "vn1": "(a) khó khăn, cứng rắn, kiên cường"
+    "vn1": "(a) cứng rắn, khó khăn"
   },
   {
     "id": 729,
@@ -6006,7 +6006,7 @@
     "en2": "Graduating from university was a major milestone in her life.",
     "en3": "",
     "en4": "",
-    "vn1": "(n) cột mốc quan trọng, điểm đánh dấu"
+    "vn1": "(n) cột mốc quan trọng"
   },
   {
     "id": 752,
@@ -6142,7 +6142,7 @@
     "en2": "The holistic view of education considers not only academic learning but also personal development.",
     "en3": "",
     "en4": "",
-    "vn1": "(a) toàn diện, bao quát"
+    "vn1": "(a) toàn diện"
   },
   {
     "id": 769,
