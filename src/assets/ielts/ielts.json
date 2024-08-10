@@ -3539,10 +3539,10 @@
   {
     "id": 179,
     "en1": "swamp",
-    "en2": "",
+    "en2": "The swamp is home to various species of birds and insects.",
     "en3": "",
     "en4": "",
-    "vn1": "đầm lầy"
+    "vn1": "(n) đầm lầy"
   },
   {
     "id": 178,
@@ -3555,26 +3555,26 @@
   {
     "id": 177,
     "en1": "thrive",
-    "en2": "",
+    "en2": "The plants thrived in the rich soil.",
     "en3": "",
     "en4": "",
-    "vn1": "phát triển"
+    "vn1": "(v) phát triển mạnh"
   },
   {
     "id": 176,
     "en1": "nomadic",
-    "en2": "",
+    "en2": "Nomadic tribes often move from place to place in search of food and resources.",
     "en3": "",
     "en4": "",
-    "vn1": "dân du mục"
+    "vn1": "(a) du mục"
   },
   {
     "id": 175,
     "en1": "breed",
-    "en2": "",
+    "en2": "They have a breed of dog known for its intelligence.",
     "en3": "",
     "en4": "",
-    "vn1": "(n) giống, (v) sinh sản"
+    "vn1": "(n,v) giống, sinh sản"
   },
   {
     "id": 174,
@@ -3587,31 +3587,31 @@
   {
     "id": 173,
     "en1": "towards",
-    "en2": "",
+    "en2": "She walked towards the park.",
     "en3": "",
     "en4": "",
-    "vn1": "về phía"
+    "vn1": "(av) về phía"
   },
   {
     "id": 172,
     "en1": "pollen, pollination",
-    "en2": "",
+    "en2": "Many people suffer from pollen allergies in the spring.",
     "en3": "",
     "en4": "",
-    "vn1": "phấn hoa, sự thụ phấn"
+    "vn1": "(n) phấn hoa, sự thụ phấn"
   },
   {
     "id": 171,
     "en1": "broad",
-    "en2": "",
+    "en2": "The river is broad and deep.",
     "en3": "",
     "en4": "",
-    "vn1": "rộng"
+    "vn1": "(a) rộng"
   },
   {
     "id": 170,
     "en1": "blunt beak",
-    "en2": "",
+    "en2": "Some birds, like pigeons, have a blunt beak that helps them crush seeds and nuts.",
     "en3": "",
     "en4": "",
     "vn1": "mỏ cùn (chim)"
@@ -3643,10 +3643,10 @@
   {
     "id": 166,
     "en1": "benign, mild",
-    "en2": "",
+    "en2": "The doctor assured me that the tumor was benign and not cancerous.",
     "en3": "",
     "en4": "",
-    "vn1": "ôn hòa"
+    "vn1": "(a) lành tính"
   },
   {
     "id": 165,
@@ -3659,15 +3659,15 @@
   {
     "id": 164,
     "en1": "frugality",
-    "en2": "",
+    "en2": "Frugality is an important aspect of managing personal finances effectively.",
     "en3": "",
     "en4": "",
-    "vn1": "tính tiết kiệm, hà tiện"
+    "vn1": "(n) tính tiết kiệm"
   },
   {
     "id": 163,
     "en1": "blood transfusion",
-    "en2": "",
+    "en2": "The patient needed a blood transfusion after the surgery.",
     "en3": "",
     "en4": "",
     "vn1": "truyền máu"
@@ -3699,7 +3699,7 @@
   {
     "id": 159,
     "en1": "conscious",
-    "en2": "",
+    "en2": "The patient was conscious and able to speak after the surgery.",
     "en3": "",
     "en4": "",
     "vn1": "(a) tỉnh táo"
@@ -3715,10 +3715,10 @@
   {
     "id": 157,
     "en1": "convict",
-    "en2": "",
+    "en2": "The documentary focused on the stories of wrongly convicted individuals.",
     "en3": "",
     "en4": "",
-    "vn1": "tù nhân"
+    "vn1": "(v,n) kết án"
   },
   {
     "id": 156,
@@ -3731,7 +3731,7 @@
   {
     "id": 155,
     "en1": "desperate",
-    "en2": "",
+    "en2": "She was desperate to find her lost dog and searched everywhere.",
     "en3": "",
     "en4": "",
     "vn1": "(a) tuyệt vọng"
@@ -3739,10 +3739,10 @@
   {
     "id": 154,
     "en1": "shrinking",
-    "en2": "",
+    "en2": "The sweater is shrinking after being washed in hot water.",
     "en3": "",
     "en4": "",
-    "vn1": "(n) sự thu hẹp lại"
+    "vn1": "(a,n) co lại"
   },
   {
     "id": 153,
@@ -3779,15 +3779,15 @@
   {
     "id": 149,
     "en1": "expansive",
-    "en2": "",
+    "en2": "The house has an expansive view of the countryside.",
     "en3": "",
     "en4": "",
-    "vn1": "rộng lớn"
+    "vn1": "(a) rộng lớn"
   },
   {
     "id": 148,
     "en1": "intersect",
-    "en2": "",
+    "en2": "The two roads intersect at the corner of the street.",
     "en3": "",
     "en4": "",
     "vn1": "(v) giao nhau"
@@ -3795,7 +3795,7 @@
   {
     "id": 147,
     "en1": "comprise",
-    "en2": "",
+    "en2": "The committee comprises ten members.",
     "en3": "",
     "en4": "",
     "vn1": "(v) bao gồm"
@@ -3811,10 +3811,10 @@
   {
     "id": 145,
     "en1": "tenant",
-    "en2": "",
+    "en2": "The tenant is responsible for paying the rent on time.",
     "en3": "",
     "en4": "",
-    "vn1": "người thuê nhà"
+    "vn1": "(n) người thuê nhà"
   },
   {
     "id": 144,
@@ -3843,34 +3843,34 @@
   {
     "id": 141,
     "en1": "hemisphere",
-    "en2": "",
+    "en2": "The Earth is divided into the Northern Hemisphere and the Southern Hemisphere.",
     "en3": "",
     "en4": "",
-    "vn1": "bán cầu"
+    "vn1": "(n) bán cầu"
   },
   {
     "id": 140,
     "en1": "immigrant",
-    "en2": "",
+    "en2": "Many immigrants come to the country seeking better opportunities.",
     "en3": "",
     "en4": "",
-    "vn1": "người di trú"
+    "vn1": "(n) người di trú"
   },
   {
     "id": 139,
     "en1": "offshore",
-    "en2": "",
+    "en2": "The company operates several offshore oil rigs.",
     "en3": "",
     "en4": "",
-    "vn1": "ngoài khơi"
+    "vn1": "(a) ngoài khơi"
   },
   {
     "id": 138,
     "en1": "offspring",
-    "en2": "",
+    "en2": "The lioness cared for her offspring until they were old enough to fend for themselves.",
     "en3": "",
     "en4": "",
-    "vn1": "con cháu"
+    "vn1": "(n) con cháu"
   },
   {
     "id": 137,
@@ -3915,34 +3915,34 @@
   {
     "id": 132,
     "en1": "recolonize",
-    "en2": "",
+    "en2": "After the war, efforts were made to recolonize the area that had been abandoned.",
     "en3": "",
     "en4": "",
-    "vn1": "tái định cư"
+    "vn1": "(v) tái định cư"
   },
   {
     "id": 131,
-    "en1": "recolonize",
-    "en2": "",
+    "en1": "abstain",
+    "en2": "She abstained from eating sweets during the diet.",
     "en3": "",
     "en4": "",
-    "vn1": "tái định cư"
+    "vn1": "(v) kiêng, từ chối"
   },
   {
     "id": 130,
     "en1": "counter-productive",
-    "en2": "",
+    "en2": "Introducing new regulations without proper planning can be counter-productive.",
     "en3": "",
     "en4": "",
-    "vn1": "phản tác dụng"
+    "vn1": "(a) phản tác dụng"
   },
   {
     "id": 129,
     "en1": "deteriorate, deterioration",
-    "en2": "",
+    "en2": "His health started to deteriorate after the accident.",
     "en3": "",
     "en4": "",
-    "vn1": "suy giảm, hỏng"
+    "vn1": "(v) suy giảm"
   },
   {
     "id": 128,
@@ -3987,10 +3987,10 @@
   {
     "id": 123,
     "en1": "landscape",
-    "en2": "",
+    "en2": "She painted a beautiful landscape of the mountains.",
     "en3": "",
     "en4": "",
-    "vn1": "phong cảnh"
+    "vn1": "(n) phong cảnh"
   },
   {
     "id": 122,
@@ -4002,11 +4002,11 @@
   },
   {
     "id": 121,
-    "en1": "coast",
-    "en2": "",
+    "en1": "coast along, coast",
+    "en2": "The project is coasting along smoothly.",
     "en3": "",
     "en4": "",
-    "vn1": "bờ biển"
+    "vn1": "(v,n) tiến triển suôn sẻ, bờ biển"
   },
   {
     "id": 120,
@@ -7311,5 +7311,13 @@
     "en3": "",
     "en4": "",
     "vn1": "(a) cơ bản"
+  },
+  {
+    "id": 915,
+    "en1": "allergy",
+    "en2": "She has a peanut allergy and must avoid eating peanuts.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) dị ứng"
   }
 ]
