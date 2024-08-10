@@ -2899,10 +2899,10 @@
   {
     "id": 259,
     "en1": "agitated",
-    "en2": "",
+    "en2": "She was visibly agitated after receiving the bad news.",
     "en3": "",
     "en4": "",
-    "vn1": "(a) nổi giận, lo lắng"
+    "vn1": "(a) bị kích động"
   },
   {
     "id": 258,
@@ -2915,15 +2915,15 @@
   {
     "id": 257,
     "en1": "underlying",
-    "en2": "",
+    "en2": "The underlying principles of the theory are complex but important.",
     "en3": "",
     "en4": "",
-    "vn1": "(a) căn bản"
+    "vn1": "(a) cơ bản"
   },
   {
     "id": 256,
     "en1": "be composed of",
-    "en2": "",
+    "en2": "The book is composed of several chapters.",
     "en3": "",
     "en4": "",
     "vn1": "được tạo nên từ"
@@ -2963,10 +2963,10 @@
   {
     "id": 251,
     "en1": "noble",
-    "en2": "",
+    "en2": "The noble families of the region have a long history.",
     "en3": "",
     "en4": "",
-    "vn1": "quý tộc"
+    "vn1": "(a,n) cao quý"
   },
   {
     "id": 250,
@@ -2979,18 +2979,18 @@
   {
     "id": 249,
     "en1": "expedient",
-    "en2": "",
+    "en2": "It was expedient to take the shorter route to avoid traffic.",
     "en3": "",
     "en4": "",
-    "vn1": "thủ đoạn"
+    "vn1": "(a) hợp lý"
   },
   {
     "id": 248,
     "en1": "flattering",
-    "en2": "",
+    "en2": "She received a lot of flattering comments on her new dress.",
     "en3": "",
     "en4": "",
-    "vn1": "hay nịnh hót"
+    "vn1": "(a) tâng bốc, khen ngợi"
   },
   {
     "id": 247,
@@ -4491,10 +4491,10 @@
   {
     "id": 60,
     "en1": "yacht",
-    "en2": "",
+    "en2": "They rented a yacht for their vacation in the Mediterranean.",
     "en3": "",
     "en4": "",
-    "vn1": "thuyền buồm"
+    "vn1": "(n) du thuyền"
   },
   {
     "id": 59,
@@ -4547,10 +4547,10 @@
   {
     "id": 53,
     "en1": "good fortune",
-    "en2": "",
+    "en2": "She wished him good fortune on his new job.",
     "en3": "",
     "en4": "",
-    "vn1": "may mắn"
+    "vn1": "(n) may mắn"
   },
   {
     "id": 52,
@@ -4594,11 +4594,11 @@
   },
   {
     "id": 47,
-    "en1": "fleets",
-    "en2": "",
+    "en1": "fleet",
+    "en2": "The navy deployed several fleets to protect its interests in the region.",
     "en3": "",
     "en4": "",
-    "vn1": "các đội tàu"
+    "vn1": "(n) hạm đội"
   },
   {
     "id": 46,
@@ -4835,10 +4835,10 @@
   {
     "id": 17,
     "en1": "thus",
-    "en2": "",
+    "en2": "She was late for the meeting; thus, she missed the important discussion.",
     "en3": "",
     "en4": "",
-    "vn1": "như vậy"
+    "vn1": "(av) vì vậy"
   },
   {
     "id": 16,
@@ -4867,10 +4867,10 @@
   {
     "id": 13,
     "en1": "magnet",
-    "en2": "",
+    "en2": "The city is a magnet for tourists due to its historic sites.",
     "en3": "",
     "en4": "",
-    "vn1": "nam châm"
+    "vn1": "(n) nam châm"
   },
   {
     "id": 12,
