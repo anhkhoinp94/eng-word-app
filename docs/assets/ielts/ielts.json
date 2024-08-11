@@ -6110,7 +6110,7 @@
     "en2": "I'm feeling stretched with the amount of work I have to do this week.",
     "en3": "",
     "en4": "",
-    "vn1": "quá tải, căng thẳng"
+    "vn1": "(a) choáng ngợp"
   },
   {
     "id": 765,
@@ -7319,5 +7319,29 @@
     "en3": "",
     "en4": "",
     "vn1": "(n) dị ứng"
+  },
+  {
+    "id": 916,
+    "en1": "heritage",
+    "en2": "The ancient temples are an important part of the country's cultural heritage.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) di sản"
+  },
+  {
+    "id": 917,
+    "en1": "overwhelmed",
+    "en2": "She felt overwhelmed by the amount of work she had to do.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) choáng ngợp"
+  },
+  {
+    "id": 918,
+    "en1": "commission",
+    "en2": "The government formed a commission to investigate the issue.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n,v) hội đồng, ủy nhiệm"
   }
 ]
