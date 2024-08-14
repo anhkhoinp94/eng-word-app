@@ -7375,5 +7375,37 @@
     "en3": "",
     "en4": "",
     "vn1": "(n) bí đỏ"
+  },
+  {
+    "id": 923,
+    "en1": "taxable",
+    "en2": "Only the income above a certain threshold is considered taxable.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) chịu thuế"
+  },
+  {
+    "id": 924,
+    "en1": "seek, sought, sought",
+    "en2": "She decided to seek advice from a lawyer.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) tìm kiếm"
+  },
+  {
+    "id": 925,
+    "en1": "inception",
+    "en2": "The program has been successful since its inception.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự bắt đầu"
+  },
+  {
+    "id": 926,
+    "en1": "regard",
+    "en2": "They regard her as the most talented artist in the group.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v,n) coi trọng"
   }
 ]
