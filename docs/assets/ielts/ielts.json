@@ -2834,11 +2834,11 @@
   },
   {
     "id": 267,
-    "en1": "distraction",
-    "en2": "The constant noise from the construction site was a major distraction while I was trying to work.",
+    "en1": "distract",
+    "en2": "She tries to study in a quiet room where nothing can distract her.",
     "en3": "",
     "en4": "",
-    "vn1": "(n) sự phân tâm"
+    "vn1": "(v) làm phân tâm"
   },
   {
     "id": 266,
@@ -7415,5 +7415,85 @@
     "en3": "",
     "en4": "",
     "vn1": "(n) sự tắc nghẽn"
+  },
+  {
+    "id": 928,
+    "en1": "curriculum",
+    "en2": "The school has a well-rounded curriculum that includes arts, sciences, and physical education.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) chương trình học"
+  },
+  {
+    "id": 929,
+    "en1": "jealous",
+    "en2": "I'm jealous of you because you're so smart",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) ghen tị"
+  },
+  {
+    "id": 930,
+    "en1": "captivity",
+    "en2": "The lion has lived in captivity for most of its life.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự giam cầm"
+  },
+  {
+    "id": 931,
+    "en1": "counterpart",
+    "en2": "The smartphone sold in the U.S. has a counterpart in the European market.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) đối tác"
+  },
+  {
+    "id": 932,
+    "en1": "counterpart",
+    "en2": "The CEO of the company met with his counterpart in the partner organization.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) đối tác, người/vật tương ứng"
+  },
+  {
+    "id": 933,
+    "en1": "cyclone",
+    "en2": "The weather forecast warns of a cyclone approaching the island.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) lốc xoáy"
+  },
+  {
+    "id": 934,
+    "en1": "harness",
+    "en2": "We need to harness the power of the sun to generate clean energy.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v,n) khai thác, sử dụng; dây đai"
+  },
+  {
+    "id": 935,
+    "en1": "decency",
+    "en2": "Her decency and kindness were evident in her interactions with others.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự đứng đắn"
+  },
+  {
+    "id": 936,
+    "en1": "dawn",
+    "en2": "We woke up early to watch the dawn over the mountains.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n,v) bình minh; nhận thức được"
+  },
+  {
+    "id": 937,
+    "en1": "tenure",
+    "en2": "During her tenure as CEO, the company saw significant growth.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) nhiệm kỳ"
   }
 ]
