@@ -220,7 +220,7 @@ export class AppComponent {
   }
 
   revise() {
-    this.reviseWords.push(this.selectedWord);
+    this.reviseWords.unshift(this.selectedWord);
     this.showReviseButton = false;
   }
 
