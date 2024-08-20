@@ -7402,11 +7402,11 @@
   },
   {
     "id": 926,
-    "en1": "regard",
+    "en1": "regard, regarding",
     "en2": "They regard her as the most talented artist in the group.",
     "en3": "",
     "en4": "",
-    "vn1": "(v,n) coi trọng"
+    "vn1": "(v,n) coi trọng, về"
   },
   {
     "id": 927,
@@ -7631,5 +7631,21 @@
     "en3": "",
     "en4": "",
     "vn1": "(n) sự cạn kiệt"
+  },
+  {
+    "id": 955,
+    "en1": "diploma",
+    "en2": "She received her diploma after completing the four-year program.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) bằng cấp"
+  },
+  {
+    "id": 956,
+    "en1": "stalk",
+    "en2": "The lion stalks its prey silently through the tall grass.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) theo dõi"
   }
 ]
