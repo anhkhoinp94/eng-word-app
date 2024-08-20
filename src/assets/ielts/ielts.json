@@ -5254,7 +5254,7 @@
     "en2": "She was cautious when crossing the busy street to avoid accidents.",
     "en3": "",
     "en4": "",
-    "vn1": "(a) cẩn thận, thận trọng"
+    "vn1": "(a) thận trọng"
   },
   {
     "id": 658,
@@ -7679,5 +7679,13 @@
     "en3": "",
     "en4": "",
     "vn1": "(v) trừng phạt"
+  },
+  {
+    "id": 961,
+    "en1": "watchful",
+    "en2": "The security guard remained watchful throughout the night.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) thận trọng"
   }
 ]
