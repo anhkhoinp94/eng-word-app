@@ -7647,5 +7647,37 @@
     "en3": "",
     "en4": "",
     "vn1": "(v) theo dõi"
+  },
+  {
+    "id": 957,
+    "en1": "terrain",
+    "en2": "The soldiers had to navigate through difficult terrain during the mission.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) địa hình"
+  },
+  {
+    "id": 958,
+    "en1": "sanction",
+    "en2": "The company faced sanctions for violating environmental regulations.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n,v) sự trừng phạt, phê chuẩn"
+  },
+  {
+    "id": 959,
+    "en1": "impose",
+    "en2": "The teacher imposed a deadline for the project.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) áp đặt"
+  },
+  {
+    "id": 960,
+    "en1": "punish",
+    "en2": "The teacher decided to punish the students who were late for class.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) trừng phạt"
   }
 ]
