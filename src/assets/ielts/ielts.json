@@ -1057,7 +1057,7 @@
   },
   {
     "id": 489,
-    "en1": "consult, refer to",
+    "en1": "consult, consultation",
     "en2": "I need to consult a lawyer before signing the contract.",
     "en3": "",
     "en4": "",
@@ -3818,7 +3818,7 @@
   },
   {
     "id": 144,
-    "en1": "refer to, consult",
+    "en1": "refer to",
     "en2": "Please refer to the manual for more detailed instructions.",
     "en3": "",
     "en4": "",
@@ -7959,5 +7959,117 @@
     "en3": "",
     "en4": "",
     "vn1": "(a) dũng cảm"
+  },
+  {
+    "id": 997,
+    "en1": "soothe",
+    "en2": "A cup of tea can soothe a sore throat.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) làm dịu"
+  },
+  {
+    "id": 998,
+    "en1": "coincide",
+    "en2": "The company's annual meeting coincides with the release of its financial report.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) trùng hợp"
+  },
+  {
+    "id": 999,
+    "en1": "irony",
+    "en2": "It was an irony that the fire station burned down.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự mỉa mai"
+  },
+  {
+    "id": 1000,
+    "en1": "redeem",
+    "en2": "He worked hard to redeem his reputation after the mistake.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) chuộc lại"
+  },
+  {
+    "id": 1001,
+    "en1": "probe",
+    "en2": "The scientist used a tool to probe the soil for samples.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v,n) thăm dò"
+  },
+  {
+    "id": 1002,
+    "en1": "incremental",
+    "en2": "The company made incremental improvements to its software over the years.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) tăng dần"
+  },
+  {
+    "id": 1003,
+    "en1": "treaty",
+    "en2": "The two countries signed a peace treaty to end the war.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) hiệp ước"
+  },
+  {
+    "id": 1004,
+    "en1": "modest",
+    "en2": "She was very modest about her success.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) khiêm tốn"
+  },
+  {
+    "id": 1005,
+    "en1": "aggregate",
+    "en2": "The aggregate of the data shows a clear trend.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v,n,a) tổng hợp"
+  },
+  {
+    "id": 1006,
+    "en1": "grandiose",
+    "en2": "His plans for the new business were grandiose but lacked practical details.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) hoành tráng"
+  },
+  {
+    "id": 1007,
+    "en1": "privatize",
+    "en2": "The government decided to privatize the national airline to improve its efficiency.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) tư nhân hóa"
+  },
+  {
+    "id": 1008,
+    "en1": "graph",
+    "en2": "The graph showed a steady increase in sales over the past year.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n,v) biểu đồ"
+  },
+  {
+    "id": 1009,
+    "en1": "accrual",
+    "en2": "The company uses the accrual method to record revenues and expenses.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự tích lũy"
+  },
+  {
+    "id": 1010,
+    "en1": "differential",
+    "en2": "The differential temperature between the two rooms is significant.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n,a) chênh lệch"
   }
 ]
