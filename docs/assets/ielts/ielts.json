@@ -2358,7 +2358,7 @@
     "en2": "Despite facing many challenges, they eventually surmounted all obstacles and succeeded in their mission.",
     "en3": "",
     "en4": "",
-    "vn1": "(v) vượt qua, bước qua khó khăn"
+    "vn1": "(v) vượt qua"
   },
   {
     "id": 326,
@@ -7847,5 +7847,61 @@
     "en3": "",
     "en4": "",
     "vn1": "(n) sự bền bỉ"
+  },
+  {
+    "id": 982,
+    "en1": "precede",
+    "en2": "The introduction will precede the main content of the presentation.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) xảy ra trước"
+  },
+  {
+    "id": 983,
+    "en1": "cease",
+    "en2": "The company decided to cease operations in that region.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) ngưng"
+  },
+  {
+    "id": 984,
+    "en1": "hindrance",
+    "en2": "The construction work was a major hindrance to traffic flow in the city.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự cản trở"
+  },
+  {
+    "id": 985,
+    "en1": "oppress",
+    "en2": "The dictator's regime was known to oppress its citizens.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) đàn áp"
+  },
+  {
+    "id": 986,
+    "en1": "disproportionate",
+    "en2": "The amount of resources allocated to the project was disproportionate to its actual needs.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) không cân xứng"
+  },
+  {
+    "id": 987,
+    "en1": "handset",
+    "en2": "The company provided each employee with a new handset for their office phones.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) điện thoại"
+  },
+  {
+    "id": 988,
+    "en1": "ballot",
+    "en2": "The final results will be announced after all the ballots are counted.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) phiếu bầu"
   }
 ]
