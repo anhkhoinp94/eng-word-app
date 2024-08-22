@@ -2182,7 +2182,7 @@
     "en2": "The new software update is designed to enhance performance.",
     "en3": "",
     "en4": "",
-    "vn1": "(v) nâng cao, tăng cường"
+    "vn1": "(v) nâng cao"
   },
   {
     "id": 348,
@@ -3686,7 +3686,7 @@
     "en2": "She showed great endurance during the long hike.",
     "en3": "",
     "en4": "",
-    "vn1": "(n) sức chịu đựng, sức bền"
+    "vn1": "(n) sự bền bỉ"
   },
   {
     "id": 160,
@@ -7767,5 +7767,85 @@
     "en3": "",
     "en4": "",
     "vn1": "(v) bảo vệ"
+  },
+  {
+    "id": 972,
+    "en1": "lighten",
+    "en2": "A hearty laugh can lighten the mood and bring people closer together.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) làm nhẹ, làm sáng"
+  },
+  {
+    "id": 973,
+    "en1": "boost",
+    "en2": "A well-organized workspace can boost productivity and reduce stress.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) nâng cao"
+  },
+  {
+    "id": 974,
+    "en1": "spontaneous",
+    "en2": "A spontaneous road trip can lead to unexpected adventures and discoveries.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) tự phát"
+  },
+  {
+    "id": 975,
+    "en1": "antic",
+    "en2": "The clown's antics had the entire audience laughing.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n,a) trò đùa, ngớ ngẩn"
+  },
+  {
+    "id": 976,
+    "en1": "amusement",
+    "en2": "She found great amusement in reading comic books.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự giải trí"
+  },
+  {
+    "id": 977,
+    "en1": "punctuate",
+    "en2": "It is important to punctuate your writing correctly to ensure clarity.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) chấm câu"
+  },
+  {
+    "id": 978,
+    "en1": "witness",
+    "en2": "As a witness to the accident, she was asked to testify in court.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n,v) nhân chứng, làm chứng"
+  },
+  {
+    "id": 979,
+    "en1": "imbue",
+    "en2": "Her speech was imbued with passion and enthusiasm.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) thấm nhuần"
+  },
+  {
+    "id": 980,
+    "en1": "amble",
+    "en2": "They decided to amble through the park on a sunny afternoon.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v,n) đi lại nhẹ nhàng"
+  },
+  {
+    "id": 981,
+    "en1": "perseverance",
+    "en2": "The project succeeded due to the team's perseverance despite numerous setbacks.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự bền bỉ"
   }
 ]
