@@ -6518,7 +6518,7 @@
     "en2": "As an entrepreneur, she started several successful companies in the tech industry.",
     "en3": "",
     "en4": "",
-    "vn1": "(n) doanh nhân, nhà khởi nghiệp"
+    "vn1": "(n) doanh nhân"
   },
   {
     "id": 816,
@@ -7903,5 +7903,37 @@
     "en3": "",
     "en4": "",
     "vn1": "(n) phiếu bầu"
+  },
+  {
+    "id": 990,
+    "en1": "intermediary",
+    "en2": "The lawyer acted as an intermediary between the buyer and the seller.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n,a) người trung gian"
+  },
+  {
+    "id": 991,
+    "en1": "confine",
+    "en2": "The prisoner was confined to a small cell.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v,n) hạn chế, giới hạn"
+  },
+  {
+    "id": 992,
+    "en1": "diplomatic",
+    "en2": "She handled the negotiation with a diplomatic approach, ensuring all parties were satisfied.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) ngoại giao"
+  },
+  {
+    "id": 993,
+    "en1": "ambassador",
+    "en2": "The ambassador delivered a speech at the international conference.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) đại sứ"
   }
 ]
