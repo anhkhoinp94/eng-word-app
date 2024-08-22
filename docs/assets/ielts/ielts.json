@@ -8071,5 +8071,21 @@
     "en3": "",
     "en4": "",
     "vn1": "(n,a) chênh lệch"
+  },
+  {
+    "id": 1011,
+    "en1": "multiply",
+    "en2": "To find the area of a rectangle, multiply its length by its width.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) nhân"
+  },
+  {
+    "id": 1012,
+    "en1": "ministry",
+    "en2": "The Ministry of Health is responsible for public health policies and programs.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) bộ"
   }
 ]
