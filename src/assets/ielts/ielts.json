@@ -369,7 +369,7 @@
   },
   {
     "id": 575,
-    "en1": "culinary",
+    "en1": "culinary, cuisine",
     "en2": "They offer a variety of culinary classes for beginners.",
     "en3": "",
     "en4": "",
@@ -8111,5 +8111,237 @@
     "en3": "",
     "en4": "",
     "vn1": "(n) mô; giấy ăn"
+  },
+  {
+    "id": 1016,
+    "en1": "subculture",
+    "en2": "She studies the subculture of online gaming communities.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) tiểu văn hóa"
+  },
+  {
+    "id": 1017,
+    "en1": "impoverished, destitute",
+    "en2": "Many impoverished families struggle to access basic needs.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) nghèo"
+  },
+  {
+    "id": 1018,
+    "en1": "bizarre",
+    "en2": "She wore a bizarre outfit to the party.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) kỳ lạ"
+  },
+  {
+    "id": 1019,
+    "en1": "mock",
+    "en2": "She felt hurt when they mocked her ideas.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) chế nhạo"
+  },
+  {
+    "id": 1020,
+    "en1": "contemporary",
+    "en2": "She enjoys contemporary art.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a,n) đương thời"
+  },
+  {
+    "id": 1021,
+    "en1": "destitute",
+    "en2": "After losing his job, he became destitute.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) nghèo"
+  },
+  {
+    "id": 1022,
+    "en1": "pitfall",
+    "en2": "Be aware of the pitfalls when starting a new business.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) cạm bẫy"
+  },
+  {
+    "id": 1023,
+    "en1": "hasty",
+    "en2": "He made a hasty decision without considering all the facts.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) vội vàng"
+  },
+  {
+    "id": 1024,
+    "en1": "distinction",
+    "en2": "There is a clear distinction between the two theories.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự khác biệt"
+  },
+  {
+    "id": 1025,
+    "en1": "wit",
+    "en2": "He is known for his quick wit and clever remarks.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự thông minh, dí dỏm"
+  },
+  {
+    "id": 1026,
+    "en1": "anatomy",
+    "en2": "She studied human anatomy in medical school.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) giải phẫu"
+  },
+  {
+    "id": 1027,
+    "en1": "eligible",
+    "en2": "She is eligible for a scholarship because of her high grades.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) đủ điều kiện"
+  },
+  {
+    "id": 1028,
+    "en1": "seize",
+    "en2": "He tried to seize control of the company.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) chiếm lấy"
+  },
+  {
+    "id": 1029,
+    "en1": "conquer",
+    "en2": "She managed to conquer her fear of public speaking.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) chinh phục"
+  },
+  {
+    "id": 1030,
+    "en1": "sentiment",
+    "en2": "The general sentiment among the team was one of optimism.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) tình cảm"
+  },
+  {
+    "id": 1031,
+    "en1": "defer",
+    "en2": "We decided to defer the meeting until next week.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) hoãn lại"
+  },
+  {
+    "id": 1032,
+    "en1": "panic",
+    "en2": "She panicked when she realized she had lost her wallet.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n,v) hoảng loạn"
+  },
+  {
+    "id": 1033,
+    "en1": "ruin",
+    "en2": "The storm ruined our plans for a picnic.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n,n) hủy hoại"
+  },
+  {
+    "id": 1034,
+    "en1": "incorporate",
+    "en2": "We need to incorporate the feedback from our customers into the product.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) kết hợp"
+  },
+  {
+    "id": 1035,
+    "en1": "theorize",
+    "en2": "Scientists theorize that the universe began with a big bang.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) đưa ra giả thuyết"
+  },
+  {
+    "id": 1036,
+    "en1": "trustworthiness",
+    "en2": "Her trustworthiness was evident in the way she handled the project.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự tin cậy"
+  },
+  {
+    "id": 1037,
+    "en1": "unforeseen",
+    "en2": "The project was delayed due to unforeseen circumstances.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) không lường trước"
+  },
+  {
+    "id": 1038,
+    "en1": "vase",
+    "en2": "She placed the fresh flowers in a beautiful vase.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) cái lọ"
+  },
+  {
+    "id": 1039,
+    "en1": "windmill",
+    "en2": "The old windmill has been converted into a museum.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) cối xay gió"
+  },
+  {
+    "id": 1040,
+    "en1": "quantum",
+    "en2": "Quantum computing is an emerging field that leverages the principles of quantum theory.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) lượng tử"
+  },
+  {
+    "id": 1041,
+    "en1": "shed",
+    "en2": "He built a shed in his backyard to store gardening tools.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n,v) nhà kho; rụng, loại bỏ"
+  },
+  {
+    "id": 1042,
+    "en1": "revitalize, rejuvenate",
+    "en2": "The city plans to revitalize the downtown area by improving infrastructure and adding new businesses.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) làm mới, khôi phục"
+  },
+  {
+    "id": 1043,
+    "en1": "resilience",
+    "en2": "The community showed remarkable resilience after the natural disaster.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự phục hồi"
+  },
+  {
+    "id": 1044,
+    "en1": "pandemic",
+    "en2": "The COVID-19 pandemic has affected millions of people worldwide.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) đại dịch"
   }
 ]
