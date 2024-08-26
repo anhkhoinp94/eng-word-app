@@ -453,7 +453,7 @@
     "en2": "His thesis was well-researched and highly praised by the committee.",
     "en3": "",
     "en4": "",
-    "vn1": "(n) luận văn, luận điểm"
+    "vn1": "(n) luận án"
   },
   {
     "id": 564,
@@ -3138,7 +3138,7 @@
   },
   {
     "id": 229,
-    "en1": "therapeutic",
+    "en1": "therapeutic, therapist, therapy",
     "en2": "Spending time in nature can be therapeutic for reducing stress.",
     "en3": "",
     "en4": "",
@@ -8343,5 +8343,21 @@
     "en3": "",
     "en4": "",
     "vn1": "(n) đại dịch"
+  },
+  {
+    "id": 1045,
+    "en1": "clumsy",
+    "en2": "He is so clumsy that he often drops things.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) vụng về"
+  },
+  {
+    "id": 1046,
+    "en1": "wander",
+    "en2": "He likes to wander through the forest, enjoying the peace and quiet.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) đi lang thang"
   }
 ]
