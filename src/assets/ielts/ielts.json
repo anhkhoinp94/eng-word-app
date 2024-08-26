@@ -5942,7 +5942,7 @@
     "en2": "The magician's performance was astonishing.",
     "en3": "",
     "en4": "",
-    "vn1": "(a) ngạc nhiên, kinh ngạc"
+    "vn1": "(a) kinh ngạc"
   },
   {
     "id": 744,
@@ -8391,5 +8391,21 @@
     "en3": "",
     "en4": "",
     "vn1": "(v) buộc tội"
+  },
+  {
+    "id": 1051,
+    "en1": "appeal, attraction",
+    "en2": "The new movie has great appeal to younger audiences.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n,v) sự hấp dẫn"
+  },
+  {
+    "id": 1052,
+    "en1": "anxious",
+    "en2": "She felt anxious before her big presentation.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) lo lắng"
   }
 ]
