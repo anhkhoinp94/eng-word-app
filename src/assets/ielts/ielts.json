@@ -4282,7 +4282,7 @@
   },
   {
     "id": 86,
-    "en1": "accomplishment",
+    "en1": "accomplishment, accomplish",
     "en2": "Winning the award was a significant accomplishment for the entire team.",
     "en3": "",
     "en4": "",
@@ -7618,7 +7618,7 @@
   },
   {
     "id": 953,
-    "en1": "emphasis",
+    "en1": "emphasis, emphasize",
     "en2": "The teacher placed emphasis on the importance of regular practice.",
     "en3": "",
     "en4": "",
@@ -8375,5 +8375,21 @@
     "en3": "",
     "en4": "",
     "vn1": "(v) phun trào"
+  },
+  {
+    "id": 1049,
+    "en1": "emission",
+    "en2": "Car manufacturers are working to reduce the emissions of harmful gases.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) khí thải"
+  },
+  {
+    "id": 1050,
+    "en1": "accuse",
+    "en2": "She was accused of stealing the money.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) buộc tội"
   }
 ]
