@@ -2658,7 +2658,7 @@
   },
   {
     "id": 289,
-    "en1": "ally",
+    "en1": "ally, alliance",
     "en2": "The two countries became allies during the war.",
     "en3": "",
     "en4": "",
@@ -2874,11 +2874,11 @@
   },
   {
     "id": 262,
-    "en1": "prone to",
+    "en1": "prone",
     "en2": "He is prone to getting colds in the winter.",
     "en3": "",
     "en4": "",
-    "vn1": "dễ bị ảnh hưởng"
+    "vn1": "(a) dễ bị"
   },
   {
     "id": 261,
@@ -7378,7 +7378,7 @@
   },
   {
     "id": 923,
-    "en1": "taxable",
+    "en1": "taxable, taxpayer",
     "en2": "Only the income above a certain threshold is considered taxable.",
     "en3": "",
     "en4": "",
@@ -8455,5 +8455,29 @@
     "en3": "",
     "en4": "",
     "vn1": "(prep,av) vượt quá, sau đó"
+  },
+  {
+    "id": 1059,
+    "en1": "permeate",
+    "en2": "Water can permeate through the soil to reach the roots of plants.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) thấm vào"
+  },
+  {
+    "id": 1060,
+    "en1": "frivolous",
+    "en2": "She was criticized for spending money on frivolous things.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) phù phiếm"
+  },
+  {
+    "id": 1061,
+    "en1": "liable",
+    "en2": "The company is liable for any damages caused by their products.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) có trách nhiệm"
   }
 ]
