@@ -8423,5 +8423,37 @@
     "en3": "",
     "en4": "",
     "vn1": "(a,n) trừu tượng"
+  },
+  {
+    "id": 1055,
+    "en1": "acquisition",
+    "en2": "Her recent acquisition of a new skill helped her get promoted.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự tiếp thu, thu nhận"
+  },
+  {
+    "id": 1056,
+    "en1": "affair",
+    "en2": "The government is handling the foreign affairs with caution.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự việc"
+  },
+  {
+    "id": 1057,
+    "en1": "caution",
+    "en2": "He drove with caution in the foggy weather.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n,v) sự thận trọng, cảnh báo"
+  },
+  {
+    "id": 1058,
+    "en1": "beyond",
+    "en2": "The problem is beyond my understanding.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(prep,av) vượt quá, sau đó"
   }
 ]
