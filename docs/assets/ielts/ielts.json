@@ -2150,7 +2150,7 @@
     "en2": "The data indicate that there has been a significant increase in sales this quarter.",
     "en3": "",
     "en4": "",
-    "vn1": "(v) chỉ ra, ám chỉ"
+    "vn1": "(v) ám chỉ"
   },
   {
     "id": 352,
@@ -2166,7 +2166,7 @@
     "en2": "Her smile implied that she was pleased with the results.",
     "en3": "",
     "en4": "",
-    "vn1": "(v) ám chỉ, ngụ ý"
+    "vn1": "(v) ám chỉ"
   },
   {
     "id": 350,
@@ -8487,5 +8487,85 @@
     "en3": "",
     "en4": "",
     "vn1": "(n) chứng mất ngủ"
+  },
+  {
+    "id": 1063,
+    "en1": "miniature",
+    "en2": "He collected miniature cars as a hobby.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a,n) thu nhỏ"
+  },
+  {
+    "id": 1064,
+    "en1": "intellect",
+    "en2": "Her intellect is what sets her apart from others.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) trí tuệ"
+  },
+  {
+    "id": 1065,
+    "en1": "diary",
+    "en2": "She writes in her diary every night before bed.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) nhật ký"
+  },
+  {
+    "id": 1066,
+    "en1": "medieval",
+    "en2": "They visited a medieval castle during their trip to Europe.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) thời Trung Cổ"
+  },
+  {
+    "id": 1067,
+    "en1": "leisure",
+    "en2": "She spends her leisure time reading books.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) thời gian rảnh rỗi"
+  },
+  {
+    "id": 1068,
+    "en1": "mature",
+    "en2": "She is very mature for her age.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a,v) trưởng thành"
+  },
+  {
+    "id": 1069,
+    "en1": "burglary",
+    "en2": "The police are investigating a recent burglary in the neighborhood.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) vụ trộm"
+  },
+  {
+    "id": 1070,
+    "en1": "tactic",
+    "en2": "The coach discussed the team's tactics before the game.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) chiến thuật"
+  },
+  {
+    "id": 1071,
+    "en1": "tease",
+    "en2": "He likes to tease his little sister.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v,n) trêu chọc"
+  },
+  {
+    "id": 1072,
+    "en1": "confront",
+    "en2": "The manager had to confront the employee about his poor performance.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) đối mặt"
   }
 ]
