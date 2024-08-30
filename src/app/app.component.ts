@@ -87,6 +87,8 @@ export class AppComponent {
 
   showReviseButton = true;
   reviseCount = 0;
+  maxReviseCount = 4;
+  maxInitReviseCount = 10;
   selectedWord: Word = {
     id: 0,
     en1: '',
@@ -126,7 +128,9 @@ export class AppComponent {
       this.enWord3 = word.en3;
       this.enWord4 = word.en4;
     }
-    this.reviseWords = this.words.sort(() => 0.5 - Math.random()).slice(0, 15);
+    this.reviseWords = this.words
+      .sort(() => 0.5 - Math.random())
+      .slice(0, this.maxInitReviseCount);
   }
 
   renderEnWord = (value: string): string => {
@@ -148,7 +152,7 @@ export class AppComponent {
 
   next() {
     this.showReviseButton = true;
-    if (this.reviseWords.length > 6) {
+    if (this.reviseWords.length > this.maxReviseCount) {
       this.countSawWords += 1;
       this.no = this.no * -1;
       this.show = this.no > 0;
