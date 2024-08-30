@@ -230,7 +230,7 @@ export class AppComponent {
 
   getRandomArbitrary(min: number, max: number) {
     return this.id != this.max
-      ? this.id + 1
+      ? this.id + 2
       : Math.floor(Math.random() * (max - min + 1)) + min;
     return Math.floor(Math.random() * (max - min + 1)) + min;
   }
