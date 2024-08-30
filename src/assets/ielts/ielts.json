@@ -7841,7 +7841,7 @@
   },
   {
     "id": 981,
-    "en1": "perseverance",
+    "en1": "perseverance, persevere",
     "en2": "The project succeeded due to the team's perseverance despite numerous setbacks.",
     "en3": "",
     "en4": "",
@@ -8337,7 +8337,7 @@
   },
   {
     "id": 1043,
-    "en1": "resilience",
+    "en1": "resilience, resilient",
     "en2": "The community showed remarkable resilience after the natural disaster.",
     "en3": "",
     "en4": "",
@@ -8758,5 +8758,21 @@
     "en3": "",
     "en4": "",
     "vn1": "(v) khiêu khích"
+  },
+  {
+    "id": 1096,
+    "en1": "unanimous",
+    "en2": "The committee made a unanimous decision to approve the project.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) nhất trí"
+  },
+  {
+    "id": 1097,
+    "en1": "impartial",
+    "en2": "The judge must remain impartial during the trial.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) công bằng"
   }
 ]
