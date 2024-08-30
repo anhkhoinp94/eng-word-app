@@ -207,7 +207,7 @@ export class AppComponent {
       this.show = false;
       this.see = true;
 
-      this.id = this.getRandomArbitrary(this.min, this.max);
+      this.id = this.getRandomArbitrary(this.min, this.max, true);
       let word = this.words.find((obj) => {
         return obj.id === this.id;
       });
@@ -228,10 +228,12 @@ export class AppComponent {
     this.showReviseButton = false;
   }
 
-  getRandomArbitrary(min: number, max: number) {
-    return this.id != this.max
-      ? this.id + 2
-      : Math.floor(Math.random() * (max - min + 1)) + min;
+  getRandomArbitrary(min: number, max: number, increase?: boolean) {
+    if (increase) {
+      this.id != this.max
+        ? this.id + 1
+        : Math.floor(Math.random() * (max - min + 1)) + min;
+    }
     return Math.floor(Math.random() * (max - min + 1)) + min;
   }
 
