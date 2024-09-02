@@ -88,7 +88,7 @@ export class AppComponent {
   showReviseButton = true;
   reviseCount = 0;
   maxReviseCount = 4;
-  maxInitReviseCount = 10;
+  maxInitReviseCount = 7;
   selectedWord: Word = {
     id: 0,
     en1: '',
