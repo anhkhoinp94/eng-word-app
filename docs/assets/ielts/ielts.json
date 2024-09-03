@@ -8725,7 +8725,7 @@
     "en2": "The composition of the new product includes several innovative materials.",
     "en3": "",
     "en4": "",
-    "vn1": "(n) thành phần"
+    "vn1": "(n) thành phần, bài luận"
   },
   {
     "id": 1092,
@@ -8870,5 +8870,21 @@
     "en3": "",
     "en4": "",
     "vn1": "(a) chán nản"
+  },
+  {
+    "id": 1110,
+    "en1": "quarrel",
+    "en2": "When i got home, my mother and father were quarreling",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v,n) cãi nhau"
+  },
+  {
+    "id": 1111,
+    "en1": "plow",
+    "en2": "The farmer used a plow to prepare the field for planting. (Người nông dân đã dùng cái cày để chuẩn bị cánh đồng cho việc trồng trọt.)",
+    "en3": "He had to plow the snow off the driveway this morning. (Anh ấy phải cày tuyết ra khỏi lối xe vào sáng nay.)",
+    "en4": "The oxen were used to plow the fields. (Những con bò được dùng để cày ruộng.)",
+    "vn1": "(n,v) cái cày, cày"
   }
 ]
