@@ -5333,7 +5333,7 @@
     "en2": "The new policy is conceived as a step towards greater efficiency.",
     "en3": "",
     "en4": "",
-    "vn1": "(phrasal verb) được coi như là"
+    "vn1": "(phrasal v) được coi như là"
   },
   {
     "id": 668,
@@ -8910,5 +8910,37 @@
     "en3": "",
     "en4": "",
     "vn1": "(v,n) khóc nức nở"
+  },
+  {
+    "id": 1115,
+    "en1": "populous",
+    "en2": "Tokyo is one of the most populous cities in the world.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) đông dân cư"
+  },
+  {
+    "id": 1116,
+    "en1": "shelter",
+    "en2": "They found shelter under a large tree during the storm.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n,v) trú ẩn"
+  },
+  {
+    "id": 1117,
+    "en1": "tell at a glance",
+    "en2": "I could tell at a glance that something was wrong.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(phrasal v) nhận biết ngay lập tức"
+  },
+  {
+    "id": 1118,
+    "en1": "poke",
+    "en2": "I don't mean to poke my nose into your affairs.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) chọc, thọc"
   }
 ]
