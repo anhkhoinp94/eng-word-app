@@ -229,11 +229,11 @@ export class AppComponent {
   }
 
   getRandomArbitrary(min: number, max: number, increase?: boolean) {
-    if (increase) {
-      return this.id != this.max
-        ? this.id + 1
-        : Math.floor(Math.random() * (max - min + 1)) + min;
-    }
+    // if (increase) {
+    //   return this.id != this.max
+    //     ? this.id + 1
+    //     : Math.floor(Math.random() * (max - min + 1)) + min;
+    // }
     return Math.floor(Math.random() * (max - min + 1)) + min;
   }
 
