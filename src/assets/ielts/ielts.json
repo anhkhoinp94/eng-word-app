@@ -4633,7 +4633,7 @@
   },
   {
     "id": 42,
-    "en1": "pursue",
+    "en1": "pursue, pursuit",
     "en2": "She decided to pursue a career in medicine after completing her undergraduate studies.",
     "en3": "",
     "en4": "",
@@ -9126,5 +9126,21 @@
     "en3": "",
     "en4": "",
     "vn1": "(n) giảng viên"
+  },
+  {
+    "id": 1142,
+    "en1": "irrigation",
+    "en2": "The farmer uses an irrigation system to water the crops.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự tưới nước"
+  },
+  {
+    "id": 1143,
+    "en1": "misgiving",
+    "en2": "She had misgivings about the decision to quit her job.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự lo lắng"
   }
 ]
