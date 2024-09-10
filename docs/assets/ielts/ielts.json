@@ -981,7 +981,7 @@
     "en2": "The air circulates through the room to keep it cool.",
     "en3": "",
     "en4": "",
-    "vn1": "(v) phát tán"
+    "vn1": "(v) lưu hành"
   },
   {
     "id": 498,
@@ -9158,5 +9158,45 @@
     "en3": "",
     "en4": "",
     "vn1": "(v,v) nhai"
+  },
+  {
+    "id": 1146,
+    "en1": "immersion",
+    "en2": "Language immersion is a great way to learn a new language quickly.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự đắm chìm"
+  },
+  {
+    "id": 1147,
+    "en1": "buzz",
+    "en2": "The bees buzzed around the flowers in the garden.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v,n) kêu vo ve"
+  },
+  {
+    "id": 1148,
+    "en1": "tell off",
+    "en2": "The children were told off for making such a racket in the library.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) chỉ trích"
+  },
+  {
+    "id": 1149,
+    "en1": "make a racket",
+    "en2": "The kids were making a racket in the backyard.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) gây ồn ào"
+  },
+  {
+    "id": 1150,
+    "en1": "minutes",
+    "en2": "Could you please circulate the minutes from yesterday's board meeting?",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) biên bản cuộc họp"
   }
 ]
