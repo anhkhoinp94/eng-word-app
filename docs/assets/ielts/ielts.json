@@ -6873,7 +6873,7 @@
   },
   {
     "id": 860,
-    "en1": "hay",
+    "en1": "hay, haystack",
     "en2": "The farmer stored the hay in the barn to feed the livestock during the winter.",
     "en3": "",
     "en4": "",
@@ -9254,5 +9254,13 @@
     "en3": "",
     "en4": "",
     "vn1": "(v) xử lý, giải quyết"
+  },
+  {
+    "id": 1158,
+    "en1": "needle",
+    "en2": "I need a needle to sew this button back on.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n,v) cái kim; trêu chọc"
   }
 ]
