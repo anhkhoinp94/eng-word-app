@@ -8825,7 +8825,7 @@
   },
   {
     "id": 1104,
-    "en1": "grand",
+    "en1": "grand, majestic",
     "en2": "He has a grand vision for the future of the company.",
     "en3": "",
     "en4": "",
@@ -9366,5 +9366,53 @@
     "en3": "",
     "en4": "",
     "vn1": "(n,v) chỗ cắm, cắm"
+  },
+  {
+    "id": 1172,
+    "en1": "gaze",
+    "en2": "She gazed at the stars in wonder.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v,n) nhìn chằm chằm"
+  },
+  {
+    "id": 1173,
+    "en1": "ponder",
+    "en2": "She sat quietly, pondering over the problem.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) suy ngẫm, cân nhắc"
+  },
+  {
+    "id": 1174,
+    "en1": "horizon",
+    "en2": "The sun set slowly beyond the horizon.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) đường chân trời"
+  },
+  {
+    "id": 1175,
+    "en1": "majestic, grand",
+    "en2": "The majestic mountains stood tall against the sky.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) lộng lẫy, hùng vĩ"
+  },
+  {
+    "id": 1176,
+    "en1": "grandeur, majesty",
+    "en2": "The film's depiction of historical events was filled with grandeur.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) lộng lẫy, vĩ đại"
+  },
+  {
+    "id": 1177,
+    "en1": "savor",
+    "en2": "She savored every bite of the delicious meal.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v,n) thưởng thức; hương vị"
   }
 ]
