@@ -3925,7 +3925,7 @@
     "en2": "She abstained from eating sweets during the diet.",
     "en3": "",
     "en4": "",
-    "vn1": "(v) kiêng, từ chối"
+    "vn1": "(v) kiêng, tránh"
   },
   {
     "id": 130,
@@ -8049,7 +8049,7 @@
   },
   {
     "id": 1007,
-    "en1": "privatize",
+    "en1": "privatize, privatization",
     "en2": "The government decided to privatize the national airline to improve its efficiency.",
     "en3": "",
     "en4": "",
@@ -9334,5 +9334,37 @@
     "en3": "",
     "en4": "",
     "vn1": "(phrasal v) có nguồn gốc từ"
+  },
+  {
+    "id": 1168,
+    "en1": "laborious",
+    "en2": "Learning a new language can be laborious, but it's very rewarding.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) khó khăn"
+  },
+  {
+    "id": 1169,
+    "en1": "median",
+    "en2": "To find the median, you need to arrange the numbers in ascending order and choose the middle value.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n,a) trung vị"
+  },
+  {
+    "id": 1170,
+    "en1": "discretion",
+    "en2": "The manager has the discretion to make changes to the project schedule.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) quyền quyết định; sự thận trọng"
+  },
+  {
+    "id": 1171,
+    "en1": "plug",
+    "en2": "Please plug the charger into the wall socket.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n,v) chỗ cắm, cắm"
   }
 ]
