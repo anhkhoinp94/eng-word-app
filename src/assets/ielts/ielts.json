@@ -5497,7 +5497,7 @@
   },
   {
     "id": 688,
-    "en1": "perspective",
+    "en1": "perspective, standpoint",
     "en2": "From her perspective, the project was a success despite the challenges.",
     "en3": "",
     "en4": "",
@@ -8197,7 +8197,7 @@
     "en2": "He is known for his quick wit and clever remarks.",
     "en3": "",
     "en4": "",
-    "vn1": "(n) sự thông minh, dí dỏm"
+    "vn1": "(n) sự hóm hỉnh"
   },
   {
     "id": 1026,
@@ -9414,5 +9414,69 @@
     "en3": "",
     "en4": "",
     "vn1": "(v,n) thưởng thức; hương vị"
+  },
+  {
+    "id": 1178,
+    "en1": "sophistication",
+    "en2": "Her sense of style shows great sophistication.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự tinh tế"
+  },
+  {
+    "id": 1179,
+    "en1": "chuckle",
+    "en2": "She gave a quiet chuckle after hearing the funny story.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v,n) cười khúc khích"
+  },
+  {
+    "id": 1180,
+    "en1": "standpoint, perspective",
+    "en2": "From a financial standpoint, the project seems risky.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) quan điểm, góc nhìn"
+  },
+  {
+    "id": 1181,
+    "en1": "dread",
+    "en2": "I dread going to the dentist.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v,n,a) sợ"
+  },
+  {
+    "id": 1182,
+    "en1": "affection",
+    "en2": "She shows great affection for her family.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự yêu mến"
+  },
+  {
+    "id": 1183,
+    "en1": "pearl",
+    "en2": "The farmer found a large pearl in an oyster.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) ngọc trai"
+  },
+  {
+    "id": 1184,
+    "en1": "cure",
+    "en2": "The doctor hopes to cure the patient with a new treatment.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v,n) chữa bệnh, điều trị"
+  },
+  {
+    "id": 1185,
+    "en1": "royalty",
+    "en2": "The author received royalties from the sale of her book.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) tiền bản quyền, hoàng gia"
   }
 ]
