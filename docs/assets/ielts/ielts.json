@@ -913,7 +913,7 @@
   },
   {
     "id": 507,
-    "en1": "capable, proficient",
+    "en1": "capable, probable",
     "en2": "The new manager is capable of leading the team to success.",
     "en3": "",
     "en4": "",
@@ -2681,11 +2681,11 @@
   },
   {
     "id": 286,
-    "en1": "cultivation",
+    "en1": "cultivation, cultivate",
     "en2": "The cultivation of rice is a major agricultural activity in many Asian countries.",
     "en3": "",
     "en4": "",
-    "vn1": "(n) sự canh tác"
+    "vn1": "(n,v) sự canh tác, vun đắp"
   },
   {
     "id": 285,
@@ -9478,5 +9478,54 @@
     "en3": "",
     "en4": "",
     "vn1": "(n) tiền bản quyền, hoàng gia"
+  },
+  {
+    "id": 1186,
+    "en1": "eventually",
+    "en2": "After years of hard work, she eventually became the manager of the company.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(av) cuối cùng, sau cùng"
+  },
+  {
+    "id": 1187,
+    "en1": "spatial",
+    "en2": "The spatial arrangement of the furniture made the room feel larger.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) không gian"
+  },
+  {
+    "id": 1188,
+    "en1": "cohort",
+    "en2": "The study tracked the health of a cohort of 1,000 people over 20 years.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) nhóm"
+  },
+  {
+    "id": 1189,
+    "en1": "syllabus",
+    "en2": "The professor handed out the syllabus on the first day of class.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) giáo trình"
+  },
+  {
+    "id": 1190,
+    "en1": "repercussion",
+    "en2": "The decision to close the factory had serious repercussions for the local economy.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) hệ quả, ảnh hưởng",
+    "pn": "ree·pr·kuh·shn"
+  },
+  {
+    "id": 1191,
+    "en1": "feel as though",
+    "en2": "I feel as though something is wrong, but I can't figure out what it is.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(phr v) cảm thấy như thể"
   }
 ]
