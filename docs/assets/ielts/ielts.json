@@ -549,7 +549,7 @@
     "en2": "They live in a prosperous neighborhood with many luxury homes.",
     "en3": "",
     "en4": "",
-    "vn1": "(a) thịnh vượng"
+    "vn1": "(a) giàu có"
   },
   {
     "id": 70,
@@ -1161,7 +1161,7 @@
   },
   {
     "id": 146,
-    "en1": "intersect",
+    "en1": "intersect, intersection",
     "en2": "The two roads intersect at the corner of the street.",
     "en3": "",
     "en4": "",
@@ -9534,5 +9534,29 @@
     "en3": "",
     "en4": "",
     "vn1": "(n) con đường"
+  },
+  {
+    "id": 1193,
+    "en1": "obtain",
+    "en2": "She managed to obtain a scholarship for her studies.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) đạt được"
+  },
+  {
+    "id": 1194,
+    "en1": "disparity",
+    "en2": "There is a significant disparity in income between the rich and the poor.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự khác biệt"
+  },
+  {
+    "id": 1195,
+    "en1": "affluent",
+    "en2": "He lives in an affluent neighborhood with large houses and luxury cars.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) giàu có"
   }
 ]
