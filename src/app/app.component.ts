@@ -98,7 +98,7 @@ export class AppComponent {
     en2: '',
     en3: '',
     en4: '',
-    vn1: 'aaaa',
+    vn1: '',
   };
   reviseWords: Word[] = [];
 
