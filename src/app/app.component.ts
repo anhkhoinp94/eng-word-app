@@ -86,6 +86,7 @@ export class AppComponent {
   enWord4 = '';
   words: Word[] = [];
   countSawWords = 0;
+  studiedWords: Word[] = [];
 
   showReviseButton = true;
   reviseCount = 0;
@@ -123,6 +124,7 @@ export class AppComponent {
       return obj.id === this.id;
     });
     if (word) {
+      this.addItemIfNotExists(word);
       this.selectedWord = word;
       this.vnWord1 = word.vn1;
       this.enWord1 = word.en1;
@@ -166,6 +168,7 @@ export class AppComponent {
       let idx = this.getRandomArbitrary(0, this.reviseWords.length - 1);
       let word = this.reviseWords[idx];
       if (word) {
+        this.addItemIfNotExists(word);
         this.reviseCount = 0;
         this.selectedWord = word;
         this.id = word.id;
@@ -189,6 +192,7 @@ export class AppComponent {
       let idx = this.getRandomArbitrary(0, this.reviseWords.length - 1);
       let word = this.reviseWords[idx];
       if (word) {
+        this.addItemIfNotExists(word);
         this.reviseCount = 0;
         this.selectedWord = word;
         this.id = word.id;
@@ -214,6 +218,7 @@ export class AppComponent {
         return obj.id === this.id;
       });
       if (word) {
+        this.addItemIfNotExists(word);
         this.reviseCount++;
         this.selectedWord = word;
         this.vnWord1 = word.vn1;
@@ -246,6 +251,12 @@ export class AppComponent {
       utterance.voice = this.selectedVoice;
       utterance.rate = this.selectedRate;
       speechSynthesis.speak(utterance);
+    }
+  }
+
+  addItemIfNotExists(newWord: Word) {
+    if (!this.studiedWords.includes(newWord)) {
+      this.studiedWords.push(newWord);
     }
   }
 
