@@ -9640,5 +9640,23 @@
     "en4": "",
     "ent": "B2",
     "vn1": "(a) vô lý"
+  },
+  {
+    "id": 1206,
+    "en1": "therein",
+    "en2": "The contract is signed, and therein lies the problem.",
+    "en3": "",
+    "en4": "",
+    "ent": "C1",
+    "vn1": "(av) trong đó"
+  },
+  {
+    "id": 1207,
+    "en1": "terror",
+    "en2": "She screamed in terror when she saw the snake.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(n) sự sợ hãi"
   }
 ]
