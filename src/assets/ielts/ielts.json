@@ -7361,7 +7361,7 @@
   },
   {
     "id": 921,
-    "en1": "tangible, concrete",
+    "en1": "tangible",
     "en2": "The company’s tangible assets include buildings and machinery.",
     "en3": "",
     "en4": "",
@@ -9582,5 +9582,45 @@
     "en3": "",
     "en4": "",
     "vn1": "(a,n,v) thân mật; ám chỉ"
+  },
+  {
+    "id": 1199,
+    "en1": "predict",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) dự đoán"
+  },
+  {
+    "id": 1200,
+    "en1": "generous",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) hào phóng"
+  },
+  {
+    "id": 1201,
+    "en1": "intangible",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) vô hình"
+  },
+  {
+    "id": 1202,
+    "en1": "incur",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) gánh chịu"
+  },
+  {
+    "id": 1203,
+    "en1": "intrapreneurship",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) khởi nghiệp nội bộ"
   }
 ]
