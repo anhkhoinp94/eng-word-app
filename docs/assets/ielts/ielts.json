@@ -7341,7 +7341,7 @@
     "en2": "If you have any doubts, I can assure you that, indeed, everything is under control.",
     "en3": "",
     "en4": "",
-    "vn1": "(av) thực sự"
+    "vn1": "(av) thực tế"
   },
   {
     "id": 919,
@@ -9658,5 +9658,32 @@
     "en4": "",
     "ent": "B2",
     "vn1": "(n) sự sợ hãi"
+  },
+  {
+    "id": 1208,
+    "en1": "tweak",
+    "en2": "He tweaked the settings to improve the performance.",
+    "en3": "",
+    "en4": "",
+    "ent": "C1",
+    "vn1": "(v,n) điều chỉnh nhỏ"
+  },
+  {
+    "id": 1209,
+    "en1": "underneath",
+    "en2": "The keys are underneath the table.",
+    "en3": "",
+    "en4": "",
+    "ent": "B1",
+    "vn1": "(prep/adv) bên dưới"
+  },
+  {
+    "id": 1210,
+    "en1": "discredit",
+    "en2": "His actions discredit the whole team.",
+    "en3": "",
+    "en4": "",
+    "ent": "C1",
+    "vn1": "(v,n) làm mất uy tín"
   }
 ]
