@@ -9622,5 +9622,23 @@
     "en3": "",
     "en4": "",
     "vn1": "(n) khởi nghiệp nội bộ"
+  },
+  {
+    "id": 1204,
+    "en1": "dietician",
+    "en2": "The dietician helped me create a healthy meal plan.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(n) chuyên gia dinh dưỡng"
+  },
+  {
+    "id": 1205,
+    "en1": "absurd",
+    "en2": "The idea that pigs can fly is absurd.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(a) vô lý"
   }
 ]
