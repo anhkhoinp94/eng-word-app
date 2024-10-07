@@ -9865,5 +9865,14 @@
     "en4": "",
     "ent": "B2",
     "vn1": "(a) trước"
+  },
+  {
+    "id": 1231,
+    "en1": "discriminate",
+    "en2": "The company does not discriminate on the basis of gender.",
+    "en3": "",
+    "en4": "",
+    "ent": "C1",
+    "vn1": "(v) phân biệt đối xử, phân biệt"
   }
 ]
