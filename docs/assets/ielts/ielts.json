@@ -9829,5 +9829,41 @@
     "en4": "",
     "ent": "B1",
     "vn1": "(v) bao gồm"
+  },
+  {
+    "id": 1227,
+    "en1": "reception",
+    "en2": "The reception is located on the first floor of the hotel.",
+    "en3": "",
+    "en4": "",
+    "ent": "B1",
+    "vn1": "(n) sự tiếp nhận, khu vực lễ tân"
+  },
+  {
+    "id": 1228,
+    "en1": "gallery",
+    "en2": "The gallery has a new exhibition of modern art.",
+    "en3": "",
+    "en4": "",
+    "ent": "B1",
+    "vn1": "(n) phòng triển lãm"
+  },
+  {
+    "id": 1229,
+    "en1": "military",
+    "en2": "The military is responsible for protecting the country.",
+    "en3": "",
+    "en4": "",
+    "ent": "B1",
+    "vn1": "(a,n) quân đội"
+  },
+  {
+    "id": 1230,
+    "en1": "preceding",
+    "en2": "The preceding chapter explains the main concepts.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(a) trước"
   }
 ]
