@@ -9883,5 +9883,23 @@
     "en4": "",
     "ent": "B2",
     "vn1": "(n) sự tiếp xúc"
+  },
+  {
+    "id": 1233,
+    "en1": "impairment",
+    "en2": "Hearing impairment is common in older adults.",
+    "en3": "",
+    "en4": "",
+    "ent": "C1",
+    "vn1": "(n) sự suy giảm"
+  },
+  {
+    "id": 1234,
+    "en1": "abnormal",
+    "en2": "The doctor noticed an abnormal growth on the patient's skin.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(a) bất thường"
   }
 ]
