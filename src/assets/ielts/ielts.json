@@ -9874,5 +9874,14 @@
     "en4": "",
     "ent": "C1",
     "vn1": "(v) phân biệt đối xử, phân biệt"
+  },
+  {
+    "id": 1232,
+    "en1": "exposure",
+    "en2": "She worried about her children’s exposure to violent video games.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(n) sự tiếp xúc"
   }
 ]
