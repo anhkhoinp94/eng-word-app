@@ -9685,5 +9685,122 @@
     "en4": "",
     "ent": "C1",
     "vn1": "(v,n) làm mất uy tín"
+  },
+  {
+    "id": 1211,
+    "en1": "conquest",
+    "en2": "The conquest of the city took place after a long battle.",
+    "en3": "",
+    "en4": "",
+    "ent": "C1",
+    "vn1": "(n) sự chinh phục, chiếm đóng"
+  },
+  {
+    "id": 1212,
+    "en1": "invasion",
+    "en2": "The country prepared for an invasion by enemy forces.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(n) sự xâm lược"
+  },
+  {
+    "id": 1213,
+    "en1": "excavate",
+    "en2": "Archaeologists excavated the ancient ruins to discover hidden artifacts.",
+    "en3": "",
+    "en4": "",
+    "ent": "C1",
+    "vn1": "(v) đào bới, khai quật"
+  },
+  {
+    "id": 1214,
+    "en1": "accidentally",
+    "en2": "I accidentally deleted the file from my computer.",
+    "en3": "",
+    "en4": "",
+    "ent": "B1",
+    "vn1": "(av) tình cờ, vô tình"
+  },
+  {
+    "id": 1215,
+    "en1": "commemorate",
+    "en2": "Every year, we commemorate the heroes who fought for our country.",
+    "en3": "",
+    "en4": "",
+    "ent": "C1",
+    "vn1": "(v) kỷ niệm"
+  },
+  {
+    "id": 1216,
+    "en1": "monumental",
+    "en2": "The construction of the bridge was a monumental achievement.",
+    "en3": "",
+    "en4": "",
+    "ent": "C1",
+    "vn1": "(a) vĩ đại"
+  },
+  {
+    "id": 1217,
+    "en1": "reign",
+    "en2": "The king reigned over the country for 30 years.",
+    "en3": "",
+    "en4": "",
+    "ent": "C1",
+    "vn1": "(v,n) trị vì, triều đại"
+  },
+  {
+    "id": 1218,
+    "en1": "inscription",
+    "en2": "The ancient inscription on the stone was difficult to read.",
+    "en3": "",
+    "en4": "",
+    "ent": "C1",
+    "vn1": "(n) dòng chữ"
+  },
+  {
+    "id": 1219,
+    "en1": "mosaic",
+    "en2": "They created a mosaic that depicted scenes from nature.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(n) tranh khảm, hình khảm"
+  },
+  {
+    "id": 1220,
+    "en1": "alteration",
+    "en2": "The dress needed some alteration to fit her better.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(n) sự thay đổi, sửa đổi"
+  },
+  {
+    "id": 1221,
+    "en1": "colonnade",
+    "en2": "The ancient temple had a beautiful colonnade that framed the entrance.",
+    "en3": "",
+    "en4": "",
+    "ent": "C1",
+    "vn1": "(n) hàng cột"
+  },
+  {
+    "id": 1222,
+    "en1": "substantial",
+    "en2": "He made a substantial contribution to the charity.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(a) đáng kể"
+  },
+  {
+    "id": 1223,
+    "en1": "dismantle",
+    "en2": "They need to dismantle the old playground equipment before building the new one.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(v) tháo rời"
   }
 ]
