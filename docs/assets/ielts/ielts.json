@@ -9802,5 +9802,32 @@
     "en4": "",
     "ent": "B2",
     "vn1": "(v) tháo rời"
+  },
+  {
+    "id": 1224,
+    "en1": "archaeologist",
+    "en2": "The archaeologist discovered ancient tools while digging at the site.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(n) nhà khảo cổ học"
+  },
+  {
+    "id": 1225,
+    "en1": "erect",
+    "en2": "They plan to erect a new statue in the park.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(v) xây dựng"
+  },
+  {
+    "id": 1226,
+    "en1": "consist",
+    "en2": "The team consists of five players.",
+    "en3": "",
+    "en4": "",
+    "ent": "B1",
+    "vn1": "(v) bao gồm"
   }
 ]
