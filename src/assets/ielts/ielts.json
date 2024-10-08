@@ -9901,5 +9901,104 @@
     "en4": "",
     "ent": "B2",
     "vn1": "(a) bất thường"
+  },
+  {
+    "id": 1235,
+    "en1": "cue",
+    "en2": "She took his smile as a cue to start talking.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(n) tín hiệu"
+  },
+  {
+    "id": 1236,
+    "en1": "prodigy",
+    "en2": "Mozart was a musical prodigy who composed music at a very young age.",
+    "en3": "",
+    "en4": "",
+    "ent": "C2",
+    "vn1": "(n) thần đồng"
+  },
+  {
+    "id": 1237,
+    "en1": "covet",
+    "en2": "He always coveted his neighbor’s new car.",
+    "en3": "",
+    "en4": "",
+    "ent": "C2",
+    "vn1": "(v) khao khát"
+  },
+  {
+    "id": 1238,
+    "en1": "contentious",
+    "en2": "The decision to close the school has become a contentious issue.",
+    "en3": "",
+    "en4": "",
+    "ent": "C2",
+    "vn1": "(a) gây tranh cãi"
+  },
+  {
+    "id": 1239,
+    "en1": "resonance",
+    "en2": "The resonance of her voice filled the room.",
+    "en3": "",
+    "en4": "",
+    "ent": "C2",
+    "vn1": "(n) sự cộng hưởng"
+  },
+  {
+    "id": 1240,
+    "en1": "supreme",
+    "en2": "The supreme court is the highest judicial authority in the country.",
+    "en3": "",
+    "en4": "",
+    "ent": "C1",
+    "vn1": "(a) tối cao"
+  },
+  {
+    "id": 1241,
+    "en1": "moisture",
+    "en2": "The moisture in the air can affect your skin.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(n) độ ẩm"
+  },
+  {
+    "id": 1242,
+    "en1": "intrinsic",
+    "en2": "The intrinsic value of art lies in its ability to evoke emotions.",
+    "en3": "",
+    "en4": "",
+    "ent": "C2",
+    "vn1": "(a) bản chất"
+  },
+  {
+    "id": 1243,
+    "en1": "varnish",
+    "en2": "The table has a beautiful varnish that makes it shine.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(n,v) sơn bóng"
+  },
+  {
+    "id": 1244,
+    "en1": "utterly",
+    "en2": "She was utterly surprised by the unexpected news.",
+    "en3": "",
+    "en4": "",
+    "ent": "C1",
+    "vn1": "(av) hoàn toàn"
+  },
+  {
+    "id": 1245,
+    "en1": "superiority",
+    "en2": "His superiority in math made him the top student in the class.",
+    "en3": "",
+    "en4": "",
+    "ent": "C1",
+    "vn1": "(n) sự vượt trội, sự ưu việt"
   }
 ]
