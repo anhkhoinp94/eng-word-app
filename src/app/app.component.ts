@@ -77,7 +77,7 @@ export class AppComponent {
   id = 1;
   min = 1;
   // max = 1203;
-  max = ieltsWords.length;
+  max = ielts.length;
   vnWord1 = '';
   vnWord2 = '';
   enWord1 = '';
@@ -100,7 +100,7 @@ export class AppComponent {
     en4: '',
     vn1: '',
   };
-  reviseWords: Word[] = [];
+  reviseWords: Word[] = ielts.slice(-20);
 
   // speak
   selectedVoice: SpeechSynthesisVoice | null;
@@ -116,8 +116,7 @@ export class AppComponent {
     // this.words = this.words.concat(wordList1, wordList2, wordList3, wordList4, wordList5, wordList6, wordList7, wordList8, wordList9, wordList10, wordList11, wordList12, wordList13, wordList14, wordList15, wordList16, wordList17, wordList18, wordList19, wordList20, wordList21, wordList22, wordList23, wordList24, wordList25, wordList26, wordList27, wordList28, wordList29, wordList30, wordList31, wordList32, wordList33, wordList34, wordList35, wordList36, wordList37, wordList38, wordList39, wordList40, wordList41, wordList42, wordList43, wordList44, wordList45, wordList46, wordList47, wordList48, wordList49, wordList50, others);
     // this.words = this.words.concat(aws);
     // this.words = this.words.concat(partOne);
-    this.words = this.words.concat(ieltsWords);
-    console.log(this.words.filter((item) => item.en2 === '').length);
+    this.words = this.words.concat(ielts);
     this.id = this.getRandomArbitrary(this.min, this.max);
     // this.id = 1;
     let word = this.words.find((obj) => {
