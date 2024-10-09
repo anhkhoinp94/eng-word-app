@@ -10045,5 +10045,68 @@
     "en4": "",
     "ent": "C2",
     "vn1": "(v) làm suy yếu"
+  },
+  {
+    "id": 1251,
+    "en1": "jury, juror",
+    "en2": "The jury found the defendant guilty of all charges.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(n) ban giám khảo, bồi thẩm đoàn"
+  },
+  {
+    "id": 1252,
+    "en1": "colony",
+    "en2": "The British established a colony in America during the 17th century.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(n) thuộc địa"
+  },
+  {
+    "id": 1253,
+    "en1": "swarm",
+    "en2": "A swarm of bees surrounded the picnic area.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(n) bầy"
+  },
+  {
+    "id": 1254,
+    "en1": "whereabouts",
+    "en2": "The police are trying to find out the whereabouts of the missing person.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(n) vị trí, địa điểm"
+  },
+  {
+    "id": 1255,
+    "en1": "scout",
+    "en2": "The scout reported back with valuable information about the enemy's position.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(n,v) người trinh sát, do thám"
+  },
+  {
+    "id": 1256,
+    "en1": "vicinity",
+    "en2": "There are several good restaurants in the vicinity of the hotel.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(n) khu vực lân cận"
+  },
+  {
+    "id": 1257,
+    "en1": "guard",
+    "en2": "You need to guard your personal information online.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(v,n) bảo vệ"
   }
 ]
