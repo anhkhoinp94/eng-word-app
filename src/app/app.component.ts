@@ -100,7 +100,8 @@ export class AppComponent {
     en4: '',
     vn1: '',
   };
-  reviseWords: Word[] = ielts.slice(-20);
+  reviseWords: Word[] = [];
+
 
   // speak
   selectedVoice: SpeechSynthesisVoice | null;
@@ -131,9 +132,10 @@ export class AppComponent {
       this.enWord3 = word.en3;
       this.enWord4 = word.en4;
     }
-    this.reviseWords = this.words
-      .sort(() => 0.5 - Math.random())
-      .slice(0, this.maxInitReviseCount);
+    // this.reviseWords = this.words
+    //   .sort(() => 0.5 - Math.random())
+    //   .slice(0, this.maxInitReviseCount);
+    this.reviseWords = ielts.slice(-50);
   }
 
   renderEnWord = (value: string): string => {
