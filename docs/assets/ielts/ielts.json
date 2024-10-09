@@ -10018,5 +10018,32 @@
     "en4": "",
     "ent": "C1",
     "vn1": "(a) khác nhau"
+  },
+  {
+    "id": 1248,
+    "en1": "infiltrate",
+    "en2": "The spies were able to infiltrate the enemy's headquarters.",
+    "en3": "",
+    "en4": "",
+    "ent": "C2",
+    "vn1": "(v) xâm nhập"
+  },
+  {
+    "id": 1249,
+    "en1": "robust",
+    "en2": "He has a robust build that helps him excel in sports.",
+    "en3": "",
+    "en4": "",
+    "ent": "C1",
+    "vn1": "(a) mạnh mẽ"
+  },
+  {
+    "id": 1250,
+    "en1": "subvert",
+    "en2": "The activists aimed to subvert the government by exposing corruption.",
+    "en3": "",
+    "en4": "",
+    "ent": "C2",
+    "vn1": "(v) làm suy yếu"
   }
 ]
