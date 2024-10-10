@@ -10144,5 +10144,23 @@
     "en4": "",
     "ent": "C1",
     "vn1": "(n) văn xuôi"
+  },
+  {
+    "id": 1262,
+    "en1": "disdain",
+    "en2": "She looked at the messy room with disdain.",
+    "en3": "",
+    "en4": "",
+    "ent": "C1",
+    "vn1": "(n,v) khinh thường"
+  },
+  {
+    "id": 1263,
+    "en1": "distinguished, distinguish",
+    "en2": "She received a distinguished award for her contributions to science.",
+    "en3": "",
+    "en4": "",
+    "ent": "C1",
+    "vn1": "(a) xuất sắc"
   }
 ]
