@@ -10108,5 +10108,41 @@
     "en4": "",
     "ent": "B2",
     "vn1": "(v,n) bảo vệ"
+  },
+  {
+    "id": 1258,
+    "en1": "charismatic",
+    "en2": "The charismatic leader inspired the crowd with his powerful speech.",
+    "en3": "",
+    "en4": "",
+    "ent": "C1",
+    "vn1": "(a) có sức hút"
+  },
+  {
+    "id": 1259,
+    "en1": "discontented",
+    "en2": "Many workers are discontented with their low wages and poor working conditions.",
+    "en3": "",
+    "en4": "",
+    "ent": "C1",
+    "vn1": "(a) không hài lòng"
+  },
+  {
+    "id": 1260,
+    "en1": "solidify",
+    "en2": "The company plans to solidify its position in the market by launching new products.",
+    "en3": "",
+    "en4": "",
+    "ent": "C1",
+    "vn1": "(v) củng cố, làm cho vững chắc"
+  },
+  {
+    "id": 1261,
+    "en1": "prose",
+    "en2": "She enjoys writing prose more than poetry.",
+    "en3": "",
+    "en4": "",
+    "ent": "C1",
+    "vn1": "(n) văn xuôi"
   }
 ]
