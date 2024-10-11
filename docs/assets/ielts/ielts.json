@@ -10162,5 +10162,68 @@
     "en4": "",
     "ent": "C1",
     "vn1": "(a) xuất sắc"
+  },
+  {
+    "id": 1264,
+    "en1": "1264",
+    "en2": "They moved to a suburb to raise their family in a quieter environment.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(n) vùng ngoại ô"
+  },
+  {
+    "id": 1265,
+    "en1": "cousin",
+    "en2": "My cousin is coming to visit us this weekend.",
+    "en3": "",
+    "en4": "",
+    "ent": "A2",
+    "vn1": "(n) anh/chị/em họ"
+  },
+  {
+    "id": 1266,
+    "en1": "portray",
+    "en2": "The actor portrayed the hero with great emotion.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(v) miêu tả, khắc họa"
+  },
+  {
+    "id": 1267,
+    "en1": "occupation",
+    "en2": "Her occupation is teaching, and she loves working with children.",
+    "en3": "",
+    "en4": "",
+    "ent": "B1",
+    "vn1": "(n) nghề nghiệp; sự chiếm đóng"
+  },
+  {
+    "id": 1268,
+    "en1": "subsidy",
+    "en2": "The government provides a subsidy to farmers to help with production costs.",
+    "en3": "",
+    "en4": "",
+    "ent": "C1",
+    "vn1": "(n) khoản trợ cấp"
+  },
+  {
+    "id": 1269,
+    "en1": "tuberculosis",
+    "en2": "Vaccination can help prevent tuberculosis in high-risk populations.",
+    "en3": "",
+    "en4": "",
+    "ent": "C1",
+    "vn1": "(n) bệnh lao"
+  },
+  {
+    "id": 1270,
+    "en1": "respectively",
+    "en2": "John and Sarah received the first and second prizes, respectively.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(av) tương ứng"
   }
 ]
