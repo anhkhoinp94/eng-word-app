@@ -10225,5 +10225,149 @@
     "en4": "",
     "ent": "B2",
     "vn1": "(av) tương ứng"
+  },
+  {
+    "id": 1271,
+    "en1": "yeast",
+    "en2": "Yeast is essential for brewing beer.",
+    "en3": "",
+    "en4": "",
+    "ent": "A2",
+    "vn1": "(n) men, nấm men"
+  },
+  {
+    "id": 1272,
+    "en1": "inflate",
+    "en2": "I need to inflate the balloons for the party.",
+    "en3": "",
+    "en4": "",
+    "ent": "A2",
+    "vn1": "(v) làm phồng, nở"
+  },
+  {
+    "id": 1273,
+    "en1": "dough",
+    "en2": "I need to knead the dough before baking.",
+    "en3": "",
+    "en4": "",
+    "ent": "A2",
+    "vn1": "(n) bột (để làm bánh)"
+  },
+  {
+    "id": 1274,
+    "en1": "texture",
+    "en2": "The texture of the fabric is very soft.",
+    "en3": "",
+    "en4": "",
+    "ent": "A2",
+    "vn1": "(n) kết cấu"
+  },
+  {
+    "id": 1275,
+    "en1": "airy",
+    "en2": "The room is very airy and bright.",
+    "en3": "",
+    "en4": "",
+    "ent": "A2",
+    "vn1": "(a) thoáng"
+  },
+  {
+    "id": 1276,
+    "en1": "span",
+    "en2": "The bridge has a span of over 500 meters.",
+    "en3": "",
+    "en4": "",
+    "ent": "B1",
+    "vn1": "(n,v) nhịp cầu, khoảng; kéo dài"
+  },
+  {
+    "id": 1277,
+    "en1": "tear, tore, torn",
+    "en2": "Be careful not to tear the paper.",
+    "en3": "",
+    "en4": "",
+    "ent": "B1",
+    "vn1": "(v,n) xé; nước mắt"
+  },
+  {
+    "id": 1278,
+    "en1": "exclaim",
+    "en2": "She exclaimed with joy when she saw her friends.",
+    "en3": "",
+    "en4": "",
+    "ent": "B1",
+    "vn1": "(v) thốt lên, kêu lên"
+  },
+  {
+    "id": 1279,
+    "en1": "slip",
+    "en2": "Be careful not to slip on the wet floor.",
+    "en3": "",
+    "en4": "",
+    "ent": "B1",
+    "vn1": "(v,n) trượt, làm rơi"
+  },
+  {
+    "id": 1280,
+    "en1": "tweezers",
+    "en2": "I use tweezers to pluck my eyebrows.",
+    "en3": "",
+    "en4": "",
+    "ent": "A2",
+    "vn1": "(n) nhíp"
+  },
+  {
+    "id": 1281,
+    "en1": "supplement",
+    "en2": "Many people take vitamin supplements for better health.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(n,v) bổ sung"
+  },
+  {
+    "id": 1282,
+    "en1": "compilation",
+    "en2": "The compilation of songs includes both new and old tracks.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(n) sự biên soạn, tổng hợp"
+  },
+  {
+    "id": 1283,
+    "en1": "spur",
+    "en2": "The government aims to spur economic growth through new policies.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(v,n) thúc đẩy; động lực"
+  },
+  {
+    "id": 1284,
+    "en1": "expropriate",
+    "en2": "The government may expropriate land for public use.",
+    "en3": "",
+    "en4": "",
+    "ent": "C1",
+    "vn1": "(v) thu hồi (tài sản để sử dụng công cộng)"
+  },
+  {
+    "id": 1285,
+    "en1": "aisle",
+    "en2": "Please take your seat in the aisle.",
+    "en3": "",
+    "en4": "",
+    "ent": "A2",
+    "vn1": "(n) lối đi"
+  },
+  {
+    "id": 1286,
+    "en1": "part ways",
+    "en2": "It’s sad to see them part ways after working together for so long.",
+    "en3": "",
+    "en4": "",
+    "ent": "B1",
+    "vn1": "(v) chia tay, tách rời"
   }
 ]
