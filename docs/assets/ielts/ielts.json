@@ -10369,5 +10369,23 @@
     "en4": "",
     "ent": "B1",
     "vn1": "(v) chia tay, tách rời"
+  },
+  {
+    "id": 1287,
+    "en1": "slippery",
+    "en2": "Driving on a slippery road during rain can be dangerous.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(a) trơn trượt"
+  },
+  {
+    "id": 1288,
+    "en1": "embassy",
+    "en2": "We need to visit the embassy to get a visa.",
+    "en3": "",
+    "en4": "",
+    "ent": "B1",
+    "vn1": "(n) đại sứ quán"
   }
 ]
