@@ -8265,11 +8265,12 @@
   },
   {
     "id": 1034,
-    "en1": "be conceived as",
-    "en2": "The new policy is conceived as a step towards greater efficiency.",
+    "en1": "conceive",
+    "en2": "She was able to conceive a brilliant plan to solve the problem.",
     "en3": "",
     "en4": "",
-    "vn1": "(phrasal v) được coi như là"
+    "ent": "C1",
+    "vn1": "(v) hình thành (ý tưởng); có thai"
   },
   {
     "id": 1035,
@@ -10387,5 +10388,122 @@
     "en4": "",
     "ent": "B1",
     "vn1": "(n) đại sứ quán"
+  },
+  {
+    "id": 1289,
+    "en1": "allergic",
+    "en2": "She is allergic to peanuts, so she avoids eating them.",
+    "en3": "",
+    "en4": "",
+    "ent": "B1",
+    "vn1": "(a) dị ứng"
+  },
+  {
+    "id": 1290,
+    "en1": "religion",
+    "en2": "Catholicism is one of the major religions in the world.",
+    "en3": "",
+    "en4": "",
+    "ent": "A2",
+    "vn1": "(n) tôn giáo"
+  },
+  {
+    "id": 1291,
+    "en1": "sequestration",
+    "en2": "Carbon sequestration is vital in combating climate change.",
+    "en3": "",
+    "en4": "",
+    "ent": "C1",
+    "vn1": "(n) cách ly, tịch thu"
+  },
+  {
+    "id": 1292,
+    "en1": "delegate",
+    "en2": "She was chosen as the delegate to represent the company at the conference.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(n,v) đại biểu; ủy quyền"
+  },
+  {
+    "id": 1293,
+    "en1": "stabilize",
+    "en2": "The government took action to stabilize the economy after the crisis.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(v) làm ổn định"
+  },
+  {
+    "id": 1294,
+    "en1": "slash",
+    "en2": "The company decided to slash prices to attract more customers.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(v,n) cắt giảm mạnh; vết cắt"
+  },
+  {
+    "id": 1295,
+    "en1": "reservoir",
+    "en2": "The reservoir provides drinking water for the entire city.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(n) bể chứa"
+  },
+  {
+    "id": 1296,
+    "en1": "asphyxiate",
+    "en2": "The smoke from the fire began to asphyxiate the people trapped inside the building.",
+    "en3": "",
+    "en4": "",
+    "ent": "C1",
+    "vn1": "(v) làm ngạt thở"
+  },
+  {
+    "id": 1297,
+    "en1": "multilateral",
+    "en2": "The countries reached a multilateral agreement to address climate change.",
+    "en3": "",
+    "en4": "",
+    "ent": "C1",
+    "vn1": "(a) đa phương"
+  },
+  {
+    "id": 1298,
+    "en1": "efficacy",
+    "en2": "The study aimed to assess the efficacy of the new drug in treating the disease.",
+    "en3": "",
+    "en4": "",
+    "ent": "C1",
+    "vn1": "(n) hiệu quả"
+  },
+  {
+    "id": 1299,
+    "en1": "compliance",
+    "en2": "It is important for businesses to demonstrate compliance with industry standards.",
+    "en3": "",
+    "en4": "",
+    "ent": "C1",
+    "vn1": "(n) sự tuân thủ"
+  },
+  {
+    "id": 1300,
+    "en1": "mechanism",
+    "en2": "The mechanism of the clock was complicated but fascinating.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(n) cơ chế"
+  },
+  {
+    "id": 1301,
+    "en1": "preliminary",
+    "en2": "The preliminary results of the study were promising, but further research is needed.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(a) ban đầu"
   }
 ]
