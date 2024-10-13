@@ -10577,5 +10577,32 @@
     "en4": "",
     "ent": "B2",
     "vn1": "(n,v) bạn đồng trang lứa; quan sát"
+  },
+  {
+    "id": 1310,
+    "en1": "anchor",
+    "en2": "The ship dropped anchor to stay in place during the storm.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(n) cái neo, điểm tựa"
+  },
+  {
+    "id": 1311,
+    "en1": "lungs",
+    "en2": "Smoking can severely damage your lungs and lead to serious health issues.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(n) phổi"
+  },
+  {
+    "id": 1312,
+    "en1": "federal",
+    "en2": "The federal government is responsible for national defense and foreign policy.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(a) liên bang"
   }
 ]
