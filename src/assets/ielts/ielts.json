@@ -2357,7 +2357,7 @@
     "en2": "His speech on the importance of education was profound and moving.",
     "en3": "",
     "en4": "",
-    "vn1": "sâu sắc, thâm thúy"
+    "vn1": "(a) sâu sắc"
   },
   {
     "id": 296,
@@ -10505,5 +10505,77 @@
     "en4": "",
     "ent": "B2",
     "vn1": "(a) ban đầu"
+  },
+  {
+    "id": 1302,
+    "en1": "transition",
+    "en2": "She is finding it difficult to transition from college life to full-time employment.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(n,v) chuyển tiếp"
+  },
+  {
+    "id": 1303,
+    "en1": "accentuate",
+    "en2": "The designer used bright colors to accentuate the beauty of the dress.",
+    "en3": "",
+    "en4": "",
+    "ent": "C1",
+    "vn1": "(v) nhấn mạnh, làm nổi bật"
+  },
+  {
+    "id": 1304,
+    "en1": "conform, conformity",
+    "en2": "All students are required to conform to the school's dress code.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(v) tuân thủ"
+  },
+  {
+    "id": 1305,
+    "en1": "impulse",
+    "en2": "She bought the dress on impulse, without thinking about whether she needed it.",
+    "en3": "",
+    "en4": "",
+    "ent": "C1",
+    "vn1": "(n) sự thúc đẩy, xung động"
+  },
+  {
+    "id": 1306,
+    "en1": "pervasive",
+    "en2": "The influence of social media is pervasive in modern society.",
+    "en3": "",
+    "en4": "",
+    "ent": "C1",
+    "vn1": "(a) phổ biến, lan tỏa rộng rãi"
+  },
+  {
+    "id": 1307,
+    "en1": "vocation",
+    "en2": "She feels that teaching is her true vocation.",
+    "en3": "",
+    "en4": "",
+    "ent": "C1",
+    "vn1": "(n) nghề nghiệp, sự nghiệp"
+  },
+  {
+    "id": 1308,
+    "en1": "adolescence",
+    "en2": "Adolescence is a time of significant emotional and physical change.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(n) tuổi vị thành niên"
+  },
+  {
+    "id": 1309,
+    "en1": "peer",
+    "en2": "It’s important for children to learn from their peers as well as their teachers.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(n,v) bạn đồng trang lứa; quan sát"
   }
 ]
