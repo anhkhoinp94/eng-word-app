@@ -9298,11 +9298,11 @@
   },
   {
     "id": 1163,
-    "en1": "dissemination",
-    "en2": "They focused on the dissemination of health education in rural areas.",
+    "en1": "disseminate, dissemination",
+    "en2": "The organization aims to disseminate information about health and wellness to the community.",
     "en3": "",
     "en4": "",
-    "vn1": "(n) sự phổ biến"
+    "vn1": "(v,n) phổ biến"
   },
   {
     "id": 1164,
@@ -10649,5 +10649,32 @@
     "en4": "",
     "ent": "C1",
     "vn1": "(av) luôn luôn"
+  },
+  {
+    "id": 1318,
+    "en1": "unite",
+    "en2": "We need to unite our efforts to tackle this issue effectively.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(v) kết hợp, hợp nhất"
+  },
+  {
+    "id": 1319,
+    "en1": "certainty",
+    "en2": "There is a great deal of certainty about the outcome of the election.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(n) sự chắc chắn"
+  },
+  {
+    "id": 1320,
+    "en1": "splash",
+    "en2": "I heard a splash as the stone hit the water.",
+    "en3": "",
+    "en4": "",
+    "ent": "B1",
+    "vn1": "(n,v) tiếng nước bắn; làm nước bắn lên"
   }
 ]
