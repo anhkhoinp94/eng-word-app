@@ -10604,5 +10604,50 @@
     "en4": "",
     "ent": "B2",
     "vn1": "(a) liên bang"
+  },
+  {
+    "id": 1313,
+    "en1": "sculpture",
+    "en2": "The museum has a beautiful sculpture made of marble.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(n) tác phẩm điêu khắc"
+  },
+  {
+    "id": 1314,
+    "en1": "overlap",
+    "en2": "The two meetings overlap, so I can't attend both.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(v,n) chồng chéo"
+  },
+  {
+    "id": 1315,
+    "en1": "casually",
+    "en2": "He casually mentioned that he might be moving to another city next month.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(av) thoải mái"
+  },
+  {
+    "id": 1316,
+    "en1": "feast",
+    "en2": "They prepared a grand feast for the wedding celebration.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(n,v) bữa tiệc lớn; ăn tiệc"
+  },
+  {
+    "id": 1317,
+    "en1": "unfailingly",
+    "en2": "She is unfailingly polite to everyone she meets.",
+    "en3": "",
+    "en4": "",
+    "ent": "C1",
+    "vn1": "(av) luôn luôn"
   }
 ]
