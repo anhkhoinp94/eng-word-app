@@ -10676,5 +10676,32 @@
     "en4": "",
     "ent": "B1",
     "vn1": "(n,v) tiếng nước bắn; làm nước bắn lên"
+  },
+  {
+    "id": 1321,
+    "en1": "exterior",
+    "en2": "The exterior of the house was painted white.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(n,a) bên ngoài"
+  },
+  {
+    "id": 1322,
+    "en1": "compromise",
+    "en2": "We had to compromise on some issues to finalize the deal.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(v,n) thỏa hiệp"
+  },
+  {
+    "id": 1323,
+    "en1": "accumulate",
+    "en2": "Over the years, he managed to accumulate a small fortune.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(v) tích lũy"
   }
 ]
