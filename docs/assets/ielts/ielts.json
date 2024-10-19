@@ -6193,7 +6193,7 @@
   },
   {
     "id": 775,
-    "en1": "interpret, clarify",
+    "en1": "interpret, interpretation",
     "en2": "She tried to interpret the meaning of the poem.",
     "en3": "",
     "en4": "",
@@ -10703,5 +10703,59 @@
     "en4": "",
     "ent": "B2",
     "vn1": "(v) tích lũy"
+  },
+  {
+    "id": 1324,
+    "en1": "mist",
+    "en2": "The mountains were covered in a thick mist early in the morning.",
+    "en3": "",
+    "en4": "",
+    "ent": "B1",
+    "vn1": "(n,v) sương mù , làm mờ do hơi nước"
+  },
+  {
+    "id": 1325,
+    "en1": "refugee",
+    "en2": "The government provided shelters for the refugees arriving from the war zone.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(n) người tị nạn"
+  },
+  {
+    "id": 1326,
+    "en1": "illuminate, illuminated",
+    "en2": "The streetlights illuminated the path as we walked home.",
+    "en3": "",
+    "en4": "",
+    "ent": "C1",
+    "vn1": "(v) chiếu sáng, làm sáng tỏ"
+  },
+  {
+    "id": 1327,
+    "en1": "clarify",
+    "en2": "Could you clarify what you mean by that statement?",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(v) giải thích, làm rõ"
+  },
+  {
+    "id": 1328,
+    "en1": "luminous",
+    "en2": "The luminous moon lit up the entire night sky.",
+    "en3": "",
+    "en4": "",
+    "ent": "C1",
+    "vn1": "(a) sáng chói, tỏa sáng"
+  },
+  {
+    "id": 1329,
+    "en1": "accountability",
+    "en2": "The government needs to show more accountability in handling public funds.",
+    "en3": "",
+    "en4": "",
+    "ent": "C1",
+    "vn1": "(n) trách nhiệm giải trình"
   }
 ]
