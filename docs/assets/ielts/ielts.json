@@ -185,7 +185,7 @@
   },
   {
     "id": 24,
-    "en1": "legislature",
+    "en1": "legislature, legislative",
     "en2": "The legislature passed a new law to improve public health.",
     "en3": "",
     "en4": "",
@@ -545,7 +545,7 @@
   },
   {
     "id": 69,
-    "en1": "prosperous",
+    "en1": "prosperous, prosperity",
     "en2": "They live in a prosperous neighborhood with many luxury homes.",
     "en3": "",
     "en4": "",
@@ -10757,5 +10757,32 @@
     "en4": "",
     "ent": "C1",
     "vn1": "(n) trách nhiệm giải trình"
+  },
+  {
+    "id": 1330,
+    "en1": "torch",
+    "en2": "He used a torch to find his way in the dark cave.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(n) đuốc, đèn pin"
+  },
+  {
+    "id": 1331,
+    "en1": "dim",
+    "en2": "The room was lit by a dim light, creating a cozy atmosphere.",
+    "en3": "",
+    "en4": "",
+    "ent": "B1",
+    "vn1": "(a,v) mờ, làm mờ"
+  },
+  {
+    "id": 1332,
+    "en1": "reflector",
+    "en2": "The bike has a red reflector on the back to make it visible at night.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(n) tấm phản quang, thiết bị phản xạ"
   }
 ]
