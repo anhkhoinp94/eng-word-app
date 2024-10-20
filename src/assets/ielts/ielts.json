@@ -841,11 +841,11 @@
   },
   {
     "id": 106,
-    "en1": "allocate, assign",
+    "en1": "allocate",
     "en2": "The manager allocated the tasks among the team members.",
     "en3": "",
     "en4": "",
-    "vn1": "(v) chỉ định, cấp phát"
+    "vn1": "(v) chỉ định"
   },
   {
     "id": 107,
@@ -1217,7 +1217,7 @@
   },
   {
     "id": 153,
-    "en1": "presume, assume",
+    "en1": "presume",
     "en2": "He presumed that everyone understood the new policy.",
     "en3": "",
     "en4": "",
@@ -1521,7 +1521,7 @@
   },
   {
     "id": 191,
-    "en1": "accommodation",
+    "en1": "accommodation, accommodate",
     "en2": "The hotel provides comfortable accommodation for its guests.",
     "en3": "",
     "en4": "",
@@ -6457,7 +6457,7 @@
   },
   {
     "id": 808,
-    "en1": "sufficient, adequate",
+    "en1": "sufficient",
     "en2": "I have sufficient experience to handle the job.",
     "en3": "",
     "en4": "",
@@ -6937,7 +6937,7 @@
   },
   {
     "id": 868,
-    "en1": "adequate, adequacy",
+    "en1": "adequate, adequacy, adequately",
     "en2": "The team made an adequate effort to complete the project on time.",
     "en3": "",
     "en4": "",
@@ -8041,11 +8041,11 @@
   },
   {
     "id": 1006,
-    "en1": "appropriate",
+    "en1": "appropriate, appropriately",
     "en2": "It is important to wear appropriate clothing for the interview.",
     "en3": "",
     "en4": "",
-    "vn1": "(a) phù hợp; (v) chiếm đoạt"
+    "vn1": "(a) phù hợp"
   },
   {
     "id": 1007,
@@ -9470,7 +9470,7 @@
     "en2": "We anticipate that the project will be completed by next month.",
     "en3": "",
     "en4": "",
-    "vn1": "(v) dự đoán, mong đợi"
+    "vn1": "(v) đoán trước"
   },
   {
     "id": 1185,
@@ -10784,5 +10784,86 @@
     "en4": "",
     "ent": "B2",
     "vn1": "(n) tấm phản quang, thiết bị phản xạ"
+  },
+  {
+    "id": 1333,
+    "en1": "acid",
+    "en2": "The scientist added acid to the solution to test the reaction.",
+    "en3": "",
+    "en4": "",
+    "ent": "B1",
+    "vn1": "(n,a) axit"
+  },
+  {
+    "id": 1334,
+    "en1": "alongside",
+    "en2": "He worked alongside his colleagues to complete the project.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(prep,av) bên cạnh, cùng với"
+  },
+  {
+    "id": 1335,
+    "en1": "altogether",
+    "en2": "There were altogether 50 people at the party.",
+    "en3": "",
+    "en4": "",
+    "ent": "B1",
+    "vn1": "(av) toàn bộ"
+  },
+  {
+    "id": 1336,
+    "en1": "artwork",
+    "en2": "The gallery displayed several pieces of modern artwork.",
+    "en3": "",
+    "en4": "",
+    "ent": "B1",
+    "vn1": "(n) tác phẩm nghệ thuật"
+  },
+  {
+    "id": 1337,
+    "en1": "aside",
+    "en2": "She pushed her doubts aside and continued with the plan.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(adv) sang một bên"
+  },
+  {
+    "id": 1338,
+    "en1": "assign",
+    "en2": "The manager assigned the tasks to different team members.",
+    "en3": "",
+    "en4": "",
+    "ent": "B1",
+    "vn1": "(v) chỉ định"
+  },
+  {
+    "id": 1339,
+    "en1": "assume, assumption",
+    "en2": "I assumed he had already left, so I didn't call him.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(v,n) giả sử, giả định"
+  },
+  {
+    "id": 1340,
+    "en1": "auction",
+    "en2": "They decided to auction off their old furniture.",
+    "en3": "",
+    "en4": "",
+    "ent": "B1",
+    "vn1": "(v,n) đấu giá"
+  },
+  {
+    "id": 1341,
+    "en1": "assure",
+    "en2": "I assure you that everything will be fine.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(v) đảm bảo"
   }
 ]
