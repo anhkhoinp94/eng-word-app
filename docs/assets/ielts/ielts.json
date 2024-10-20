@@ -11000,5 +11000,23 @@
     "en4": "",
     "ent": "B2",
     "vn1": "(v) ngăn cản, làm nản lòng"
+  },
+  {
+    "id": 1357,
+    "en1": "brick",
+    "en2": "The house is made of red bricks.",
+    "en3": "",
+    "en4": "",
+    "ent": "A2",
+    "vn1": "(n) gạch"
+  },
+  {
+    "id": 1358,
+    "en1": "amass",
+    "en2": "Over the years, he managed to amass a large fortune.",
+    "en3": "",
+    "en4": "",
+    "ent": "C1",
+    "vn1": "(v) tích lũy, thu thập"
   }
 ]
