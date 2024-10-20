@@ -11018,5 +11018,23 @@
     "en4": "",
     "ent": "C1",
     "vn1": "(v) tích lũy, thu thập"
+  },
+  {
+    "id": 1359,
+    "en1": "impractical",
+    "en2": "The plan was deemed impractical due to budget constraints.",
+    "en3": "",
+    "en4": "",
+    "ent": "C1",
+    "vn1": "(a) không thực tế, không khả thi"
+  },
+  {
+    "id": 1360,
+    "en1": "accustom",
+    "en2": "It took me a while to accustom myself to the new environment.",
+    "en3": "",
+    "en4": "",
+    "ent": "C1",
+    "vn1": "(v) làm quen, khiến cho quen với"
   }
 ]
