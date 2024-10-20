@@ -37,7 +37,7 @@
     "en2": "He felt awkward dancing in front of everyone.",
     "en3": "",
     "en4": "",
-    "vn1": "(a) khó xử, không tự nhiên"
+    "vn1": "(a) vụng về, khó xử"
   },
   {
     "id": 6,
@@ -3697,7 +3697,7 @@
   },
   {
     "id": 463,
-    "en1": "dramatic",
+    "en1": "dramatic, dramatically",
     "en2": "The company experienced a dramatic increase in profits after launching the new product.",
     "en3": "",
     "en4": "",
@@ -5665,7 +5665,7 @@
   },
   {
     "id": 709,
-    "en1": "broad",
+    "en1": "broad, broadly",
     "en2": "The river is broad and deep.",
     "en3": "",
     "en4": "",
@@ -7017,11 +7017,11 @@
   },
   {
     "id": 878,
-    "en1": "amusement",
+    "en1": "amusement, amusing",
     "en2": "She found great amusement in reading comic books.",
     "en3": "",
     "en4": "",
-    "vn1": "(n) sự giải trí"
+    "vn1": "(n,a) sự giải trí, vui vẻ"
   },
   {
     "id": 879,
@@ -8257,7 +8257,7 @@
   },
   {
     "id": 1033,
-    "en1": "distinction",
+    "en1": "distinction, distinct",
     "en2": "There is a clear distinction between the two theories.",
     "en3": "",
     "en4": "",
@@ -10517,12 +10517,12 @@
   },
   {
     "id": 1303,
-    "en1": "accentuate",
-    "en2": "The designer used bright colors to accentuate the beauty of the dress.",
+    "en1": "accent, accentuate",
+    "en2": "The teacher used an accent to help students understand pronunciation.",
     "en3": "",
     "en4": "",
-    "ent": "C1",
-    "vn1": "(v) nhấn mạnh, làm nổi bật"
+    "ent": "B2",
+    "vn1": "(n,v) giọng, nhấn mạnh"
   },
   {
     "id": 1304,
@@ -10625,7 +10625,7 @@
   },
   {
     "id": 1315,
-    "en1": "casually",
+    "en1": "casually, casual",
     "en2": "He casually mentioned that he might be moving to another city next month.",
     "en3": "",
     "en4": "",
@@ -10865,5 +10865,140 @@
     "en4": "",
     "ent": "B2",
     "vn1": "(v) đảm bảo"
+  },
+  {
+    "id": 1342,
+    "en1": "bias",
+    "en2": "There is a bias in the way the news is reported.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(n,v) thiên vị"
+  },
+  {
+    "id": 1343,
+    "en1": "beside",
+    "en2": "She sat beside me during the movie.",
+    "en3": "",
+    "en4": "",
+    "ent": "A2",
+    "vn1": "(prep) bên cạnh"
+  },
+  {
+    "id": 1344,
+    "en1": "besides",
+    "en2": "Besides studying, she also works part-time.",
+    "en3": "",
+    "en4": "",
+    "ent": "B1",
+    "vn1": "(prep, adv) ngoài ra, hơn nữa"
+  },
+  {
+    "id": 1345,
+    "en1": "adjust",
+    "en2": "You need to adjust the volume on the TV.",
+    "en3": "",
+    "en4": "",
+    "ent": "B1",
+    "vn1": "(v) điều chỉnh"
+  },
+  {
+    "id": 1346,
+    "en1": "badge",
+    "en2": "He wore a badge that showed he was a volunteer.",
+    "en3": "",
+    "en4": "",
+    "ent": "A2",
+    "vn1": "(n) huy hiệu"
+  },
+  {
+    "id": 1347,
+    "en1": "ballet",
+    "en2": "She has been taking ballet lessons since she was five.",
+    "en3": "",
+    "en4": "",
+    "ent": "A2",
+    "vn1": "(n) múa ballet"
+  },
+  {
+    "id": 1348,
+    "en1": "bargain",
+    "en2": "It's important to bargain when shopping in markets.",
+    "en3": "",
+    "en4": "",
+    "ent": "B1",
+    "vn1": "(v,n) mặc cả, món hời"
+  },
+  {
+    "id": 1349,
+    "en1": "bid",
+    "en2": "She placed a bid on the painting at the auction.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(n,v) giá thầu, trả giá"
+  },
+  {
+    "id": 1350,
+    "en1": "blanket",
+    "en2": "I need a blanket to keep warm at night.",
+    "en3": "",
+    "en4": "",
+    "ent": "A2",
+    "vn1": "(n,v) chăn, che phủ"
+  },
+  {
+    "id": 1351,
+    "en1": "cheek",
+    "en2": "She kissed him on the cheek.",
+    "en3": "",
+    "en4": "",
+    "ent": "A2",
+    "vn1": "(n) má"
+  },
+  {
+    "id": 1352,
+    "en1": "distant",
+    "en2": "They live in a distant part of the country.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(a) xa xôi"
+  },
+  {
+    "id": 1353,
+    "en1": "diverse, diversity",
+    "en2": "The city is known for its diverse culture and traditions.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(a) đa dạng"
+  },
+  {
+    "id": 1354,
+    "en1": "divorce",
+    "en2": "Their divorce was finalized last month.",
+    "en3": "",
+    "en4": "",
+    "ent": "B1",
+    "vn1": "(n,v) ly hôn"
+  },
+  {
+    "id": 1355,
+    "en1": "dominant",
+    "en2": "The dominant species in this ecosystem is the fox.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(a) chiếm ưu thế"
+  },
+  {
+    "id": 1356,
+    "en1": "discourage",
+    "en2": "The teacher discouraged the students from cheating on the exam.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(v) ngăn cản, làm nản lòng"
   }
 ]
