@@ -2145,7 +2145,7 @@
   },
   {
     "id": 269,
-    "en1": "disproportionate",
+    "en1": "disproportionate, proportionate",
     "en2": "The amount of resources allocated to the project was disproportionate to its actual needs.",
     "en3": "",
     "en4": "",
@@ -11118,5 +11118,77 @@
     "en4": "",
     "ent": "B2",
     "vn1": "(n) mạch"
+  },
+  {
+    "id": 1370,
+    "en1": "longevity",
+    "en2": "The study aimed to understand the factors contributing to human longevity.",
+    "en3": "",
+    "en4": "",
+    "ent": "C1",
+    "vn1": "(n) tuổi thọ"
+  },
+  {
+    "id": 1371,
+    "en1": "survivorship",
+    "en2": "The study focused on the survivorship of cancer patients after treatment.",
+    "en3": "",
+    "en4": "",
+    "ent": "C1",
+    "vn1": "(n) sự sống sót"
+  },
+  {
+    "id": 1372,
+    "en1": "conclude",
+    "en2": "At the end of the meeting, we will conclude our discussion.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(v) kết luận"
+  },
+  {
+    "id": 1373,
+    "en1": "swell",
+    "en2": "Her ankle began to swell after she twisted it.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(v,n) sưng lên, gồ lên"
+  },
+  {
+    "id": 1374,
+    "en1": "hotspot",
+    "en2": "The city is a hotspot for tourists during the summer.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(n) điểm nóng"
+  },
+  {
+    "id": 1375,
+    "en1": "ailment",
+    "en2": "He visited the doctor to discuss his chronic ailment.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(n) căn bệnh"
+  },
+  {
+    "id": 1376,
+    "en1": "infirm",
+    "en2": "The infirm man needed assistance to walk.",
+    "en3": "",
+    "en4": "",
+    "ent": "C1",
+    "vn1": "(a) yếu ớt"
+  },
+  {
+    "id": 1377,
+    "en1": "demographic",
+    "en2": "The demographic study showed a rise in the elderly population.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(n,a) dân số"
   }
 ]
