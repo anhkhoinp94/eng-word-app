@@ -2738,7 +2738,7 @@
   },
   {
     "id": 343,
-    "en1": "consistent",
+    "en1": "consistent, consistently",
     "en2": "The results are consistent with our expectations.",
     "en3": "",
     "en4": "",
@@ -11190,5 +11190,77 @@
     "en4": "",
     "ent": "B2",
     "vn1": "(n,a) dân số"
+  },
+  {
+    "id": 1378,
+    "en1": "classify",
+    "en2": "Scientists classify animals into different species based on their characteristics.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(v) phân loại"
+  },
+  {
+    "id": 1379,
+    "en1": "cliff",
+    "en2": "The hikers reached the top of the cliff and admired the view.",
+    "en3": "",
+    "en4": "",
+    "ent": "B1",
+    "vn1": "(n) vách đá"
+  },
+  {
+    "id": 1380,
+    "en1": "clerk",
+    "en2": "The clerk at the hotel checked us in quickly.",
+    "en3": "",
+    "en4": "",
+    "ent": "B1",
+    "vn1": "(n) nhân viên"
+  },
+  {
+    "id": 1381,
+    "en1": "clinic",
+    "en2": "She went to the clinic for a regular check-up.",
+    "en3": "",
+    "en4": "",
+    "ent": "B1",
+    "vn1": "(n) phòng khám"
+  },
+  {
+    "id": 1382,
+    "en1": "coincide",
+    "en2": "My birthday coincides with the national holiday this year.",
+    "en3": "",
+    "en4": "",
+    "ent": "C1",
+    "vn1": "(v) trùng hợp"
+  },
+  {
+    "id": 1383,
+    "en1": "considerable, considerably",
+    "en2": "The project required a considerable amount of time and effort.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(a) đáng kể, lớn lao"
+  },
+  {
+    "id": 1384,
+    "en1": "conspiracy",
+    "en2": "They were accused of being part of a conspiracy to overthrow the government.",
+    "en3": "",
+    "en4": "",
+    "ent": "C1",
+    "vn1": "(n) âm mưu"
+  },
+  {
+    "id": 1385,
+    "en1": "overthrow",
+    "en2": "The revolution aimed to overthrow the corrupt government.",
+    "en3": "",
+    "en4": "",
+    "ent": "C1",
+    "vn1": "(v) lật đổ; (n) sự lật đổ"
   }
 ]

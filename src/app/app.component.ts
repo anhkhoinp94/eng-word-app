@@ -135,7 +135,7 @@ export class AppComponent {
     // this.reviseWords = this.words
     //   .sort(() => 0.5 - Math.random())
     //   .slice(0, this.maxInitReviseCount);
-    this.reviseWords = ielts.slice(-25);
+    this.reviseWords = ielts.slice(-100);
   }
 
   renderEnWord = (value: string): string => {
