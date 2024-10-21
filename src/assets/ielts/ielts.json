@@ -11298,5 +11298,41 @@
     "en4": "",
     "ent": "B2",
     "vn1": "(a,n) ưu tú"
+  },
+  {
+    "id": 1390,
+    "en1": "predisposition",
+    "en2": "The study examined the predisposition of individuals to develop addiction.",
+    "en3": "",
+    "en4": "",
+    "ent": "C1",
+    "vn1": "(n) xu hướng"
+  },
+  {
+    "id": 1391,
+    "en1": "exert",
+    "en2": "She plans to exert her influence to help the community.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(v) sử dụng"
+  },
+  {
+    "id": 1392,
+    "en1": "identical",
+    "en2": "The twins wore identical outfits for their birthday party.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(a) giống nhau"
+  },
+  {
+    "id": 1393,
+    "en1": "worm",
+    "en2": "The gardener found a worm in the soil while planting flowers.",
+    "en3": "",
+    "en4": "",
+    "ent": "A2",
+    "vn1": "(n,v) sâu, lê lết"
   }
 ]
