@@ -7494,7 +7494,7 @@
     "en2": "The team won the first match and all subsequent matches in the tournament.",
     "en3": "",
     "en4": "",
-    "vn1": "(a) xảy ra sau đó, tiếp theo"
+    "vn1": "(a) sau đó, tiếp theo"
   },
   {
     "id": 938,
@@ -11262,5 +11262,41 @@
     "en4": "",
     "ent": "C1",
     "vn1": "(v) lật đổ; (n) sự lật đổ"
+  },
+  {
+    "id": 1386,
+    "en1": "dilemma",
+    "en2": "She faced a dilemma between accepting a job offer in a new city and staying close to her family.",
+    "en3": "",
+    "en4": "",
+    "ent": "C1",
+    "vn1": "(n) tình huống tiến thoái lưỡng nan"
+  },
+  {
+    "id": 1387,
+    "en1": "prolong",
+    "en2": "The meeting was prolonged due to the number of questions raised by the participants.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(v) kéo dài, gia hạn"
+  },
+  {
+    "id": 1388,
+    "en1": "skyrocket",
+    "en2": "The stock prices skyrocketed after the company announced its new product.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(v) tăng vọt"
+  },
+  {
+    "id": 1389,
+    "en1": "elite",
+    "en2": "The elite athletes trained for years to compete at the Olympic level.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(a,n) ưu tú"
   }
 ]
