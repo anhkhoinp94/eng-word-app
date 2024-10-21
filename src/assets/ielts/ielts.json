@@ -329,7 +329,7 @@
   },
   {
     "id": 42,
-    "en1": "consequence",
+    "en1": "consequence, consequently",
     "en2": "The accident was a consequence of his careless driving.",
     "en3": "",
     "en4": "",
@@ -11037,5 +11037,41 @@
     "en4": "",
     "ent": "C1",
     "vn1": "(v) làm quen, khiến cho quen với"
+  },
+  {
+    "id": 1361,
+    "en1": "composer, compose",
+    "en2": "Beethoven is one of the most famous composers in history.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(n) nhà soạn nhạc"
+  },
+  {
+    "id": 1362,
+    "en1": "comparative",
+    "en2": "The company is in a comparative position to its competitors.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(a) tương đối, so sánh"
+  },
+  {
+    "id": 1363,
+    "en1": "confusion",
+    "en2": "There was some confusion about the meeting time.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(n) sự nhầm lẫn, bối rối"
+  },
+  {
+    "id": 1364,
+    "en1": "dare",
+    "en2": "He didn’t dare to speak up in the meeting.",
+    "en3": "",
+    "en4": "",
+    "ent": "B1",
+    "vn1": "(v,n) dám, thách thức"
   }
 ]
