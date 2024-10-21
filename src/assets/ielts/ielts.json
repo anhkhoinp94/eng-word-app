@@ -9331,7 +9331,7 @@
   },
   {
     "id": 1167,
-    "en1": "illustrate",
+    "en1": "illustrate, illustration",
     "en2": "The teacher used a story to illustrate the importance of honesty.",
     "en3": "",
     "en4": "",
@@ -11073,5 +11073,50 @@
     "en4": "",
     "ent": "B1",
     "vn1": "(v,n) dám, thách thức"
+  },
+  {
+    "id": 1365,
+    "en1": "broadcaster",
+    "en2": "The broadcaster announced the news of the election results.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(n) phát thanh viên"
+  },
+  {
+    "id": 1366,
+    "en1": "canal",
+    "en2": "The boat slowly moved through the canal.",
+    "en3": "",
+    "en4": "",
+    "ent": "B1",
+    "vn1": "(n) con kênh"
+  },
+  {
+    "id": 1367,
+    "en1": "charming",
+    "en2": "She has a charming smile that makes everyone feel welcome.",
+    "en3": "",
+    "en4": "",
+    "ent": "B1",
+    "vn1": "(a) quyến rũ"
+  },
+  {
+    "id": 1368,
+    "en1": "choir",
+    "en2": "She joined the school choir to improve her singing.",
+    "en3": "",
+    "en4": "",
+    "ent": "B1",
+    "vn1": "(n) dàn đồng ca"
+  },
+  {
+    "id": 1369,
+    "en1": "circuit",
+    "en2": "The electrical circuit needs to be repaired.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(n) mạch"
   }
 ]
