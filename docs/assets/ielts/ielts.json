@@ -1817,7 +1817,7 @@
   },
   {
     "id": 228,
-    "en1": "authentic, real",
+    "en1": "authentic, authenticity",
     "en2": "The painting was confirmed to be authentic.",
     "en3": "",
     "en4": "",
@@ -11550,5 +11550,32 @@
     "en4": "",
     "ent": "B1",
     "vn1": "(n,a) sự cho thuê"
+  },
+  {
+    "id": 1418,
+    "en1": "trampoline",
+    "en2": "The kids had a lot of fun jumping on the trampoline.",
+    "en3": "",
+    "en4": "",
+    "ent": "A2",
+    "vn1": "(n) bạt nhún"
+  },
+  {
+    "id": 1419,
+    "en1": "pertain",
+    "en2": "The rules that pertain to this competition are clearly stated.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(v) liên quan"
+  },
+  {
+    "id": 1420,
+    "en1": "state",
+    "en2": "Please state your name and address.",
+    "en3": "",
+    "en4": "",
+    "ent": "A2",
+    "vn1": "(v) phát biểu"
   }
 ]
