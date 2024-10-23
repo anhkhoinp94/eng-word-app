@@ -3610,7 +3610,7 @@
   },
   {
     "id": 452,
-    "en1": "regulation",
+    "en1": "regulation, regulator",
     "en2": "The new regulation requires all companies to reduce their carbon emissions.",
     "en3": "",
     "en4": "",
@@ -11478,5 +11478,77 @@
     "en4": "",
     "ent": "A2",
     "vn1": "(n) biệt thự"
+  },
+  {
+    "id": 1410,
+    "en1": "upward",
+    "en2": "The bird flew upward into the sky.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(av,a) hướng lên"
+  },
+  {
+    "id": 1411,
+    "en1": "dissertation",
+    "en2": "She submitted her dissertation on environmental policy last month.",
+    "en3": "",
+    "en4": "",
+    "ent": "C1",
+    "vn1": "(n) luận văn"
+  },
+  {
+    "id": 1412,
+    "en1": "triumph",
+    "en2": "The team's triumph in the championship was celebrated by the whole city.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(n,v) thành công"
+  },
+  {
+    "id": 1413,
+    "en1": "spine",
+    "en2": "The doctor examined my spine to check for any issues.",
+    "en3": "",
+    "en4": "",
+    "ent": "A2",
+    "vn1": "(n) cột sống; lưng sách"
+  },
+  {
+    "id": 1414,
+    "en1": "effectiveness",
+    "en2": "They are assessing the effectiveness of the training program.",
+    "en3": "",
+    "en4": "",
+    "ent": "C1",
+    "vn1": "(n) tính hiệu quả"
+  },
+  {
+    "id": 1415,
+    "en1": "chancellor",
+    "en2": "The chancellor announced new policies to improve education.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(n) thủ tướng, hiệu trưởng"
+  },
+  {
+    "id": 1416,
+    "en1": "electoral",
+    "en2": "The electoral process in this country is monitored by independent observers.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(a) lq đến bầu cử"
+  },
+  {
+    "id": 1417,
+    "en1": "rental",
+    "en2": "They signed a rental agreement for the apartment.",
+    "en3": "",
+    "en4": "",
+    "ent": "B1",
+    "vn1": "(n,a) sự cho thuê"
   }
 ]
