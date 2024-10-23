@@ -11343,5 +11343,50 @@
     "en4": "",
     "ent": "B1",
     "vn1": "(adj) xấu hổ, hổ thẹn"
+  },
+  {
+    "id": 1395,
+    "en1": "compartment",
+    "en2": "I found the secret compartment quite by accident.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(n) ngăn, khoang"
+  },
+  {
+    "id": 1396,
+    "en1": "coral",
+    "en2": "The coral reef is the region's prime attraction.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(n,a) san hô; màu san hô"
+  },
+  {
+    "id": 1397,
+    "en1": "reef",
+    "en2": "The coral reef is the region's prime attraction.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(n) rạn (san hô)"
+  },
+  {
+    "id": 1398,
+    "en1": "region",
+    "en2": "The coral reef is the region's prime attraction.",
+    "en3": "",
+    "en4": "",
+    "ent": "B1",
+    "vn1": "(n) khu vực, vùng miền"
+  },
+  {
+    "id": 1399,
+    "en1": "prime",
+    "en2": "The coral reef is the region's prime attraction.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(a) hàng đầu, quan trọng nhất"
   }
 ]
