@@ -9583,7 +9583,7 @@
     "en2": "They have an intimate relationship and share everything with each other.",
     "en3": "",
     "en4": "",
-    "vn1": "(a,n,v) thân mật; ám chỉ"
+    "vn1": "(a,n,v) thân mật; bạn thân; ám chỉ"
   },
   {
     "id": 1199,
@@ -11424,5 +11424,59 @@
     "en4": "",
     "ent": "B2",
     "vn1": "(n,v) nổ, thổi bay"
+  },
+  {
+    "id": 1404,
+    "en1": "scholar",
+    "en2": "The scholar spent years researching ancient texts.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(n) học giả"
+  },
+  {
+    "id": 1405,
+    "en1": "rush",
+    "en2": "He had to rush to catch the last bus.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(v,n) vội vàng"
+  },
+  {
+    "id": 1406,
+    "en1": "self-possessed",
+    "en2": "A self-possessed individual can make better decisions under pressure.",
+    "en3": "",
+    "en4": "",
+    "ent": "C1",
+    "vn1": "(a) điềm tĩnh"
+  },
+  {
+    "id": 1407,
+    "en1": "unrest",
+    "en2": "The social unrest led to widespread protests throughout the city.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(n) sự bất ổn, sự không yên"
+  },
+  {
+    "id": 1408,
+    "en1": "redundant",
+    "en2": "He deleted the redundant information from the report.",
+    "en3": "",
+    "en4": "",
+    "ent": "C1",
+    "vn1": "(a) dư thừa"
+  },
+  {
+    "id": 1409,
+    "en1": "mansion",
+    "en2": "The mansion has many rooms and a large garden.",
+    "en3": "",
+    "en4": "",
+    "ent": "A2",
+    "vn1": "(n) biệt thự"
   }
 ]
