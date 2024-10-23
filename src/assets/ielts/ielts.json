@@ -11406,5 +11406,23 @@
     "en4": "",
     "ent": "B2",
     "vn1": "(a) chết người"
+  },
+  {
+    "id": 1402,
+    "en1": "sweep, swept, swept",
+    "en2": "A blast of cold air swept through the house.",
+    "en3": "",
+    "en4": "",
+    "ent": "A2",
+    "vn1": "(v,n) quét"
+  },
+  {
+    "id": 1403,
+    "en1": "blast",
+    "en2": "A blast of cold air swept through the house.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(n,v) nổ, thổi bay"
   }
 ]
