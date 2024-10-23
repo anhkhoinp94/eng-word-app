@@ -11388,5 +11388,23 @@
     "en4": "",
     "ent": "B2",
     "vn1": "(a) hàng đầu, quan trọng nhất"
+  },
+  {
+    "id": 1400,
+    "en1": "tongue",
+    "en2": "A slip of the tongue is sometimes fatal to a politician.",
+    "en3": "",
+    "en4": "",
+    "ent": "A2",
+    "vn1": "(n) lưỡi; ngôn ngữ"
+  },
+  {
+    "id": 1401,
+    "en1": "fatal",
+    "en2": "A slip of the tongue is sometimes fatal to a politician.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(a) chết người"
   }
 ]
