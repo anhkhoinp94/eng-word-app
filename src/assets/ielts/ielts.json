@@ -11721,5 +11721,68 @@
     "en4": "",
     "ent": "B2",
     "vn1": "(a) phức tạp"
+  },
+  {
+    "id": 1437,
+    "en1": "elegant",
+    "en2": "She wore an elegant black dress to the party.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(a) thanh lịch, tinh tế"
+  },
+  {
+    "id": 1438,
+    "en1": "curtain",
+    "en2": "She pulled back the curtain to let in some light.",
+    "en3": "",
+    "en4": "",
+    "ent": "A2",
+    "vn1": "(n) rèm"
+  },
+  {
+    "id": 1439,
+    "en1": "provision",
+    "en2": "The organization provisioned the refugees with food and blankets.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(v,n) cung cấp"
+  },
+  {
+    "id": 1440,
+    "en1": "depot",
+    "en2": "The goods were stored in a depot before being distributed to the shops.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(n) kho hàng, ga trạm"
+  },
+  {
+    "id": 1441,
+    "en1": "confetti",
+    "en2": "The room was covered in confetti after the surprise party.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(n) hoa giấy"
+  },
+  {
+    "id": 1442,
+    "en1": "frame",
+    "en2": "The picture is beautifully displayed in a gold frame.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(n,v) khung; định hình"
+  },
+  {
+    "id": 1443,
+    "en1": "gravel",
+    "en2": "The driveway was covered with gravel to make it more durable.",
+    "en3": "",
+    "en4": "",
+    "ent": "C1",
+    "vn1": "(n) sỏi"
   }
 ]
