@@ -4709,7 +4709,7 @@
   },
   {
     "id": 579,
-    "en1": "criticize, condemn",
+    "en1": "criticize, critic",
     "en2": "The film was criticized by many reviewers for its weak plot.",
     "en3": "",
     "en4": "",
@@ -6766,7 +6766,7 @@
   },
   {
     "id": 831,
-    "en1": "fatal",
+    "en1": "fatal, fatalistic",
     "en2": "A slip of the tongue is sometimes fatal to a politician.",
     "en3": "",
     "en4": "",
@@ -7210,7 +7210,7 @@
   },
   {
     "id": 885,
-    "en1": "condemn, criticize",
+    "en1": "condemn",
     "en2": "The government strongly condemned the terrorist attack.",
     "en3": "",
     "en4": "",
@@ -11630,7 +11630,7 @@
     "en3": "",
     "en4": "",
     "ent": "C1",
-    "vn1": "(v) gán nhãn, chỉ trích, kỳ thị"
+    "vn1": "(v) kỳ thị"
   },
   {
     "id": 1427,
@@ -11658,5 +11658,68 @@
     "en4": "",
     "ent": "B2",
     "vn1": "(v) làm trật, làm hỏng"
+  },
+  {
+    "id": 1430,
+    "en1": "alley",
+    "en2": "They walked through a narrow alley to get to the café.",
+    "en3": "",
+    "en4": "",
+    "ent": "B1",
+    "vn1": "(n) ngõ, hẻm"
+  },
+  {
+    "id": 1431,
+    "en1": "tolerable",
+    "en2": "The pain was tolerable after taking some medication.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(a) có thể chấp nhận"
+  },
+  {
+    "id": 1432,
+    "en1": "blame",
+    "en2": "He blamed his brother for the broken window.",
+    "en3": "",
+    "en4": "",
+    "ent": "B1",
+    "vn1": "(v) đổ lỗi"
+  },
+  {
+    "id": 1433,
+    "en1": "misuse",
+    "en2": "He was accused of misusing company funds.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(v) lạm dụng"
+  },
+  {
+    "id": 1434,
+    "en1": "racism",
+    "en2": "Racism is a serious issue that affects many communities worldwide.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(n) phân biệt chủng tộc"
+  },
+  {
+    "id": 1435,
+    "en1": "surgeon",
+    "en2": "The surgeon performed a complex operation to save the patient's life.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(n) bác sĩ phẫu thuật"
+  },
+  {
+    "id": 1436,
+    "en1": "tricky",
+    "en2": "The exam questions were quite tricky, requiring careful thought.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(a) phức tạp"
   }
 ]
