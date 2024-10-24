@@ -11784,5 +11784,14 @@
     "en4": "",
     "ent": "C1",
     "vn1": "(n) sỏi"
+  },
+  {
+    "id": 1444,
+    "en1": "lounge",
+    "en2": "We waited in the airport lounge before our flight.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(n,v) phòng nghỉ; nghỉ ngơi"
   }
 ]
