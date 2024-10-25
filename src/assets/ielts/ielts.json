@@ -11377,7 +11377,7 @@
     "en2": "I overlooked a mistake in the report, which led to some confusion.",
     "en3": "",
     "en4": "",
-    "vn1": "(v) bỏ qua; nhìn từ trên cao xuống"
+    "vn1": "(v) bỏ qua"
   },
   {
     "id": 1397,
@@ -11793,5 +11793,14 @@
     "en4": "",
     "ent": "B2",
     "vn1": "(n,v) phòng nghỉ; nghỉ ngơi"
+  },
+  {
+    "id": 1445,
+    "en1": "complacent",
+    "en2": "He became complacent after winning several awards, not striving for improvement.",
+    "en3": "",
+    "en4": "",
+    "ent": "C1",
+    "vn1": "(a) tự mãn"
   }
 ]
