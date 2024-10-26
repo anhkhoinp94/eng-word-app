@@ -804,7 +804,7 @@
     "en2": "We had to put off the meeting until next week.",
     "en3": "",
     "en4": "",
-    "vn1": "(phrasal v) trì hoãn"
+    "vn1": "(phr v) trì hoãn"
   },
   {
     "id": 100,
@@ -1637,7 +1637,7 @@
     "en2": "I could tell at a glance that something was wrong.",
     "en3": "",
     "en4": "",
-    "vn1": "(phrasal v) nhận biết ngay lập tức"
+    "vn1": "(phr v) nhận biết ngay lập tức"
   },
   {
     "id": 202,
@@ -5267,7 +5267,7 @@
     "en2": "The old church on the hill dates back to the twelfth century.",
     "en3": "",
     "en4": "",
-    "vn1": "(phrasal v) có nguồn gốc từ"
+    "vn1": "(phr v) có nguồn gốc từ"
   },
   {
     "id": 648,
@@ -5813,7 +5813,7 @@
     "en3": "",
     "en4": "",
     "ent": "B1",
-    "vn1": "(a) quyến rũ"
+    "vn1": "(a) duyên dáng"
   },
   {
     "id": 715,
@@ -7929,7 +7929,7 @@
     "en2": "Her bright red hair made her stand out in the crowd.",
     "en3": "",
     "en4": "",
-    "vn1": "(phr. v) nổi bật"
+    "vn1": "(phr v) nổi bật"
   },
   {
     "id": 974,
@@ -9736,7 +9736,7 @@
     "en2": "We should not resort to arms to settle international disputes.",
     "en3": "",
     "en4": "",
-    "vn1": "(phrasal v) phải dùng đến"
+    "vn1": "(phr v) phải dùng đến"
   },
   {
     "id": 1195,
@@ -11729,7 +11729,7 @@
     "en3": "",
     "en4": "",
     "ent": "B2",
-    "vn1": "(a) thanh lịch, tinh tế"
+    "vn1": "(a) thanh lịch"
   },
   {
     "id": 1438,
@@ -11802,5 +11802,122 @@
     "en4": "",
     "ent": "C1",
     "vn1": "(a) tự mãn"
+  },
+  {
+    "id": 1446,
+    "en1": "brush off",
+    "en2": "He just brushed off the criticism.",
+    "en3": "",
+    "en4": "",
+    "ent": "",
+    "vn1": "(phr v) phớt lờ"
+  },
+  {
+    "id": 1447,
+    "en1": "show off",
+    "en2": "She loves to show off her new dress.",
+    "en3": "",
+    "en4": "",
+    "ent": "",
+    "vn1": "(phr v) khoe khoang"
+  },
+  {
+    "id": 1448,
+    "en1": "pay off",
+    "en2": "Hard work always pays off in the end.",
+    "en3": "",
+    "en4": "",
+    "ent": "",
+    "vn1": "(phr v) trả hết nợ, mang lại kết quả tốt"
+  },
+  {
+    "id": 1449,
+    "en1": "set off",
+    "en2": "We set off early in the morning",
+    "en3": "",
+    "en4": "",
+    "ent": "",
+    "vn1": "(phr v) khởi hành, kích hoạt"
+  },
+  {
+    "id": 1450,
+    "en1": "cut off",
+    "en2": "The call was cut off suddenly.",
+    "en3": "",
+    "en4": "",
+    "ent": "",
+    "vn1": "(phr v) cắt đứt"
+  },
+  {
+    "id": 1451,
+    "en1": "sign off",
+    "en2": "I'll sign off now. Talk to you later.",
+    "en3": "",
+    "en4": "",
+    "ent": "",
+    "vn1": "(phr v) kết thúc"
+  },
+  {
+    "id": 1452,
+    "en1": "hold off",
+    "en2": "Let's hold off making a decision until tomorrow.",
+    "en3": "",
+    "en4": "",
+    "ent": "",
+    "vn1": "(phr v) trì hoãn"
+  },
+  {
+    "id": 1453,
+    "en1": "break off",
+    "en2": "They decided to break of the engagement.",
+    "en3": "",
+    "en4": "",
+    "ent": "",
+    "vn1": "(phr v) chấm dứt, tách ra"
+  },
+  {
+    "id": 1454,
+    "en1": "call off",
+    "en2": "The event was called off due to the rain.",
+    "en3": "",
+    "en4": "",
+    "ent": "",
+    "vn1": "(phr v) hủy bỏ"
+  },
+  {
+    "id": 1455,
+    "en1": "drop off",
+    "en2": "I'll drop you off at the station.",
+    "en3": "",
+    "en4": "",
+    "ent": "",
+    "vn1": "(phr v) thả xuống, ngủ thiếp đi"
+  },
+  {
+    "id": 1456,
+    "en1": "lay off",
+    "en2": "Many employees were laid off during the pandemic.",
+    "en3": "",
+    "en4": "",
+    "ent": "",
+    "vn1": "(phr v) xa thải"
+  },
+  {
+    "id": 1457,
+    "en1": "take off",
+    "en2": "The plane took off at 8 a.m. Please take off your jacket.",
+    "en3": "",
+    "en4": "",
+    "ent": "",
+    "vn1": "(phr v) cất cánh, cởi ra"
+  },
+  {
+    "id": 1458,
+    "en1": "go off",
+    "en2": "My alarm went off at 6 a.m.",
+    "en3": "",
+    "en4": "",
+    "ent": "",
+    "vn1": "(phr v) nổ, đánh chuông"
   }
 ]
