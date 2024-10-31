@@ -7460,7 +7460,7 @@
   },
   {
     "id": 913,
-    "en1": "adolescence",
+    "en1": "adolescence, adolescent",
     "en2": "Adolescence is a time of significant emotional and physical change.",
     "en3": "",
     "en4": "",
@@ -11928,5 +11928,50 @@
     "en4": "",
     "ent": "A2",
     "vn1": "(n) túi xách"
+  },
+  {
+    "id": 1460,
+    "en1": "toddler",
+    "en2": "The toddler is learning to walk and often falls.",
+    "en3": "",
+    "en4": "",
+    "ent": "A2",
+    "vn1": "(n) trẻ (1-4 tuổi)"
+  },
+  {
+    "id": 1461,
+    "en1": "infant",
+    "en2": "The infant slept peacefully in her mother’s arms.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(n) trẻ (>1 tuổi)"
+  },
+  {
+    "id": 1462,
+    "en1": "youngster",
+    "en2": "The youngster was full of energy and ran around the playground.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(n) trẻ (8-14 tuổi)"
+  },
+  {
+    "id": 1463,
+    "en1": "mature",
+    "en2": "He is very mature for his age and handles responsibilities well.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(a) trưởng thành"
+  },
+  {
+    "id": 1464,
+    "en1": "adolescent",
+    "en2": "The adolescent struggles with balancing school and social life.",
+    "en3": "",
+    "en4": "",
+    "ent": "C1",
+    "vn1": "(n,a) thanh thiếu niên (14-18 tuổi)"
   }
 ]
