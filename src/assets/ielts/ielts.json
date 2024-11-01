@@ -1493,11 +1493,11 @@
   },
   {
     "id": 184,
-    "en1": "densely, thickly",
-    "en2": "The forest is densely populated with various species of trees.",
+    "en1": "dense",
+    "en2": "The forest was dense with tall trees, making it hard to see through.",
     "en3": "",
     "en4": "",
-    "vn1": "(av) dày đặc"
+    "vn1": "(a) dày đặc"
   },
   {
     "id": 185,
@@ -2463,7 +2463,7 @@
   },
   {
     "id": 302,
-    "en1": "nonetheless, nevertheless",
+    "en1": "nonetheless",
     "en2": "The project faced many challenges; nonetheless, it was completed on time.",
     "en3": "",
     "en4": "",
@@ -5579,10 +5579,10 @@
   {
     "id": 682,
     "en1": "compact",
-    "en2": "The compact design of the new phone makes it easy to carry.",
+    "en2": "The apartment is small but compact, with everything you need in one space.",
     "en3": "",
     "en4": "",
-    "vn1": "(a,v,n) nhỏ gọn"
+    "vn1": "(a) dày đặc"
   },
   {
     "id": 683,
@@ -9977,7 +9977,7 @@
   },
   {
     "id": 1221,
-    "en1": "emerge, arise",
+    "en1": "emerge, emergence",
     "en2": "After weeks of investigation, new evidence began to emerge.",
     "en3": "",
     "en4": "",
@@ -11973,5 +11973,76 @@
     "en4": "",
     "ent": "C1",
     "vn1": "(n,a) thanh thiếu niên (14-18 tuổi)"
+  },
+  {
+    "id": 1465,
+    "en1": "knuckle",
+    "en2": "He hurt his knuckle while trying to open the jar.",
+    "en3": "",
+    "en4": "",
+    "ent": "C1",
+    "vn1": "(n) khớp ngón tay"
+  },
+  {
+    "id": 1466,
+    "en1": "synonym",
+    "en2": "A synonym for 'happy' is 'joyful'.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(n) từ đồng nghĩa"
+  },
+  {
+    "id": 1467,
+    "en1": "antonym",
+    "en2": "The antonym of 'hot' is 'cold'.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(n) từ trái nghĩa"
+  },
+  {
+    "id": 1468,
+    "en1": "jet",
+    "en2": "The jet flew across the sky at an incredible speed.",
+    "en3": "",
+    "en4": "",
+    "ent": "B1",
+    "vn1": "(n) máy bay phản lực"
+  },
+  {
+    "id": 1469,
+    "en1": "nevertheless",
+    "en2": "He was tired; nevertheless, he finished his work.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(av) tuy nhiên"
+  },
+  {
+    "id": 1470,
+    "en1": "on the other hand",
+    "en2": "He likes to play video games. On the other hand, he also enjoys reading books.",
+    "en3": "",
+    "en4": "",
+    "ent": "B1",
+    "vn1": "(av) tuy nhiên"
+  },
+  {
+    "id": 1471,
+    "en1": "in contrast to",
+    "en2": "In contrast to her brother, she loves outdoor activities.",
+    "en3": "",
+    "en4": "",
+    "ent": "B1",
+    "vn1": "(av) tuy nhiên"
+  },
+  {
+    "id": 1472,
+    "en1": "unity",
+    "en2": "The team worked together in unity to achieve their goals.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(n) sự đoàn kết, sự thống nhất"
   }
 ]
