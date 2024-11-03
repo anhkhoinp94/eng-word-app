@@ -10660,7 +10660,7 @@
   },
   {
     "id": 1303,
-    "en1": "compassion",
+    "en1": "compassion, compassionate",
     "en2": "She showed great compassion towards the victims of the disaster.",
     "en3": "",
     "en4": "",
@@ -12170,5 +12170,68 @@
     "en4": "",
     "ent": "B1",
     "vn1": "(n) áo khoác dày"
+  },
+  {
+    "id": 1487,
+    "en1": "compassionate",
+    "en2": "She is a compassionate person who always helps others in need.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(a) đầy lòng trắc ẩn"
+  },
+  {
+    "id": 1488,
+    "en1": "bleach",
+    "en2": "She used bleach to clean the stains on the white shirt.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(n,v) thuốc tẩy; tẩy trắng"
+  },
+  {
+    "id": 1489,
+    "en1": "geology",
+    "en2": "She decided to major in geology because she loves rocks and minerals.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(n) địa chất học"
+  },
+  {
+    "id": 1490,
+    "en1": "spacecraft",
+    "en2": "The spacecraft was launched successfully into orbit.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(n) tàu vũ trụ"
+  },
+  {
+    "id": 1491,
+    "en1": "sanitation",
+    "en2": "The city is working to improve sanitation in public areas.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(n) hệ thống vệ sinh"
+  },
+  {
+    "id": 1492,
+    "en1": "overcrowding",
+    "en2": "Overcrowding in the city has led to increased traffic problems.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(n) sự đông đúc, chật chội"
+  },
+  {
+    "id": 1493,
+    "en1": "outcome",
+    "en2": "The outcome of the game was surprising for everyone.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(n) kết quả"
   }
 ]
