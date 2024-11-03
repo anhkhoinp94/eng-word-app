@@ -849,11 +849,12 @@
   },
   {
     "id": 104,
-    "en1": "adopter",
-    "en2": "Early adopters play a crucial role in the success of new technologies.",
+    "en1": "adopt, adopter",
+    "en2": "The company decided to adopt a new strategy.",
     "en3": "",
     "en4": "",
-    "vn1": "(n) người nhận nuôi, người chấp nhận"
+    "ent": "B2",
+    "vn1": "(v) chấp nhận, nhận nuôi"
   },
   {
     "id": 105,
@@ -12124,5 +12125,41 @@
     "en4": "",
     "ent": "C1",
     "vn1": "(n) sự gần gũi"
+  },
+  {
+    "id": 1482,
+    "en1": "evacuate",
+    "en2": "They had to evacuate the building due to a fire alarm.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(v) di tản"
+  },
+  {
+    "id": 1483,
+    "en1": "crowd",
+    "en2": "A large crowd gathered to watch the parade.",
+    "en3": "",
+    "en4": "",
+    "ent": "A2",
+    "vn1": "(n,v) đám đông; tụ tập"
+  },
+  {
+    "id": 1484,
+    "en1": "sweater",
+    "en2": "She wore a warm sweater to stay cozy in the cold weather.",
+    "en3": "",
+    "en4": "",
+    "ent": "A1",
+    "vn1": "(n) áo len"
+  },
+  {
+    "id": 1485,
+    "en1": "cozy",
+    "en2": "She felt cozy under the warm blanket.",
+    "en3": "",
+    "en4": "",
+    "ent": "B1",
+    "vn1": "(a) ấm áp"
   }
 ]
