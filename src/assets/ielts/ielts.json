@@ -4017,7 +4017,7 @@
     "en2": "There is a constant interplay between the players on the team.",
     "en3": "",
     "en4": "",
-    "vn1": "(n) sự tương tác, tác động"
+    "vn1": "(n) sự tương tác"
   },
   {
     "id": 493,
@@ -12251,5 +12251,32 @@
     "en4": "",
     "ent": "C1",
     "vn1": "(a) thuộc về chính trị - xã hội"
+  },
+  {
+    "id": 1496,
+    "en1": "categorization",
+    "en2": "The categorization of animals helps scientists understand their relationships.",
+    "en3": "",
+    "en4": "",
+    "ent": "C1",
+    "vn1": "(n) sự phân loại"
+  },
+  {
+    "id": 1497,
+    "en1": "periodic table",
+    "en2": "Each element in the periodic table has a unique atomic number.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(n) bảng tuần hoàn"
+  },
+  {
+    "id": 1498,
+    "en1": "inconclusive",
+    "en2": "His argument was inconclusive and did not persuade anyone.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(a) không rõ ràng"
   }
 ]
