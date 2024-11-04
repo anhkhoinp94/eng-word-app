@@ -6319,7 +6319,7 @@
   },
   {
     "id": 773,
-    "en1": "imply",
+    "en1": "imply, implication",
     "en2": "Her smile implied that she was pleased with the results.",
     "en3": "",
     "en4": "",
@@ -11139,7 +11139,7 @@
   },
   {
     "id": 1361,
-    "en1": "warranty",
+    "en1": "warranty, warrant",
     "en2": "The new car comes with a three-year warranty covering all major repairs.",
     "en3": "",
     "en4": "",
@@ -12242,5 +12242,14 @@
     "en4": "",
     "ent": "B2",
     "vn1": "(n) sự ràng buộc"
+  },
+  {
+    "id": 1495,
+    "en1": "sociopolitical",
+    "en2": "The book examines the sociopolitical factors that influenced the revolution.",
+    "en3": "",
+    "en4": "",
+    "ent": "C1",
+    "vn1": "(a) thuộc về chính trị - xã hội"
   }
 ]
