@@ -12287,5 +12287,14 @@
     "en4": "",
     "ent": "C1",
     "vn1": "(a) thuộc về sư phạm"
+  },
+  {
+    "id": 1500,
+    "en1": "cuisine",
+    "en2": "Italian cuisine is known for its use of fresh ingredients like tomatoes and basil.",
+    "en3": "",
+    "en4": "",
+    "ent": "B1",
+    "vn1": "(n) ẩm thực"
   }
 ]
