@@ -52,8 +52,8 @@ import wordList50 from '../assets/json/words50.json';
 import others from '../assets/json/others.json';
 import aws from '../assets/aws/others.json';
 import partOne from '../assets/interview/part-one.json';
-import ielts from '../assets/ielts/ielts.json';
-import ieltsWords from '../assets/ielts/output.json';
+import ieltsWords from '../assets/ielts/ielts.json';
+import ielts from '../assets/ielts/output.json';
 
 interface Word {
   id: number;

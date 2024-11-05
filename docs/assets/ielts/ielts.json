@@ -12296,5 +12296,23 @@
     "en4": "",
     "ent": "B1",
     "vn1": "(n) ẩm thực"
+  },
+  {
+    "id": 1501,
+    "en1": "basil",
+    "en2": "Basil is commonly used in Italian dishes like pasta and pizza.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(n) húng quế"
+  },
+  {
+    "id": 1502,
+    "en1": "humble",
+    "en2": "Despite his success, he remained a humble person.",
+    "en3": "",
+    "en4": "",
+    "ent": "B1",
+    "vn1": "(a) khiêm tốn"
   }
 ]
