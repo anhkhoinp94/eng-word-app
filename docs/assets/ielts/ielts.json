@@ -8198,7 +8198,7 @@
     "en2": "It is important to wear appropriate clothing for the interview.",
     "en3": "",
     "en4": "",
-    "vn1": "(a) phù hợp"
+    "vn1": "(a) phù hợp ~ (v) tell me"
   },
   {
     "id": 1003,
@@ -9697,7 +9697,7 @@
     "en3": "",
     "en4": "",
     "ent": "C1",
-    "vn1": "(n) sự gần gũi"
+    "vn1": "(n) sự gần gũi ~ close"
   },
   {
     "id": 1186,
@@ -12332,5 +12332,131 @@
     "en4": "",
     "ent": "B2",
     "vn1": "(v) nghĩ rằng"
+  },
+  {
+    "id": 1505,
+    "en1": "endeavor",
+    "en2": "Dissatisfaction motivates individuals to endeavor to study or work harder.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(v,n) cố gắng"
+  },
+  {
+    "id": 1506,
+    "en1": "adorable",
+    "en2": "The puppy is so adorable!",
+    "en3": "",
+    "en4": "",
+    "ent": "B1",
+    "vn1": "(a) dễ thương, gorgeous, cute"
+  },
+  {
+    "id": 1507,
+    "en1": "kindergarten",
+    "en2": "My son just started kindergarten this year.",
+    "en3": "",
+    "en4": "",
+    "ent": "A2",
+    "vn1": "(n) nhà trẻ"
+  },
+  {
+    "id": 1508,
+    "en1": "alluring",
+    "en2": "The beach had an alluring beauty that attracted many tourists.",
+    "en3": "",
+    "en4": "",
+    "ent": "C1",
+    "vn1": "(a) hấp dẫn, attractive"
+  },
+  {
+    "id": 1509,
+    "en1": "stunned",
+    "en2": "She was stunned by the news of her promotion.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(a) kinh ngạc, astonished"
+  },
+  {
+    "id": 1510,
+    "en1": "shallow",
+    "en2": "The lake is very shallow, so you can walk across it.",
+    "en3": "",
+    "en4": "",
+    "ent": "B1",
+    "vn1": "(a) nông"
+  },
+  {
+    "id": 1511,
+    "en1": "pond",
+    "en2": "The ducks swam peacefully in the pond.",
+    "en3": "",
+    "en4": "",
+    "ent": "A2",
+    "vn1": "(n) ao"
+  },
+  {
+    "id": 1512,
+    "en1": "regardless of",
+    "en2": "She continued with her plans regardless of the bad weather.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(prep) bất kể"
+  },
+  {
+    "id": 1513,
+    "en1": "collar",
+    "en2": "She wore a shirt with a high collar.",
+    "en3": "",
+    "en4": "",
+    "ent": "A2",
+    "vn1": "(n) cổ áo, vòng cổ (dog)"
+  },
+  {
+    "id": 1514,
+    "en1": "personal hygiene",
+    "en2": "The blond infant is learning how to do her personal hygiene at school.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(n) vệ sinh cá nhân"
+  },
+  {
+    "id": 1515,
+    "en1": "automobile",
+    "en2": "He drove his new automobile to work today.",
+    "en3": "",
+    "en4": "",
+    "ent": "B1",
+    "vn1": "(n) ô tô"
+  },
+  {
+    "id": 1516,
+    "en1": "wristwatch",
+    "en2": "He glanced at his wristwatch to check the time.",
+    "en3": "",
+    "en4": "",
+    "ent": "A2",
+    "vn1": "(n) đồng hồ đeo tay"
+  },
+  {
+    "id": 1517,
+    "en1": "metropolis",
+    "en2": "The metropolis is known for its skyscrapers and busy streets.",
+    "en3": "",
+    "en4": "",
+    "ent": "C1",
+    "vn1": "(n) thành phố lớn, city, urban area"
+  },
+  {
+    "id": 1518,
+    "en1": "posture",
+    "en2": "Her posture improved after attending the yoga classes.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(n) tư thế, cử chỉ"
   }
 ]
