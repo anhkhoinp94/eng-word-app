@@ -12458,5 +12458,23 @@
     "en4": "",
     "ent": "B2",
     "vn1": "(n) tư thế, cử chỉ"
+  },
+  {
+    "id": 1519,
+    "en1": "stubborn, stubbornness",
+    "en2": "He was too stubborn to admit he was wrong",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(a) bướng bỉnh"
+  },
+  {
+    "id": 1520,
+    "en1": "eager",
+    "en2": "She was eager to start her new job.",
+    "en3": "",
+    "en4": "",
+    "ent": "B1",
+    "vn1": "(a) háo hức, excited"
   }
 ]
