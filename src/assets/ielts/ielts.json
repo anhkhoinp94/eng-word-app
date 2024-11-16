@@ -12557,5 +12557,23 @@
     "en4": "",
     "ent": "C1",
     "vn1": "(n) sự ca ngợi"
+  },
+  {
+    "id": 1530,
+    "en1": "ultimately",
+    "en2": "Despite the challenges, we ultimately succeeded in completing the project on time.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(av) cuối cùng"
+  },
+  {
+    "id": 1531,
+    "en1": "shake off",
+    "en2": "He struggled to shake off his bad reputation after the scandal.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(phr v) loại bỏ"
   }
 ]
