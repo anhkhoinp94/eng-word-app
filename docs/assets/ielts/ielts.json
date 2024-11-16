@@ -4100,7 +4100,7 @@
     "en3": "",
     "en4": "",
     "ent": "C1",
-    "vn1": "(n) sự bất hạnh"
+    "vn1": "(n) nghịch cảnh"
   },
   {
     "id": 503,
@@ -12575,5 +12575,14 @@
     "en4": "",
     "ent": "B2",
     "vn1": "(phr v) loại bỏ"
+  },
+  {
+    "id": 1532,
+    "en1": "treacherous",
+    "en2": "The treacherous journey through the mountains tested their endurance.",
+    "en3": "",
+    "en4": "",
+    "ent": "C1",
+    "vn1": "(a) nguy hiểm"
   }
 ]
