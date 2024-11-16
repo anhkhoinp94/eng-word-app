@@ -12476,5 +12476,41 @@
     "en4": "",
     "ent": "B1",
     "vn1": "(a) háo hức, excited"
+  },
+  {
+    "id": 1521,
+    "en1": "sailor",
+    "en2": "The sailor prepared the ship for the long journey.",
+    "en3": "",
+    "en4": "",
+    "ent": "A2",
+    "vn1": "(n) thủy thủ"
+  },
+  {
+    "id": 1522,
+    "en1": "combine",
+    "en2": "You should combine exercise with a healthy diet for better results.",
+    "en3": "",
+    "en4": "",
+    "ent": "B1",
+    "vn1": "(v) kết hợp"
+  },
+  {
+    "id": 1523,
+    "en1": "murder",
+    "en2": "The police are investigating a murder in the city center.",
+    "en3": "",
+    "en4": "",
+    "ent": "B1",
+    "vn1": "(v,n) giết người"
+  },
+  {
+    "id": 1524,
+    "en1": "sexual",
+    "en2": "The movie contains some scenes with sexual content.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(a) thuộc về tình dục, giới tính"
   }
 ]
