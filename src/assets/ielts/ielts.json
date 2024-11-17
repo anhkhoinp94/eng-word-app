@@ -12584,5 +12584,23 @@
     "en4": "",
     "ent": "C1",
     "vn1": "(a) nguy hiểm"
+  },
+  {
+    "id": 1533,
+    "en1": "sheer",
+    "en2": "They climbed up a sheer cliff face.",
+    "en3": "",
+    "en4": "",
+    "ent": "C1",
+    "vn1": "(a) thẳng đứng/ mỏng nhẹ"
+  },
+  {
+    "id": 1534,
+    "en1": "drastically",
+    "en2": "The company has drastically reduced its workforce to cut costs.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(av) quyết liệt, đáng kể"
   }
 ]
