@@ -12620,5 +12620,32 @@
     "en4": "",
     "ent": "B2",
     "vn1": "(n) nhánh cây nhỏ"
+  },
+  {
+    "id": 1537,
+    "en1": "pilfer",
+    "en2": "He was caught pilfering office supplies from the storage room.",
+    "en3": "",
+    "en4": "",
+    "ent": "C1",
+    "vn1": "(v) ăn cắp"
+  },
+  {
+    "id": 1538,
+    "en1": "defecation",
+    "en2": "Proper sanitation is essential to prevent the spread of diseases related to defecation.",
+    "en3": "",
+    "en4": "",
+    "ent": "C1",
+    "vn1": "(n) sự đi vệ sinh"
+  },
+  {
+    "id": 1539,
+    "en1": "obsolescent, obsolete",
+    "en2": "Many traditional forms of communication are becoming obsolescent in the digital age.",
+    "en3": "",
+    "en4": "",
+    "ent": "C1",
+    "vn1": "(a) dần lỗi thời"
   }
 ]
