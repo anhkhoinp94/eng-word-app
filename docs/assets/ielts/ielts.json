@@ -12602,5 +12602,23 @@
     "en4": "",
     "ent": "B2",
     "vn1": "(av) quyết liệt, đáng kể"
+  },
+  {
+    "id": 1535,
+    "en1": "shatter",
+    "en2": "If you drop the glass bottle, it will shatter into many small pieces.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(v) vỡ tan"
+  },
+  {
+    "id": 1536,
+    "en1": "twig",
+    "en2": "Birds build their nests with small twigs and leaves.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(n) nhánh cây nhỏ"
   }
 ]
