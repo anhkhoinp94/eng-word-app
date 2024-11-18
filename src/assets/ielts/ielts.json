@@ -12647,5 +12647,41 @@
     "en4": "",
     "ent": "C1",
     "vn1": "(a) dần lỗi thời"
+  },
+  {
+    "id": 1540,
+    "en1": "intensity",
+    "en2": "High intensity workouts should be followed by lighter exercise and relaxation.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(n) cường độ"
+  },
+  {
+    "id": 1541,
+    "en1": "gravy",
+    "en2": "The roast beef was served with a rich brown gravy.",
+    "en3": "",
+    "en4": "",
+    "ent": "A2",
+    "vn1": "(n) nước sốt thịt"
+  },
+  {
+    "id": 1542,
+    "en1": "parsley",
+    "en2": "She sprinkled some parsley on the soup for extra flavor.",
+    "en3": "",
+    "en4": "",
+    "ent": "A2",
+    "vn1": "(n) ngò tây"
+  },
+  {
+    "id": 1543,
+    "en1": "leather",
+    "en2": "He bought a new leather jacket.",
+    "en3": "",
+    "en4": "",
+    "ent": "A2",
+    "vn1": "(n,a) da, bằng da"
   }
 ]
