@@ -12746,5 +12746,23 @@
     "en4": "",
     "ent": "B2",
     "vn1": "(n) bù nhìn"
+  },
+  {
+    "id": 1550,
+    "en1": "sodium",
+    "en2": "Too much sodium in your diet can lead to high blood pressure.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(n) natri"
+  },
+  {
+    "id": 1551,
+    "en1": "squeeze",
+    "en2": "She squeezed the orange to make fresh juice.",
+    "en3": "",
+    "en4": "",
+    "ent": "C1",
+    "vn1": "(v) ép, bóp, vắt"
   }
 ]
