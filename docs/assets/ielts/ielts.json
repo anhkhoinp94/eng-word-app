@@ -12683,5 +12683,14 @@
     "en4": "",
     "ent": "A2",
     "vn1": "(n,a) da, bằng da"
+  },
+  {
+    "id": 1544,
+    "en1": "senator",
+    "en2": "The senator spoke about new laws to help the community.",
+    "en3": "",
+    "en4": "",
+    "ent": "C1",
+    "vn1": "(n) thượng nghị sĩ"
   }
 ]
