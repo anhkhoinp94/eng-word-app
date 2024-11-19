@@ -12692,5 +12692,32 @@
     "en4": "",
     "ent": "C1",
     "vn1": "(n) thượng nghị sĩ"
+  },
+  {
+    "id": 1545,
+    "en1": "evolutionary",
+    "en2": "Reading new books is an evolutionary process that helps you grow smarter over time.",
+    "en3": "",
+    "en4": "",
+    "ent": "C1",
+    "vn1": "(a) tiến hóa"
+  },
+  {
+    "id": 1545,
+    "en1": "cruise",
+    "en2": "Every summer, we cruise along the coast to enjoy the beautiful views.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(v) đi dạo"
+  },
+  {
+    "id": 1546,
+    "en1": "intact",
+    "en2": "After the earthquake, the building was still intact.",
+    "en3": "",
+    "en4": "",
+    "ent": "C1",
+    "vn1": "(a) nguyên vẹn"
   }
 ]
