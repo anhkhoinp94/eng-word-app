@@ -12713,6 +12713,7 @@
     "en2": "She managed to conquer her fear of public speaking.",
     "en3": "",
     "en4": "",
+    "ent": "C1",
     "vn1": "(v) chinh phục"
   },
   {
@@ -12737,7 +12738,7 @@
     "en2": "The company experienced a downturn in sales during the economic recession.",
     "en3": "",
     "en4": "",
-    "vn1": "suy thoái"
+    "vn1": "(n) suy thoái"
   },
   {
     "id": 1550,
@@ -12763,6 +12764,7 @@
     "en2": "The room was in complete disorder after the children played in it.",
     "en3": "",
     "en4": "",
+    "ent": "C2",
     "vn1": "(n) sự hỗn loạn"
   },
   {
@@ -12780,7 +12782,7 @@
     "en2": "His self-centered attitude makes it difficult to work with him.",
     "en3": "",
     "en4": "",
-    "ent": "B2",
+    "ent": "C1",
     "vn1": "(a) ích kỷ, tự cho mình là trung tâm"
   },
   {
@@ -12798,7 +12800,7 @@
     "en2": "The principal of the school gave a speech at the graduation ceremony.",
     "en3": "",
     "en4": "",
-    "ent": "B2",
+    "ent": "B1",
     "vn1": "(n,a) hiệu trưởng; chính, chủ yếu"
   }
 ]
