@@ -12802,5 +12802,23 @@
     "en4": "",
     "ent": "B1",
     "vn1": "(n,a) hiệu trưởng; chính, chủ yếu"
+  },
+  {
+    "id": 1557,
+    "en1": "antique",
+    "en2": "She loves collecting antique furniture for her home.",
+    "en3": "",
+    "en4": "",
+    "ent": "B1",
+    "vn1": "(a,n) cổ, đồ cổ"
+  },
+  {
+    "id": 1558,
+    "en1": "sophistication",
+    "en2": "Her sophistication impressed everyone at the conference.",
+    "en3": "",
+    "en4": "",
+    "ent": "C1",
+    "vn1": "(n) sự tinh tế, phức tạp"
   }
 ]
