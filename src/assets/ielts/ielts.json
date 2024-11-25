@@ -1502,7 +1502,7 @@
     "en2": "The tight budget will constrain our ability to expand the project.",
     "en3": "",
     "en4": "",
-    "vn1": "hạn chế, ràng buộc"
+    "vn1": "(a) hạn chế"
   },
   {
     "id": 185,
@@ -12847,5 +12847,50 @@
     "en4": "",
     "ent": "B2",
     "vn1": "(n) sự giảm nhẹ, cứu trợ"
+  },
+  {
+    "id": 1562,
+    "en1": "disruption",
+    "en2": "The storm caused a major disruption in power supply across the city.",
+    "en3": "",
+    "en4": "",
+    "ent": "C1",
+    "vn1": "(n) sự gián đoạn"
+  },
+  {
+    "id": 1563,
+    "en1": "glare at",
+    "en2": "She glared at him angrily after he interrupted her speech.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(phr v) nhìn trừng mắt"
+  },
+  {
+    "id": 1564,
+    "en1": "erode",
+    "en2": "The company's reputation has been eroded by repeated scandals.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(v) làm xói mòn, làm suy giảm"
+  },
+  {
+    "id": 1565,
+    "en1": "joint",
+    "en2": "They signed a joint agreement to start the new project.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(n,a) khớp nối, quán ăn nhỏ; chung"
+  },
+  {
+    "id": 1566,
+    "en1": "wholeheartedly",
+    "en2": "I wholeheartedly agree with your suggestion.",
+    "en3": "",
+    "en4": "",
+    "ent": "C1",
+    "vn1": "(av) hoàn toàn"
   }
 ]
