@@ -12820,5 +12820,32 @@
     "en4": "",
     "ent": "C1",
     "vn1": "(n) sự tinh tế, phức tạp"
+  },
+  {
+    "id": 1559,
+    "en1": "peacock",
+    "en2": "The peacock spread its tail feathers to display its vibrant colors.",
+    "en3": "",
+    "en4": "",
+    "ent": "B1",
+    "vn1": "(n) con công"
+  },
+  {
+    "id": 1560,
+    "en1": "regulate",
+    "en2": "The government regulates the use of chemicals to protect public health.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(v) điều chỉnh, kiểm soát"
+  },
+  {
+    "id": 1561,
+    "en1": "relief",
+    "en2": "The government provided relief to the victims of the flood.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(n) sự giảm nhẹ, cứu trợ"
   }
 ]
