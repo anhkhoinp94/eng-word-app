@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, OnInit, OnDestroy } from '@angular/core';
 import wordList1 from '../assets/json/words1.json';
 import wordList2 from '../assets/json/words2.json';
 import wordList3 from '../assets/json/words3.json';
@@ -53,7 +53,8 @@ import others from '../assets/json/others.json';
 import aws from '../assets/aws/others.json';
 import partOne from '../assets/interview/part-one.json';
 import ieltsWords from '../assets/ielts/ielts.json';
-import ielts from '../assets/ielts/output.json';
+// import ielts from '../assets/ielts/output.json';
+import ielts from '../assets/det/det.json';
 
 interface Word {
   id: number;
@@ -290,7 +291,20 @@ export class AppComponent {
     }
   }
 
-  selectVoice(voice: SpeechSynthesisVoice) {
-    this.selectedVoice = voice;
+  private intervalId: any;
+  ngOnInit(): void {
+    this.intervalId = setInterval(() => this.runAction(), 2500);
+  }
+  ngOnDestroy(): void {
+    if (this.intervalId) {
+      clearInterval(this.intervalId);
+    }
+  }
+  runAction(): void {
+    if (this.show) {
+      this.next();
+    } else {
+      this.change();
+    }
   }
 }
