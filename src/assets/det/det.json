@@ -5,7 +5,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "sự tinh lọc"
+    "vn1": "(nouns) sự tinh lọc"
   },
   {
     "id": 2,
@@ -13,7 +13,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "thiết bị lọc"
+    "vn1": "(nouns) thiết bị lọc"
   },
   {
     "id": 3,
@@ -21,7 +21,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "khóc lóc"
+    "vn1": "(nouns) khóc lóc"
   },
   {
     "id": 4,
@@ -29,7 +29,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "tuần lộc"
+    "vn1": "(nouns) tuần lộc"
   },
   {
     "id": 5,
@@ -37,7 +37,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "địa điểm"
+    "vn1": "(nouns) địa điểm"
   },
   {
     "id": 6,
@@ -45,7 +45,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "đầu máy"
+    "vn1": "(nouns) đầu máy"
   },
   {
     "id": 7,
@@ -53,7 +53,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "lốc xoáy"
+    "vn1": "(nouns) lốc xoáy"
   },
   {
     "id": 8,
@@ -61,7 +61,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "phong tỏa"
+    "vn1": "(nouns) phong tỏa"
   },
   {
     "id": 9,
@@ -69,7 +69,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "tủ"
+    "vn1": "(nouns) tủ"
   },
   {
     "id": 10,
@@ -77,7 +77,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "độc lập"
+    "vn1": "(nouns) độc lập"
   },
   {
     "id": 11,
@@ -85,7 +85,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "áp đặt"
+    "vn1": "(verbs) áp đặt"
   },
   {
     "id": 12,
@@ -93,7 +93,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "không đọc được"
+    "vn1": "(adjectives) không đọc được"
   },
   {
     "id": 13,
@@ -101,7 +101,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "liên lạc nội bộ"
+    "vn1": "(nouns) liên lạc nội bộ"
   },
   {
     "id": 14,
@@ -109,7 +109,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "tò mò"
+    "vn1": "(adjectives) tò mò"
   },
   {
     "id": 15,
@@ -117,7 +117,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "liên kết"
+    "vn1": "(verbs) liên kết"
   },
   {
     "id": 16,
@@ -125,7 +125,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "kỳ nhông"
+    "vn1": "(nouns) kỳ nhông"
   },
   {
     "id": 17,
@@ -133,7 +133,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "bản địa"
+    "vn1": "(adjectives) bản địa"
   },
   {
     "id": 18,
@@ -141,7 +141,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "khắc nghiệt"
+    "vn1": "(adjectives) khắc nghiệt"
   },
   {
     "id": 19,
@@ -149,7 +149,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "màu chàm"
+    "vn1": "(nouns) màu chàm"
   },
   {
     "id": 20,
@@ -157,7 +157,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "chưa trải nhựa"
+    "vn1": "(adjectives) chưa trải nhựa"
   },
   {
     "id": 21,
@@ -165,7 +165,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "kiên định"
+    "vn1": "(adjectives) kiên định"
   },
   {
     "id": 22,
@@ -173,7 +173,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "ẩn ý"
+    "vn1": "(adjectives) ẩn ý"
   },
   {
     "id": 23,
@@ -181,7 +181,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "bất ổn"
+    "vn1": "(nouns) bất ổn"
   },
   {
     "id": 24,
@@ -189,7 +189,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "đồng nhất"
+    "vn1": "(adverbs) đồng nhất"
   },
   {
     "id": 25,
@@ -197,7 +197,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "nâng lên"
+    "vn1": "(verbs) nâng lên"
   },
   {
     "id": 26,
@@ -205,7 +205,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "sự u sầu"
+    "vn1": "(nouns) sự u sầu"
   },
   {
     "id": 27,
@@ -213,7 +213,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "âm u hoặc mờ"
+    "vn1": "(adjectives) âm u hoặc mờ"
   },
   {
     "id": 28,
@@ -221,7 +221,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "u nang"
+    "vn1": "(adjectives) u nang"
   },
   {
     "id": 29,
@@ -229,7 +229,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "ủ phân"
+    "vn1": "(nouns) ủ phân"
   },
   {
     "id": 30,
@@ -237,7 +237,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "u ám"
+    "vn1": "(adjectives) u ám"
   },
   {
     "id": 31,
@@ -245,7 +245,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "ủ rũ"
+    "vn1": "(adjectives) ủ rũ"
   },
   {
     "id": 32,
@@ -253,7 +253,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "yếm"
+    "vn1": "(nouns) yếm"
   },
   {
     "id": 33,
@@ -261,7 +261,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "khao khát"
+    "vn1": "(verbs) khao khát"
   },
   {
     "id": 34,
@@ -269,7 +269,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "sự đồng ý"
+    "vn1": "(nouns) sự đồng ý"
   },
   {
     "id": 35,
@@ -277,7 +277,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "đáng chú ý"
+    "vn1": "(adverbs) đáng chú ý"
   },
   {
     "id": 36,
@@ -285,7 +285,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "có ý thức"
+    "vn1": "(adjectives) có ý thức"
   },
   {
     "id": 37,
@@ -293,7 +293,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "ý định"
+    "vn1": "(nouns) ý định"
   },
   {
     "id": 38,
@@ -301,7 +301,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "ý thích bất chợt"
+    "vn1": "(nouns) ý thích bất chợt"
   },
   {
     "id": 39,
@@ -309,7 +309,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "ý thức"
+    "vn1": "(nouns) ý thức"
   },
   {
     "id": 40,
@@ -317,7 +317,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "ý chí"
+    "vn1": "(nouns) ý chí"
   },
   {
     "id": 41,
@@ -325,7 +325,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "sự tráng lệ"
+    "vn1": "(nouns) sự tráng lệ"
   },
   {
     "id": 42,
@@ -333,7 +333,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "bộ xương ngoài"
+    "vn1": "(nouns) bộ xương ngoài"
   },
   {
     "id": 43,
@@ -341,7 +341,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "đường xích đạo"
+    "vn1": "(nouns) đường xích đạo"
   },
   {
     "id": 44,
@@ -349,7 +349,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "hải mã"
+    "vn1": "(nouns) hải mã"
   },
   {
     "id": 45,
@@ -357,7 +357,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "lau"
+    "vn1": "(verbs) lau"
   },
   {
     "id": 46,
@@ -365,7 +365,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "lót ly"
+    "vn1": "(nouns) lót ly"
   },
   {
     "id": 47,
@@ -373,7 +373,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "liếm"
+    "vn1": "(verbs) liếm"
   },
   {
     "id": 48,
@@ -381,7 +381,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "lung linh"
+    "vn1": "(verbs) lung linh"
   },
   {
     "id": 49,
@@ -389,7 +389,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "người lao công"
+    "vn1": "(nouns) người lao công"
   },
   {
     "id": 50,
@@ -397,7 +397,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "vui mừng"
+    "vn1": "(adjectives) vui mừng"
   },
   {
     "id": 51,
@@ -405,7 +405,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "sự đặt kề nhau"
+    "vn1": "(nouns) sự đặt kề nhau"
   },
   {
     "id": 52,
@@ -413,7 +413,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "thiếu niên"
+    "vn1": "(adjectives) thiếu niên"
   },
   {
     "id": 53,
@@ -421,7 +421,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "kiểm tra hoặc trình chiếu"
+    "vn1": "(nouns) kiểm tra hoặc trình chiếu"
   },
   {
     "id": 54,
@@ -429,7 +429,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "hình cầu"
+    "vn1": "(nouns) hình cầu"
   },
   {
     "id": 55,
@@ -437,7 +437,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "đồng hồ đeo tay"
+    "vn1": "(nouns) đồng hồ đeo tay"
   },
   {
     "id": 56,
@@ -445,7 +445,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "diều hâu"
+    "vn1": "(nouns) diều hâu"
   },
   {
     "id": 57,
@@ -453,7 +453,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "có gu"
+    "vn1": "(adjectives) có gu"
   },
   {
     "id": 58,
@@ -461,7 +461,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "mương nước"
+    "vn1": "(nouns) mương nước"
   },
   {
     "id": 59,
@@ -469,7 +469,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "giả mạo"
+    "vn1": "(nouns) giả mạo"
   },
   {
     "id": 60,
@@ -477,7 +477,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "tiết kiệm"
+    "vn1": "(adjectives) tiết kiệm"
   },
   {
     "id": 61,
@@ -485,7 +485,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "bọ chét"
+    "vn1": "(nouns) bọ chét"
   },
   {
     "id": 62,
@@ -493,7 +493,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "có mặt khắp nơi"
+    "vn1": "(adjectives) có mặt khắp nơi"
   },
   {
     "id": 63,
@@ -501,7 +501,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "tường thuật"
+    "vn1": "(nouns) tường thuật"
   },
   {
     "id": 64,
@@ -509,7 +509,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "bị thiệt thòi"
+    "vn1": "(adjectives) bị thiệt thòi"
   },
   {
     "id": 65,
@@ -517,7 +517,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "sức sống"
+    "vn1": "(nouns) sức sống"
   },
   {
     "id": 66,
@@ -525,7 +525,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "mạ vàng"
+    "vn1": "(adjectives) mạ vàng"
   },
   {
     "id": 67,
@@ -533,7 +533,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "hành vi sai trái"
+    "vn1": "(nouns) hành vi sai trái"
   },
   {
     "id": 68,
@@ -541,7 +541,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "vữa"
+    "vn1": "(nouns) vữa"
   },
   {
     "id": 69,
@@ -549,7 +549,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "xe tải"
+    "vn1": "(nouns) xe tải"
   },
   {
     "id": 70,
@@ -557,7 +557,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "xốp"
+    "vn1": "(adjectives) xốp"
   },
   {
     "id": 71,
@@ -565,7 +565,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "xao động"
+    "vn1": "(adjectives) xao động"
   },
   {
     "id": 72,
@@ -573,7 +573,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "xoắn ốc"
+    "vn1": "(verbs) xoắn ốc"
   },
   {
     "id": 73,
@@ -581,7 +581,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "xương cá"
+    "vn1": "(nouns) xương cá"
   },
   {
     "id": 74,
@@ -589,7 +589,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "xương chéo"
+    "vn1": "(nouns) xương chéo"
   },
   {
     "id": 75,
@@ -597,7 +597,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "xảy ra sau đó"
+    "vn1": "(verbs) xảy ra sau đó"
   },
   {
     "id": 76,
@@ -605,7 +605,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "xích đu"
+    "vn1": "(nouns) xích đu"
   },
   {
     "id": 77,
@@ -613,7 +613,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "xu hướng"
+    "vn1": "(nouns) xu hướng"
   },
   {
     "id": 78,
@@ -621,7 +621,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "xâm nhập trái phép"
+    "vn1": "(nouns) xâm nhập trái phép"
   },
   {
     "id": 79,
@@ -629,7 +629,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "xúc tu"
+    "vn1": "(nouns) xúc tu"
   },
   {
     "id": 80,
@@ -637,7 +637,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "thiền"
+    "vn1": "(nouns) thiền"
   },
   {
     "id": 81,
@@ -645,7 +645,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "sống động"
+    "vn1": "(nouns) sống động"
   },
   {
     "id": 82,
@@ -653,7 +653,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "nhiệt tình hoặc vỏ cam chanh"
+    "vn1": "(nouns) nhiệt tình hoặc vỏ cam chanh"
   },
   {
     "id": 83,
@@ -661,7 +661,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "zích zắc"
+    "vn1": "(nouns) zích zắc"
   },
   {
     "id": 84,
@@ -669,7 +669,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "bí ngòi"
+    "vn1": "(nouns) bí ngòi"
   },
   {
     "id": 85,
@@ -677,7 +677,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "vượt qua"
+    "vn1": "(verbs) vượt qua"
   },
   {
     "id": 86,
@@ -685,7 +685,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "quyền giám hộ"
+    "vn1": "(nouns) quyền giám hộ"
   },
   {
     "id": 87,
@@ -693,7 +693,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "quầy hàng"
+    "vn1": "(nouns) quầy hàng"
   },
   {
     "id": 88,
@@ -701,7 +701,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "thuộc về quốc hội"
+    "vn1": "(adjectives) thuộc về quốc hội"
   },
   {
     "id": 89,
@@ -709,7 +709,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "quyến rũ"
+    "vn1": "(adjectives) quyến rũ"
   },
   {
     "id": 90,
@@ -717,7 +717,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "thuyết tương đối"
+    "vn1": "(nouns) thuyết tương đối"
   },
   {
     "id": 91,
@@ -725,7 +725,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "bờ sông"
+    "vn1": "(nouns) bờ sông"
   },
   {
     "id": 92,
@@ -733,7 +733,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "làm rối"
+    "vn1": "(verbs) làm rối"
   },
   {
     "id": 93,
@@ -741,7 +741,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "xoay"
+    "vn1": "(adjectives) xoay"
   },
   {
     "id": 94,
@@ -749,7 +749,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "sự tháo vát"
+    "vn1": "(nouns) sự tháo vát"
   },
   {
     "id": 95,
@@ -757,7 +757,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "lòng sông"
+    "vn1": "(nouns) lòng sông"
   },
   {
     "id": 96,
@@ -765,7 +765,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "trầm ngâm"
+    "vn1": "(adverbs) trầm ngâm"
   },
   {
     "id": 97,
@@ -773,7 +773,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "phẫu thuật"
+    "vn1": "(adjectives) phẫu thuật"
   },
   {
     "id": 98,
@@ -781,7 +781,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "nhạt hơn"
+    "vn1": "(adjectives) nhạt hơn"
   },
   {
     "id": 99,
@@ -789,7 +789,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "nhiều ô kính"
+    "vn1": "(adjectives) nhiều ô kính"
   },
   {
     "id": 100,
@@ -797,7 +797,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "dịch bệnh"
+    "vn1": "(nouns) dịch bệnh"
   },
   {
     "id": 101,
@@ -805,7 +805,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "ghen tị"
+    "vn1": "(nouns) ghen tị"
   },
   {
     "id": 102,
@@ -813,7 +813,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "ghi danh"
+    "vn1": "(verbs) ghi danh"
   },
   {
     "id": 103,
@@ -821,7 +821,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "ghép cây"
+    "vn1": "(nouns) ghép cây"
   },
   {
     "id": 104,
@@ -829,7 +829,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "ghế tình yêu"
+    "vn1": "(nouns) ghế tình yêu"
   },
   {
     "id": 105,
@@ -837,7 +837,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "ghép"
+    "vn1": "(verbs) ghép"
   },
   {
     "id": 106,
@@ -845,7 +845,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "ghillie"
+    "vn1": "(nouns) ghillie"
   },
   {
     "id": 107,
@@ -853,7 +853,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "ma quái"
+    "vn1": "(adjectives) ma quái"
   },
   {
     "id": 108,
@@ -861,7 +861,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "ghê tởm"
+    "vn1": "(nouns) ghê tởm"
   },
   {
     "id": 109,
@@ -869,7 +869,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "ghế tựa"
+    "vn1": "(nouns) ghế tựa"
   },
   {
     "id": 110,
@@ -877,7 +877,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "ghi chú nhanh"
+    "vn1": "(verbs) ghi chú nhanh"
   },
   {
     "id": 111,
@@ -885,7 +885,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "ghét cay ghét đắng"
+    "vn1": "(verbs) ghét cay ghét đắng"
   },
   {
     "id": 112,
@@ -893,7 +893,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "cầu tàu"
+    "vn1": "(nouns) cầu tàu"
   },
   {
     "id": 113,
@@ -901,7 +901,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "cơ cấu"
+    "vn1": "(nouns) cơ cấu"
   },
   {
     "id": 114,
@@ -909,7 +909,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "chủ nhà"
+    "vn1": "(nouns) chủ nhà"
   },
   {
     "id": 115,
@@ -917,7 +917,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "tranh cãi"
+    "vn1": "(nouns) tranh cãi"
   },
   {
     "id": 116,
@@ -925,7 +925,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "có màng"
+    "vn1": "(adjectives) có màng"
   },
   {
     "id": 117,
@@ -933,7 +933,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "tận tâm"
+    "vn1": "(adjectives) tận tâm"
   },
   {
     "id": 118,
@@ -941,7 +941,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "tròn và phình"
+    "vn1": "(adjectives) tròn và phình"
   },
   {
     "id": 119,
@@ -949,7 +949,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "công bố"
+    "vn1": "(nouns) công bố"
   },
   {
     "id": 120,
@@ -957,7 +957,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "giảm bớt"
+    "vn1": "(verbs) giảm bớt"
   },
   {
     "id": 121,
@@ -965,7 +965,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "sức bền"
+    "vn1": "(nouns) sức bền"
   },
   {
     "id": 122,
@@ -973,7 +973,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "lạm dụng"
+    "vn1": "(nouns) lạm dụng"
   },
   {
     "id": 123,
@@ -981,7 +981,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "phong phú"
+    "vn1": "(adjectives) phong phú"
   },
   {
     "id": 124,
@@ -989,7 +989,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "từ trang trại đến bàn ăn"
+    "vn1": "(adjectives) từ trang trại đến bàn ăn"
   },
   {
     "id": 125,
@@ -997,7 +997,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "bể cá"
+    "vn1": "(nouns) bể cá"
   },
   {
     "id": 126,
@@ -1005,7 +1005,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "ngập tràn"
+    "vn1": "(adjectives) ngập tràn"
   },
   {
     "id": 127,
@@ -1013,7 +1013,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "ảo giác"
+    "vn1": "(nouns) ảo giác"
   },
   {
     "id": 128,
@@ -1021,7 +1021,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "thích phiêu lưu"
+    "vn1": "(adjectives) thích phiêu lưu"
   },
   {
     "id": 129,
@@ -1029,7 +1029,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "ô khuyên"
+    "vn1": "(nouns) ô khuyên"
   },
   {
     "id": 130,
@@ -1037,7 +1037,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "nhà nghỉ"
+    "vn1": "(nouns) nhà nghỉ"
   },
   {
     "id": 131,
@@ -1045,7 +1045,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "ổ khóa"
+    "vn1": "(nouns) ổ khóa"
   },
   {
     "id": 132,
@@ -1053,7 +1053,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "kiên định"
+    "vn1": "(adjectives) kiên định"
   },
   {
     "id": 133,
@@ -1061,7 +1061,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "khéo léo"
+    "vn1": "(adjectives) khéo léo"
   },
   {
     "id": 134,
@@ -1069,7 +1069,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "sự không có khả năng"
+    "vn1": "(nouns) sự không có khả năng"
   },
   {
     "id": 135,
@@ -1077,7 +1077,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "khả năng"
+    "vn1": "(nouns) khả năng"
   },
   {
     "id": 136,
@@ -1085,7 +1085,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "kiềm chế"
+    "vn1": "(nouns) kiềm chế"
   },
   {
     "id": 137,
@@ -1093,7 +1093,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "leo trèo khó khăn"
+    "vn1": "(verbs) leo trèo khó khăn"
   },
   {
     "id": 138,
@@ -1101,7 +1101,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "đáng kính"
+    "vn1": "(adjectives) đáng kính"
   },
   {
     "id": 139,
@@ -1109,7 +1109,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "sự kết tủa"
+    "vn1": "(nouns) sự kết tủa"
   },
   {
     "id": 140,
@@ -1117,7 +1117,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "khó khăn hoặc lừa đảo"
+    "vn1": "(adjectives) khó khăn hoặc lừa đảo"
   },
   {
     "id": 141,
@@ -1125,7 +1125,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "khoan dung"
+    "vn1": "(adjectives) khoan dung"
   },
   {
     "id": 142,
@@ -1133,7 +1133,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "ngoại ô"
+    "vn1": "(adjectives) ngoại ô"
   },
   {
     "id": 143,
@@ -1141,7 +1141,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "đầm phá"
+    "vn1": "(nouns) đầm phá"
   },
   {
     "id": 144,
@@ -1149,7 +1149,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "sự che giấu"
+    "vn1": "(nouns) sự che giấu"
   },
   {
     "id": 145,
@@ -1157,7 +1157,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "đấu thương"
+    "vn1": "(nouns) đấu thương"
   },
   {
     "id": 146,
@@ -1165,7 +1165,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "tìm kiếm thức ăn"
+    "vn1": "(verbs) tìm kiếm thức ăn"
   },
   {
     "id": 147,
@@ -1173,7 +1173,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "phong cách hoài cổ"
+    "vn1": "(adjectives) phong cách hoài cổ"
   },
   {
     "id": 148,
@@ -1181,7 +1181,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "phép xã giao"
+    "vn1": "(nouns) phép xã giao"
   },
   {
     "id": 149,
@@ -1189,7 +1189,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "thể dục dụng cụ"
+    "vn1": "(nouns) thể dục dụng cụ"
   },
   {
     "id": 150,
@@ -1197,7 +1197,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "sự trưởng thành"
+    "vn1": "(nouns) sự trưởng thành"
   },
   {
     "id": 151,
@@ -1205,7 +1205,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "hòa giải"
+    "vn1": "(verbs) hòa giải"
   },
   {
     "id": 152,
@@ -1213,7 +1213,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "vết bầm"
+    "vn1": "(nouns) vết bầm"
   },
   {
     "id": 153,
@@ -1221,7 +1221,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "lễ hội"
+    "vn1": "(adjectives) lễ hội"
   },
   {
     "id": 154,
@@ -1229,7 +1229,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "xoay vòng"
+    "vn1": "(verbs) xoay vòng"
   },
   {
     "id": 155,
@@ -1237,7 +1237,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "nhân học"
+    "vn1": "(nouns) nhân học"
   },
   {
     "id": 156,
@@ -1245,7 +1245,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "đồng hóa"
+    "vn1": "(nouns) đồng hóa"
   },
   {
     "id": 157,
@@ -1253,7 +1253,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "chẩn đoán"
+    "vn1": "(nouns) chẩn đoán"
   },
   {
     "id": 158,
@@ -1261,7 +1261,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "phi tuyến tính"
+    "vn1": "(adjectives) phi tuyến tính"
   },
   {
     "id": 159,
@@ -1269,7 +1269,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "khám phá"
+    "vn1": "(verbs) khám phá"
   },
   {
     "id": 160,
@@ -1277,7 +1277,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "nghiền"
+    "vn1": "(verbs) nghiền"
   },
   {
     "id": 161,
@@ -1285,7 +1285,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "vợ/chồng"
+    "vn1": "(nouns) vợ/chồng"
   },
   {
     "id": 162,
@@ -1293,7 +1293,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "gãy"
+    "vn1": "(verbs) gãy"
   },
   {
     "id": 163,
@@ -1301,7 +1301,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "sự khuấy động"
+    "vn1": "(nouns) sự khuấy động"
   },
   {
     "id": 164,
@@ -1309,7 +1309,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "cố tình"
+    "vn1": "(adverbs) cố tình"
   },
   {
     "id": 165,
@@ -1317,7 +1317,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "dễ chịu"
+    "vn1": "(adjectives) dễ chịu"
   },
   {
     "id": 166,
@@ -1325,7 +1325,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "đồng thau"
+    "vn1": "(nouns) đồng thau"
   },
   {
     "id": 167,
@@ -1333,7 +1333,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "đã công nghiệp hóa"
+    "vn1": "(adjectives) đã công nghiệp hóa"
   },
   {
     "id": 168,
@@ -1341,7 +1341,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "liên tục"
+    "vn1": "(adjectives) liên tục"
   },
   {
     "id": 169,
@@ -1349,7 +1349,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "dễ cáu"
+    "vn1": "(adjectives) dễ cáu"
   },
   {
     "id": 170,
@@ -1357,7 +1357,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "vô thời hạn"
+    "vn1": "(adverbs) vô thời hạn"
   },
   {
     "id": 171,
@@ -1365,7 +1365,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "theo dõi"
+    "vn1": "(verbs) theo dõi"
   },
   {
     "id": 172,
@@ -1373,7 +1373,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "không nghi ngờ gì nữa"
+    "vn1": "(adverbs) không nghi ngờ gì nữa"
   },
   {
     "id": 173,
@@ -1381,7 +1381,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "hơn nữa"
+    "vn1": "(connecting_words) hơn nữa"
   },
   {
     "id": 174,
@@ -1389,7 +1389,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "tương tự"
+    "vn1": "(connecting_words) tương tự"
   },
   {
     "id": 175,
@@ -1397,7 +1397,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "sau đó"
+    "vn1": "(connecting_words) sau đó"
   },
   {
     "id": 176,
@@ -1405,7 +1405,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "tức là"
+    "vn1": "(connecting_words) tức là"
   },
   {
     "id": 177,
@@ -1413,7 +1413,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "tương đối"
+    "vn1": "(connecting_words) tương đối"
   },
   {
     "id": 178,
@@ -1421,7 +1421,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "mong muốn"
+    "vn1": "(adjectives) mong muốn"
   },
   {
     "id": 179,
@@ -1429,7 +1429,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "kinh khủng"
+    "vn1": "(adjectives) kinh khủng"
   },
   {
     "id": 180,
@@ -1437,7 +1437,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "trồng trọt"
+    "vn1": "(verbs) trồng trọt"
   },
   {
     "id": 181,
@@ -1445,7 +1445,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "cung cấp hoặc trang bị"
+    "vn1": "(verbs) cung cấp hoặc trang bị"
   },
   {
     "id": 182,
@@ -1453,7 +1453,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "khoảng"
+    "vn1": "(adverbs) khoảng"
   },
   {
     "id": 183,
@@ -1461,7 +1461,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "liên tiếp"
+    "vn1": "(adjectives) liên tiếp"
   },
   {
     "id": 184,
@@ -1469,7 +1469,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "buồn bã hoặc khó chịu"
+    "vn1": "(adjectives) buồn bã hoặc khó chịu"
   },
   {
     "id": 185,
@@ -1477,7 +1477,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "sau đó"
+    "vn1": "(connecting_words) sau đó"
   },
   {
     "id": 186,
@@ -1485,7 +1485,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "vết bẩn"
+    "vn1": "(nouns) vết bẩn"
   },
   {
     "id": 187,
@@ -1493,7 +1493,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "cuồng loạn"
+    "vn1": "(adjectives) cuồng loạn"
   },
   {
     "id": 188,
@@ -1501,7 +1501,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "thụ thai hoặc hình thành ý tưởng"
+    "vn1": "(verbs) thụ thai hoặc hình thành ý tưởng"
   },
   {
     "id": 189,
@@ -1509,7 +1509,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "mục nát"
+    "vn1": "(verbs) mục nát"
   },
   {
     "id": 190,
@@ -1517,7 +1517,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "vô đạo đức"
+    "vn1": "(adjectives) vô đạo đức"
   },
   {
     "id": 191,
@@ -1525,7 +1525,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "dốc đứng hoặc mỏng và trong suốt"
+    "vn1": "(adjectives) dốc đứng hoặc mỏng và trong suốt"
   },
   {
     "id": 192,
@@ -1533,7 +1533,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "khét tiếng"
+    "vn1": "(adjectives) khét tiếng"
   },
   {
     "id": 193,
@@ -1541,7 +1541,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "sầm sập"
+    "vn1": "(adjectives) sầm sập"
   },
   {
     "id": 194,
@@ -1549,7 +1549,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "tạm thời"
+    "vn1": "(adjectives) tạm thời"
   },
   {
     "id": 195,
@@ -1557,7 +1557,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "chủ yếu"
+    "vn1": "(adverbs) chủ yếu"
   },
   {
     "id": 196,
@@ -1565,7 +1565,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "bỏ qua"
+    "vn1": "(verbs) bỏ qua"
   },
   {
     "id": 197,
@@ -1573,7 +1573,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "trôi"
+    "vn1": "(nouns) trôi"
   },
   {
     "id": 198,
@@ -1581,6 +1581,6 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "tùy tiện"
+    "vn1": "(adjectives) tùy tiện"
   }
 ]
