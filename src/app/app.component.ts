@@ -103,7 +103,6 @@ export class AppComponent {
   };
   reviseWords: Word[] = [];
 
-
   // speak
   selectedVoice: SpeechSynthesisVoice | null;
   voices: SpeechSynthesisVoice[];
@@ -303,6 +302,7 @@ export class AppComponent {
   runAction(): void {
     if (this.show) {
       this.next();
+      this.speakMessage();
     } else {
       this.change();
     }
