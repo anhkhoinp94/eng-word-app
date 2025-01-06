@@ -305,6 +305,7 @@ export class AppComponent {
       this.speakMessage();
     } else {
       this.change();
+      this.speakMessage();
     }
   }
 }
