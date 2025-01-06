@@ -29,15 +29,16 @@ function shuffleItems(items) {
 
 // Main process
 function main() {
-  // Read the original JSON file
+  // Old
   const originalItems = readJSON('src\\assets\\ielts\\ielts.json');
-
-  // Shuffle the items and assign new IDs
   const shuffledItems = shuffleItems(originalItems);
-
-  // Write the shuffled items with new IDs to a new JSON file
   writeJSON('src\\assets\\ielts\\output.json', shuffledItems);
+  console.log('Shuffled items have been written to output.json');
 
+  // New
+  const originalDetItems = readJSON('src\\assets\\det\\det.json');
+  const shuffledDetItems = shuffleItems(originalDetItems);
+  writeJSON('src\\assets\\det\\output.json', shuffledDetItems);
   console.log('Shuffled items have been written to output.json');
 }
 
