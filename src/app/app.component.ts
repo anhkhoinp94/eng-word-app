@@ -77,8 +77,8 @@ export class AppComponent {
   no = 1;
   id = 1;
   min = 1;
-  // max = 1203;
-  max = ielts.length;
+  max = 60;
+  // max = ielts.length;
   vnWord1 = '';
   vnWord2 = '';
   enWord1 = '';
@@ -135,7 +135,7 @@ export class AppComponent {
     // this.reviseWords = this.words
     //   .sort(() => 0.5 - Math.random())
     //   .slice(0, this.maxInitReviseCount);
-    this.reviseWords = ielts.slice(-120);
+    // this.reviseWords = ielts.slice(-120);
   }
 
   renderEnWord = (value: string): string => {
