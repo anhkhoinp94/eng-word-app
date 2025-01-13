@@ -1,1030 +1,14 @@
 [
   {
     "id": 1,
-    "en1": "retrieve",
+    "en1": "viewpoint",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "(verbs) lấy lại"
+    "vn1": "(nouns) quan điểm"
   },
   {
     "id": 2,
-    "en1": "exoskeleton",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) bộ xương ngoài"
-  },
-  {
-    "id": 3,
-    "en1": "conviction",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) niềm tin vững chắc hoặc kết án"
-  },
-  {
-    "id": 4,
-    "en1": "ghostly",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) ma quái"
-  },
-  {
-    "id": 5,
-    "en1": "rational",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) hợp lý"
-  },
-  {
-    "id": 6,
-    "en1": "sacred",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) thiêng liêng"
-  },
-  {
-    "id": 7,
-    "en1": "cyclone",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) lốc xoáy"
-  },
-  {
-    "id": 8,
-    "en1": "insight",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) sự hiểu biết sâu sắc"
-  },
-  {
-    "id": 9,
-    "en1": "battlefield",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) chiến trường"
-  },
-  {
-    "id": 10,
-    "en1": "lawn",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) bãi cỏ"
-  },
-  {
-    "id": 11,
-    "en1": "cutting-edge",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) tiên tiến"
-  },
-  {
-    "id": 12,
-    "en1": "trace",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) dấu vết"
-  },
-  {
-    "id": 13,
-    "en1": "zing",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) sống động"
-  },
-  {
-    "id": 14,
-    "en1": "advancement",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) tiến bộ"
-  },
-  {
-    "id": 15,
-    "en1": "lawsuit",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) vụ kiện"
-  },
-  {
-    "id": 16,
-    "en1": "gymnasium",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) phòng tập thể dục"
-  },
-  {
-    "id": 17,
-    "en1": "meditate",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(verbs) thiền"
-  },
-  {
-    "id": 18,
-    "en1": "favorable",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) thuận lợi"
-  },
-  {
-    "id": 19,
-    "en1": "successive",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) liên tiếp"
-  },
-  {
-    "id": 20,
-    "en1": "dice",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) xúc xắc"
-  },
-  {
-    "id": 21,
-    "en1": "willpower",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) ý chí"
-  },
-  {
-    "id": 22,
-    "en1": "faculty",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) khoa"
-  },
-  {
-    "id": 23,
-    "en1": "spiral",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) xoắn ốc"
-  },
-  {
-    "id": 24,
-    "en1": "costume",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) trang phục"
-  },
-  {
-    "id": 25,
-    "en1": "strain",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) căng thẳng"
-  },
-  {
-    "id": 26,
-    "en1": "insofar",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(connecting_words) \"trong phạm vi\""
-  },
-  {
-    "id": 27,
-    "en1": "protective",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) bảo vệ"
-  },
-  {
-    "id": 28,
-    "en1": "empathy",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) sự thấu cảm"
-  },
-  {
-    "id": 29,
-    "en1": "mechanic",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) thợ máy"
-  },
-  {
-    "id": 30,
-    "en1": "glamorous",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) quyến rũ"
-  },
-  {
-    "id": 31,
-    "en1": "stamina",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) sức bền"
-  },
-  {
-    "id": 32,
-    "en1": "statistically",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adverbs) theo thống kê"
-  },
-  {
-    "id": 33,
-    "en1": "tentacle",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) xúc tu"
-  },
-  {
-    "id": 34,
-    "en1": "symbolic",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) tượng trưng"
-  },
-  {
-    "id": 35,
-    "en1": "ecological",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) sinh thái học"
-  },
-  {
-    "id": 36,
-    "en1": "manipulate",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(verbs) thao túng"
-  },
-  {
-    "id": 37,
-    "en1": "checkup",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) kiểm tra sức khỏe"
-  },
-  {
-    "id": 38,
-    "en1": "inability",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) sự không có khả năng"
-  },
-  {
-    "id": 39,
-    "en1": "marginal",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) không đáng kể"
-  },
-  {
-    "id": 40,
-    "en1": "subsequently",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(connecting_words) sau đó"
-  },
-  {
-    "id": 41,
-    "en1": "ostensibly",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adverbs) có vẻ như"
-  },
-  {
-    "id": 42,
-    "en1": "folklore",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) văn hóa dân gian"
-  },
-  {
-    "id": 43,
-    "en1": "atheist",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) người vô thần"
-  },
-  {
-    "id": 44,
-    "en1": "psychiatric",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) tâm thần"
-  },
-  {
-    "id": 45,
-    "en1": "tribute",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) tri ân"
-  },
-  {
-    "id": 46,
-    "en1": "conscious",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) có ý thức"
-  },
-  {
-    "id": 47,
-    "en1": "remarkably",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adverbs) đáng chú ý"
-  },
-  {
-    "id": 48,
-    "en1": "agnostic",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) bất khả tri"
-  },
-  {
-    "id": 49,
-    "en1": "narrative",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) tường thuật"
-  },
-  {
-    "id": 50,
-    "en1": "empowerment",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) trao quyền"
-  },
-  {
-    "id": 51,
-    "en1": "devout",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) mộ đạo"
-  },
-  {
-    "id": 52,
-    "en1": "disruption",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) gián đoạn"
-  },
-  {
-    "id": 53,
-    "en1": "congressional",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) thuộc về quốc hội"
-  },
-  {
-    "id": 54,
-    "en1": "abuse",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) lạm dụng"
-  },
-  {
-    "id": 55,
-    "en1": "vitally",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adverbs) vô cùng quan trọng"
-  },
-  {
-    "id": 56,
-    "en1": "crave",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(verbs) khao khát"
-  },
-  {
-    "id": 57,
-    "en1": "empower",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(verbs) trao quyền"
-  },
-  {
-    "id": 58,
-    "en1": "tolerant",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) khoan dung"
-  },
-  {
-    "id": 59,
-    "en1": "adaptation",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) thích nghi"
-  },
-  {
-    "id": 60,
-    "en1": "seize",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(verbs) chiếm"
-  },
-  {
-    "id": 61,
-    "en1": "magistrate",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) thẩm phán"
-  },
-  {
-    "id": 62,
-    "en1": "innocently",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adverbs) vô tội"
-  },
-  {
-    "id": 63,
-    "en1": "inner",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) bên trong"
-  },
-  {
-    "id": 64,
-    "en1": "portion",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) phần"
-  },
-  {
-    "id": 65,
-    "en1": "wristwatch",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) đồng hồ đeo tay"
-  },
-  {
-    "id": 66,
-    "en1": "retreat",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) nơi tĩnh dưỡng"
-  },
-  {
-    "id": 67,
-    "en1": "carve",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(verbs) chạm khắc"
-  },
-  {
-    "id": 68,
-    "en1": "merry",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) vui vẻ"
-  },
-  {
-    "id": 69,
-    "en1": "dictator",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) nhà độc tài"
-  },
-  {
-    "id": 70,
-    "en1": "magnetic",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) từ tính"
-  },
-  {
-    "id": 71,
-    "en1": "indie",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) độc lập"
-  },
-  {
-    "id": 72,
-    "en1": "contempt",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) sự khinh miệt"
-  },
-  {
-    "id": 73,
-    "en1": "tough",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) dai sức"
-  },
-  {
-    "id": 74,
-    "en1": "routinely",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adverbs) thường xuyên"
-  },
-  {
-    "id": 75,
-    "en1": "reunion",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) cuộc hội ngộ"
-  },
-  {
-    "id": 76,
-    "en1": "consequence",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) hậu quả"
-  },
-  {
-    "id": 77,
-    "en1": "denial",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) sự phủ nhận"
-  },
-  {
-    "id": 78,
-    "en1": "obsession",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) ám ảnh"
-  },
-  {
-    "id": 79,
-    "en1": "compassion",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) lòng trắc ẩn"
-  },
-  {
-    "id": 80,
-    "en1": "torrential",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) sầm sập"
-  },
-  {
-    "id": 81,
-    "en1": "unwavering",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) kiên định"
-  },
-  {
-    "id": 82,
-    "en1": "disgust",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) ghê tởm"
-  },
-  {
-    "id": 83,
-    "en1": "stucco",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) vữa"
-  },
-  {
-    "id": 84,
-    "en1": "recollection",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) nhớ lại"
-  },
-  {
-    "id": 85,
-    "en1": "likewise",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(connecting_words) tương tự"
-  },
-  {
-    "id": 86,
-    "en1": "coaster",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) lót ly"
-  },
-  {
-    "id": 87,
-    "en1": "trespassing",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) xâm nhập trái phép"
-  },
-  {
-    "id": 88,
-    "en1": "jurisdiction",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) quyền tài phán"
-  },
-  {
-    "id": 89,
-    "en1": "diagnosis",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) chẩn đoán"
-  },
-  {
-    "id": 90,
-    "en1": "species",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) loài"
-  },
-  {
-    "id": 91,
-    "en1": "uniformly",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adverbs) đồng nhất"
-  },
-  {
-    "id": 92,
-    "en1": "ensue",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(verbs) xảy ra sau đó"
-  },
-  {
-    "id": 93,
-    "en1": "drawback",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) hạn chế"
-  },
-  {
-    "id": 94,
-    "en1": "unavoidably",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adverbs) không thể tránh khỏi"
-  },
-  {
-    "id": 95,
-    "en1": "capability",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) khả năng"
-  },
-  {
-    "id": 96,
-    "en1": "adorable",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) đáng yêu"
-  },
-  {
-    "id": 97,
-    "en1": "discipline",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) kỷ luật"
-  },
-  {
-    "id": 98,
-    "en1": "chief",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) trưởng"
-  },
-  {
-    "id": 99,
-    "en1": "forum",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) diễn đàn"
-  },
-  {
-    "id": 100,
-    "en1": "mist",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) sương mù"
-  },
-  {
-    "id": 101,
-    "en1": "gadget",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) thiết bị"
-  },
-  {
-    "id": 102,
-    "en1": "unify",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(verbs) hợp nhất"
-  },
-  {
-    "id": 103,
-    "en1": "disregard",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(verbs) không quan tâm"
-  },
-  {
-    "id": 104,
-    "en1": "blend",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(verbs) trộn"
-  },
-  {
-    "id": 105,
-    "en1": "pious",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) mộ đạo"
-  },
-  {
-    "id": 106,
-    "en1": "awkward",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) lúng túng/vụng về"
-  },
-  {
-    "id": 107,
-    "en1": "that is to say",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(connecting_words) tức là"
-  },
-  {
-    "id": 108,
-    "en1": "solemn",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) trang nghiêm"
-  },
-  {
-    "id": 109,
-    "en1": "conversely",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(connecting_words) ngược lại"
-  },
-  {
-    "id": 110,
-    "en1": "hygiene",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) vệ sinh"
-  },
-  {
-    "id": 111,
-    "en1": "genocide",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) diệt chủng"
-  },
-  {
-    "id": 112,
-    "en1": "vulnerability",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) tính dễ bị tổn thương"
-  },
-  {
-    "id": 113,
-    "en1": "generic",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) chung chung"
-  },
-  {
-    "id": 114,
-    "en1": "ulterior",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) ẩn ý"
-  },
-  {
-    "id": 115,
-    "en1": "transplant",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(verbs) ghép"
-  },
-  {
-    "id": 116,
-    "en1": "predominantly",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adverbs) chủ yếu"
-  },
-  {
-    "id": 117,
-    "en1": "jot",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(verbs) ghi chú nhanh"
-  },
-  {
-    "id": 118,
-    "en1": "considerate",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) ân cần"
-  },
-  {
-    "id": 119,
-    "en1": "locale",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) địa điểm"
-  },
-  {
-    "id": 120,
-    "en1": "aquarium",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) bể cá"
-  },
-  {
-    "id": 121,
-    "en1": "transcript",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) bản sao / bảng điểm"
-  },
-  {
-    "id": 122,
-    "en1": "aside",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adverbs) sang một bên"
-  },
-  {
-    "id": 123,
-    "en1": "liberal",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) tự do"
-  },
-  {
-    "id": 124,
-    "en1": "insult",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) lời xúc phạm"
-  },
-  {
-    "id": 125,
-    "en1": "prioritize",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(verbs) ưu tiên"
-  },
-  {
-    "id": 126,
-    "en1": "scramble",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(verbs) leo trèo khó khăn"
-  },
-  {
-    "id": 127,
-    "en1": "conservative",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) bảo thủ"
-  },
-  {
-    "id": 128,
-    "en1": "interconnect",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(verbs) liên kết"
-  },
-  {
-    "id": 129,
     "en1": "aid",
     "en2": "",
     "en3": "",
@@ -1032,287 +16,15 @@
     "vn1": "(nouns) viện trợ"
   },
   {
-    "id": 130,
-    "en1": "barrel",
+    "id": 3,
+    "en1": "terminal",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "(nouns) thùng"
+    "vn1": "(nouns) nhà ga"
   },
   {
-    "id": 131,
-    "en1": "pitch",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) sân"
-  },
-  {
-    "id": 132,
-    "en1": "stem",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) thân cây"
-  },
-  {
-    "id": 133,
-    "en1": "brutal",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) tàn bạo"
-  },
-  {
-    "id": 134,
-    "en1": "undergo",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(verbs) trải qua"
-  },
-  {
-    "id": 135,
-    "en1": "abolish",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(verbs) bãi bỏ"
-  },
-  {
-    "id": 136,
-    "en1": "artifact",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) cổ vật"
-  },
-  {
-    "id": 137,
-    "en1": "splendor",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) sự tráng lệ"
-  },
-  {
-    "id": 138,
-    "en1": "commemoration",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) sự kỷ niệm"
-  },
-  {
-    "id": 139,
-    "en1": "hinder",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(verbs) cản trở"
-  },
-  {
-    "id": 140,
-    "en1": "farm-to-table",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) từ trang trại đến bàn ăn"
-  },
-  {
-    "id": 141,
-    "en1": "unpaved",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) chưa trải nhựa"
-  },
-  {
-    "id": 142,
-    "en1": "squeak",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(verbs) kêu rin rít"
-  },
-  {
-    "id": 143,
-    "en1": "sullen",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) ủ rũ"
-  },
-  {
-    "id": 144,
-    "en1": "conceive",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(verbs) thụ thai hoặc hình thành ý tưởng"
-  },
-  {
-    "id": 145,
-    "en1": "omit",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(verbs) bỏ qua"
-  },
-  {
-    "id": 146,
-    "en1": "worthy",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) đáng giá"
-  },
-  {
-    "id": 147,
-    "en1": "grim",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) buồn bã hoặc khó chịu"
-  },
-  {
-    "id": 148,
-    "en1": "tribal",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) bộ lạc"
-  },
-  {
-    "id": 149,
-    "en1": "transcend",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(verbs) vượt qua"
-  },
-  {
-    "id": 150,
-    "en1": "dreadful",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) kinh khủng"
-  },
-  {
-    "id": 151,
-    "en1": "exhibit",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(verbs) triển lãm"
-  },
-  {
-    "id": 152,
-    "en1": "syllabus",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) giáo trình"
-  },
-  {
-    "id": 153,
-    "en1": "bankrupt",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) phá sản"
-  },
-  {
-    "id": 154,
-    "en1": "intercom",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) liên lạc nội bộ"
-  },
-  {
-    "id": 155,
-    "en1": "excursion",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) chuyến tham quan"
-  },
-  {
-    "id": 156,
-    "en1": "projection",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) sự dự đoán"
-  },
-  {
-    "id": 157,
-    "en1": "maturity",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) sự trưởng thành"
-  },
-  {
-    "id": 158,
-    "en1": "non-linear",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) phi tuyến tính"
-  },
-  {
-    "id": 159,
-    "en1": "irresistible",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) không thể cưỡng lại"
-  },
-  {
-    "id": 160,
-    "en1": "loathe",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(verbs) ghét cay ghét đắng"
-  },
-  {
-    "id": 161,
-    "en1": "pill",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) viên thuốc"
-  },
-  {
-    "id": 162,
-    "en1": "grafting",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) ghép cây"
-  },
-  {
-    "id": 163,
-    "en1": "zucchini",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) bí ngòi"
-  },
-  {
-    "id": 164,
-    "en1": "paler",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) nhạt hơn"
-  },
-  {
-    "id": 165,
+    "id": 4,
     "en1": "walrus",
     "en2": "",
     "en3": "",
@@ -1320,15 +32,431 @@
     "vn1": "(nouns) hải mã"
   },
   {
-    "id": 166,
-    "en1": "dictatorship",
+    "id": 5,
+    "en1": "obesity",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "(nouns) chuyên chế"
+    "vn1": "(nouns) béo phì"
   },
   {
-    "id": 167,
+    "id": 6,
+    "en1": "tribute",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) tri ân"
+  },
+  {
+    "id": 7,
+    "en1": "coaster",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) lót ly"
+  },
+  {
+    "id": 8,
+    "en1": "counterpart",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) đối tác"
+  },
+  {
+    "id": 9,
+    "en1": "immense",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) bao la"
+  },
+  {
+    "id": 10,
+    "en1": "irrational",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) phi lý"
+  },
+  {
+    "id": 11,
+    "en1": "awkward",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) lúng túng/vụng về"
+  },
+  {
+    "id": 12,
+    "en1": "farm-to-table",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) từ trang trại đến bàn ăn"
+  },
+  {
+    "id": 13,
+    "en1": "ostensibly",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adverbs) có vẻ như"
+  },
+  {
+    "id": 14,
+    "en1": "masterpiece",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) kiệt tác"
+  },
+  {
+    "id": 15,
+    "en1": "yearn",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) khao khát"
+  },
+  {
+    "id": 16,
+    "en1": "mechanic",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) thợ máy"
+  },
+  {
+    "id": 17,
+    "en1": "tough",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) dai sức"
+  },
+  {
+    "id": 18,
+    "en1": "glorious",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) vinh quang"
+  },
+  {
+    "id": 19,
+    "en1": "marinate",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) ướp"
+  },
+  {
+    "id": 20,
+    "en1": "methodology",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) phương pháp luận"
+  },
+  {
+    "id": 21,
+    "en1": "mist",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) sương mù"
+  },
+  {
+    "id": 22,
+    "en1": "protective",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) bảo vệ"
+  },
+  {
+    "id": 23,
+    "en1": "forum",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) diễn đàn"
+  },
+  {
+    "id": 24,
+    "en1": "zigzag",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) chữ chi"
+  },
+  {
+    "id": 25,
+    "en1": "ethics",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) đạo đức"
+  },
+  {
+    "id": 26,
+    "en1": "sculpt",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) điêu khắc"
+  },
+  {
+    "id": 27,
+    "en1": "devout",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) mộ đạo"
+  },
+  {
+    "id": 28,
+    "en1": "stiff",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) xác chết/người rất trang trọng"
+  },
+  {
+    "id": 29,
+    "en1": "sullen",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) ủ rũ"
+  },
+  {
+    "id": 30,
+    "en1": "resourcefulness",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) sự tháo vát"
+  },
+  {
+    "id": 31,
+    "en1": "rotate",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) xoay vòng"
+  },
+  {
+    "id": 32,
+    "en1": "atheist",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) người vô thần"
+  },
+  {
+    "id": 33,
+    "en1": "therapeutic",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) trị liệu"
+  },
+  {
+    "id": 34,
+    "en1": "indigenous",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) bản địa"
+  },
+  {
+    "id": 35,
+    "en1": "tolerant",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) khoan dung"
+  },
+  {
+    "id": 36,
+    "en1": "disadvantaged",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) bị thiệt thòi"
+  },
+  {
+    "id": 37,
+    "en1": "density",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) mật độ"
+  },
+  {
+    "id": 38,
+    "en1": "intercom",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) liên lạc nội bộ"
+  },
+  {
+    "id": 39,
+    "en1": "validity",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) tính hợp lệ"
+  },
+  {
+    "id": 40,
+    "en1": "expressive",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) diễn cảm"
+  },
+  {
+    "id": 41,
+    "en1": "insult",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) lời xúc phạm"
+  },
+  {
+    "id": 42,
+    "en1": "furiously",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adverbs) một cách giận dữ"
+  },
+  {
+    "id": 43,
+    "en1": "pledge",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) cam kết"
+  },
+  {
+    "id": 44,
+    "en1": "portion",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) phần"
+  },
+  {
+    "id": 45,
+    "en1": "landfill",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) bãi rác"
+  },
+  {
+    "id": 46,
+    "en1": "innovate",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) đổi mới"
+  },
+  {
+    "id": 47,
+    "en1": "lender",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) người cho vay"
+  },
+  {
+    "id": 48,
+    "en1": "mural",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) bích họa"
+  },
+  {
+    "id": 49,
+    "en1": "frantic",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) cuồng loạn"
+  },
+  {
+    "id": 50,
+    "en1": "interpret",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) diễn giải"
+  },
+  {
+    "id": 51,
+    "en1": "gutter",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) mương nước"
+  },
+  {
+    "id": 52,
+    "en1": "conviction",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) niềm tin vững chắc hoặc kết án"
+  },
+  {
+    "id": 53,
+    "en1": "contemplate",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) suy ngẫm"
+  },
+  {
+    "id": 54,
+    "en1": "withdrawal",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) rút tiền"
+  },
+  {
+    "id": 55,
+    "en1": "accomplish",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) hoàn thành"
+  },
+  {
+    "id": 56,
+    "en1": "cyclone",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) lốc xoáy"
+  },
+  {
+    "id": 57,
+    "en1": "strategic",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) chiến lược"
+  },
+  {
+    "id": 58,
     "en1": "juvenile",
     "en2": "",
     "en3": "",
@@ -1336,20 +464,892 @@
     "vn1": "(nouns) thiếu niên"
   },
   {
-    "id": 168,
-    "en1": "rightly",
+    "id": 59,
+    "en1": "vitally",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "(adverbs) đúng cách"
+    "vn1": "(adverbs) vô cùng quan trọng"
+  },
+  {
+    "id": 60,
+    "en1": "denial",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) sự phủ nhận"
+  },
+  {
+    "id": 61,
+    "en1": "congressional",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) thuộc về quốc hội"
+  },
+  {
+    "id": 62,
+    "en1": "commemoration",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) sự kỷ niệm"
+  },
+  {
+    "id": 63,
+    "en1": "paler",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) nhạt hơn"
+  },
+  {
+    "id": 64,
+    "en1": "mobilize",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) huy động"
+  },
+  {
+    "id": 65,
+    "en1": "jousting",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) đấu thương"
+  },
+  {
+    "id": 66,
+    "en1": "recliner",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) ghế tựa"
+  },
+  {
+    "id": 67,
+    "en1": "prioritize",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) ưu tiên"
+  },
+  {
+    "id": 68,
+    "en1": "ecological",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) sinh thái học"
+  },
+  {
+    "id": 69,
+    "en1": "empire",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) đế quốc"
+  },
+  {
+    "id": 70,
+    "en1": "breed",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) nhân giống"
+  },
+  {
+    "id": 71,
+    "en1": "pitiful",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) đáng thương"
+  },
+  {
+    "id": 72,
+    "en1": "underdog",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) người yếu thế"
+  },
+  {
+    "id": 73,
+    "en1": "indictment",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) cáo trạng"
+  },
+  {
+    "id": 74,
+    "en1": "hygiene",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) vệ sinh"
+  },
+  {
+    "id": 75,
+    "en1": "adorable",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) đáng yêu"
+  },
+  {
+    "id": 76,
+    "en1": "conversely",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(connecting_words) ngược lại"
+  },
+  {
+    "id": 77,
+    "en1": "checkup",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) kiểm tra sức khỏe"
+  },
+  {
+    "id": 78,
+    "en1": "discipline",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) kỷ luật"
+  },
+  {
+    "id": 79,
+    "en1": "manipulate",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) thao túng"
+  },
+  {
+    "id": 80,
+    "en1": "lawn",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) bãi cỏ"
+  },
+  {
+    "id": 81,
+    "en1": "secular",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) thế tục"
+  },
+  {
+    "id": 82,
+    "en1": "misconduct",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) hành vi sai trái"
+  },
+  {
+    "id": 83,
+    "en1": "vigor",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) sức sống"
+  },
+  {
+    "id": 84,
+    "en1": "sprain",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) bong gân"
+  },
+  {
+    "id": 85,
+    "en1": "seize",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) chiếm"
+  },
+  {
+    "id": 86,
+    "en1": "omnipresent",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) có mặt khắp nơi"
+  },
+  {
+    "id": 87,
+    "en1": "magnetic",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) từ tính"
+  },
+  {
+    "id": 88,
+    "en1": "privilege",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) đặc quyền"
+  },
+  {
+    "id": 89,
+    "en1": "sideways",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adverbs) sang bên"
+  },
+  {
+    "id": 90,
+    "en1": "worthwhile",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) đáng giá"
+  },
+  {
+    "id": 91,
+    "en1": "retrieve",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) lấy lại"
+  },
+  {
+    "id": 92,
+    "en1": "cystic",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) u nang"
+  },
+  {
+    "id": 93,
+    "en1": "tricky",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) khó khăn hoặc lừa đảo"
+  },
+  {
+    "id": 94,
+    "en1": "manifest",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) rõ ràng"
+  },
+  {
+    "id": 95,
+    "en1": "hawk",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) diều hâu"
+  },
+  {
+    "id": 96,
+    "en1": "furnish",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) cung cấp hoặc trang bị"
+  },
+  {
+    "id": 97,
+    "en1": "battlefield",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) chiến trường"
+  },
+  {
+    "id": 98,
+    "en1": "spectacle",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) cảnh tượng"
+  },
+  {
+    "id": 99,
+    "en1": "retreat",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) nơi tĩnh dưỡng"
+  },
+  {
+    "id": 100,
+    "en1": "locker",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) tủ"
+  },
+  {
+    "id": 101,
+    "en1": "worthy",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) đáng giá"
+  },
+  {
+    "id": 102,
+    "en1": "thereafter",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(connecting_words) sau đó"
+  },
+  {
+    "id": 103,
+    "en1": "indulge",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) chiều chuộng"
+  },
+  {
+    "id": 104,
+    "en1": "momentum",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) đà"
+  },
+  {
+    "id": 105,
+    "en1": "tolerate",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) chịu đựng"
+  },
+  {
+    "id": 106,
+    "en1": "symptom",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) triệu chứng"
+  },
+  {
+    "id": 107,
+    "en1": "vinegar",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) giấm"
+  },
+  {
+    "id": 108,
+    "en1": "tousle",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) làm rối"
+  },
+  {
+    "id": 109,
+    "en1": "dictatorship",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) chuyên chế"
+  },
+  {
+    "id": 110,
+    "en1": "smash",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) đập vỡ"
+  },
+  {
+    "id": 111,
+    "en1": "inherent",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) vốn có"
+  },
+  {
+    "id": 112,
+    "en1": "pensively",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adverbs) trầm ngâm"
+  },
+  {
+    "id": 113,
+    "en1": "artwork",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) "
+  },
+  {
+    "id": 114,
+    "en1": "bankrupt",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) phá sản"
+  },
+  {
+    "id": 115,
+    "en1": "desirable",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) mong muốn"
+  },
+  {
+    "id": 116,
+    "en1": "exhibit",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) vật trưng bày"
+  },
+  {
+    "id": 117,
+    "en1": "drought",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) hạn hán"
+  },
+  {
+    "id": 118,
+    "en1": "merely",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adverbs) chỉ"
+  },
+  {
+    "id": 119,
+    "en1": "dribble",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) chảy nhỏ giọt"
+  },
+  {
+    "id": 120,
+    "en1": "forage",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) tìm kiếm thức ăn"
+  },
+  {
+    "id": 121,
+    "en1": "symbolic",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) tượng trưng"
+  },
+  {
+    "id": 122,
+    "en1": "sanction",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) biện pháp trừng phạt"
+  },
+  {
+    "id": 123,
+    "en1": "faction",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) phe phái"
+  },
+  {
+    "id": 124,
+    "en1": "recollection",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) nhớ lại"
+  },
+  {
+    "id": 125,
+    "en1": "weeping",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) khóc lóc"
+  },
+  {
+    "id": 126,
+    "en1": "counselor",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) cố vấn"
+  },
+  {
+    "id": 127,
+    "en1": "grafting",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) ghép cây"
+  },
+  {
+    "id": 128,
+    "en1": "dependable",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) đáng tin cậy"
+  },
+  {
+    "id": 129,
+    "en1": "arena",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) đấu trường"
+  },
+  {
+    "id": 130,
+    "en1": "illogical",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) không hợp lý"
+  },
+  {
+    "id": 131,
+    "en1": "hypothetical",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) giả thuyết"
+  },
+  {
+    "id": 132,
+    "en1": "empower",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) trao quyền"
+  },
+  {
+    "id": 133,
+    "en1": "customary",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) thông tục"
+  },
+  {
+    "id": 134,
+    "en1": "herringbone",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) xương cá"
+  },
+  {
+    "id": 135,
+    "en1": "discretion",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) sự thận trọng"
+  },
+  {
+    "id": 136,
+    "en1": "dewlap",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) yếm"
+  },
+  {
+    "id": 137,
+    "en1": "worthless",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) vô giá trị"
+  },
+  {
+    "id": 138,
+    "en1": "framework",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) cơ cấu"
+  },
+  {
+    "id": 139,
+    "en1": "acute",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) cấp tính"
+  },
+  {
+    "id": 140,
+    "en1": "sake",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) lý do"
+  },
+  {
+    "id": 141,
+    "en1": "disgust",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) ghê tởm"
+  },
+  {
+    "id": 142,
+    "en1": "loathe",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) ghét cay ghét đắng"
+  },
+  {
+    "id": 143,
+    "en1": "sphere",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) hình cầu"
+  },
+  {
+    "id": 144,
+    "en1": "locale",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) địa điểm"
+  },
+  {
+    "id": 145,
+    "en1": "evacuate",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) sơ tán"
+  },
+  {
+    "id": 146,
+    "en1": "crossbones",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) xương chéo"
+  },
+  {
+    "id": 147,
+    "en1": "sow",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) gieo"
+  },
+  {
+    "id": 148,
+    "en1": "creed",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) tín điều"
+  },
+  {
+    "id": 149,
+    "en1": "obsession",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) ám ảnh"
+  },
+  {
+    "id": 150,
+    "en1": "insight",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) sự hiểu biết sâu sắc"
+  },
+  {
+    "id": 151,
+    "en1": "advocate",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) ủng hộ"
+  },
+  {
+    "id": 152,
+    "en1": "etiquette",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) phép xã giao"
+  },
+  {
+    "id": 153,
+    "en1": "dull",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) làm cùn"
+  },
+  {
+    "id": 154,
+    "en1": "transaction",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) giao dịch"
+  },
+  {
+    "id": 155,
+    "en1": "conceive",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) thụ thai hoặc hình thành ý tưởng"
+  },
+  {
+    "id": 156,
+    "en1": "shrink",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) co lại"
+  },
+  {
+    "id": 157,
+    "en1": "scattered",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) rải rác"
+  },
+  {
+    "id": 158,
+    "en1": "sheer",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) dốc đứng hoặc mỏng và trong suốt"
+  },
+  {
+    "id": 159,
+    "en1": "nutritious",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) bổ dưỡng"
+  },
+  {
+    "id": 160,
+    "en1": "blackmail",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) tống tiền"
+  },
+  {
+    "id": 161,
+    "en1": "anticipation",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) sự mong đợi"
+  },
+  {
+    "id": 162,
+    "en1": "linger",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) nán lại"
+  },
+  {
+    "id": 163,
+    "en1": "enroll",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) ghi danh"
+  },
+  {
+    "id": 164,
+    "en1": "cashier",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) thu ngân"
+  },
+  {
+    "id": 165,
+    "en1": "carnival",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) lễ hội hóa trang"
+  },
+  {
+    "id": 166,
+    "en1": "unplug",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) rút phích cắm"
+  },
+  {
+    "id": 167,
+    "en1": "forge",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) rèn"
+  },
+  {
+    "id": 168,
+    "en1": "grim",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) buồn bã hoặc khó chịu"
   },
   {
     "id": 169,
-    "en1": "monarchy",
+    "en1": "prosperity",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "(nouns) chế độ quân chủ"
+    "vn1": "(nouns) thịnh vượng"
   },
   {
     "id": 170,
@@ -1361,390 +1361,6 @@
   },
   {
     "id": 171,
-    "en1": "vinegar",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) giấm"
-  },
-  {
-    "id": 172,
-    "en1": "dull",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(verbs) làm cùn"
-  },
-  {
-    "id": 173,
-    "en1": "inclement",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) khắc nghiệt"
-  },
-  {
-    "id": 174,
-    "en1": "retro-style",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) phong cách hoài cổ"
-  },
-  {
-    "id": 175,
-    "en1": "pledge",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) cam kết"
-  },
-  {
-    "id": 176,
-    "en1": "relativity",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) thuyết tương đối"
-  },
-  {
-    "id": 177,
-    "en1": "plunge",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(verbs) lao vào"
-  },
-  {
-    "id": 178,
-    "en1": "timeout",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) tạm dừng"
-  },
-  {
-    "id": 179,
-    "en1": "spongy",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) xốp"
-  },
-  {
-    "id": 180,
-    "en1": "ample",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) phong phú"
-  },
-  {
-    "id": 181,
-    "en1": "breezy",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) breezy"
-  },
-  {
-    "id": 182,
-    "en1": "cheerful",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) vui vẻ"
-  },
-  {
-    "id": 183,
-    "en1": "rotary",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) xoay"
-  },
-  {
-    "id": 184,
-    "en1": "sphere",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) hình cầu"
-  },
-  {
-    "id": 185,
-    "en1": "assemble",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(verbs) lắp ráp"
-  },
-  {
-    "id": 186,
-    "en1": "civilization",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) nền văn minh"
-  },
-  {
-    "id": 187,
-    "en1": "marinate",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(verbs) ướp"
-  },
-  {
-    "id": 188,
-    "en1": "multi-paned",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) nhiều ô kính"
-  },
-  {
-    "id": 189,
-    "en1": "suburban",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) ngoại ô"
-  },
-  {
-    "id": 190,
-    "en1": "juxtaposition",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) sự đặt kề nhau"
-  },
-  {
-    "id": 191,
-    "en1": "zen",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) thiền"
-  },
-  {
-    "id": 192,
-    "en1": "stall",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(verbs) ngừng lại"
-  },
-  {
-    "id": 193,
-    "en1": "tasteful",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) có gu"
-  },
-  {
-    "id": 194,
-    "en1": "foresee",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(verbs) dự đoán"
-  },
-  {
-    "id": 195,
-    "en1": "spouse",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) vợ/chồng"
-  },
-  {
-    "id": 196,
-    "en1": "flea",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) bọ chét"
-  },
-  {
-    "id": 197,
-    "en1": "locker",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) tủ"
-  },
-  {
-    "id": 198,
-    "en1": "roughly",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adverbs) khoảng"
-  },
-  {
-    "id": 199,
-    "en1": "parade",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(verbs) diễu hành"
-  },
-  {
-    "id": 200,
-    "en1": "pensively",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adverbs) trầm ngâm"
-  },
-  {
-    "id": 201,
-    "en1": "furthermore",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(connecting_words) hơn nữa"
-  },
-  {
-    "id": 202,
-    "en1": "meticulous",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) tỉ mỉ"
-  },
-  {
-    "id": 203,
-    "en1": "trademark",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) nhãn hiệu"
-  },
-  {
-    "id": 204,
-    "en1": "crystal",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) tinh thể"
-  },
-  {
-    "id": 205,
-    "en1": "signify",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(verbs) biểu thị"
-  },
-  {
-    "id": 206,
-    "en1": "unrest",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) bất ổn"
-  },
-  {
-    "id": 207,
-    "en1": "coupon",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) phiếu giảm giá"
-  },
-  {
-    "id": 208,
-    "en1": "gaze",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(verbs) nhìn chăm chú"
-  },
-  {
-    "id": 209,
-    "en1": "framework",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) cơ cấu"
-  },
-  {
-    "id": 210,
-    "en1": "crush",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(verbs) nghiền nát"
-  },
-  {
-    "id": 211,
-    "en1": "steam",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) hơi nước"
-  },
-  {
-    "id": 212,
-    "en1": "landmark",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) mốc"
-  },
-  {
-    "id": 213,
-    "en1": "sensibly",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adverbs) một cách khôn ngoan"
-  },
-  {
-    "id": 214,
-    "en1": "sprain",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) bong gân"
-  },
-  {
-    "id": 215,
-    "en1": "contender",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) đối thủ"
-  },
-  {
-    "id": 216,
-    "en1": "arena",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) đấu trường"
-  },
-  {
-    "id": 217,
-    "en1": "privilege",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) đặc quyền"
-  },
-  {
-    "id": 218,
-    "en1": "forage",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(verbs) tìm kiếm thức ăn"
-  },
-  {
-    "id": 219,
     "en1": "swing",
     "en2": "",
     "en3": "",
@@ -1752,1295 +1368,23 @@
     "vn1": "(verbs) đu đưa"
   },
   {
-    "id": 220,
-    "en1": "monotonous",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) đơn điệu"
-  },
-  {
-    "id": 221,
-    "en1": "wellness",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) sức khỏe toàn diện"
-  },
-  {
-    "id": 222,
-    "en1": "intentionally",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adverbs) cố tình"
-  },
-  {
-    "id": 223,
-    "en1": "drift",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) trôi"
-  },
-  {
-    "id": 224,
-    "en1": "comparatively",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(connecting_words) tương đối"
-  },
-  {
-    "id": 225,
-    "en1": "screening",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) kiểm tra hoặc trình chiếu"
-  },
-  {
-    "id": 226,
-    "en1": "imaginary",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) tưởng tượng"
-  },
-  {
-    "id": 227,
-    "en1": "inquisitive",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) tò mò"
-  },
-  {
-    "id": 228,
-    "en1": "eyelet",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) ô khuyên"
-  },
-  {
-    "id": 229,
-    "en1": "pier",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) cầu tàu"
-  },
-  {
-    "id": 230,
-    "en1": "immense",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) bao la"
-  },
-  {
-    "id": 231,
-    "en1": "blackmail",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) tống tiền"
-  },
-  {
-    "id": 232,
-    "en1": "critique",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) phê bình"
-  },
-  {
-    "id": 233,
-    "en1": "uplift",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(verbs) nâng lên"
-  },
-  {
-    "id": 234,
-    "en1": "shrug",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(verbs) nhún vai"
-  },
-  {
-    "id": 235,
-    "en1": "recliner",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) ghế tựa"
-  },
-  {
-    "id": 236,
-    "en1": "reconcile",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(verbs) hòa giải"
-  },
-  {
-    "id": 237,
-    "en1": "expressive",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) diễn cảm"
-  },
-  {
-    "id": 238,
-    "en1": "murky",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) âm u hoặc mờ"
-  },
-  {
-    "id": 239,
-    "en1": "tricky",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) khó khăn hoặc lừa đảo"
-  },
-  {
-    "id": 240,
-    "en1": "respectable",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) đáng kính"
-  },
-  {
-    "id": 241,
-    "en1": "integral",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) cần thiết"
-  },
-  {
-    "id": 242,
-    "en1": "purifier",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) thiết bị lọc"
-  },
-  {
-    "id": 243,
-    "en1": "joyous",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) vui mừng"
-  },
-  {
-    "id": 244,
-    "en1": "itinerary",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) hành trình"
-  },
-  {
-    "id": 245,
-    "en1": "stir",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(verbs) khuấy"
-  },
-  {
-    "id": 246,
-    "en1": "unyielding",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) kiên định"
-  },
-  {
-    "id": 247,
-    "en1": "surgical",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) phẫu thuật"
-  },
-  {
-    "id": 248,
-    "en1": "theoretical",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) lý thuyết"
-  },
-  {
-    "id": 249,
-    "en1": "amateur",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) nghiệp dư"
-  },
-  {
-    "id": 250,
-    "en1": "premise",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) giả định hoặc tòa nhà"
-  },
-  {
-    "id": 251,
-    "en1": "jersey",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) áo đấu"
-  },
-  {
-    "id": 252,
-    "en1": "tendency",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) xu hướng"
-  },
-  {
-    "id": 253,
-    "en1": "underdog",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) người yếu thế"
-  },
-  {
-    "id": 254,
-    "en1": "sake",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) lý do"
-  },
-  {
-    "id": 255,
-    "en1": "wipe",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(verbs) lau"
-  },
-  {
-    "id": 256,
-    "en1": "progressive",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) tiến bộ"
-  },
-  {
-    "id": 257,
-    "en1": "thereafter",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(connecting_words) sau đó"
-  },
-  {
-    "id": 258,
-    "en1": "containment",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) kiềm chế"
-  },
-  {
-    "id": 259,
-    "en1": "disadvantaged",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) bị thiệt thòi"
-  },
-  {
-    "id": 260,
-    "en1": "gymnastics",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) thể dục dụng cụ"
-  },
-  {
-    "id": 261,
-    "en1": "smash",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(verbs) đập vỡ"
-  },
-  {
-    "id": 262,
-    "en1": "incidence",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) tỷ lệ"
-  },
-  {
-    "id": 263,
-    "en1": "irrational",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) phi lý"
-  },
-  {
-    "id": 264,
-    "en1": "advocate",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(verbs) ủng hộ"
-  },
-  {
-    "id": 265,
-    "en1": "therapy",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) trị liệu"
-  },
-  {
-    "id": 266,
-    "en1": "zigzag",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(verbs) chữ chi"
-  },
-  {
-    "id": 267,
-    "en1": "yearn",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(verbs) khao khát"
-  },
-  {
-    "id": 268,
-    "en1": "bulbous",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) tròn và phình"
-  },
-  {
-    "id": 269,
-    "en1": "sow",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(verbs) gieo"
-  },
-  {
-    "id": 270,
-    "en1": "vibrant",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) sôi động"
-  },
-  {
-    "id": 271,
-    "en1": "swap",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) trao đổi"
-  },
-  {
-    "id": 272,
-    "en1": "equator",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) đường xích đạo"
-  },
-  {
-    "id": 273,
-    "en1": "revival",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) sự phục hồi"
-  },
-  {
-    "id": 274,
-    "en1": "arguably",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adverbs) có thể lập luận rằng"
-  },
-  {
-    "id": 275,
-    "en1": "albeit",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(connecting_words) mặc dù"
-  },
-  {
-    "id": 276,
-    "en1": "illusion",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) ảo giác"
-  },
-  {
-    "id": 277,
-    "en1": "versatile",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) linh hoạt"
-  },
-  {
-    "id": 278,
-    "en1": "nutritious",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) bổ dưỡng"
-  },
-  {
-    "id": 279,
-    "en1": "unequal",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) không bằng nhau"
-  },
-  {
-    "id": 280,
-    "en1": "futuristic",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) có tính tương lai"
-  },
-  {
-    "id": 281,
-    "en1": "mutter",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(verbs) lẩm bẩm"
-  },
-  {
-    "id": 282,
-    "en1": "speculative",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) đầu cơ"
-  },
-  {
-    "id": 283,
-    "en1": "ceremonial",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) nghi lễ"
-  },
-  {
-    "id": 284,
-    "en1": "misconduct",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) hành vi sai trái"
-  },
-  {
-    "id": 285,
-    "en1": "bucket",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) cái xô"
-  },
-  {
-    "id": 286,
-    "en1": "poll",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) cuộc thăm dò"
-  },
-  {
-    "id": 287,
-    "en1": "gutter",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) mương nước"
-  },
-  {
-    "id": 288,
-    "en1": "lobby",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) sảnh"
-  },
-  {
-    "id": 289,
-    "en1": "anthropology",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) nhân học"
-  },
-  {
-    "id": 290,
-    "en1": "notorious",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) khét tiếng"
-  },
-  {
-    "id": 291,
-    "en1": "suck",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(verbs) hút"
-  },
-  {
-    "id": 292,
-    "en1": "sculpt",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(verbs) điêu khắc"
-  },
-  {
-    "id": 293,
-    "en1": "precedent",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) tiền lệ"
-  },
-  {
-    "id": 294,
-    "en1": "bacterium",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) vi khuẩn"
-  },
-  {
-    "id": 295,
-    "en1": "ritual",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) nghi lễ"
-  },
-  {
-    "id": 296,
-    "en1": "synthesize",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(verbs) tổng hợp"
-  },
-  {
-    "id": 297,
-    "en1": "riverbed",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) lòng sông"
-  },
-  {
-    "id": 298,
-    "en1": "landfill",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) bãi rác"
-  },
-  {
-    "id": 299,
-    "en1": "dewlap",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) yếm"
-  },
-  {
-    "id": 300,
-    "en1": "innovate",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(verbs) đổi mới"
-  },
-  {
-    "id": 301,
-    "en1": "knowingly",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adverbs) có ý thức"
-  },
-  {
-    "id": 302,
-    "en1": "dribble",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(verbs) chảy nhỏ giọt"
-  },
-  {
-    "id": 303,
-    "en1": "unquestionably",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adverbs) không nghi ngờ gì nữa"
-  },
-  {
-    "id": 304,
-    "en1": "desirable",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) mong muốn"
-  },
-  {
-    "id": 305,
-    "en1": "scenic",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) cảnh đẹp"
-  },
-  {
-    "id": 306,
-    "en1": "alongside",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(prepositions) bên cạnh hoặc cùng với"
-  },
-  {
-    "id": 307,
-    "en1": "theoretically",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adverbs) về lý thuyết"
-  },
-  {
-    "id": 308,
-    "en1": "literary",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) văn học"
-  },
-  {
-    "id": 309,
-    "en1": "lagoon",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) đầm phá"
-  },
-  {
-    "id": 310,
-    "en1": "whim",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) ý thích bất chợt"
-  },
-  {
-    "id": 311,
-    "en1": "unscrupulous",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) vô đạo đức"
-  },
-  {
-    "id": 312,
-    "en1": "comprehend",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(verbs) hiểu thấu đáo"
-  },
-  {
-    "id": 313,
-    "en1": "dependable",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) đáng tin cậy"
-  },
-  {
-    "id": 314,
-    "en1": "lender",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) người cho vay"
-  },
-  {
-    "id": 315,
-    "en1": "depression",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) trầm cảm"
-  },
-  {
-    "id": 316,
-    "en1": "fracture",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(verbs) gãy"
-  },
-  {
-    "id": 317,
-    "en1": "intent",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) ý định"
-  },
-  {
-    "id": 318,
-    "en1": "illogical",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) không hợp lý"
-  },
-  {
-    "id": 319,
-    "en1": "interim",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) tạm thời"
-  },
-  {
-    "id": 320,
-    "en1": "cashier",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) thu ngân"
-  },
-  {
-    "id": 321,
-    "en1": "enlighten",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(verbs) khai sáng"
-  },
-  {
-    "id": 322,
-    "en1": "cystic",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) u nang"
-  },
-  {
-    "id": 323,
-    "en1": "dictate",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(verbs) đọc chép"
-  },
-  {
-    "id": 324,
-    "en1": "festive",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) lễ hội"
-  },
-  {
-    "id": 325,
-    "en1": "bruise",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(verbs) vết bầm"
-  },
-  {
-    "id": 326,
-    "en1": "accomplish",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(verbs) hoàn thành"
-  },
-  {
-    "id": 327,
-    "en1": "nibble",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(verbs) cắn nhỏ"
-  },
-  {
-    "id": 328,
-    "en1": "haunt",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(verbs) ám ảnh"
-  },
-  {
-    "id": 329,
-    "en1": "descendant",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) hậu duệ"
-  },
-  {
-    "id": 330,
-    "en1": "padlock",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) ổ khóa"
-  },
-  {
-    "id": 331,
-    "en1": "loveseat",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) ghế tình yêu"
-  },
-  {
-    "id": 332,
-    "en1": "hypothetical",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) giả thuyết"
-  },
-  {
-    "id": 333,
-    "en1": "formally",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adverbs) chính thức"
-  },
-  {
-    "id": 334,
-    "en1": "presumably",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adverbs) có lẽ"
-  },
-  {
-    "id": 335,
-    "en1": "lorry",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) xe tải"
-  },
-  {
-    "id": 336,
-    "en1": "forgery",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) giả mạo"
-  },
-  {
-    "id": 337,
-    "en1": "symptom",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) triệu chứng"
-  },
-  {
-    "id": 338,
-    "en1": "contend",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(verbs) đấu tranh"
-  },
-  {
-    "id": 339,
+    "id": 172,
     "en1": "trek",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "(nouns) cuộc hành trình dài và thử thách"
+    "vn1": "(verbs) cuộc hành trình gian nan"
   },
   {
-    "id": 340,
-    "en1": "cruise",
+    "id": 173,
+    "en1": "trace",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "(verbs) chuyến du hành"
+    "vn1": "(nouns) dấu vết"
   },
   {
-    "id": 341,
-    "en1": "industrialized",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) đã công nghiệp hóa"
-  },
-  {
-    "id": 342,
-    "en1": "legislative",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) lập pháp"
-  },
-  {
-    "id": 343,
-    "en1": "indefinitely",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adverbs) vô thời hạn"
-  },
-  {
-    "id": 344,
-    "en1": "terminal",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) nhà ga"
-  },
-  {
-    "id": 345,
-    "en1": "synagogue",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) giáo đường"
-  },
-  {
-    "id": 346,
-    "en1": "customary",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) thông tục"
-  },
-  {
-    "id": 347,
-    "en1": "furiously",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adverbs) một cách giận dữ"
-  },
-  {
-    "id": 348,
-    "en1": "tolerate",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(verbs) chịu đựng"
-  },
-  {
-    "id": 349,
-    "en1": "lodge",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(verbs) ở tạm"
-  },
-  {
-    "id": 350,
-    "en1": "wane",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(verbs) giảm bớt"
-  },
-  {
-    "id": 351,
-    "en1": "radical",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) người cấp tiến"
-  },
-  {
-    "id": 352,
-    "en1": "concealment",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) sự che giấu"
-  },
-  {
-    "id": 353,
-    "en1": "hawk",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) diều hâu"
-  },
-  {
-    "id": 354,
-    "en1": "germ",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) mầm bệnh"
-  },
-  {
-    "id": 355,
-    "en1": "vigor",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) sức sống"
-  },
-  {
-    "id": 356,
-    "en1": "cultivate",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(verbs) trồng trọt"
-  },
-  {
-    "id": 357,
-    "en1": "furnish",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(verbs) cung cấp hoặc trang bị"
-  },
-  {
-    "id": 358,
-    "en1": "methodology",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) phương pháp luận"
-  },
-  {
-    "id": 359,
-    "en1": "moral",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) bài học đạo đức"
-  },
-  {
-    "id": 360,
-    "en1": "irritable",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) dễ cáu"
-  },
-  {
-    "id": 361,
-    "en1": "restrict",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(verbs) hạn chế"
-  },
-  {
-    "id": 362,
-    "en1": "plague",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) dịch bệnh"
-  },
-  {
-    "id": 363,
-    "en1": "acute",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) cấp tính"
-  },
-  {
-    "id": 364,
-    "en1": "theology",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) thần học"
-  },
-  {
-    "id": 365,
-    "en1": "interpret",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(verbs) diễn giải"
-  },
-  {
-    "id": 366,
-    "en1": "enroll",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(verbs) ghi danh"
-  },
-  {
-    "id": 367,
-    "en1": "transaction",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) giao dịch"
-  },
-  {
-    "id": 368,
-    "en1": "frugal",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) tiết kiệm"
-  },
-  {
-    "id": 369,
-    "en1": "riverbank",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) bờ sông"
-  },
-  {
-    "id": 370,
-    "en1": "chilly",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) se lạnh"
-  },
-  {
-    "id": 371,
-    "en1": "prestigious",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) có uy tín"
-  },
-  {
-    "id": 372,
-    "en1": "floss",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(verbs) dùng chỉ nha khoa"
-  },
-  {
-    "id": 373,
-    "en1": "intense",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) mãnh liệt"
-  },
-  {
-    "id": 374,
-    "en1": "strategic",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) chiến lược"
-  },
-  {
-    "id": 375,
-    "en1": "extremist",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) kẻ cực đoan"
-  },
-  {
-    "id": 376,
-    "en1": "arbitrary",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) tùy tiện"
-  },
-  {
-    "id": 377,
-    "en1": "indigenous",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) bản địa"
-  },
-  {
-    "id": 378,
-    "en1": "awash",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) ngập tràn"
-  },
-  {
-    "id": 379,
-    "en1": "forthcoming",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) sắp tới"
-  },
-  {
-    "id": 380,
-    "en1": "lockdown",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) phong tỏa"
-  },
-  {
-    "id": 381,
+    "id": 174,
     "en1": "hurricane",
     "en2": "",
     "en3": "",
@@ -3048,1079 +1392,31 @@
     "vn1": "(nouns) bão"
   },
   {
-    "id": 382,
-    "en1": "continual",
+    "id": 175,
+    "en1": "depression",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "(adjectives) liên tục"
+    "vn1": "(nouns) trầm cảm"
   },
   {
-    "id": 383,
-    "en1": "impose",
+    "id": 176,
+    "en1": "concealment",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "(verbs) áp đặt"
+    "vn1": "(nouns) sự che giấu"
   },
   {
-    "id": 384,
-    "en1": "notably",
+    "id": 177,
+    "en1": "flee",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "(connecting_words) đáng chú ý"
+    "vn1": "(verbs) chạy trốn"
   },
   {
-    "id": 385,
-    "en1": "sideways",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adverbs) sang bên"
-  },
-  {
-    "id": 386,
-    "en1": "unveiling",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) công bố"
-  },
-  {
-    "id": 387,
-    "en1": "creed",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) tín điều"
-  },
-  {
-    "id": 388,
-    "en1": "withdrawal",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) rút tiền"
-  },
-  {
-    "id": 389,
-    "en1": "misinform",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(verbs) cung cấp thông tin sai"
-  },
-  {
-    "id": 390,
-    "en1": "shimmer",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(verbs) lung linh"
-  },
-  {
-    "id": 391,
-    "en1": "moderate",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) vừa phải"
-  },
-  {
-    "id": 392,
-    "en1": "deft",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) khéo léo"
-  },
-  {
-    "id": 393,
-    "en1": "brass",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) đồng thau"
-  },
-  {
-    "id": 394,
-    "en1": "therapeutic",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) trị liệu"
-  },
-  {
-    "id": 395,
-    "en1": "ghillie",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) ghillie"
-  },
-  {
-    "id": 396,
-    "en1": "tremendously",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adverbs) rất nhiều"
-  },
-  {
-    "id": 397,
-    "en1": "nationwide",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) toàn quốc"
-  },
-  {
-    "id": 398,
-    "en1": "emergence",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) sự xuất hiện"
-  },
-  {
-    "id": 399,
-    "en1": "cocktail",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) cocktail"
-  },
-  {
-    "id": 400,
-    "en1": "resourcefulness",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) sự tháo vát"
-  },
-  {
-    "id": 401,
-    "en1": "herringbone",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) xương cá"
-  },
-  {
-    "id": 402,
-    "en1": "rebel",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) người nổi loạn"
-  },
-  {
-    "id": 403,
-    "en1": "realm",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) vương quốc"
-  },
-  {
-    "id": 404,
-    "en1": "frantic",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) cuồng loạn"
-  },
-  {
-    "id": 405,
-    "en1": "unplug",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(verbs) rút phích cắm"
-  },
-  {
-    "id": 406,
-    "en1": "allegedly",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adverbs) được cho là"
-  },
-  {
-    "id": 407,
-    "en1": "tousle",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(verbs) làm rối"
-  },
-  {
-    "id": 408,
-    "en1": "track",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(verbs) theo dõi"
-  },
-  {
-    "id": 409,
-    "en1": "janitor",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) người lao công"
-  },
-  {
-    "id": 410,
-    "en1": "contention",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) tranh cãi"
-  },
-  {
-    "id": 411,
-    "en1": "assimilation",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) đồng hóa"
-  },
-  {
-    "id": 412,
-    "en1": "worthless",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) vô giá trị"
-  },
-  {
-    "id": 413,
-    "en1": "conscientious",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) tận tâm"
-  },
-  {
-    "id": 414,
-    "en1": "zest",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) nhiệt tình hoặc vỏ cam chanh"
-  },
-  {
-    "id": 415,
-    "en1": "chalk",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) phấn"
-  },
-  {
-    "id": 416,
-    "en1": "triumph",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) chiến thắng"
-  },
-  {
-    "id": 417,
-    "en1": "unjust",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) bất công"
-  },
-  {
-    "id": 418,
-    "en1": "accrue",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(verbs) tích lũy"
-  },
-  {
-    "id": 419,
-    "en1": "consciousness",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) ý thức"
-  },
-  {
-    "id": 420,
-    "en1": "mural",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) bích họa"
-  },
-  {
-    "id": 421,
-    "en1": "smog",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) khói mù"
-  },
-  {
-    "id": 422,
-    "en1": "purification",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) sự tinh lọc"
-  },
-  {
-    "id": 423,
-    "en1": "overcast",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) u ám"
-  },
-  {
-    "id": 424,
-    "en1": "principle",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) nguyên tắc"
-  },
-  {
-    "id": 425,
-    "en1": "pit",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) hố hoặc hạt"
-  },
-  {
-    "id": 426,
-    "en1": "gratuity",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) tiền boa"
-  },
-  {
-    "id": 427,
-    "en1": "backward",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adverbs) lùi lại"
-  },
-  {
-    "id": 428,
-    "en1": "universally",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adverbs) Ai cũng biết rằng trái đất quay quanh mặt trời"
-  },
-  {
-    "id": 429,
-    "en1": "restrain",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(verbs) kiềm chế"
-  },
-  {
-    "id": 430,
-    "en1": "ethical",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) đạo đức"
-  },
-  {
-    "id": 431,
-    "en1": "feast",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(verbs) bữa tiệc"
-  },
-  {
-    "id": 432,
-    "en1": "infection",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) nhiễm trùng"
-  },
-  {
-    "id": 433,
-    "en1": "inherent",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) vốn có"
-  },
-  {
-    "id": 434,
-    "en1": "donor",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) người hiến tặng"
-  },
-  {
-    "id": 435,
-    "en1": "unite",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(verbs) thống nhất"
-  },
-  {
-    "id": 436,
-    "en1": "imminent",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) sắp xảy ra"
-  },
-  {
-    "id": 437,
-    "en1": "scattered",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) rải rác"
-  },
-  {
-    "id": 438,
-    "en1": "disciple",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) môn đồ"
-  },
-  {
-    "id": 439,
-    "en1": "stain",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(verbs) vết"
-  },
-  {
-    "id": 440,
-    "en1": "carnival",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) lễ hội hóa trang"
-  },
-  {
-    "id": 441,
-    "en1": "graffiti",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) graffiti"
-  },
-  {
-    "id": 442,
-    "en1": "weeping",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) khóc lóc"
-  },
-  {
-    "id": 443,
-    "en1": "edible",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) ăn được"
-  },
-  {
-    "id": 444,
-    "en1": "sheer",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) dốc đứng hoặc mỏng và trong suốt"
-  },
-  {
-    "id": 445,
-    "en1": "homeowner",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) chủ nhà"
-  },
-  {
-    "id": 446,
-    "en1": "gilded",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) mạ vàng"
-  },
-  {
-    "id": 447,
-    "en1": "envy",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) ghen tị"
-  },
-  {
-    "id": 448,
-    "en1": "manifest",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) rõ ràng"
-  },
-  {
-    "id": 449,
-    "en1": "hence",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(connecting_words) do đó"
-  },
-  {
-    "id": 450,
-    "en1": "reindeer",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) tuần lộc"
-  },
-  {
-    "id": 451,
-    "en1": "contract",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(verbs) thu lại"
-  },
-  {
-    "id": 452,
-    "en1": "viewpoint",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) quan điểm"
-  },
-  {
-    "id": 453,
-    "en1": "communist",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) cộng sản"
-  },
-  {
-    "id": 454,
-    "en1": "partially",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adverbs) một phần"
-  },
-  {
-    "id": 455,
-    "en1": "precipitation",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) sự kết tủa"
-  },
-  {
-    "id": 456,
-    "en1": "composting",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) ủ phân"
-  },
-  {
-    "id": 457,
-    "en1": "fragile",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) dễ vỡ"
-  },
-  {
-    "id": 458,
-    "en1": "webbed",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) có màng"
-  },
-  {
-    "id": 459,
-    "en1": "forge",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(verbs) rèn"
-  },
-  {
-    "id": 460,
-    "en1": "scarcity",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) sự khan hiếm"
-  },
-  {
-    "id": 461,
-    "en1": "fairness",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) sự công bằng"
-  },
-  {
-    "id": 462,
-    "en1": "scope",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) phạm vi"
-  },
-  {
-    "id": 463,
-    "en1": "merely",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adverbs) chỉ"
-  },
-  {
-    "id": 464,
-    "en1": "preservation",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) bảo tồn"
-  },
-  {
-    "id": 465,
-    "en1": "volatility",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) tính biến động"
-  },
-  {
-    "id": 466,
-    "en1": "easygoing",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) dễ chịu"
-  },
-  {
-    "id": 467,
-    "en1": "uncover",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(verbs) khám phá"
-  },
-  {
-    "id": 468,
-    "en1": "gross",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) tổng"
-  },
-  {
-    "id": 469,
-    "en1": "genre",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) thể loại"
-  },
-  {
-    "id": 470,
-    "en1": "stretch",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(verbs) kéo dãn"
-  },
-  {
-    "id": 471,
-    "en1": "consent",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) sự đồng ý"
-  },
-  {
-    "id": 472,
-    "en1": "petty",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) nhỏ nhặt"
-  },
-  {
-    "id": 473,
-    "en1": "indigo",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) màu chàm"
-  },
-  {
-    "id": 474,
-    "en1": "ethics",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) đạo đức"
-  },
-  {
-    "id": 475,
-    "en1": "indulge",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(verbs) chiều chuộng"
-  },
-  {
-    "id": 476,
-    "en1": "mash",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(verbs) nghiền"
-  },
-  {
-    "id": 477,
-    "en1": "indictment",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) cáo trạng"
-  },
-  {
-    "id": 478,
-    "en1": "emit",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(verbs) phát ra"
-  },
-  {
-    "id": 479,
-    "en1": "stiff",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) xác chết/người rất trang trọng"
-  },
-  {
-    "id": 480,
-    "en1": "locomotive",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) đầu máy"
-  },
-  {
-    "id": 481,
-    "en1": "franchise",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) nhượng quyền thương mại"
-  },
-  {
-    "id": 482,
-    "en1": "superior",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) vượt trội"
-  },
-  {
-    "id": 483,
-    "en1": "guts",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) ruột"
-  },
-  {
-    "id": 484,
-    "en1": "lick",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(verbs) liếm"
-  },
-  {
-    "id": 485,
-    "en1": "drought",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) hạn hán"
-  },
-  {
-    "id": 486,
-    "en1": "illegible",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) không đọc được"
-  },
-  {
-    "id": 487,
-    "en1": "purely",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adverbs) chỉ hoặc hoàn toàn"
-  },
-  {
-    "id": 488,
-    "en1": "funeral",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) đám tang"
-  },
-  {
-    "id": 489,
-    "en1": "outrage",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) phẫn nộ"
-  },
-  {
-    "id": 490,
-    "en1": "uphold",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(verbs) Ủng hộ"
-  },
-  {
-    "id": 491,
-    "en1": "iguana",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) kỳ nhông"
-  },
-  {
-    "id": 492,
-    "en1": "masterpiece",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) kiệt tác"
-  },
-  {
-    "id": 493,
-    "en1": "adventurous",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) thích phiêu lưu"
-  },
-  {
-    "id": 494,
-    "en1": "scar",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) sẹo"
-  },
-  {
-    "id": 495,
-    "en1": "manuscript",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) bản thảo"
-  },
-  {
-    "id": 496,
-    "en1": "delicacy",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) cao lương mỹ vị hoặc sự tinh tế"
-  },
-  {
-    "id": 497,
-    "en1": "seal",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(verbs) niêm phong"
-  },
-  {
-    "id": 498,
-    "en1": "mobilize",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(verbs) huy động"
-  },
-  {
-    "id": 499,
-    "en1": "obesity",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) béo phì"
-  },
-  {
-    "id": 500,
-    "en1": "differentiate",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(verbs) phân biệt"
-  },
-  {
-    "id": 501,
-    "en1": "sparkle",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(verbs) lóe sáng"
-  },
-  {
-    "id": 502,
-    "en1": "glorious",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) vinh quang"
-  },
-  {
-    "id": 503,
-    "en1": "guardianship",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) quyền giám hộ"
-  },
-  {
-    "id": 504,
-    "en1": "stagnation",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) trì trệ"
-  },
-  {
-    "id": 505,
-    "en1": "foul",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) hôi thối/bẩn/bất công"
-  },
-  {
-    "id": 506,
-    "en1": "physician",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) bác sĩ"
-  },
-  {
-    "id": 507,
-    "en1": "etiquette",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) phép xã giao"
-  },
-  {
-    "id": 508,
-    "en1": "rotate",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(verbs) xoay vòng"
-  },
-  {
-    "id": 509,
-    "en1": "rot",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(verbs) mục nát"
-  },
-  {
-    "id": 510,
-    "en1": "pitiful",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) đáng thương"
-  },
-  {
-    "id": 511,
-    "en1": "linger",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(verbs) nán lại"
-  },
-  {
-    "id": 512,
-    "en1": "crossbones",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) xương chéo"
-  },
-  {
-    "id": 513,
-    "en1": "counselor",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) cố vấn"
-  },
-  {
-    "id": 514,
-    "en1": "anticipation",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(nouns) sự mong đợi"
-  },
-  {
-    "id": 515,
-    "en1": "minimal",
-    "en2": "",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adjectives) tối thiểu"
-  },
-  {
-    "id": 516,
+    "id": 178,
     "en1": "ruffled",
     "en2": "",
     "en3": "",
@@ -4128,7 +1424,1959 @@
     "vn1": "(adjectives) xao động"
   },
   {
-    "id": 517,
+    "id": 179,
+    "en1": "bare",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) trần trụi"
+  },
+  {
+    "id": 180,
+    "en1": "anthropology",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) nhân học"
+  },
+  {
+    "id": 181,
+    "en1": "universally",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adverbs) Ai cũng biết rằng trái đất quay quanh mặt trời"
+  },
+  {
+    "id": 182,
+    "en1": "feast",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) bữa tiệc"
+  },
+  {
+    "id": 183,
+    "en1": "stem",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) thân cây"
+  },
+  {
+    "id": 184,
+    "en1": "purification",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) sự tinh lọc"
+  },
+  {
+    "id": 185,
+    "en1": "brass",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) đồng thau"
+  },
+  {
+    "id": 186,
+    "en1": "widow",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) góa phụ"
+  },
+  {
+    "id": 187,
+    "en1": "reindeer",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) tuần lộc"
+  },
+  {
+    "id": 188,
+    "en1": "swap",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) đổi"
+  },
+  {
+    "id": 189,
+    "en1": "manuscript",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) bản thảo"
+  },
+  {
+    "id": 190,
+    "en1": "dictate",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) đọc chép"
+  },
+  {
+    "id": 191,
+    "en1": "parade",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) diễu hành"
+  },
+  {
+    "id": 192,
+    "en1": "emergence",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) sự xuất hiện"
+  },
+  {
+    "id": 193,
+    "en1": "insofar",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(connecting_words) \"trong phạm vi\""
+  },
+  {
+    "id": 194,
+    "en1": "gadget",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) thiết bị"
+  },
+  {
+    "id": 195,
+    "en1": "restrain",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) kiềm chế"
+  },
+  {
+    "id": 196,
+    "en1": "dictator",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) nhà độc tài"
+  },
+  {
+    "id": 197,
+    "en1": "ghillie",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) ghillie"
+  },
+  {
+    "id": 198,
+    "en1": "mathematical",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) toán học"
+  },
+  {
+    "id": 199,
+    "en1": "scenic",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) cảnh đẹp"
+  },
+  {
+    "id": 200,
+    "en1": "hint",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) gợi ý"
+  },
+  {
+    "id": 201,
+    "en1": "retro-style",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) phong cách hoài cổ"
+  },
+  {
+    "id": 202,
+    "en1": "folklore",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) văn hóa dân gian"
+  },
+  {
+    "id": 203,
+    "en1": "indigo",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) màu chàm"
+  },
+  {
+    "id": 204,
+    "en1": "unveiling",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) công bố"
+  },
+  {
+    "id": 205,
+    "en1": "shrug",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) nhún vai"
+  },
+  {
+    "id": 206,
+    "en1": "accrue",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) tích lũy"
+  },
+  {
+    "id": 207,
+    "en1": "assimilation",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) đồng hóa"
+  },
+  {
+    "id": 208,
+    "en1": "cruise",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) chuyến du hành"
+  },
+  {
+    "id": 209,
+    "en1": "crush",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) nghiền nát"
+  },
+  {
+    "id": 210,
+    "en1": "plague",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) dịch bệnh"
+  },
+  {
+    "id": 211,
+    "en1": "contempt",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) sự khinh miệt"
+  },
+  {
+    "id": 212,
+    "en1": "donor",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) người hiến tặng"
+  },
+  {
+    "id": 213,
+    "en1": "fracture",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) gãy"
+  },
+  {
+    "id": 214,
+    "en1": "contender",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) đối thủ"
+  },
+  {
+    "id": 215,
+    "en1": "projection",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) sự dự đoán"
+  },
+  {
+    "id": 216,
+    "en1": "prestigious",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) có uy tín"
+  },
+  {
+    "id": 217,
+    "en1": "blend",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) trộn"
+  },
+  {
+    "id": 218,
+    "en1": "gilded",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) mạ vàng"
+  },
+  {
+    "id": 219,
+    "en1": "petty",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) nhỏ nhặt"
+  },
+  {
+    "id": 220,
+    "en1": "janitor",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) người lao công"
+  },
+  {
+    "id": 221,
+    "en1": "loveseat",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) ghế tình yêu"
+  },
+  {
+    "id": 222,
+    "en1": "aside",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adverbs) sang một bên"
+  },
+  {
+    "id": 223,
+    "en1": "flea",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) bọ chét"
+  },
+  {
+    "id": 224,
+    "en1": "signify",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) biểu thị"
+  },
+  {
+    "id": 225,
+    "en1": "wipe",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) lau"
+  },
+  {
+    "id": 226,
+    "en1": "monotonous",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) đơn điệu"
+  },
+  {
+    "id": 227,
+    "en1": "diplomat",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) nhà ngoại giao"
+  },
+  {
+    "id": 228,
+    "en1": "legislative",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) lập pháp"
+  },
+  {
+    "id": 229,
+    "en1": "empathy",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) sự thấu cảm"
+  },
+  {
+    "id": 230,
+    "en1": "crave",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) khao khát"
+  },
+  {
+    "id": 231,
+    "en1": "maturity",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) sự trưởng thành"
+  },
+  {
+    "id": 232,
+    "en1": "inquisitive",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) tò mò"
+  },
+  {
+    "id": 233,
+    "en1": "landmark",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) mốc"
+  },
+  {
+    "id": 234,
+    "en1": "glamorous",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) quyến rũ"
+  },
+  {
+    "id": 235,
+    "en1": "guardianship",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) quyền giám hộ"
+  },
+  {
+    "id": 236,
+    "en1": "likewise",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(connecting_words) tương tự"
+  },
+  {
+    "id": 237,
+    "en1": "vulnerability",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) tính dễ bị tổn thương"
+  },
+  {
+    "id": 238,
+    "en1": "emit",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) phát ra"
+  },
+  {
+    "id": 239,
+    "en1": "contention",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) tranh cãi"
+  },
+  {
+    "id": 240,
+    "en1": "amateur",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) nghiệp dư"
+  },
+  {
+    "id": 241,
+    "en1": "rot",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) mục nát"
+  },
+  {
+    "id": 242,
+    "en1": "fragile",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) dễ vỡ"
+  },
+  {
+    "id": 243,
+    "en1": "continual",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) liên tục"
+  },
+  {
+    "id": 244,
+    "en1": "foul",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) hôi thối/bẩn/bất công"
+  },
+  {
+    "id": 245,
+    "en1": "stall",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) ngừng lại"
+  },
+  {
+    "id": 246,
+    "en1": "suspicious",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) đáng ngờ"
+  },
+  {
+    "id": 247,
+    "en1": "interconnect",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) liên kết"
+  },
+  {
+    "id": 248,
+    "en1": "alliance",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) liên minh"
+  },
+  {
+    "id": 249,
+    "en1": "arbitrary",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) tùy tiện"
+  },
+  {
+    "id": 250,
+    "en1": "relativity",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) thuyết tương đối"
+  },
+  {
+    "id": 251,
+    "en1": "pious",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) mộ đạo"
+  },
+  {
+    "id": 252,
+    "en1": "brutal",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) tàn bạo"
+  },
+  {
+    "id": 253,
+    "en1": "imminent",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) sắp xảy ra"
+  },
+  {
+    "id": 254,
+    "en1": "transcend",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) vượt qua"
+  },
+  {
+    "id": 255,
+    "en1": "ritual",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) nghi lễ"
+  },
+  {
+    "id": 256,
+    "en1": "physician",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) bác sĩ"
+  },
+  {
+    "id": 257,
+    "en1": "imaginary",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) tưởng tượng"
+  },
+  {
+    "id": 258,
+    "en1": "precipitation",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) sự kết tủa"
+  },
+  {
+    "id": 259,
+    "en1": "precedent",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) tiền lệ"
+  },
+  {
+    "id": 260,
+    "en1": "ample",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) phong phú"
+  },
+  {
+    "id": 261,
+    "en1": "custody",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) quyền giám hộ"
+  },
+  {
+    "id": 262,
+    "en1": "misinform",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) cung cấp thông tin sai"
+  },
+  {
+    "id": 263,
+    "en1": "indie",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) độc lập"
+  },
+  {
+    "id": 264,
+    "en1": "infection",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) nhiễm trùng"
+  },
+  {
+    "id": 265,
+    "en1": "respectable",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) đáng kính"
+  },
+  {
+    "id": 266,
+    "en1": "favorable",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) thuận lợi"
+  },
+  {
+    "id": 267,
+    "en1": "extremist",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) kẻ cực đoan"
+  },
+  {
+    "id": 268,
+    "en1": "ethical",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) đạo đức"
+  },
+  {
+    "id": 269,
+    "en1": "scarcity",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) sự khan hiếm"
+  },
+  {
+    "id": 270,
+    "en1": "indefinitely",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adverbs) vô thời hạn"
+  },
+  {
+    "id": 271,
+    "en1": "bruise",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) vết bầm"
+  },
+  {
+    "id": 272,
+    "en1": "tribal",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) bộ lạc"
+  },
+  {
+    "id": 273,
+    "en1": "tentacle",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) xúc tu"
+  },
+  {
+    "id": 274,
+    "en1": "municipal",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) thuộc thành phố"
+  },
+  {
+    "id": 275,
+    "en1": "ulterior",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) ẩn ý"
+  },
+  {
+    "id": 276,
+    "en1": "ghostly",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) ma quái"
+  },
+  {
+    "id": 277,
+    "en1": "scrutiny",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) xem xét kỹ lưỡng"
+  },
+  {
+    "id": 278,
+    "en1": "mutter",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) lẩm bẩm"
+  },
+  {
+    "id": 279,
+    "en1": "lawsuit",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) vụ kiện"
+  },
+  {
+    "id": 280,
+    "en1": "spine",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) xương sống"
+  },
+  {
+    "id": 281,
+    "en1": "uphold",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) Ủng hộ"
+  },
+  {
+    "id": 282,
+    "en1": "ensue",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) xảy ra sau đó"
+  },
+  {
+    "id": 283,
+    "en1": "pitch",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) ném"
+  },
+  {
+    "id": 284,
+    "en1": "adventurous",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) thích phiêu lưu"
+  },
+  {
+    "id": 285,
+    "en1": "timeout",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) tạm dừng"
+  },
+  {
+    "id": 286,
+    "en1": "innocently",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adverbs) vô tội"
+  },
+  {
+    "id": 287,
+    "en1": "generic",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) chung chung"
+  },
+  {
+    "id": 288,
+    "en1": "wristwatch",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) đồng hồ đeo tay"
+  },
+  {
+    "id": 289,
+    "en1": "solicitor",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) luật sư/solicitor"
+  },
+  {
+    "id": 290,
+    "en1": "stucco",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) vữa"
+  },
+  {
+    "id": 291,
+    "en1": "formally",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adverbs) chính thức"
+  },
+  {
+    "id": 292,
+    "en1": "haunt",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) ám ảnh"
+  },
+  {
+    "id": 293,
+    "en1": "bucket",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) cái xô"
+  },
+  {
+    "id": 294,
+    "en1": "lengthy",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) dài dòng"
+  },
+  {
+    "id": 295,
+    "en1": "zest",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) nhiệt tình hoặc vỏ cam chanh"
+  },
+  {
+    "id": 296,
+    "en1": "communist",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) cộng sản"
+  },
+  {
+    "id": 297,
+    "en1": "eyelet",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) ô khuyên"
+  },
+  {
+    "id": 298,
+    "en1": "theoretically",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adverbs) về lý thuyết"
+  },
+  {
+    "id": 299,
+    "en1": "trademark",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) nhãn hiệu"
+  },
+  {
+    "id": 300,
+    "en1": "strain",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) căng thẳng"
+  },
+  {
+    "id": 301,
+    "en1": "mash",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) nghiền"
+  },
+  {
+    "id": 302,
+    "en1": "assemble",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) lắp ráp"
+  },
+  {
+    "id": 303,
+    "en1": "revival",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) sự phục hồi"
+  },
+  {
+    "id": 304,
+    "en1": "surgical",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) phẫu thuật"
+  },
+  {
+    "id": 305,
+    "en1": "formulate",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) hình thành"
+  },
+  {
+    "id": 306,
+    "en1": "franchise",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) nhượng quyền thương mại"
+  },
+  {
+    "id": 307,
+    "en1": "trespassing",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) xâm nhập trái phép"
+  },
+  {
+    "id": 308,
+    "en1": "forgery",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) giả mạo"
+  },
+  {
+    "id": 309,
+    "en1": "dice",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) xúc xắc"
+  },
+  {
+    "id": 310,
+    "en1": "nationwide",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) toàn quốc"
+  },
+  {
+    "id": 311,
+    "en1": "industrialized",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) đã công nghiệp hóa"
+  },
+  {
+    "id": 312,
+    "en1": "suburban",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) ngoại ô"
+  },
+  {
+    "id": 313,
+    "en1": "plunge",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) lao vào"
+  },
+  {
+    "id": 314,
+    "en1": "drift",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) trôi"
+  },
+  {
+    "id": 315,
+    "en1": "moral",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) bài học đạo đức"
+  },
+  {
+    "id": 316,
+    "en1": "presumably",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adverbs) có lẽ"
+  },
+  {
+    "id": 317,
+    "en1": "festive",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) lễ hội"
+  },
+  {
+    "id": 318,
+    "en1": "incidence",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) tỷ lệ"
+  },
+  {
+    "id": 319,
+    "en1": "irresistible",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) không thể cưỡng lại"
+  },
+  {
+    "id": 320,
+    "en1": "omit",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) bỏ qua"
+  },
+  {
+    "id": 321,
+    "en1": "unrest",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) bất ổn"
+  },
+  {
+    "id": 322,
+    "en1": "foresee",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) dự đoán"
+  },
+  {
+    "id": 323,
+    "en1": "synthesize",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) tổng hợp"
+  },
+  {
+    "id": 324,
+    "en1": "conservative",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) bảo thủ"
+  },
+  {
+    "id": 325,
+    "en1": "routinely",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adverbs) thường xuyên"
+  },
+  {
+    "id": 326,
+    "en1": "quest",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) cuộc tìm kiếm"
+  },
+  {
+    "id": 327,
+    "en1": "unite",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) thống nhất"
+  },
+  {
+    "id": 328,
+    "en1": "irritable",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) dễ cáu"
+  },
+  {
+    "id": 329,
+    "en1": "uniformly",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adverbs) đồng nhất"
+  },
+  {
+    "id": 330,
+    "en1": "stir",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) khuấy"
+  },
+  {
+    "id": 331,
+    "en1": "lorry",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) xe tải"
+  },
+  {
+    "id": 332,
+    "en1": "sensibly",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adverbs) một cách khôn ngoan"
+  },
+  {
+    "id": 333,
+    "en1": "therapy",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) trị liệu"
+  },
+  {
+    "id": 334,
+    "en1": "sketch",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) phác thảo"
+  },
+  {
+    "id": 335,
+    "en1": "willpower",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) ý chí"
+  },
+  {
+    "id": 336,
+    "en1": "gaze",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) nhìn chăm chú"
+  },
+  {
+    "id": 337,
+    "en1": "inability",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) sự không có khả năng"
+  },
+  {
+    "id": 338,
+    "en1": "poll",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) cuộc thăm dò"
+  },
+  {
+    "id": 339,
+    "en1": "guts",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) ruột"
+  },
+  {
+    "id": 340,
+    "en1": "jersey",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) áo đấu"
+  },
+  {
+    "id": 341,
+    "en1": "diagnosis",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) chẩn đoán"
+  },
+  {
+    "id": 342,
+    "en1": "seal",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) niêm phong"
+  },
+  {
+    "id": 343,
+    "en1": "recipient",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) người nhận"
+  },
+  {
+    "id": 344,
+    "en1": "uncover",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) khám phá"
+  },
+  {
+    "id": 345,
+    "en1": "pit",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) hố hoặc hạt"
+  },
+  {
+    "id": 346,
+    "en1": "intense",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) mãnh liệt"
+  },
+  {
+    "id": 347,
+    "en1": "awash",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) ngập tràn"
+  },
+  {
+    "id": 348,
+    "en1": "theology",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) thần học"
+  },
+  {
+    "id": 349,
+    "en1": "philosophical",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) triết học"
+  },
+  {
+    "id": 350,
+    "en1": "stamina",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) sức bền"
+  },
+  {
+    "id": 351,
+    "en1": "residence",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) nơi cư trú"
+  },
+  {
+    "id": 352,
+    "en1": "nursery",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) nhà trẻ hoặc vườn ươm"
+  },
+  {
+    "id": 353,
+    "en1": "multi-paned",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) nhiều ô kính"
+  },
+  {
+    "id": 354,
+    "en1": "rebel",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) người nổi loạn"
+  },
+  {
+    "id": 355,
+    "en1": "unjust",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) bất công"
+  },
+  {
+    "id": 356,
+    "en1": "realm",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) vương quốc"
+  },
+  {
+    "id": 357,
+    "en1": "purifier",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) thiết bị lọc"
+  },
+  {
+    "id": 358,
+    "en1": "volatility",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) tính biến động"
+  },
+  {
+    "id": 359,
+    "en1": "pill",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) viên thuốc"
+  },
+  {
+    "id": 360,
+    "en1": "tendency",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) xu hướng"
+  },
+  {
+    "id": 361,
+    "en1": "civilization",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) nền văn minh"
+  },
+  {
+    "id": 362,
+    "en1": "accountable",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) chịu trách nhiệm"
+  },
+  {
+    "id": 363,
+    "en1": "wellness",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) sức khỏe toàn diện"
+  },
+  {
+    "id": 364,
+    "en1": "disruption",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) gián đoạn"
+  },
+  {
+    "id": 365,
+    "en1": "scar",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) sẹo"
+  },
+  {
+    "id": 366,
+    "en1": "spouse",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) vợ/chồng"
+  },
+  {
+    "id": 367,
+    "en1": "radical",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) người cấp tiến"
+  },
+  {
+    "id": 368,
+    "en1": "carve",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) chạm khắc"
+  },
+  {
+    "id": 369,
+    "en1": "comparatively",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(connecting_words) tương đối"
+  },
+  {
+    "id": 370,
+    "en1": "gratuity",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) tiền boa"
+  },
+  {
+    "id": 371,
+    "en1": "graffiti",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) graffiti"
+  },
+  {
+    "id": 372,
+    "en1": "reconcile",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) hòa giải"
+  },
+  {
+    "id": 373,
+    "en1": "furthermore",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(connecting_words) hơn nữa"
+  },
+  {
+    "id": 374,
+    "en1": "cocktail",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) cocktail"
+  },
+  {
+    "id": 375,
+    "en1": "gymnastics",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) thể dục dụng cụ"
+  },
+  {
+    "id": 376,
+    "en1": "partially",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adverbs) một phần"
+  },
+  {
+    "id": 377,
+    "en1": "notorious",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) khét tiếng"
+  },
+  {
+    "id": 378,
+    "en1": "intentionally",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adverbs) cố tình"
+  },
+  {
+    "id": 379,
+    "en1": "inner",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) bên trong"
+  },
+  {
+    "id": 380,
+    "en1": "outrage",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) phẫn nộ"
+  },
+  {
+    "id": 381,
+    "en1": "overcast",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) u ám"
+  },
+  {
+    "id": 382,
+    "en1": "equator",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) đường xích đạo"
+  },
+  {
+    "id": 383,
+    "en1": "gear",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) thiết bị"
+  },
+  {
+    "id": 384,
+    "en1": "speculative",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) đầu cơ"
+  },
+  {
+    "id": 385,
+    "en1": "jot",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) ghi chú nhanh"
+  },
+  {
+    "id": 386,
+    "en1": "delicacy",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) cao lương mỹ vị hoặc sự tinh tế"
+  },
+  {
+    "id": 387,
+    "en1": "lodge",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) nhà nghỉ"
+  },
+  {
+    "id": 388,
+    "en1": "backward",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adverbs) lùi lại"
+  },
+  {
+    "id": 389,
+    "en1": "track",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) đường đua"
+  },
+  {
+    "id": 390,
+    "en1": "murky",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) âm u hoặc mờ"
+  },
+  {
+    "id": 391,
+    "en1": "canvas",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) vải bạt"
+  },
+  {
+    "id": 392,
+    "en1": "chalk",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) phấn"
+  },
+  {
+    "id": 393,
+    "en1": "unwavering",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) kiên định"
+  },
+  {
+    "id": 394,
+    "en1": "adaptation",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) thích nghi"
+  },
+  {
+    "id": 395,
+    "en1": "moderate",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) vừa phải"
+  },
+  {
+    "id": 396,
+    "en1": "that is to say",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(connecting_words) tức là"
+  },
+  {
+    "id": 397,
+    "en1": "coupon",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) phiếu giảm giá"
+  },
+  {
+    "id": 398,
+    "en1": "splendor",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) sự tráng lệ"
+  },
+  {
+    "id": 399,
+    "en1": "scope",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) phạm vi"
+  },
+  {
+    "id": 400,
+    "en1": "consciousness",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) ý thức"
+  },
+  {
+    "id": 401,
+    "en1": "hence",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(connecting_words) do đó"
+  },
+  {
+    "id": 402,
+    "en1": "advancement",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) tiến bộ"
+  },
+  {
+    "id": 403,
+    "en1": "dreadful",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) kinh khủng"
+  },
+  {
+    "id": 404,
+    "en1": "abuse",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) lạm dụng"
+  },
+  {
+    "id": 405,
+    "en1": "unequal",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) không bằng nhau"
+  },
+  {
+    "id": 406,
+    "en1": "interim",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) tạm thời"
+  },
+  {
+    "id": 407,
+    "en1": "theoretical",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) lý thuyết"
+  },
+  {
+    "id": 408,
+    "en1": "arguably",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adverbs) có thể lập luận rằng"
+  },
+  {
+    "id": 409,
+    "en1": "lobby",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) sảnh"
+  },
+  {
+    "id": 410,
+    "en1": "transcript",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) bản sao / bảng điểm"
+  },
+  {
+    "id": 411,
+    "en1": "magistrate",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) thẩm phán"
+  },
+  {
+    "id": 412,
+    "en1": "easygoing",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) dễ chịu"
+  },
+  {
+    "id": 413,
+    "en1": "gesture",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) cử chỉ"
+  },
+  {
+    "id": 414,
+    "en1": "stagnation",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) trì trệ"
+  },
+  {
+    "id": 415,
+    "en1": "forthcoming",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) sắp tới"
+  },
+  {
+    "id": 416,
+    "en1": "fairness",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) sự công bằng"
+  },
+  {
+    "id": 417,
+    "en1": "differentiate",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) phân biệt"
+  },
+  {
+    "id": 418,
+    "en1": "transmission",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) truyền"
+  },
+  {
+    "id": 419,
+    "en1": "rightly",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adverbs) đúng cách"
+  },
+  {
+    "id": 420,
+    "en1": "suck",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) hút"
+  },
+  {
+    "id": 421,
+    "en1": "frugal",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) tiết kiệm"
+  },
+  {
+    "id": 422,
+    "en1": "disciple",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) môn đồ"
+  },
+  {
+    "id": 423,
     "en1": "unthinkable",
     "en2": "",
     "en3": "",
@@ -4136,23 +3384,191 @@
     "vn1": "(adjectives) không thể tưởng tượng"
   },
   {
-    "id": 518,
-    "en1": "jousting",
+    "id": 424,
+    "en1": "barrel",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "(nouns) đấu thương"
+    "vn1": "(nouns) thùng"
   },
   {
-    "id": 519,
-    "en1": "artwork",
+    "id": 425,
+    "en1": "envy",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "(nouns) "
+    "vn1": "(nouns) ghen tị"
   },
   {
-    "id": 520,
+    "id": 426,
+    "en1": "breakthrough",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) đột phá"
+  },
+  {
+    "id": 427,
+    "en1": "chilly",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) se lạnh"
+  },
+  {
+    "id": 428,
+    "en1": "unquestionably",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adverbs) không nghi ngờ gì nữa"
+  },
+  {
+    "id": 429,
+    "en1": "contend",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) đấu tranh"
+  },
+  {
+    "id": 430,
+    "en1": "uplift",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) nâng lên"
+  },
+  {
+    "id": 431,
+    "en1": "progressive",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) người tiến bộ"
+  },
+  {
+    "id": 432,
+    "en1": "vibrant",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) sôi động"
+  },
+  {
+    "id": 433,
+    "en1": "itinerary",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) hành trình"
+  },
+  {
+    "id": 434,
+    "en1": "consequence",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) hậu quả"
+  },
+  {
+    "id": 435,
+    "en1": "faculty",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) khoa"
+  },
+  {
+    "id": 436,
+    "en1": "squeak",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) kêu rin rít"
+  },
+  {
+    "id": 437,
+    "en1": "sacred",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) thiêng liêng"
+  },
+  {
+    "id": 438,
+    "en1": "germ",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) mầm bệnh"
+  },
+  {
+    "id": 439,
+    "en1": "predominantly",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adverbs) chủ yếu"
+  },
+  {
+    "id": 440,
+    "en1": "smog",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) khói mù"
+  },
+  {
+    "id": 441,
+    "en1": "riverbed",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) lòng sông"
+  },
+  {
+    "id": 442,
+    "en1": "illusion",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) ảo giác"
+  },
+  {
+    "id": 443,
+    "en1": "conscious",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) có ý thức"
+  },
+  {
+    "id": 444,
+    "en1": "optical",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) quang học"
+  },
+  {
+    "id": 445,
+    "en1": "pond",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) ao"
+  },
+  {
+    "id": 446,
+    "en1": "abolish",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) bãi bỏ"
+  },
+  {
+    "id": 447,
     "en1": "melancholy",
     "en2": "",
     "en3": "",
@@ -4160,23 +3576,999 @@
     "vn1": "(nouns) sự u sầu"
   },
   {
-    "id": 521,
-    "en1": "spirituality",
+    "id": 448,
+    "en1": "subsequently",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "(nouns) tâm linh"
+    "vn1": "(connecting_words) sau đó"
+  },
+  {
+    "id": 449,
+    "en1": "premise",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) giả định hoặc tòa nhà"
+  },
+  {
+    "id": 450,
+    "en1": "reunion",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) cuộc hội ngộ"
+  },
+  {
+    "id": 451,
+    "en1": "albeit",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(connecting_words) mặc dù"
+  },
+  {
+    "id": 452,
+    "en1": "zen",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) thiền"
+  },
+  {
+    "id": 453,
+    "en1": "sparkle",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) lóe sáng"
+  },
+  {
+    "id": 454,
+    "en1": "superior",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) vượt trội"
+  },
+  {
+    "id": 455,
+    "en1": "syllabus",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) giáo trình"
+  },
+  {
+    "id": 456,
+    "en1": "meditate",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) thiền"
+  },
+  {
+    "id": 457,
+    "en1": "guerrilla",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) du kích"
+  },
+  {
+    "id": 458,
+    "en1": "cheerful",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) vui vẻ"
+  },
+  {
+    "id": 459,
+    "en1": "statistically",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adverbs) theo thống kê"
+  },
+  {
+    "id": 460,
+    "en1": "assert",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) xác nhận"
+  },
+  {
+    "id": 461,
+    "en1": "steam",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) hơi nước"
+  },
+  {
+    "id": 462,
+    "en1": "screening",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) kiểm tra hoặc trình chiếu"
+  },
+  {
+    "id": 463,
+    "en1": "rotary",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) xoay"
+  },
+  {
+    "id": 464,
+    "en1": "crystal",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) tinh thể"
+  },
+  {
+    "id": 465,
+    "en1": "lick",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) liếm"
+  },
+  {
+    "id": 466,
+    "en1": "empowerment",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) trao quyền"
+  },
+  {
+    "id": 467,
+    "en1": "notably",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(connecting_words) đáng chú ý"
+  },
+  {
+    "id": 468,
+    "en1": "meticulous",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) tỉ mỉ"
+  },
+  {
+    "id": 469,
+    "en1": "floss",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) chỉ nha khoa"
+  },
+  {
+    "id": 470,
+    "en1": "disclose",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) tiết lộ"
+  },
+  {
+    "id": 471,
+    "en1": "whim",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) ý thích bất chợt"
+  },
+  {
+    "id": 472,
+    "en1": "unavoidably",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adverbs) không thể tránh khỏi"
+  },
+  {
+    "id": 473,
+    "en1": "aquarium",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) bể cá"
+  },
+  {
+    "id": 474,
+    "en1": "solemn",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) trang nghiêm"
+  },
+  {
+    "id": 475,
+    "en1": "alongside",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(prepositions) bên cạnh hoặc cùng với"
+  },
+  {
+    "id": 476,
+    "en1": "inclement",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) khắc nghiệt"
+  },
+  {
+    "id": 477,
+    "en1": "funeral",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) đám tang"
+  },
+  {
+    "id": 478,
+    "en1": "wane",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) giảm bớt"
+  },
+  {
+    "id": 479,
+    "en1": "undergo",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) trải qua"
+  },
+  {
+    "id": 480,
+    "en1": "principle",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) nguyên tắc"
+  },
+  {
+    "id": 481,
+    "en1": "enlighten",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) khai sáng"
+  },
+  {
+    "id": 482,
+    "en1": "literary",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) văn học"
+  },
+  {
+    "id": 483,
+    "en1": "genocide",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) diệt chủng"
+  },
+  {
+    "id": 484,
+    "en1": "joyous",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) vui mừng"
+  },
+  {
+    "id": 485,
+    "en1": "ceremonial",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) nghi lễ"
+  },
+  {
+    "id": 486,
+    "en1": "breezy",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) breezy"
+  },
+  {
+    "id": 487,
+    "en1": "agnostic",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) bất khả tri"
+  },
+  {
+    "id": 488,
+    "en1": "bacterium",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) vi khuẩn"
+  },
+  {
+    "id": 489,
+    "en1": "gross",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) ghê tởm"
+  },
+  {
+    "id": 490,
+    "en1": "drawback",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) hạn chế"
+  },
+  {
+    "id": 491,
+    "en1": "spiral",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) xoắn ốc"
+  },
+  {
+    "id": 492,
+    "en1": "zing",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) sống động"
+  },
+  {
+    "id": 493,
+    "en1": "genre",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) thể loại"
+  },
+  {
+    "id": 494,
+    "en1": "homeowner",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) chủ nhà"
+  },
+  {
+    "id": 495,
+    "en1": "unpaved",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) chưa trải nhựa"
+  },
+  {
+    "id": 496,
+    "en1": "nibble",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) cắn nhẹ"
+  },
+  {
+    "id": 497,
+    "en1": "preservation",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) bảo tồn"
+  },
+  {
+    "id": 498,
+    "en1": "non-linear",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) phi tuyến tính"
+  },
+  {
+    "id": 499,
+    "en1": "descendant",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) hậu duệ"
+  },
+  {
+    "id": 500,
+    "en1": "breach",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) sự vi phạm"
+  },
+  {
+    "id": 501,
+    "en1": "webbed",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) có màng"
+  },
+  {
+    "id": 502,
+    "en1": "remarkably",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adverbs) đáng chú ý"
+  },
+  {
+    "id": 503,
+    "en1": "impose",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) áp đặt"
+  },
+  {
+    "id": 504,
+    "en1": "integral",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) cần thiết"
+  },
+  {
+    "id": 505,
+    "en1": "restrict",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) hạn chế"
+  },
+  {
+    "id": 506,
+    "en1": "artifact",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) cổ vật"
+  },
+  {
+    "id": 507,
+    "en1": "detention",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) giam giữ"
+  },
+  {
+    "id": 508,
+    "en1": "pier",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) cầu tàu"
+  },
+  {
+    "id": 509,
+    "en1": "zucchini",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) bí ngòi"
+  },
+  {
+    "id": 510,
+    "en1": "versatile",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) linh hoạt"
+  },
+  {
+    "id": 511,
+    "en1": "stretch",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) kéo dãn"
+  },
+  {
+    "id": 512,
+    "en1": "transplant",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) ghép"
+  },
+  {
+    "id": 513,
+    "en1": "scramble",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) leo trèo khó khăn"
+  },
+  {
+    "id": 514,
+    "en1": "allegedly",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adverbs) được cho là"
+  },
+  {
+    "id": 515,
+    "en1": "composting",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) ủ phân"
+  },
+  {
+    "id": 516,
+    "en1": "disregard",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) không quan tâm"
+  },
+  {
+    "id": 517,
+    "en1": "tremendously",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adverbs) rất nhiều"
+  },
+  {
+    "id": 518,
+    "en1": "alignment",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) sự liên kết"
+  },
+  {
+    "id": 519,
+    "en1": "chief",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) trưởng"
+  },
+  {
+    "id": 520,
+    "en1": "padlock",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) ổ khóa"
+  },
+  {
+    "id": 521,
+    "en1": "abortion",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) phá thai"
   },
   {
     "id": 522,
-    "en1": "omnipresent",
+    "en1": "illegible",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "(adjectives) có mặt khắp nơi"
+    "vn1": "(adjectives) không đọc được"
   },
   {
     "id": 523,
+    "en1": "synagogue",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) giáo đường"
+  },
+  {
+    "id": 524,
+    "en1": "militant",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) chiến sĩ"
+  },
+  {
+    "id": 525,
+    "en1": "rally",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) tập hợp"
+  },
+  {
+    "id": 526,
+    "en1": "autonomy",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) quyền tự chủ"
+  },
+  {
+    "id": 527,
+    "en1": "purely",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adverbs) chỉ hoặc hoàn toàn"
+  },
+  {
+    "id": 528,
+    "en1": "merry",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) vui vẻ"
+  },
+  {
+    "id": 529,
+    "en1": "costume",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) trang phục"
+  },
+  {
+    "id": 530,
+    "en1": "vessel",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) tàu"
+  },
+  {
+    "id": 531,
+    "en1": "unscrupulous",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) vô đạo đức"
+  },
+  {
+    "id": 532,
+    "en1": "cutting-edge",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) tiên tiến"
+  },
+  {
+    "id": 533,
+    "en1": "comprehend",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) hiểu thấu đáo"
+  },
+  {
+    "id": 534,
+    "en1": "hinder",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) cản trở"
+  },
+  {
+    "id": 535,
+    "en1": "minimal",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) tối thiểu"
+  },
+  {
+    "id": 536,
+    "en1": "motorist",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) người lái xe"
+  },
+  {
+    "id": 537,
+    "en1": "consent",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) sự đồng ý"
+  },
+  {
+    "id": 538,
+    "en1": "marginal",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) không đáng kể"
+  },
+  {
+    "id": 539,
+    "en1": "exoskeleton",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) bộ xương ngoài"
+  },
+  {
+    "id": 540,
+    "en1": "roughly",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adverbs) khoảng"
+  },
+  {
+    "id": 541,
+    "en1": "riverbank",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) bờ sông"
+  },
+  {
+    "id": 542,
+    "en1": "intent",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) ý định"
+  },
+  {
+    "id": 543,
+    "en1": "containment",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) kiềm chế"
+  },
+  {
+    "id": 544,
+    "en1": "lockdown",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) phong tỏa"
+  },
+  {
+    "id": 545,
+    "en1": "juxtaposition",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) sự đặt kề nhau"
+  },
+  {
+    "id": 546,
+    "en1": "liberal",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) tự do"
+  },
+  {
+    "id": 547,
+    "en1": "contract",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) thu lại"
+  },
+  {
+    "id": 548,
+    "en1": "torrential",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) sầm sập"
+  },
+  {
+    "id": 549,
+    "en1": "unyielding",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) kiên định"
+  },
+  {
+    "id": 550,
+    "en1": "unify",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) hợp nhất"
+  },
+  {
+    "id": 551,
+    "en1": "tasteful",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) có gu"
+  },
+  {
+    "id": 552,
+    "en1": "trauma",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) chấn thương"
+  },
+  {
+    "id": 553,
+    "en1": "lagoon",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) đầm phá"
+  },
+  {
+    "id": 554,
+    "en1": "deft",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) khéo léo"
+  },
+  {
+    "id": 555,
+    "en1": "cultivate",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) trồng trọt"
+  },
+  {
+    "id": 556,
+    "en1": "narrative",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) tường thuật"
+  },
+  {
+    "id": 557,
+    "en1": "species",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) loài"
+  },
+  {
+    "id": 558,
+    "en1": "rational",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) hợp lý"
+  },
+  {
+    "id": 559,
+    "en1": "successive",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) liên tiếp"
+  },
+  {
+    "id": 560,
+    "en1": "locomotive",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) đầu máy"
+  },
+  {
+    "id": 561,
+    "en1": "spongy",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) xốp"
+  },
+  {
+    "id": 562,
+    "en1": "involvement",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) sự tham gia"
+  },
+  {
+    "id": 563,
+    "en1": "accusation",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) buộc tội"
+  },
+  {
+    "id": 564,
+    "en1": "plea",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) lời khẩn cầu"
+  },
+  {
+    "id": 565,
+    "en1": "jurisdiction",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) quyền tài phán"
+  },
+  {
+    "id": 566,
+    "en1": "stain",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) vết bẩn"
+  },
+  {
+    "id": 567,
+    "en1": "considerate",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) ân cần"
+  },
+  {
+    "id": 568,
+    "en1": "adjacent",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) liền kề"
+  },
+  {
+    "id": 569,
+    "en1": "analogy",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) phép loại suy"
+  },
+  {
+    "id": 570,
+    "en1": "conscientious",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) tận tâm"
+  },
+  {
+    "id": 571,
+    "en1": "futuristic",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) có tính tương lai"
+  },
+  {
+    "id": 572,
     "en1": "hydrate",
     "en2": "",
     "en3": "",
@@ -4184,7 +4576,47 @@
     "vn1": "(verbs) cung cấp nước"
   },
   {
-    "id": 524,
+    "id": 573,
+    "en1": "spirituality",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) tâm linh"
+  },
+  {
+    "id": 574,
+    "en1": "heighten",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) tăng cường"
+  },
+  {
+    "id": 575,
+    "en1": "excursion",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) chuyến tham quan"
+  },
+  {
+    "id": 576,
+    "en1": "psychiatric",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) tâm thần"
+  },
+  {
+    "id": 577,
+    "en1": "compassion",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) lòng trắc ẩn"
+  },
+  {
+    "id": 578,
     "en1": "agile",
     "en2": "",
     "en3": "",
@@ -4192,27 +4624,99 @@
     "vn1": "(adjectives) nhanh nhẹn"
   },
   {
-    "id": 525,
-    "en1": "contemplate",
+    "id": 579,
+    "en1": "shimmer",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "(verbs) suy ngẫm"
+    "vn1": "(verbs) lung linh"
   },
   {
-    "id": 526,
-    "en1": "empire",
+    "id": 580,
+    "en1": "cult",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "(nouns) đế quốc"
+    "vn1": "(nouns) giáo phái"
   },
   {
-    "id": 527,
-    "en1": "faction",
+    "id": 581,
+    "en1": "capability",
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "(nouns) phe phái"
+    "vn1": "(nouns) khả năng"
+  },
+  {
+    "id": 582,
+    "en1": "critique",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) phê bình"
+  },
+  {
+    "id": 583,
+    "en1": "knowingly",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adverbs) có ý thức"
+  },
+  {
+    "id": 584,
+    "en1": "bulbous",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) tròn và phình"
+  },
+  {
+    "id": 585,
+    "en1": "sacrifice",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) hi sinh"
+  },
+  {
+    "id": 586,
+    "en1": "edible",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) ăn được"
+  },
+  {
+    "id": 587,
+    "en1": "gymnasium",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) phòng tập thể dục"
+  },
+  {
+    "id": 588,
+    "en1": "triumph",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) chiến thắng"
+  },
+  {
+    "id": 589,
+    "en1": "iguana",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) kỳ nhông"
+  },
+  {
+    "id": 590,
+    "en1": "monarchy",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) chế độ quân chủ"
   }
 ]
