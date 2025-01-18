@@ -9973,7 +9973,7 @@
     "en3": "",
     "en4": "",
     "ent": "A2",
-    "vn1": "(n) trẻ (1-4 tuổi)"
+    "vn1": "(n) trẻ (1-4 tuổi), toddling, toddle"
   },
   {
     "id": 1214,
@@ -12892,5 +12892,158 @@
     "en4": "",
     "ent": "C1",
     "vn1": "(av) hoàn toàn"
+  },
+  {
+    "id": 1567,
+    "en1": "nonagricultural",
+    "en2": "The company focuses on nonagricultural industries like technology and finance.",
+    "en3": "",
+    "en4": "",
+    "ent": "C1",
+    "vn1": "(a) phi nông nghiệp"
+  },
+  {
+    "id": 1568,
+    "en1": "scorn",
+    "en2": "She scorned the idea of working for a lower salary.",
+    "en3": "",
+    "en4": "",
+    "ent": "C1",
+    "vn1": "(v,n) coi thường"
+  },
+  {
+    "id": 1569,
+    "en1": "smidge",
+    "en2": "Can you add just a smidge of salt to the soup?",
+    "en3": "",
+    "en4": "",
+    "ent": "C1",
+    "vn1": "(n) một chút"
+  },
+  {
+    "id": 1570,
+    "en1": "squawk",
+    "en2": "The parrot squawked loudly when it saw a stranger.",
+    "en3": "",
+    "en4": "",
+    "ent": "C1",
+    "vn1": "(v,n) kêu, tiếng kêu lớn"
+  },
+  {
+    "id": 1571,
+    "en1": "viaduct",
+    "en2": "The train passed over the viaduct, offering stunning views of the valley below.",
+    "en3": "",
+    "en4": "",
+    "ent": "C1",
+    "vn1": "(n) cầu cạn"
+  },
+  {
+    "id": 1572,
+    "en1": "toilette",
+    "en2": "She spent an hour on her toilette before the grand party.",
+    "en3": "",
+    "en4": "",
+    "ent": "C2",
+    "vn1": "(n) nhà vệ sinh"
+  },
+  {
+    "id": 1573,
+    "en1": "pinstripe",
+    "en2": "He wore a navy suit with a subtle pinstripe pattern to the meeting.",
+    "en3": "",
+    "en4": "",
+    "ent": "C1",
+    "vn1": "(n) sọc nhỏ"
+  },
+  {
+    "id": 1574,
+    "en1": "supergroup",
+    "en2": "The band is considered a supergroup, as it consists of members from some of the most famous rock bands.",
+    "en3": "",
+    "en4": "",
+    "ent": "C1",
+    "vn1": "(n)"
+  },
+  {
+    "id": 1575,
+    "en1": "carryover",
+    "en2": "The carryover from last year’s budget helped fund this year’s new projects.",
+    "en3": "",
+    "en4": "",
+    "ent": "C1",
+    "vn1": "(n) sự chuyển tiếp"
+  },
+  {
+    "id": 1576,
+    "en1": "reformulate",
+    "en2": "The company decided to reformulate their marketing strategy to reach a younger audience.",
+    "en3": "",
+    "en4": "",
+    "ent": "C1",
+    "vn1": "(v) cải tiến"
+  },
+  {
+    "id": 1577,
+    "en1": "cud",
+    "en2": "The cow chewed its cud slowly as it rested under the tree.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(n) thức ăn nhai lại"
+  },
+  {
+    "id": 1578,
+    "en1": "belfry",
+    "en2": "The church's belfry rang out the hour with a deep, resonant sound.",
+    "en3": "",
+    "en4": "",
+    "ent": "C2",
+    "vn1": "(n) tháp chuông"
+  },
+  {
+    "id": 1579,
+    "en1": "witticism",
+    "en2": "His witticism during the meeting lightened the mood and made everyone laugh.",
+    "en3": "",
+    "en4": "",
+    "ent": "C2",
+    "vn1": "(n) câu nói  hài hước"
+  },
+  {
+    "id": 1580,
+    "en1": "tinkle",
+    "en2": "She tinkled the glass with a spoon to get everyone's attention.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(v,n) kêu nhẹ, tiếng kêu nhẹ"
+  },
+  {
+    "id": 1581,
+    "en1": "flock",
+    "en2": "A flock of birds flew across the sky as the sun set.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(n,v) bầy đàn, tụ tập"
+  },
+  {
+    "id": 1582,
+    "en1": "borehole",
+    "en2": "The geologists drilled a borehole to study the rock layers deep underground.",
+    "en3": "",
+    "en4": "",
+    "ent": "C1",
+    "vn1": "(n) lỗ khoan sâu"
+  },
+  {
+    "id": 1583,
+    "en1": "slush",
+    "en2": "After the snowstorm, the streets were covered in slush, making it difficult to walk.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(n) bùn lầy, nước bẩn"
   }
 ]

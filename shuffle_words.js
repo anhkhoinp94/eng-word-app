@@ -39,7 +39,13 @@ function main() {
   const originalDetItems = readJSON('src\\assets\\det\\det.json');
   const shuffledDetItems = shuffleItems(originalDetItems);
   writeJSON('src\\assets\\det\\output.json', shuffledDetItems);
-  console.log('Shuffled items have been written to output.json');
+  console.log('Shuffled DET items have been written to output.json');
+
+  // Total
+  const totalDetItems = originalItems.conat(originalDetItems);
+  const shuffledTotalDetItems = shuffleItems(totalDetItems);
+  writeJSON('src\\assets\\det_total\\output.json', shuffledTotalDetItems);
+  console.log('Shuffled total items have been written to output.json');
 }
 
 // Run the program
