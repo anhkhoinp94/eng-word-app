@@ -13045,5 +13045,68 @@
     "en4": "",
     "ent": "B2",
     "vn1": "(n) bùn lầy, nước bẩn"
+  },
+  {
+    "id": 1584,
+    "en1": "behavioral",
+    "en2": "The psychologist conducted a study to understand the behavioral patterns of children.",
+    "en3": "",
+    "en4": "",
+    "ent": "C1",
+    "vn1": "(a) thuộc về hành vi"
+  },
+  {
+    "id": 1585,
+    "en1": "placate",
+    "en2": "She tried to placate the angry customer by offering a refund.",
+    "en3": "",
+    "en4": "",
+    "ent": "C1",
+    "vn1": "(v) xoa dịu, làm dịu"
+  },
+  {
+    "id": 1586,
+    "en1": "shaft",
+    "en2": "He felt like he was shafted in the deal because he didn’t get what was promised.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(v) đối xử bất công, lừa gạt"
+  },
+  {
+    "id": 1587,
+    "en1": "excite",
+    "en2": "The idea of traveling to a new country excites me.",
+    "en3": "",
+    "en4": "",
+    "ent": "B1",
+    "vn1": "(v) gây hứng thú, kích thích"
+  },
+  {
+    "id": 1588,
+    "en1": "tincture",
+    "en2": "The herbalist prepared a tincture of lavender to help with relaxation.",
+    "en3": "",
+    "en4": "",
+    "ent": "C1",
+    "vn1": "(n) cồn thuốc"
+  },
+  {
+    "id": 1589,
+    "en1": "carrion",
+    "en2": "The unpleasant smell of carrion was noticeable near the forest edge.",
+    "en3": "",
+    "en4": "",
+    "ent": "C2",
+    "vn1": "(n) xác động vật đang phân hủy"
+  },
+  {
+    "id": 1590,
+    "en1": "spangling",
+    "en2": "The spangling of the night sky was breathtaking.",
+    "en3": "",
+    "en4": "",
+    "ent": "C2",
+    "vn1": "(n,v) lấp lánh"
   }
 ]
