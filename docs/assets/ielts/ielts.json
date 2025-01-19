@@ -13108,5 +13108,68 @@
     "en4": "",
     "ent": "C2",
     "vn1": "(n,v) lấp lánh"
+  },
+  {
+    "id": 1591,
+    "en1": "spare",
+    "en2": "If you could spare me a few minutes, I would really appreciate your help on this essay.",
+    "en3": "",
+    "en4": "",
+    "ent": "B1",
+    "vn1": "(v,a,n) dành cho, dự phòng"
+  },
+  {
+    "id": 1592,
+    "en1": "spent",
+    "en2": "After the marathon, she felt completely spent, barely able to muster the energy to celebrate her accomplishment.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(a) kiệt sức"
+  },
+  {
+    "id": 1593,
+    "en1": "weird",
+    "en2": "That movie was so weird, I couldn’t figure out the plot.",
+    "en3": "",
+    "en4": "",
+    "ent": "B1",
+    "vn1": "(a) "
+  },
+  {
+    "id": 1594,
+    "en1": "haphazardly",
+    "en2": "The papers were stacked haphazardly on the desk, making it hard to find anything.",
+    "en3": "",
+    "en4": "",
+    "ent": "C1",
+    "vn1": "(av) một cách bừa bãi"
+  },
+  {
+    "id": 1595,
+    "en1": "weary",
+    "en2": "She felt weary after a long day at work and just wanted to rest.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(a) mệt mỏi"
+  },
+  {
+    "id": 1596,
+    "en1": "readily",
+    "en2": "She readily agreed to help with the project.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(av) dễ dàng, sẵn sàng"
+  },
+  {
+    "id": 1597,
+    "en1": "idle",
+    "en2": "When the machine is idle, it goes into a standby mode to conserve energy.",
+    "en3": "",
+    "en4": "",
+    "ent": "B1",
+    "vn1": "(a,v) nhàn rỗi"
   }
 ]
