@@ -3666,7 +3666,7 @@
   },
   {
     "id": 448,
-    "en1": "jump out of one's skin",
+    "en1": "jump out of one's skin, jumpy",
     "en2": "He jumped out of his skin when he heard the unexpected news.",
     "en3": "",
     "en4": "",
@@ -3778,7 +3778,7 @@
     "en2": "There was barely enough food for everyone.",
     "en3": "",
     "en4": "",
-    "vn1": "(av) chỉ vừa đủ"
+    "vn1": "(av) hầu như không"
   },
   {
     "id": 462,
@@ -13171,5 +13171,68 @@
     "en4": "",
     "ent": "B1",
     "vn1": "(a,v) nhàn rỗi"
+  },
+  {
+    "id": 1598,
+    "en1": "foe",
+    "en2": "It's strange how one day someone could be your friend and the next they've turned into your foe.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(n) kẻ thù"
+  },
+  {
+    "id": 1599,
+    "en1": "peruse",
+    "en2": "Some students take the time to peruse the additional resources while others barely skim assigned readings.",
+    "en3": "",
+    "en4": "",
+    "ent": "C1",
+    "vn1": "(v) nghiên cứu kỹ"
+  },
+  {
+    "id": 1600,
+    "en1": "stubble",
+    "en2": "He had a few days of stubble on his chin after not shaving for a while.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(n) râu ria"
+  },
+  {
+    "id": 1601,
+    "en1": "badger",
+    "en2": "We saw a badger in the forest while we were hiking.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(n,v) con lửng; làm phiền"
+  },
+  {
+    "id": 1602,
+    "en1": "hallmark",
+    "en2": "The hallmark of a good leader is the ability to inspire others.",
+    "en3": "",
+    "en4": "",
+    "ent": "C1",
+    "vn1": "(n) dấu ấn"
+  },
+  {
+    "id": 1603,
+    "en1": "sworn",
+    "en2": "He is my sworn friend, and I will always stand by him.",
+    "en3": "",
+    "en4": "",
+    "ent": "C1",
+    "vn1": "(adj) tuyên thệ, cam kết mạnh mẽ, trung thành"
+  },
+  {
+    "id": 1604,
+    "en1": "sizable",
+    "en2": "She made a sizable donation to the charity.",
+    "en3": "",
+    "en4": "",
+    "ent": "B2",
+    "vn1": "(a) khá lớn, đáng kể"
   }
 ]
