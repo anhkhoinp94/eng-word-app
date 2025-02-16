@@ -54,7 +54,7 @@ import aws from '../assets/aws/others.json';
 import partOne from '../assets/interview/part-one.json';
 import ieltsWords from '../assets/ielts/ielts.json';
 // import ielts from '../assets/ielts/output.json';
-import ielts from '../assets/det/awl.json';
+import ielts from '../assets/det_total/output.json';
 
 interface Word {
   id: number;
@@ -135,7 +135,7 @@ export class AppComponent {
     // this.reviseWords = this.words
     //   .sort(() => 0.5 - Math.random())
     //   .slice(0, this.maxInitReviseCount);
-    this.reviseWords = ielts;
+    // this.reviseWords = ielts.slice(-120);
   }
 
   renderEnWord = (value: string): string => {
@@ -292,7 +292,7 @@ export class AppComponent {
 
   private intervalId: any;
   ngOnInit(): void {
-    this.intervalId = setInterval(() => this.runAction(), 2500);
+    this.intervalId = setInterval(() => this.runAction(), 2300);
   }
   ngOnDestroy(): void {
     if (this.intervalId) {
