@@ -290,22 +290,22 @@ export class AppComponent {
     }
   }
 
-  private intervalId: any;
-  ngOnInit(): void {
-    this.intervalId = setInterval(() => this.runAction(), 2500);
-  }
-  ngOnDestroy(): void {
-    if (this.intervalId) {
-      clearInterval(this.intervalId);
-    }
-  }
-  runAction(): void {
-    if (this.show) {
-      this.speakMessage();
-      this.next();      
-    } else {
-      this.change();
-      this.speakMessage();
-    }
-  }
+  // private intervalId: any;
+  // ngOnInit(): void {
+  //   this.intervalId = setInterval(() => this.runAction(), 2500);
+  // }
+  // ngOnDestroy(): void {
+  //   if (this.intervalId) {
+  //     clearInterval(this.intervalId);
+  //   }
+  // }
+  // runAction(): void {
+  //   if (this.show) {
+  //     this.next();
+  //     this.speakMessage();
+  //   } else {
+  //     this.change();
+  //     this.speakMessage();
+  //   }
+  // }
 }
