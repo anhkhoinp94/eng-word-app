@@ -301,8 +301,8 @@ export class AppComponent {
   }
   runAction(): void {
     if (this.show) {
-      this.next();
       this.speakMessage();
+      this.next();      
     } else {
       this.change();
       this.speakMessage();
