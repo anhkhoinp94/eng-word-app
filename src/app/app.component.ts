@@ -54,7 +54,8 @@ import aws from '../assets/aws/others.json';
 import partOne from '../assets/interview/part-one.json';
 import ieltsWords from '../assets/ielts/ielts.json';
 // import ielts from '../assets/ielts/output.json';
-import ielts from '../assets/det/awl.json';
+// import ielts from '../assets/det/awl.json';
+import ielts from '../assets/det/new.json';
 
 interface Word {
   id: number;
