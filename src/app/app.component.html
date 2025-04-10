@@ -4,26 +4,23 @@
       <div class="col-4">
         <div>{{ countSawWords }}</div>
         <div>{{ id }}</div>
-        <div>{{ studiedWords.length }}/{{ words.length }}</div>
       </div>
 
       <div class="col-4 d-flex justify-content-center">
         <div class="row justify-content-center">
           <div class="col-12 d-flex justify-content-center align-items-center" style="margin-right: 4px;">
-            <!-- <input type="number" [(ngModel)]="min" /> -->
           </div>
         </div>
       </div>
       <div class="col-4 d-flex justify-content-center">
         <div class="row justify-content-center">
           <div class="col-12 d-flex justify-content-center align-items-center">
-            <!-- <input type="number" [(ngModel)]="max" /> -->
           </div>
         </div>
       </div>
     </div>
 
-    <div *ngIf="see && !show">
+    <div *ngIf="showEn && !showVN">
       <div class="row" style="min-height: 80px">
         <h1 style="float: right; font-size: 20px; text-align: center">
           {{ renderEnWord(enWord1) }}
@@ -31,7 +28,7 @@
       </div>
       <div class="row" style="min-height: 80px"></div>
     </div>
-    <div *ngIf="!see && show">
+    <div *ngIf="!showEn && showVN">
       <div class="row" style="min-height: 80px"></div>
       <div class="row" style="min-height: 80px">
         <h1 style="font-size: 20px; color: blue; text-align: center">
@@ -39,7 +36,7 @@
         </h1>
       </div>
     </div>
-    <div *ngIf="see && show">
+    <div *ngIf="showEn && showVN">
       <div class="row" style="min-height: 80px">
         <h1 style="float: right; font-size: 20px; text-align: center">
           {{ renderEnWord(enWord1) }}
@@ -54,17 +51,8 @@
   </div>
 
   <div class="row" style="min-height: 90px">
-    <div class="col-12" style="font-size: 20px; text-align: center" *ngIf="canSpeak && see && show">
+    <div class="col-12" style="font-size: 20px; text-align: center" *ngIf="canSpeak && showEn && showVN">
       {{ enWord2 }}
-    </div>
-  </div>
-
-  <div class="row mt-2">
-    <div class="col-12 d-flex justify-content-center">
-      <button class="btn btn-dark" style="min-width: 340px; height: 50px; font-size: 20px" (click)="revise()"
-        [disabled]="!showReviseButton">
-        Rv {{ reviseWords.length }}
-      </button>
     </div>
   </div>
 
@@ -95,12 +83,12 @@
 
     <div class="col-6">
       <button class="btn btn-success mt-4 me-2" style="min-width: 160px; height: 100px; font-size: 30px"
-        (click)="change()" *ngIf="!see || !show">
+        (click)="change()" *ngIf="!showEn || !showVN">
         Result
       </button>
 
       <button class="btn btn-danger mt-4 me-2" style="min-width: 160px; height: 100px; font-size: 30px" (click)="next()"
-        *ngIf="see && show">
+        *ngIf="showEn && showVN">
         Next
       </button>
     </div>
@@ -109,7 +97,7 @@
   <div class="row" *ngIf="enWord2">
     <div class="col-6">
       <button class="btn btn-warning mt-4" style="min-width: 160px; height: 90px; font-size: 30px; float: right;"
-        (click)="speakSentence()" *ngIf="canSpeak && see && show">
+        (click)="speakSentence()" *ngIf="canSpeak && showEn && showVN">
         Sentence
       </button>
     </div>
@@ -117,13 +105,13 @@
       <div class="row" style="width: 160px; height: 90px; font-size: 30px">
         <div class="col-6">
           <button style="min-width: 70px; height: 90px; font-size: 30px" class="btn btn-warning mt-4"
-            (click)="speakSentence4()" *ngIf="canSpeak && see && show">
+            (click)="speakSentence4()" *ngIf="canSpeak && showEn && showVN">
             4
           </button>
         </div>
         <div class="col-6">
           <button style="min-width: 70px; height: 90px; font-size: 30px; float: left;" class="btn btn-primary mt-4"
-            (click)="speakMessage5()" *ngIf="canSpeak && see && show">
+            (click)="speakMessage5()" *ngIf="canSpeak && showEn && showVN">
             5
           </button>
         </div>
