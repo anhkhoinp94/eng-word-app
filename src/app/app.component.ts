@@ -28,6 +28,7 @@ export class AppComponent {
   enWord2 = '';
   enWord3 = '';
   enWord4 = '';
+  textxtx = '';
   words: Word[] = [];
   countSawWords = 0;
 
@@ -84,6 +85,7 @@ export class AppComponent {
   }
 
   next() {
+    this.textxtx = '';
     this.countSawWords += 1;
     this.no = this.no * -1;
     this.showVN = this.no > 0;
@@ -107,16 +109,12 @@ export class AppComponent {
   }
 
   getRandomArbitrary(min: number, max: number) {
-    let foundNew = false;
-    let res = -1;
     while (true) {
       let newId = Math.floor(Math.random() * (max - min + 1)) + min;
       if (newId != this.id) {
-        res = newId;
-        break;
+        return newId;
       }
     }
-    return res;
   }
 
   speakMessage() {
@@ -158,22 +156,22 @@ export class AppComponent {
     }
   }
 
-  // private intervalId: any;
-  // ngOnInit(): void {
-  //   this.intervalId = setInterval(() => this.runAction(), 2500);
-  // }
-  // ngOnDestroy(): void {
-  //   if (this.intervalId) {
-  //     clearInterval(this.intervalId);
-  //   }
-  // }
-  // runAction(): void {
-  //   if (this.show) {
-  //     this.next();
-  //     this.speakMessage();
-  //   } else {
-  //     this.change();
-  //     this.speakMessage();
-  //   }
-  // }
+  private intervalId: any;
+  ngOnInit(): void {
+    this.intervalId = setInterval(() => this.runAction(), 2500);
+  }
+  ngOnDestroy(): void {
+    if (this.intervalId) {
+      clearInterval(this.intervalId);
+    }
+  }
+  runAction(): void {
+    if (this.showVN) {
+      this.next();
+      this.speakMessage();
+    } else {
+      this.change();
+      this.speakMessage();
+    }
+  }
 }
