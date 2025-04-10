@@ -158,7 +158,7 @@ export class AppComponent {
 
   private intervalId: any;
   ngOnInit(): void {
-    this.intervalId = setInterval(() => this.runAction(), 2500);
+    this.intervalId = setInterval(() => this.runAction(), 3500);
   }
   ngOnDestroy(): void {
     if (this.intervalId) {
