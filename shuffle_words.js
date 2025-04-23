@@ -34,7 +34,7 @@ function main() {
   writeJSON('src\\assets\\det\\output.json', shuffledItems);
   console.log('Shuffled items have been written to output.json');
 
-  const tnow = new Date().toISOString()
+  const tnow = new Date().toLocaleTimeString()
   writeJSON('src\\assets\\det\\deploy_time.json', { time: tnow });
   console.log('Write deploy time to deploy_time.json');
 }
