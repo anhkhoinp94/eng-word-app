@@ -140,8 +140,8 @@ export class AppComponent {
     speechSynthesis.speak(utterance);
   }
 
-  speakSentence4() {
-    for (let index = 0; index < 4; index++) {
+  speakSentence3() {
+    for (let index = 0; index < 3; index++) {
       this.speakSentence();
     }
   }
@@ -156,22 +156,22 @@ export class AppComponent {
     }
   }
 
-  private intervalId: any;
-  ngOnInit(): void {
-    this.intervalId = setInterval(() => this.runAction(), 3500);
-  }
-  ngOnDestroy(): void {
-    if (this.intervalId) {
-      clearInterval(this.intervalId);
-    }
-  }
-  runAction(): void {
-    if (this.showVN) {
-      this.next();
-      this.speakMessage();
-    } else {
-      this.change();
-      this.speakMessage();
-    }
-  }
+  // private intervalId: any;
+  // ngOnInit(): void {
+  //   this.intervalId = setInterval(() => this.runAction(), 3500);
+  // }
+  // ngOnDestroy(): void {
+  //   if (this.intervalId) {
+  //     clearInterval(this.intervalId);
+  //   }
+  // }
+  // runAction(): void {
+  //   if (this.showVN) {
+  //     this.next();
+  //     this.speakMessage();
+  //   } else {
+  //     this.change();
+  //     this.speakMessage();
+  //   }
+  // }
 }
