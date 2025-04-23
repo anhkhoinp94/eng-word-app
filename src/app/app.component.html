@@ -108,8 +108,16 @@
       </button>
     </div>
     <div class="col-6">
+      <button 
+        [ngClass]="count4Speaking > 0 ? 'btn btn-success mt-4' : 'btn btn-secondary mt-4'"
+        style="min-width: 160px; height: 90px; font-size: 30px; float: left;" (click)="count()"
+        *ngIf="canSpeak && showEn && showVN">
+        {{ count4Speaking }}
+      </button>
+    </div>
+    <!-- <div class="col-6">
       <div class="row" style="width: 160px; height: 90px; font-size: 30px">
-        <!-- <div class="col-6">
+        <div class="col-6">
           <button style="min-width: 70px; height: 90px; font-size: 30px" class="btn btn-warning mt-4"
             (click)="speakSentence2()" *ngIf="canSpeak && showEn && showVN">
           </button>
@@ -118,9 +126,7 @@
           <button style="min-width: 70px; height: 90px; font-size: 30px; float: left;" class="btn btn-primary mt-4"
             (click)="speakMessage2()" *ngIf="canSpeak && showEn && showVN">
           </button>
-        </div> -->
-      </div>
-
-    </div>
+        </div>
+      </div> -->
   </div>
 </div>

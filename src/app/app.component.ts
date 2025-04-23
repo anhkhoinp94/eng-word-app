@@ -32,6 +32,8 @@ export class AppComponent {
   words: Word[] = [];
   countSawWords = 0;
   tempWord: any;
+  countMax = 20;
+  count4Speaking = 20;
 
   selectedWord: Word = {
     id: 0,
@@ -100,6 +102,7 @@ export class AppComponent {
 
   next() {
     this.textxtx = '';
+    this.count4Speaking = this.countMax;
     this.countSawWords += 1;
     this.no = this.no * -1;
     this.showVN = this.no > 0;
@@ -183,6 +186,12 @@ export class AppComponent {
   speakSentence2() {
     for (let index = 0; index < 2; index++) {
       this.speakSentence();
+    }
+  }
+
+  count() {
+    if (this.count4Speaking !== 0) {
+      this.count4Speaking = this.count4Speaking - 1
     }
   }
 
