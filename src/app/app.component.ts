@@ -31,6 +31,7 @@ export class AppComponent {
   textxtx = '';
   words: Word[] = [];
   countSawWords = 0;
+  tempWord: any;
 
   selectedWord: Word = {
     id: 0,
@@ -54,16 +55,29 @@ export class AppComponent {
     // this.words = this.words.concat(ielts, others);
     this.words = this.words.concat(ielts);
     this.id = this.getRandomArbitrary(this.minId, this.maxId);
-    let word = this.words.find((obj) => {
-      return obj.id === this.id;
-    });
-    if (word) {
-      this.selectedWord = word;
-      this.vnWord1 = word.vn1;
-      this.enWord1 = word.en1;
-      this.enWord2 = word.en2;
-      this.enWord3 = word.en3;
-      this.enWord4 = word.en4;
+    this.tempWord = this.removeRandomElement(this.words)
+    this.words = this.tempWord.updatedArray;
+    if (this.tempWord.removedElement) {
+      this.selectedWord = this.tempWord.removedElement;
+      this.vnWord1 = this.tempWord.removedElement.vn1;
+      this.enWord1 = this.tempWord.removedElement.en1;
+      this.enWord2 = this.tempWord.removedElement.en2;
+      this.enWord3 = this.tempWord.removedElement.en3;
+      this.enWord4 = this.tempWord.removedElement.en4;
+    } else {
+      this.selectedWord = {
+        id: 0,
+        en1: '',
+        en2: '',
+        en3: '',
+        en4: '',
+        vn1: '',
+      };
+      this.vnWord1 = "";
+      this.enWord1 = "";
+      this.enWord2 = "";
+      this.enWord3 = "";
+      this.enWord4 = "";
     }
   }
 
@@ -95,17 +109,43 @@ export class AppComponent {
     this.showEn = true;
 
     this.id = this.getRandomArbitrary(this.minId, this.maxId);
-    let word = this.words.find((obj) => {
-      return obj.id === this.id;
-    });
-    if (word) {
-      this.selectedWord = word;
-      this.vnWord1 = word.vn1;
-      this.enWord1 = word.en1;
-      this.enWord2 = word.en2;
-      this.enWord3 = word.en3;
-      this.enWord4 = word.en4;
+    // let word = this.words.find((obj) => {
+    //   return obj.id === this.id;
+    // });
+    this.tempWord = this.removeRandomElement(this.words)
+    this.words = this.tempWord.updatedArray;
+    if (this.tempWord.removedElement) {
+      this.selectedWord = this.tempWord.removedElement;
+      this.vnWord1 = this.tempWord.removedElement.vn1;
+      this.enWord1 = this.tempWord.removedElement.en1;
+      this.enWord2 = this.tempWord.removedElement.en2;
+      this.enWord3 = this.tempWord.removedElement.en3;
+      this.enWord4 = this.tempWord.removedElement.en4;
+    } else {
+      this.selectedWord = {
+        id: 0,
+        en1: '',
+        en2: '',
+        en3: '',
+        en4: '',
+        vn1: '',
+      };
+      this.vnWord1 = "";
+      this.enWord1 = "";
+      this.enWord2 = "";
+      this.enWord3 = "";
+      this.enWord4 = "";
     }
+  }
+
+  removeRandomElement<T>(arr: T[]): { updatedArray: T[], removedElement: T | undefined } {
+    if (arr.length === 0) {
+      return { updatedArray: arr, removedElement: undefined };
+    }
+    const randomIndex = Math.floor(Math.random() * arr.length);
+    const removedElement = arr[randomIndex];
+    arr.splice(randomIndex, 1);
+    return { updatedArray: arr, removedElement };
   }
 
   getRandomArbitrary(min: number, max: number) {
