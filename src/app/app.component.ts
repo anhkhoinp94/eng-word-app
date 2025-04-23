@@ -1,6 +1,7 @@
 import { Component, OnInit, OnDestroy } from '@angular/core';
 
 import ielts from '../assets/det/output.json';
+import deployTime from '../assets/det/deploy_time.json';
 
 interface Word {
   id: number;
@@ -34,6 +35,7 @@ export class AppComponent {
   tempWord: any;
   countMax = 20;
   count4Speaking = 20;
+  deployT = deployTime.time;
 
   selectedWord: Word = {
     id: 0,
@@ -43,6 +45,8 @@ export class AppComponent {
     en4: '',
     vn1: '',
   };
+
+
 
   // speak
   selectedVoice: SpeechSynthesisVoice | null;
@@ -101,6 +105,7 @@ export class AppComponent {
   }
 
   next() {
+    console.log("time", deployTime)
     this.textxtx = '';
     this.count4Speaking = this.countMax;
     this.countSawWords += 1;

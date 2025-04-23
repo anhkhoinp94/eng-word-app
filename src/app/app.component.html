@@ -2,6 +2,7 @@
   <div class="container" style="min-height: 200px">
     <div class="row" style="margin-bottom: 30px;">
       <div class="col-4">
+        <div>{{ deployT }}</div>
         <div>{{ countSawWords }}</div>
         <div>{{ id }}</div>
       </div>
@@ -108,8 +109,7 @@
       </button>
     </div>
     <div class="col-6">
-      <button 
-        [ngClass]="count4Speaking > 0 ? 'btn btn-success mt-4' : 'btn btn-secondary mt-4'"
+      <button [ngClass]="count4Speaking > 0 ? 'btn btn-success mt-4' : 'btn btn-secondary mt-4'"
         style="min-width: 160px; height: 90px; font-size: 30px; float: left;" (click)="count()"
         *ngIf="canSpeak && showEn && showVN">
         {{ count4Speaking }}
