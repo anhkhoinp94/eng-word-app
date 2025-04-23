@@ -29,23 +29,10 @@ function shuffleItems(items) {
 
 // Main process
 function main() {
-  // Old
-  const originalItems = readJSON('src\\assets\\ielts\\ielts.json');
+  const originalItems = readJSON('src\\assets\\det\\words.json');
   const shuffledItems = shuffleItems(originalItems);
-  writeJSON('src\\assets\\ielts\\output.json', shuffledItems);
+  writeJSON('src\\assets\\det\\output.json', shuffledItems);
   console.log('Shuffled items have been written to output.json');
-
-  // New
-  const originalDetItems = readJSON('src\\assets\\det\\det.json');
-  const shuffledDetItems = shuffleItems(originalDetItems);
-  writeJSON('src\\assets\\det\\output.json', shuffledDetItems);
-  console.log('Shuffled DET items have been written to output.json');
-
-  // Total
-  const totalDetItems = originalItems.concat(originalDetItems);
-  const shuffledTotalDetItems = shuffleItems(totalDetItems);
-  writeJSON('src\\assets\\det_total\\output.json', shuffledTotalDetItems);
-  console.log('Shuffled total items have been written to output.json');
 }
 
 // Run the program

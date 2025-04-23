@@ -1,6 +1,6 @@
 import { Component, OnInit, OnDestroy } from '@angular/core';
 
-import ielts from '../assets/det/words.json';
+import ielts from '../assets/det/output.json';
 
 interface Word {
   id: number;
