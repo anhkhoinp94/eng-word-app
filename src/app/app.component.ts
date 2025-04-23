@@ -167,8 +167,8 @@ export class AppComponent {
     }
   }
 
-  speakMessage5() {
-    for (let index = 0; index < 5; index++) {
+  speakMessage2() {
+    for (let index = 0; index < 2; index++) {
       this.speakMessage();
     }
   }
@@ -180,8 +180,8 @@ export class AppComponent {
     speechSynthesis.speak(utterance);
   }
 
-  speakSentence3() {
-    for (let index = 0; index < 3; index++) {
+  speakSentence2() {
+    for (let index = 0; index < 2; index++) {
       this.speakSentence();
     }
   }
