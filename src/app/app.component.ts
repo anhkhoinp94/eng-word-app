@@ -58,17 +58,18 @@ export class AppComponent {
     this.voices = [];
     this.selectedRate = 1;
 
-    // Deploy
-    // this.words = this.words.concat(ielts);
-
-    // API
-    // this.wordService.getWords().subscribe({
-    //   next: data => {
-    //     this.words = data;
-    //     this.setupWord()
-    //   },
-    //   error: err => console.error('Error fetching words:', err)
-    // });
+    this.wordService.getWords().subscribe({
+      next: data => {
+        // API
+        this.words = data;
+        this.setupWord()
+      },
+      error: err => {
+        // Deploy
+        console.error('Error fetching words:', err);
+        this.words = this.words.concat(ielts);
+      }
+    });
   }
 
   setupWord(): void {
@@ -126,7 +127,7 @@ export class AppComponent {
   }
 
   next() {
-    // this.markAsStudied(this.selectedWord.id)
+    this.markAsStudied(this.selectedWord.id)
     this.textxtx = '';
     this.count4Speaking = this.countMax;
     this.countSawWords += 1;
