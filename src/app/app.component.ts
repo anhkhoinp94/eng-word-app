@@ -2,6 +2,7 @@ import { Component, OnInit, OnDestroy } from '@angular/core';
 
 import ielts from '../assets/det/output.json';
 import deployTime from '../assets/det/deploy_time.json';
+import { WordService } from './services/word.service';
 
 interface Word {
   id: number;
@@ -46,23 +47,34 @@ export class AppComponent {
     vn1: '',
   };
 
-
-
   // speak
   selectedVoice: SpeechSynthesisVoice | null;
   voices: SpeechSynthesisVoice[];
   selectedRate: number = 1;
   canSpeak: boolean = true;
 
-  constructor() {
+  constructor(private wordService: WordService) {
     this.selectedVoice = null;
     this.voices = [];
     this.selectedRate = 1;
-    // this.words = this.words.concat(ielts, others);
-    this.words = this.words.concat(ielts);
-    this.id = this.getRandomArbitrary(this.minId, this.maxId);
+
+    // Deploy
+    // this.words = this.words.concat(ielts);
+
+    // API
+    // this.wordService.getWords().subscribe({
+    //   next: data => {
+    //     this.words = data;
+    //     this.setupWord()
+    //   },
+    //   error: err => console.error('Error fetching words:', err)
+    // });
+  }
+
+  setupWord(): void {
     this.tempWord = this.removeRandomElement(this.words)
     this.words = this.tempWord.updatedArray;
+
     if (this.tempWord.removedElement) {
       this.selectedWord = this.tempWord.removedElement;
       this.vnWord1 = this.tempWord.removedElement.vn1;
@@ -85,6 +97,15 @@ export class AppComponent {
       this.enWord3 = "";
       this.enWord4 = "";
     }
+  }
+
+  // API
+  markAsStudied(id: number): void {
+    this.wordService.markStudied(id).subscribe({
+      next: () => {
+      },
+      error: err => console.error('Error updating studied status:', err)
+    });
   }
 
   renderEnWord = (value: string): string => {
@@ -105,7 +126,7 @@ export class AppComponent {
   }
 
   next() {
-    console.log("time", deployTime)
+    // this.markAsStudied(this.selectedWord.id)
     this.textxtx = '';
     this.count4Speaking = this.countMax;
     this.countSawWords += 1;
@@ -116,34 +137,7 @@ export class AppComponent {
     this.showVN = false;
     this.showEn = true;
 
-    this.id = this.getRandomArbitrary(this.minId, this.maxId);
-    // let word = this.words.find((obj) => {
-    //   return obj.id === this.id;
-    // });
-    this.tempWord = this.removeRandomElement(this.words)
-    this.words = this.tempWord.updatedArray;
-    if (this.tempWord.removedElement) {
-      this.selectedWord = this.tempWord.removedElement;
-      this.vnWord1 = this.tempWord.removedElement.vn1;
-      this.enWord1 = this.tempWord.removedElement.en1;
-      this.enWord2 = this.tempWord.removedElement.en2;
-      this.enWord3 = this.tempWord.removedElement.en3;
-      this.enWord4 = this.tempWord.removedElement.en4;
-    } else {
-      this.selectedWord = {
-        id: 0,
-        en1: '',
-        en2: '',
-        en3: '',
-        en4: '',
-        vn1: '',
-      };
-      this.vnWord1 = "";
-      this.enWord1 = "";
-      this.enWord2 = "";
-      this.enWord3 = "";
-      this.enWord4 = "";
-    }
+    this.setupWord();
   }
 
   removeRandomElement<T>(arr: T[]): { updatedArray: T[], removedElement: T | undefined } {
@@ -154,15 +148,6 @@ export class AppComponent {
     const removedElement = arr[randomIndex];
     arr.splice(randomIndex, 1);
     return { updatedArray: arr, removedElement };
-  }
-
-  getRandomArbitrary(min: number, max: number) {
-    while (true) {
-      let newId = Math.floor(Math.random() * (max - min + 1)) + min;
-      if (newId != this.id) {
-        return newId;
-      }
-    }
   }
 
   speakMessage() {
