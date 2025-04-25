@@ -178,7 +178,7 @@
   {
     "id": 22,
     "en1": "distraction",
-    "en2": "I need to eliminate the distractions so I can focus better on my work.",
+    "en2": "I had to remove all distractions to focus on my final exam.",
     "en3": "",
     "en4": "",
     "vn1": "(n) sự phân tâm"
@@ -606,5 +606,85 @@
     "en3": "",
     "en4": "",
     "vn1": "(a) có trách nhiệm"
+  },
+  {
+    "id": 76,
+    "en1": "critical",
+    "en2": "I was in a critical condition after the accident, but I recovered.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) nghiêm trọng, quan trọng"
+  },
+  {
+    "id": 77,
+    "en1": "disposable",
+    "en2": "I always carry disposable masks when I travel.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) dùng một lần"
+  },
+  {
+    "id": 78,
+    "en1": "drastic",
+    "en2": "I had to make drastic changes to my schedule to accommodate the new project.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) mạnh mẽ, quyết liệt"
+  },
+  {
+    "id": 79,
+    "en1": "accommodate",
+    "en2": "I will accommodate your request and rearrange the meeting time.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) đáp ứng, thay đổi"
+  },
+  {
+    "id": 80,
+    "en1": "prospect",
+    "en2": "I am excited about the prospects of starting my own business.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) triển vọng, tiềm năng"
+  },
+  {
+    "id": 81,
+    "en1": "qualification",
+    "en2": "I need to improve my qualifications to apply for the job.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) trình độ chuyên môn, bằng cấp"
+  },
+  {
+    "id": 82,
+    "en1": "retirement",
+    "en2": "I am looking forward to my retirement and spending more time with my family.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự nghỉ hưu"
+  },
+  {
+    "id": 83,
+    "en1": "arson",
+    "en2": "I was shocked when I heard that the building was destroyed by arson.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự (kẻ) đốt phá"
+  },
+  {
+    "id": 84,
+    "en1": "authority",
+    "en2": "I always respect the authority of my manager at work.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) quyền lực"
+  },
+  {
+    "id": 85,
+    "en1": "burglary",
+    "en2": "I was terrified when I realized that my house had been the target of a burglary.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) vụ trộm cắp"
   }
 ]
