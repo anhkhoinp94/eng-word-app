@@ -494,5 +494,29 @@
     "en3": "",
     "en4": "",
     "vn1": "(n) danh tính"
+  },
+  {
+    "id": 62,
+    "en1": "device",
+    "en2": "I use my smartphone as a device to check emails and stay connected with friends.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) thiết bị"
+  },
+  {
+    "id": 63,
+    "en1": "function",
+    "en2": "I rely on my computer for the function of managing my daily tasks.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) chức năng"
+  },
+  {
+    "id": 64,
+    "en1": "gadget",
+    "en2": "I always carry a small gadget in my bag that helps me charge my phone on the go.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) thiết bị nhỏ"
   }
 ]
