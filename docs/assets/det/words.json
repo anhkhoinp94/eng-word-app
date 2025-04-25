@@ -329,19 +329,19 @@
   },
   {
     "id": 41,
-    "en1": "burrow",
-    "en2": "I saw a rabbit disappear into its burrow under the tree.",
+    "en1": "hindsight",
+    "en2": "I often think that in hindsight, I could have handled the situation better.",
     "en3": "",
     "en4": "",
-    "vn1": "(n) hang"
+    "vn1": "(n) sự nhìn lại"
   },
   {
     "id": 42,
-    "en1": "burrow",
+    "en1": "climate",
     "en2": "I enjoy living in a place with a warm and sunny climate.",
     "en3": "",
     "en4": "",
-    "vn1": "(n) climate"
+    "vn1": "(n) khí hậu"
   },
   {
     "id": 43,
@@ -454,5 +454,45 @@
     "en3": "",
     "en4": "",
     "vn1": "(n) sự thân mật, sự gần gũi"
+  },
+  {
+    "id": 57,
+    "en1": "free press",
+    "en2": "I support the idea of a free press because it helps hold the government accountable.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) báo chí tự do"
+  },
+  {
+    "id": 58,
+    "en1": "ideology",
+    "en2": "I try to understand different ideologies before forming my own opinion on social issues.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) hệ tư tưởng"
+  },
+  {
+    "id": 59,
+    "en1": "fame",
+    "en2": "I don't seek fame, I just want to make a positive impact on the world.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) danh tiếng"
+  },
+  {
+    "id": 60,
+    "en1": "icon",
+    "en2": "I consider her an icon of fashion because of her unique style.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) biểu tượng"
+  },
+  {
+    "id": 61,
+    "en1": "identity",
+    "en2": "I am still exploring my professional identity and what I want to do in the future.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) danh tính"
   }
 ]
