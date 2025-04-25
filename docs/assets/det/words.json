@@ -262,5 +262,53 @@
     "en3": "",
     "en4": "",
     "vn1": "(a) bị dị ứng"
+  },
+  {
+    "id": 33,
+    "en1": "allergy",
+    "en2": "I have a serious allergy to seafood, so I never eat it.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) dị ứng"
+  },
+  {
+    "id": 34,
+    "en1": "anxiety",
+    "en2": "I often feel anxiety before taking an important exam.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự lo lắng"
+  },
+  {
+    "id": 35,
+    "en1": "activity",
+    "en2": "I enjoy outdoor activity like hiking and cycling on weekends.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) hoạt động"
+  },
+  {
+    "id": 36,
+    "en1": "aspect",
+    "en2": "I try to look at every aspect of a problem before making a decision.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) khía cạnh"
+  },
+  {
+    "id": 37,
+    "en1": "controversy",
+    "en2": "I didn't expect my comment to cause so much controversy online.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) cuộc tranh cãi, tranh luận"
+  },
+  {
+    "id": 38,
+    "en1": "curriculum",
+    "en2": "I think the school should add more art classes to the curriculum.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) chương trình học"
   }
 ]
