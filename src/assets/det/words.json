@@ -566,5 +566,45 @@
     "en3": "",
     "en4": "",
     "vn1": "(n) cộng đồng"
+  },
+  {
+    "id": 71,
+    "en1": "insoluble",
+    "en2": "I found the conflict between them completely insoluble at that moment.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) không thể giải quyết, không hòa tan"
+  },
+  {
+    "id": 72,
+    "en1": "irreparable",
+    "en2": "I made an irreparable mistake that affected our friendship forever.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) không thể sửa chữa được"
+  },
+  {
+    "id": 73,
+    "en1": "irreplaceable",
+    "en2": "I lost an irreplaceable gift from my grandmother last year.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) không thể thay thế được"
+  },
+  {
+    "id": 74,
+    "en1": "irreversible",
+    "en2": "I realized too late that my decision had caused irreversible damage.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) không thể đảo ngược"
+  },
+  {
+    "id": 75,
+    "en1": "liable",
+    "en2": "I am liable for any damage caused during the rental period.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) có trách nhiệm"
   }
 ]
