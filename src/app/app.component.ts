@@ -48,16 +48,12 @@ export class AppComponent {
   };
 
   // speak
-  selectedVoice: SpeechSynthesisVoice | null;
-  voices: SpeechSynthesisVoice[];
+  selectedVoice: SpeechSynthesisVoice | null = null;
+  voices: SpeechSynthesisVoice[] = speechSynthesis.getVoices() ? speechSynthesis.getVoices() : [];
   selectedRate: number = 1;
   canSpeak: boolean = true;
 
   constructor(private wordService: WordService) {
-    this.selectedVoice = null;
-    this.voices = [];
-    this.selectedRate = 1;
-
     this.wordService.getWords().subscribe({
       next: data => {
         // API
