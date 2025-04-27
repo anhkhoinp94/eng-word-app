@@ -73,7 +73,7 @@ export class AppComponent {
     this.voices = speechSynthesis.getVoices().filter(x => x.lang === "en-US");
     setTimeout(() => {
       this.voices = speechSynthesis.getVoices().filter(x => x.lang === "en-US");
-      this.selectedVoice = this.voices[0]
+      this.selectedVoice = this.voices[0];
     }, 500);
   }
 
@@ -132,8 +132,6 @@ export class AppComponent {
   }
 
   next() {
-    // this.voices = speechSynthesis.getVoices();
-    console.log("this.voices ", this.voices.filter(x => x.lang === "en-US"))
     this.markAsStudied(this.selectedWord.id)
     this.textxtx = '';
     this.count4Speaking = this.countMax;

@@ -2,9 +2,12 @@
   <div class="container" style="min-height: 200px">
     <div class="row" style="margin-bottom: 30px;">
       <div class="col-4">
+        <select class="form-select" [(ngModel)]="selectedVoice">
+          <option *ngFor="let option of voices" [ngValue]="option">{{ option.name }}</option>
+        </select>
         <div>{{ deployT }}</div>
-        <div>{{ countSawWords }}</div>
-        <div>{{ id }}</div>
+        <!-- <div>{{ countSawWords }}</div>
+        <div>{{ id }}</div> -->
       </div>
 
       <div class="col-4 d-flex justify-content-center">
@@ -128,8 +131,5 @@
           </button>
         </div>
       </div> -->
-  </div>
-  <div *ngFor="let voice of voices" style="margin-bottom: 10px;">
-    <strong>{{ voice.name }}</strong> ({{ voice.lang }})
   </div>
 </div>
