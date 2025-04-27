@@ -5,14 +5,6 @@
         <div>{{ deployT }}</div>
         <div>{{ countSawWords }}</div>
         <div>{{ id }}</div>
-        <div *ngIf="voices.length > 0; else loading">
-          <div *ngFor="let voice of voices" style="margin-bottom: 10px;">
-            <strong>{{ voice.name }}</strong> ({{ voice.lang }})
-          </div>
-        </div>
-        <ng-template #loading>
-          <p>Loading voices...</p>
-        </ng-template>
       </div>
 
       <div class="col-4 d-flex justify-content-center">
@@ -136,5 +128,8 @@
           </button>
         </div>
       </div> -->
+  </div>
+  <div *ngFor="let voice of voices" style="margin-bottom: 10px;">
+    <strong>{{ voice.name }}</strong> ({{ voice.lang }})
   </div>
 </div>

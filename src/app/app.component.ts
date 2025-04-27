@@ -49,11 +49,12 @@ export class AppComponent {
 
   // speak
   selectedVoice: SpeechSynthesisVoice | null = null;
-  voices: SpeechSynthesisVoice[] = speechSynthesis.getVoices() ? speechSynthesis.getVoices() : [];
+  voices: SpeechSynthesisVoice[] = [];
   selectedRate: number = 1;
   canSpeak: boolean = true;
 
   constructor(private wordService: WordService) {
+
     this.wordService.getWords().subscribe({
       next: data => {
         // API
@@ -66,6 +67,14 @@ export class AppComponent {
         this.words = this.words.concat(ielts);
       }
     });
+  }
+
+  ngOnInit(): void {
+    this.voices = speechSynthesis.getVoices().filter(x => x.lang === "en-US");
+    setTimeout(() => {
+      this.voices = speechSynthesis.getVoices().filter(x => x.lang === "en-US");
+      this.selectedVoice = this.voices[0]
+    }, 500);
   }
 
   setupWord(): void {
@@ -123,6 +132,8 @@ export class AppComponent {
   }
 
   next() {
+    // this.voices = speechSynthesis.getVoices();
+    console.log("this.voices ", this.voices.filter(x => x.lang === "en-US"))
     this.markAsStudied(this.selectedWord.id)
     this.textxtx = '';
     this.count4Speaking = this.countMax;
