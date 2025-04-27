@@ -155,6 +155,7 @@ export class AppComponent {
     let words = this.enWord1.split(',');
     if (words.length > 0) {
       var utterance = new SpeechSynthesisUtterance(words[0].trim());
+      utterance.lang = 'en-US';
       utterance.voice = this.selectedVoice;
       utterance.rate = this.selectedRate;
       speechSynthesis.speak(utterance);
@@ -169,6 +170,7 @@ export class AppComponent {
 
   speakSentence() {
     var utterance = new SpeechSynthesisUtterance(this.enWord2);
+    utterance.lang = 'en-US';
     utterance.voice = this.selectedVoice;
     utterance.rate = this.selectedRate;
     speechSynthesis.speak(utterance);
