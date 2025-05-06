@@ -98,7 +98,7 @@
       </button>
 
       <button class="btn btn-danger mt-4 me-2" style="min-width: 160px; height: 90px; font-size: 30px" (click)="next()"
-        *ngIf="showEn && showVN">
+        *ngIf="showEn && showVN" [disabled]="count4Speaking > 0">
         Next
       </button>
     </div>
@@ -132,4 +132,8 @@
         </div>
       </div> -->
   </div>
+  <!-- <div *ngFor="let voice of voices" style="margin-bottom: 10px;">
+    <strong>{{ voice.name }}</strong> ({{ voice.lang }})
+  </div> -->
+  <!-- <pre>{{ voices | json }}</pre> -->
 </div>

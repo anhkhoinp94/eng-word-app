@@ -54,17 +54,17 @@ export class AppComponent {
   canSpeak: boolean = true;
 
   constructor(private wordService: WordService) {
-
     this.wordService.getWords().subscribe({
       next: data => {
         // API
         this.words = data;
-        this.setupWord()
+        this.setupWord();
       },
       error: err => {
         // Deploy
         console.error('Error fetching words:', err);
         this.words = this.words.concat(ielts);
+        this.setupWord();
       }
     });
   }
