@@ -814,5 +814,37 @@
     "en3": "",
     "en4": "",
     "vn1": "(n) lối vào, sự đi vào"
+  },
+  {
+    "id": 102,
+    "en1": "arbitrary",
+    "en2": "I made an arbitrary choice without thinking it through.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) tùy tiện, ngẫu nhiên"
+  },
+  {
+    "id": 103,
+    "en1": "arbitrary",
+    "en2": "I felt helpless when I saw the injured bird on the ground.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) bất lực, không thể tự lo liệu"
+  },
+  {
+    "id": 104,
+    "en1": "temperamental",
+    "en2": "I find it hard to work with him because he's so temperamental.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) tính khí thất thường"
+  },
+  {
+    "id": 105,
+    "en1": "temperature",
+    "en2": "I checked the temperature before going outside this morning.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) nhiệt độ"
   }
 ]
