@@ -862,5 +862,69 @@
     "en3": "",
     "en4": "",
     "vn1": "(v) phục vụ - cung cấp thực phẩm"
+  },
+  {
+    "id": 108,
+    "en1": "detrimental",
+    "en2": "I realized that staying up late was detrimental to my health.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) có hại"
+  },
+  {
+    "id": 109,
+    "en1": "alleviate",
+    "en2": "I took some medicine to alleviate the pain in my back.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) làm giảm bớt, xoa dịu"
+  },
+  {
+    "id": 110,
+    "en1": "comprehensive",
+    "en2": "I prepared a comprehensive report for the meeting.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) toàn diện"
+  },
+  {
+    "id": 111,
+    "en1": "prevalent",
+    "en2": "I noticed that remote work has become more prevalent recently.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) phổ biến, thịnh hành"
+  },
+  {
+    "id": 112,
+    "en1": "substantial",
+    "en2": "I received a substantial pay raise after the successful project.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) đáng kể, lớn lao"
+  },
+  {
+    "id": 113,
+    "en1": "implement",
+    "en2": "I plan to implement a new schedule to improve productivity.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) thực hiện, thi hành"
+  },
+  {
+    "id": 114,
+    "en1": "prominent",
+    "en2": "I was honored to meet a prominent scientist at the conference.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) nổi bật, quan trọng"
+  },
+  {
+    "id": 115,
+    "en1": "disparity",
+    "en2": "I noticed a disparity in the test scores between the two classes.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự chênh lệch, khác biệt"
   }
 ]
