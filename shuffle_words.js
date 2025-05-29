@@ -30,7 +30,9 @@ function shuffleItems(items) {
 // Main process
 function main() {
   const originalItems = readJSON('src\\assets\\det\\words.json');
-  const shuffledItems = shuffleItems(originalItems);
+  let shuffledItems = shuffleItems(originalItems);
+  shuffledItems = shuffleItems(shuffledItems);
+  shuffledItems = shuffleItems(shuffledItems);
   writeJSON('src\\assets\\det\\output.json', shuffledItems);
   console.log('Shuffled items have been written to output.json');
 
