@@ -31,7 +31,7 @@ function shuffleItems(items) {
 function main() {
   const originalItems = readJSON('src\\assets\\det\\words.json');
   let shuffledItems = shuffleItems(originalItems);
-  const randomNumber = Math.floor(Math.random() * (50 - 7 + 1)) + 7;
+  const randomNumber = Math.floor(Math.random() * (100 - 5 + 1)) + 5;
   for (let i = 0; i < randomNumber; i++) {
     console.log(`the ${i} time`);
     shuffledItems = shuffleItems(shuffledItems);
