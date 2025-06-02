@@ -1294,5 +1294,37 @@
     "en3": "",
     "en4": "",
     "vn1": "(v,n) quy cho - đặc điểm"
+  },
+  {
+    "id": 159,
+    "en1": "irrigate",
+    "en2": "I use a simple system to irrigate my garden every morning.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) tưới tiêu"
+  },
+  {
+    "id": 160,
+    "en1": "reinforce",
+    "en2": "I used examples to reinforce my point during the presentation.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) củng cố, tăng cường"
+  },
+  {
+    "id": 161,
+    "en1": "contradict",
+    "en2": "I didn't mean to contradict you, I just saw things differently.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) mâu thuẫn"
+  },
+  {
+    "id": 162,
+    "en1": "diverse",
+    "en2": "I enjoy working in a team with people from diverse backgrounds.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) đa dạng"
   }
 ]
