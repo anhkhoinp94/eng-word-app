@@ -33,6 +33,7 @@ function main() {
   let shuffledItems = shuffleItems(originalItems);
   const randomNumber = Math.floor(Math.random() * (25 - 7 + 1)) + 7;
   for (let i = 0; i < randomNumber; i++) {
+    console.log(`the ${i} time`);
     shuffledItems = shuffleItems(shuffledItems);
   }
   writeJSON('src\\assets\\det\\output.json', shuffledItems);
