@@ -1510,5 +1510,141 @@
     "en3": "",
     "en4": "",
     "vn1": "(v,n) tuyên bố, khẳng định"
+  },
+  {
+    "id": 0,
+    "en1": "constrain",
+    "en2": "I try not to constrain my creativity when brainstorming new ideas.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) hạn chế, kiềm chế"
+  },
+  {
+    "id": 0,
+    "en1": "depict",
+    "en2": "I tried to depict the peaceful scenery in my painting.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) mô tả, miêu tả"
+  },
+  {
+    "id": 0,
+    "en1": "escalate",
+    "en2": "I didn't want to escalate the argument, so I stayed quiet.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) leo thang, tăng mạnh"
+  },
+  {
+    "id": 0,
+    "en1": "imminent",
+    "en2": "I was warned about the imminent danger near the cliff.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) sắp xảy ra"
+  },
+  {
+    "id": 0,
+    "en1": "redundant",
+    "en2": "I removed the redundant words to make my essay clearer.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) dư thừa, không cần thiết"
+  },
+  {
+    "id": 0,
+    "en1": "absorb",
+    "en2": "I tried to absorb as much information as possible before the exam.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) hấp thụ, tiếp thu"
+  },
+  {
+    "id": 0,
+    "en1": "commence",
+    "en2": "I will commence my new job next Monday.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) bắt đầu, khởi đầu"
+  },
+  {
+    "id": 0,
+    "en1": "detect",
+    "en2": "I was able to detect a small mistake in the report.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) phát hiện"
+  },
+  {
+    "id": 0,
+    "en1": "emerge",
+    "en2": "I began to emerge from my comfort zone during the new project.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) xuất hiện, hiện ra, nổi lên"
+  },
+  {
+    "id": 0,
+    "en1": "facilitate",
+    "en2": "I try to facilitate teamwork by encouraging open communication.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) tạo điều kiện"
+  },
+  {
+    "id": 0,
+    "en1": "incorporate",
+    "en2": "I incorporated feedback from my team into the final report.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) kết hợp"
+  },
+  {
+    "id": 0,
+    "en1": "manipulate",
+    "en2": "I tried to manipulate the data carefully to show the correct results.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) điều chỉnh, thao túng"
+  },
+  {
+    "id": 0,
+    "en1": "scarcity",
+    "en2": "I noticed the scarcity of clean water during my trip to the village.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự khan hiếm, thiếu hụt"
+  },
+  {
+    "id": 0,
+    "en1": "terminate",
+    "en2": "I decided to terminate the contract due to poor service.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) chấm dứt, kết thúc"
+  },
+  {
+    "id": 0,
+    "en1": "undergo",
+    "en2": "I had to undergo surgery last year.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) trải qua, chịu đựng"
+  },
+  {
+    "id": 0,
+    "en1": "yield",
+    "en2": "I hope my hard work will yield good results.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) sản xuất, mang lại"
+  },
+  {
+    "id": 0,
+    "en1": "validate",
+    "en2": "I need to validate the data before submitting the report.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) xác thực"
   }
 ]
