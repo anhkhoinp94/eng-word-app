@@ -1646,5 +1646,37 @@
     "en3": "",
     "en4": "",
     "vn1": "(v) xác thực"
+  },
+  {
+    "id": 0,
+    "en1": "derive",
+    "en2": "I derive great satisfaction from helping others.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) lấy được, có được từ"
+  },
+  {
+    "id": 0,
+    "en1": "flourish",
+    "en2": "I believe my business will flourish with the right strategy.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) phát triển mạnh, thịnh vượng"
+  },
+  {
+    "id": 0,
+    "en1": "hamper",
+    "en2": "I didn't let the bad weather hamper my travel plans.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) cản trở, gây khó khăn"
+  },
+  {
+    "id": 0,
+    "en1": "suppress",
+    "en2": "I tried to suppress my anger during the meeting.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) đàn áp, kiềm nén"
   }
 ]
