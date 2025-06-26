@@ -1678,5 +1678,85 @@
     "en3": "",
     "en4": "",
     "vn1": "(v) đàn áp, kiềm nén"
+  },
+  {
+    "id": 0,
+    "en1": "compensate",
+    "en2": "I worked extra hours to compensate for my absence last week.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) bồi thường, đền bù"
+  },
+  {
+    "id": 0,
+    "en1": "integrate",
+    "en2": "I tried to integrate new technology into my daily work.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) tích hợp, hội nhập"
+  },
+  {
+    "id": 0,
+    "en1": "migrate",
+    "en2": "I plan to migrate to another city for better job opportunities.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) di cư"
+  },
+  {
+    "id": 0,
+    "en1": "reluctant",
+    "en2": "I was reluctant to speak in front of a large audience.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) miễn cưỡng, do dự"
+  },
+  {
+    "id": 0,
+    "en1": "voluntary",
+    "en2": "I joined the cleanup campaign as a voluntary participant.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) tự nguyện"
+  },
+  {
+    "id": 0,
+    "en1": "incentive",
+    "en2": "I was given a bonus as an incentive to finish the project early.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự khích lệ, động lực"
+  },
+  {
+    "id": 0,
+    "en1": "adverse",
+    "en2": "I continued working despite the adverse weather conditions.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) bất lợi, có hại"
+  },
+  {
+    "id": 0,
+    "en1": "clarify",
+    "en2": "I tried to clarify my point during the discussion.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) làm rõ, giải thích rõ ràng"
+  },
+  {
+    "id": 0,
+    "en1": "oppose",
+    "en2": "I strongly oppose the idea of cutting down more trees.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) phản đối"
+  },
+  {
+    "id": 0,
+    "en1": "resolve",
+    "en2": "I tried to resolve the conflict between my two friends.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) giải quyết"
   }
 ]
