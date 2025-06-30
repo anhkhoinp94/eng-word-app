@@ -36,9 +36,9 @@ function main() {
     .filter((word, index, self) => self.indexOf(word) !== index);
 
   if (duplicates.length > 0) {
-    console.log("Duplicated en1 words:", duplicates);
+    console.log("Duplicated words:", duplicates);
   } else {
-    console.log("No duplicates in en1.");
+    console.log("No duplicates.");
   }
 
   // Check sample sentences
@@ -48,9 +48,9 @@ function main() {
     return !sentence.includes(word);
   });
   if (notIncluded.length > 0) {
-    console.log("en1 not found in en2 for items:", notIncluded);
+    console.log("Words don't have correct sentences:", notIncluded);
   } else {
-    console.log("All en1 words are included in en2.");
+    console.log("All sentences are correct with words.");
   }
 
   // Shuffle words
