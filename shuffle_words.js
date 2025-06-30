@@ -30,6 +30,30 @@ function shuffleItems(items) {
 // Main process
 function main() {
   const originalItems = readJSON('src\\assets\\det\\words.json');
+  // Check duplicated
+  const duplicates = originalItems
+    .map(item => item.en1)
+    .filter((word, index, self) => self.indexOf(word) !== index);
+
+  if (duplicates.length > 0) {
+    console.log("Duplicated en1 words:", duplicates);
+  } else {
+    console.log("No duplicates in en1.");
+  }
+
+  // Check sample sentences
+  const notIncluded = originalItems.filter(item => {
+    const word = item.en1.toLowerCase();
+    const sentence = item.en2.toLowerCase();
+    return !sentence.includes(word);
+  });
+  if (notIncluded.length > 0) {
+    console.log("en1 not found in en2 for items:", notIncluded);
+  } else {
+    console.log("All en1 words are included in en2.");
+  }
+
+  // Shuffle words
   let shuffledItems = shuffleItems(originalItems);
   const randomNumber = Math.floor(Math.random() * (100 - 5 + 1)) + 5;
   for (let i = 0; i < randomNumber; i++) {

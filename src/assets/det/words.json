@@ -1758,5 +1758,149 @@
     "en3": "",
     "en4": "",
     "vn1": "(v) giải quyết"
+  },
+  {
+    "id": 0,
+    "en1": "capable",
+    "en2": "I am capable of handling this task on my own.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) có khả năng"
+  },
+  {
+    "id": 0,
+    "en1": "contrary",
+    "en2": "I heard the weather would be sunny, but the reality was quite the contrary.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a,n) trái ngược"
+  },
+  {
+    "id": 0,
+    "en1": "evaluate",
+    "en2": "I need to evaluate all the options before making a decision.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) đánh giá"
+  },
+  {
+    "id": 0,
+    "en1": "imply",
+    "en2": "I didn't mean to imply that you were wrong.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) ngụ ý, ám chỉ"
+  },
+  {
+    "id": 0,
+    "en1": "innovative",
+    "en2": "I came up with an innovative solution to reduce energy consumption.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) sáng tạo, đổi mới"
+  },
+  {
+    "id": 0,
+    "en1": "obtain",
+    "en2": "I managed to obtain a visa after submitting all the documents.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) đạt được, giành được"
+  },
+  {
+    "id": 0,
+    "en1": "participate",
+    "en2": "I participate in group discussions to improve my communication skills.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) tham gia"
+  },
+  {
+    "id": 0,
+    "en1": "preserve",
+    "en2": "I try to preserve old family photos by storing them carefully.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) bảo tồn, giữ gìn"
+  },
+  {
+    "id": 0,
+    "en1": "regulate",
+    "en2": "I try to regulate my sleep schedule by going to bed early.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) điều chỉnh, kiểm soát"
+  },
+  {
+    "id": 0,
+    "en1": "revise",
+    "en2": "I need to revise my essay before submitting it.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) xem lại, sửa đổi"
+  },
+  {
+    "id": 0,
+    "en1": "significant",
+    "en2": "I noticed a significant improvement in my English after daily practice.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) quan trọng, đáng kể"
+  },
+  {
+    "id": 0,
+    "en1": "tolerate",
+    "en2": "I can't tolerate loud noises when I'm trying to concentrate.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) chịu đựng, khoan dung"
+  },
+  {
+    "id": 0,
+    "en1": "transfer",
+    "en2": "I need to transfer the files to a different folder.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) chuyển, di chuyển"
+  },
+  {
+    "id": 0,
+    "en1": "acknowledge",
+    "en2": "I acknowledged my mistake and apologized to the team.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) công nhận, thừa nhận"
+  },
+  {
+    "id": 0,
+    "en1": "compile",
+    "en2": "I compiled all the research data into one report.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) biên soạn, tổng hợp"
+  },
+  {
+    "id": 0,
+    "en1": "displace",
+    "en2": "I saw how the flood displaced hundreds of families in the area.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) di dời, thay thế"
+  },
+  {
+    "id": 0,
+    "en1": "preclude",
+    "en2": "I arrived early to preclude any chance of being late.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) ngăn ngừa, ngăn chặn"
+  },
+  {
+    "id": 0,
+    "en1": "trigger",
+    "en2": "I accidentally triggered the alarm when I opened the door.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) kích hoạt, gây ra"
   }
 ]
