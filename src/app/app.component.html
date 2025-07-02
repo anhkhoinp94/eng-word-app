@@ -5,8 +5,7 @@
         <select class="form-select" [(ngModel)]="selectedVoice">
           <option *ngFor="let option of voices" [ngValue]="option">{{ option.name }}</option>
         </select>
-        <div>{{ deployT }}</div>
-        <div>{{ countSawWords }}</div>
+        <div>{{ deployT }} - {{ countSawWords }}</div>
         <!-- <div>{{ id }}</div> -->
       </div>
 
