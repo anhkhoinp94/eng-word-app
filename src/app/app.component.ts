@@ -34,8 +34,8 @@ export class AppComponent {
   words: Word[] = [];
   countSawWords = 0;
   tempWord: any;
-  countMax = 10;
-  count4Speaking = 10;
+  countMax = 3;
+  count4Speaking = 3;
   deployT = deployTime.time;
 
   selectedWord: Word = {
