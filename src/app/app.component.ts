@@ -40,6 +40,7 @@ export class AppComponent {
   deployT = deployTime.time;
   doesAPIWork = true;
   isAuto = true;
+  timeSleep = 2000;
 
   selectedWord: Word = {
     id: 0,
@@ -162,9 +163,11 @@ export class AppComponent {
     return { updatedArray: arr, removedElement };
   };
 
-  speakWordCountMax = 2;
+  speakWordCountMax = 1;
   speakWordCount = 0;
-  speakWord() {
+  async speakWord() {
+    await this.sleep();
+    this.speakWordCount += 1;
     let words = this.enWord1.split(',');
     if (words.length > 0) {
       var utterance = new SpeechSynthesisUtterance(words[0].trim());
@@ -172,14 +175,13 @@ export class AppComponent {
       utterance.voice = this.selectedVoice;
       utterance.rate = this.selectedRate;
       if (this.isAuto) {
-        utterance.onend = (event) => {
-          if (this.speakWordCount == this.speakWordCountMax) {
+        utterance.onend = async (event) => {
+          if (this.speakWordCount > this.speakWordCountMax) {
             this.speakWordCount = 0;
             this.change();
-            this.speakSentence();
+            await this.speakSentence();
           } else {
-            this.speakWord();
-            this.speakWordCount += 1;
+            await this.speakWord();
           };
         };
       };
@@ -187,22 +189,23 @@ export class AppComponent {
     };
   };
 
-  speakSentenceCountMax = 10;
+  speakSentenceCountMax = 1;
   speakSentenceCount = 0;
-  speakSentence() {
+  async speakSentence() {
+    await this.sleep();
+    this.speakSentenceCount += 1;
     var utterance = new SpeechSynthesisUtterance(this.enWord2);
     utterance.lang = 'en-US';
     utterance.voice = this.selectedVoice;
     utterance.rate = this.selectedRate;
     if (this.isAuto) {
-      utterance.onend = (event) => {
-        if (this.speakSentenceCount == this.speakSentenceCountMax) {
+      utterance.onend = async (event) => {
+        if (this.speakSentenceCount > this.speakSentenceCountMax) {
           this.speakSentenceCount = 0;
           this.next();
-          this.speakWord();
+          await this.speakWord();
         } else {
-          this.speakSentence();
-          this.speakSentenceCount += 1;
+          await this.speakSentence();
         };
       };
     };
@@ -224,4 +227,8 @@ export class AppComponent {
       this.canSpeak = true;
     };
   };
+
+  sleep(): Promise<void> {
+    return new Promise(resolve => setTimeout(resolve, this.timeSleep));
+  }
 }
