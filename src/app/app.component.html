@@ -26,7 +26,7 @@
     <div *ngIf="showEn && !showVN">
       <div class="row" style="min-height: 80px">
         <h1 style="float: right; font-size: 20px; text-align: center">
-          {{ renderEnWord(enWord1) }}
+          {{ enWord1 }}
         </h1>
       </div>
       <div class="row" style="min-height: 80px"></div>
@@ -42,7 +42,7 @@
     <div *ngIf="showEn && showVN">
       <div class="row" style="min-height: 80px">
         <h1 style="float: right; font-size: 20px; text-align: center">
-          {{ renderEnWord(enWord1) }}
+          {{ enWord1 }}
         </h1>
       </div>
       <div class="row" style="min-height: 80px">
@@ -74,7 +74,7 @@
               height: 90px;
               font-size: 30px;
               float: right;
-            " (click)="speakMessage2()" *ngIf="canSpeak">
+            " (click)="speakWord()" *ngIf="canSpeak">
             Speak
           </button>
           <button class="btn btn-secondary mt-4" style="
@@ -106,7 +106,7 @@
   <div class="row" *ngIf="enWord2">
     <div class="col-6">
       <button class="btn btn-warning mt-3" style="min-width: 160px; height: 90px; font-size: 30px; float: right;"
-        (click)="speakSentence2()" *ngIf="canSpeak && showEn && showVN">
+        (click)="speakSentence()" *ngIf="canSpeak && showEn && showVN">
         Sentence
       </button>
     </div>
@@ -121,7 +121,7 @@
       <div class="row" style="width: 160px; height: 90px; font-size: 30px">
         <div class="col-6">
           <button style="min-width: 70px; height: 90px; font-size: 30px" class="btn btn-warning mt-4"
-            (click)="speakSentence2()" *ngIf="canSpeak && showEn && showVN">
+            (click)="speakSentence()" *ngIf="canSpeak && showEn && showVN">
           </button>
         </div>
         <div class="col-6">

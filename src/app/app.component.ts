@@ -3,6 +3,7 @@ import { Component, OnInit, OnDestroy } from '@angular/core';
 import ielts from '../assets/det/output.json';
 import deployTime from '../assets/det/deploy_time.json';
 import { WordService } from './services/word.service';
+import { ChangeDetectorRef } from '@angular/core';
 
 interface Word {
   id: number;
@@ -37,6 +38,8 @@ export class AppComponent {
   countMax = 3;
   count4Speaking = 3;
   deployT = deployTime.time;
+  doesAPIWork = true;
+  isAuto = true;
 
   selectedWord: Word = {
     id: 0,
@@ -53,29 +56,33 @@ export class AppComponent {
   selectedRate: number = 1;
   canSpeak: boolean = true;
 
-  constructor(private wordService: WordService) {
-    this.wordService.getWords().subscribe({
-      next: data => {
-        // API
-        this.words = data;
-        this.setupWord();
-      },
-      error: err => {
-        // Deploy
-        console.error('Error fetching words:', err);
-        this.words = this.words.concat(ielts);
-        this.setupWord();
-      }
-    });
-  }
+  constructor(private wordService: WordService, private cdr: ChangeDetectorRef) {
+    if (this.doesAPIWork) {
+      this.wordService.getWords().subscribe({
+        next: data => {
+          // API
+          this.words = data;
+          this.setupWord();
+        },
+        error: err => {
+          // Deploy
+          console.error('Error fetching words:', err);
+          this.doesAPIWork = false;
+          this.words = this.words.concat(ielts);
+          this.setupWord();
+        }
+      });
+    };
+  };
 
   ngOnInit(): void {
     this.voices = speechSynthesis.getVoices().filter(x => x.lang === "en-US");
     setTimeout(() => {
       this.voices = speechSynthesis.getVoices().filter(x => x.lang === "en-US");
       this.selectedVoice = this.voices[0];
+      this.speakWord();
     }, 500);
-  }
+  };
 
   setupWord(): void {
     this.tempWord = this.removeRandomElement(this.words)
@@ -102,34 +109,33 @@ export class AppComponent {
       this.enWord2 = "";
       this.enWord3 = "";
       this.enWord4 = "";
-    }
-  }
+    };
+    this.cdr.detectChanges();
+  };
 
   // API
   markAsStudied(id: number): void {
-    this.wordService.markStudied(id).subscribe({
-      next: () => {
-      },
-      error: err => console.error('Error updating studied status:', err)
-    });
-  }
-
-  renderEnWord = (value: string): string => {
-    if (!this.showVN) {
-      let words = value.split(',');
-      return words[0];
-    }
-    return value;
+    if (this.doesAPIWork) {
+      this.wordService.markStudied(id).subscribe({
+        next: () => {
+        },
+        error: err => {
+          this.doesAPIWork = false;
+          console.error('Error updating studied status:', err)
+        }
+      });
+    };
   };
 
   change() {
     if (!this.showVN) {
       this.showVN = true;
-    }
+    };
     if (!this.showEn) {
       this.showEn = true;
-    }
-  }
+    };
+    this.cdr.detectChanges();
+  };
 
   next() {
     this.markAsStudied(this.selectedWord.id)
@@ -144,54 +150,70 @@ export class AppComponent {
     this.showEn = true;
 
     this.setupWord();
-  }
+  };
 
   removeRandomElement<T>(arr: T[]): { updatedArray: T[], removedElement: T | undefined } {
     if (arr.length === 0) {
       return { updatedArray: arr, removedElement: undefined };
-    }
+    };
     const randomIndex = Math.floor(Math.random() * arr.length);
     const removedElement = arr[randomIndex];
     arr.splice(randomIndex, 1);
     return { updatedArray: arr, removedElement };
-  }
+  };
 
-  speakMessage() {
+  speakWordCountMax = 2;
+  speakWordCount = 0;
+  speakWord() {
     let words = this.enWord1.split(',');
     if (words.length > 0) {
       var utterance = new SpeechSynthesisUtterance(words[0].trim());
       utterance.lang = 'en-US';
       utterance.voice = this.selectedVoice;
       utterance.rate = this.selectedRate;
+      if (this.isAuto) {
+        utterance.onend = (event) => {
+          if (this.speakWordCount == this.speakWordCountMax) {
+            this.speakWordCount = 0;
+            this.change();
+            this.speakSentence();
+          } else {
+            this.speakWord();
+            this.speakWordCount += 1;
+          };
+        };
+      };
       speechSynthesis.speak(utterance);
-    }
-  }
+    };
+  };
 
-  speakMessage2() {
-    for (let index = 0; index < 2; index++) {
-      this.speakMessage();
-    }
-  }
-
+  speakSentenceCountMax = 12;
+  speakSentenceCount = 0;
   speakSentence() {
     var utterance = new SpeechSynthesisUtterance(this.enWord2);
     utterance.lang = 'en-US';
     utterance.voice = this.selectedVoice;
     utterance.rate = this.selectedRate;
+    if (this.isAuto) {
+      utterance.onend = (event) => {
+        if (this.speakSentenceCount == this.speakSentenceCountMax) {
+          this.speakSentenceCount = 0;
+          this.next();
+          this.speakWord();
+        } else {
+          this.speakSentence();
+          this.speakSentenceCount += 1;
+        };
+      };
+    };
     speechSynthesis.speak(utterance);
-  }
-
-  speakSentence2() {
-    for (let index = 0; index < 2; index++) {
-      this.speakSentence();
-    }
-  }
+  };
 
   count() {
     if (this.count4Speaking !== 0) {
       this.count4Speaking = this.count4Speaking - 1
-    }
-  }
+    };
+  };
 
   checkAbleSpeak() {
     this.voices = window.speechSynthesis
@@ -200,25 +222,6 @@ export class AppComponent {
     if (this.voices.length > 0) {
       this.selectedVoice = this.voices[0];
       this.canSpeak = true;
-    }
-  }
-
-  // private intervalId: any;
-  // ngOnInit(): void {
-  //   this.intervalId = setInterval(() => this.runAction(), 3500);
-  // }
-  // ngOnDestroy(): void {
-  //   if (this.intervalId) {
-  //     clearInterval(this.intervalId);
-  //   }
-  // }
-  // runAction(): void {
-  //   if (this.showVN) {
-  //     this.next();
-  //     this.speakMessage();
-  //   } else {
-  //     this.change();
-  //     this.speakMessage();
-  //   }
-  // }
+    };
+  };
 }
