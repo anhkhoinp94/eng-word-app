@@ -40,7 +40,7 @@ export class AppComponent {
   deployT = deployTime.time;
   doesAPIWork = true;
   isAuto = true;
-  timeSleep = 2000;
+  timeSleep = 1000;
 
   selectedWord: Word = {
     id: 0,
