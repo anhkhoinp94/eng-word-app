@@ -187,7 +187,7 @@ export class AppComponent {
     };
   };
 
-  speakSentenceCountMax = 12;
+  speakSentenceCountMax = 10;
   speakSentenceCount = 0;
   speakSentence() {
     var utterance = new SpeechSynthesisUtterance(this.enWord2);
