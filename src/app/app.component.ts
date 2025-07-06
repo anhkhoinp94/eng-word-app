@@ -1,5 +1,5 @@
 import { Component, OnInit, OnDestroy } from '@angular/core';
-
+import { ChangeDetectorRef } from '@angular/core';
 import ielts from '../assets/det/output.json';
 import deployTime from '../assets/det/deploy_time.json';
 import { WordService } from './services/word.service';
@@ -37,6 +37,7 @@ export class AppComponent {
   countMax = 3;
   count4Speaking = 3;
   deployT = deployTime.time;
+  isAuto = true;
 
   selectedWord: Word = {
     id: 0,
@@ -53,7 +54,7 @@ export class AppComponent {
   selectedRate: number = 1;
   canSpeak: boolean = true;
 
-  constructor(private wordService: WordService) {
+  constructor(private wordService: WordService, private cdr: ChangeDetectorRef) {
     this.wordService.getWords().subscribe({
       next: data => {
         // API
@@ -129,6 +130,7 @@ export class AppComponent {
     if (!this.showEn) {
       this.showEn = true;
     }
+    this.cdr.detectChanges();
   }
 
   next() {
@@ -144,6 +146,7 @@ export class AppComponent {
     this.showEn = true;
 
     this.setupWord();
+    this.cdr.detectChanges();
   }
 
   removeRandomElement<T>(arr: T[]): { updatedArray: T[], removedElement: T | undefined } {
@@ -156,35 +159,52 @@ export class AppComponent {
     return { updatedArray: arr, removedElement };
   }
 
-  speakMessage() {
-    let words = this.enWord1.split(',');
-    if (words.length > 0) {
-      var utterance = new SpeechSynthesisUtterance(words[0].trim());
-      utterance.lang = 'en-US';
-      utterance.voice = this.selectedVoice;
-      utterance.rate = this.selectedRate;
-      speechSynthesis.speak(utterance);
-    }
+  speakWordCount = 0;
+  speakWordCountMax = 1;
+  async speakWord() {
+    this.speakWordCount += 1;
+    var utterance = new SpeechSynthesisUtterance(this.enWord1);
+    utterance.lang = 'en-US';
+    utterance.voice = this.selectedVoice;
+    utterance.rate = this.selectedRate;
+    if (this.isAuto) {
+      utterance.onend = async (event) => {
+        if (this.speakWordCount > this.speakWordCountMax) {
+          this.speakWordCount = 0;
+          this.change();
+          await this.sleep();
+          await this.speakSentence();
+        } else {
+          await this.sleep();
+          await this.speakWord();
+        };
+      };
+    };
+    speechSynthesis.speak(utterance);
   }
 
-  speakMessage2() {
-    for (let index = 0; index < 2; index++) {
-      this.speakMessage();
-    }
-  }
-
-  speakSentence() {
+  speakSentenceCount = 0;
+  speakSentenceCountMax = 1;
+  async speakSentence() {
+    this.speakSentenceCount += 1;
     var utterance = new SpeechSynthesisUtterance(this.enWord2);
     utterance.lang = 'en-US';
     utterance.voice = this.selectedVoice;
     utterance.rate = this.selectedRate;
+    if (this.isAuto) {
+      utterance.onend = async (event) => {
+        if (this.speakSentenceCount > this.speakSentenceCountMax) {
+          this.speakSentenceCount = 0;
+          this.next();
+          await this.sleep();
+          await this.speakWord();
+        } else {
+          await this.sleep();
+          await this.speakSentence();
+        };
+      };
+    };
     speechSynthesis.speak(utterance);
-  }
-
-  speakSentence2() {
-    for (let index = 0; index < 2; index++) {
-      this.speakSentence();
-    }
   }
 
   count() {
@@ -201,6 +221,10 @@ export class AppComponent {
       this.selectedVoice = this.voices[0];
       this.canSpeak = true;
     }
+  }
+
+  sleep(): Promise<void> {
+    return new Promise(resolve => setTimeout(resolve, 1000));
   }
 
   // private intervalId: any;

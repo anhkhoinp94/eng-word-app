@@ -1,21 +1,26 @@
 <div class="container mt-2">
   <div class="container" style="min-height: 200px">
     <div class="row" style="margin-bottom: 30px;">
-      <div class="col-4">
-        <select class="form-select" [(ngModel)]="selectedVoice">
-          <option *ngFor="let option of voices" [ngValue]="option">{{ option.name }}</option>
-        </select>
+      <div class="col-9">
+        <div class="row">
+          <div class="col-8">
+            <select class="form-select" [(ngModel)]="selectedVoice">
+              <option *ngFor="let option of voices" [ngValue]="option">{{ option.name }}</option>
+            </select>
+          </div>
+          <div class="col-4">
+            <select class="form-select" [(ngModel)]="isAuto">
+              <option [ngValue]="true">Auto</option>
+              <option [ngValue]="false">Manual</option>
+            </select>
+          </div>
+        </div>
+
         <div>{{ deployT }} - {{ countSawWords }}</div>
         <!-- <div>{{ id }}</div> -->
       </div>
 
-      <div class="col-4 d-flex justify-content-center">
-        <div class="row justify-content-center">
-          <div class="col-12 d-flex justify-content-center align-items-center" style="margin-right: 4px;">
-          </div>
-        </div>
-      </div>
-      <div class="col-4 d-flex justify-content-center">
+      <div class="col-3 d-flex justify-content-center">
         <div class="row justify-content-center">
           <div class="col-12 d-flex justify-content-center align-items-center">
           </div>
@@ -74,7 +79,7 @@
               height: 90px;
               font-size: 30px;
               float: right;
-            " (click)="speakMessage2()" *ngIf="canSpeak">
+            " (click)="speakWord()" *ngIf="canSpeak">
             Speak
           </button>
           <button class="btn btn-secondary mt-4" style="
@@ -106,7 +111,7 @@
   <div class="row" *ngIf="enWord2">
     <div class="col-6">
       <button class="btn btn-warning mt-3" style="min-width: 160px; height: 90px; font-size: 30px; float: right;"
-        (click)="speakSentence2()" *ngIf="canSpeak && showEn && showVN">
+        (click)="speakSentence()" *ngIf="canSpeak && showEn && showVN">
         Sentence
       </button>
     </div>
@@ -121,12 +126,12 @@
       <div class="row" style="width: 160px; height: 90px; font-size: 30px">
         <div class="col-6">
           <button style="min-width: 70px; height: 90px; font-size: 30px" class="btn btn-warning mt-4"
-            (click)="speakSentence2()" *ngIf="canSpeak && showEn && showVN">
+            (click)="speakSentence()" *ngIf="canSpeak && showEn && showVN">
           </button>
         </div>
         <div class="col-6">
           <button style="min-width: 70px; height: 90px; font-size: 30px; float: left;" class="btn btn-primary mt-4"
-            (click)="speakMessage2()" *ngIf="canSpeak && showEn && showVN">
+            (click)="speakWord()" *ngIf="canSpeak && showEn && showVN">
           </button>
         </div>
       </div> -->
