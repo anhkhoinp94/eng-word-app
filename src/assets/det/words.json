@@ -2006,5 +2006,189 @@
     "en3": "",
     "en4": "",
     "vn1": "(n) sự sẵn lòng, sự tự nguyện"
+  },
+  {
+    "id": 0,
+    "en1": "assign",
+    "en2": "I will assign each team member a specific task to complete by Friday.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) phân công, giao nhiệm vụ"
+  },
+  {
+    "id": 0,
+    "en1": "assumption",
+    "en2": "I made the assumption that she had already finished the report.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) giả định"
+  },
+  {
+    "id": 0,
+    "en1": "coherent",
+    "en2": "I tried to present a coherent argument during the debate.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) mạch lạc, rõ ràng"
+  },
+  {
+    "id": 0,
+    "en1": "commodity",
+    "en2": "I invested in oil as a commodity because its price was expected to rise.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) hàng hóa"
+  },
+  {
+    "id": 0,
+    "en1": "deduce",
+    "en2": "I can deduce from his tone that he was not pleased with the results.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) suy luận, suy ra"
+  },
+  {
+    "id": 0,
+    "en1": "devastated",
+    "en2": "I was devastated by the news of her sudden passing.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) rất đau buồn; bị tàn phá"
+  },
+  {
+    "id": 0,
+    "en1": "distort",
+    "en2": "I noticed that the mirror distorts my reflection slightly.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) bóp méo, làm sai lệch"
+  },
+  {
+    "id": 0,
+    "en1": "enroll",
+    "en2": "I decided to enroll in a photography course this summer.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) ghi danh, đăng ký"
+  },
+  {
+    "id": 0,
+    "en1": "extract",
+    "en2": "I managed to extract some useful information from the report.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) rút ra, chiết xuất"
+  },
+  {
+    "id": 0,
+    "en1": "framework",
+    "en2": "I used a clear framework to organize my ideas before writing the essay.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) khuôn khổ, cơ cấu"
+  },
+  {
+    "id": 0,
+    "en1": "incentivize",
+    "en2": "I plan to incentivize my team by offering bonuses for early project completion.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) khuyến khích, tạo động lực"
+  },
+  {
+    "id": 0,
+    "en1": "insight",
+    "en2": "I gained a lot of insight into how successful businesses operate.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) cái nhìn sâu sắc"
+  },
+  {
+    "id": 0,
+    "en1": "intervene",
+    "en2": "I had to intervene when the argument between them got too heated.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) can thiệp, xen vào"
+  },
+  {
+    "id": 0,
+    "en1": "justification",
+    "en2": "I need a strong justification for spending this much money on new equipment.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự biện minh, lý do chính đáng"
+  },
+  {
+    "id": 0,
+    "en1": "marginal",
+    "en2": "I noticed only a marginal improvement in my test scores after studying all week.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) nhỏ, không đáng kể"
+  },
+  {
+    "id": 0,
+    "en1": "ongoing",
+    "en2": "I am involved in an ongoing project that aims to reduce plastic waste.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) đang diễn ra, liên tục"
+  },
+  {
+    "id": 0,
+    "en1": "overlap",
+    "en2": "I noticed that some of our responsibilities overlap with those of the marketing team.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) chồng chéo, trùng lặp"
+  },
+  {
+    "id": 0,
+    "en1": "perceive",
+    "en2": "I perceive this change as a positive step toward progress.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) nhận thấy, hiểu được"
+  },
+  {
+    "id": 0,
+    "en1": "predominant",
+    "en2": "I believe that culture plays a predominant role in shaping our values.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) chiếm ưu thế, chủ yếu"
+  },
+  {
+    "id": 0,
+    "en1": "preliminary",
+    "en2": "I reviewed the preliminary results before the final report was published.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) sơ bộ, ban đầu"
+  },
+  {
+    "id": 0,
+    "en1": "restrain",
+    "en2": "I had to restrain myself from shouting during the meeting.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) kiềm chế, hạn chế"
+  },
+  {
+    "id": 0,
+    "en1": "sector",
+    "en2": "I want to work in the healthcare sector to help improve people's lives.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) khu vực, lĩnh vực"
+  },
+  {
+    "id": 0,
+    "en1": "simulate",
+    "en2": "I used software to simulate different weather conditions for the experiment.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) mô phỏng, giả lập"
   }
 ]

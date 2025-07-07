@@ -30,6 +30,8 @@ function shuffleItems(items) {
 // Main process
 function main() {
   const originalItems = readJSON('src\\assets\\det\\words.json');
+  console.log(`We have totally ${originalItems.length} words.`);
+
   // Check duplicated
   const duplicates = originalItems
     .map(item => item.en1)
