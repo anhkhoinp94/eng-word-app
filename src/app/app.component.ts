@@ -38,6 +38,7 @@ export class AppComponent {
   count4Speaking = 3;
   deployT = deployTime.time;
   isAuto = true;
+  timeSleep = 1000;
 
   selectedWord: Word = {
     id: 0,
@@ -68,7 +69,7 @@ export class AppComponent {
         this.setupWord();
       }
     });
-  }
+  };
 
   ngOnInit(): void {
     this.voices = speechSynthesis.getVoices().filter(x => x.lang === "en-US");
@@ -76,7 +77,7 @@ export class AppComponent {
       this.voices = speechSynthesis.getVoices().filter(x => x.lang === "en-US");
       this.selectedVoice = this.voices[0];
     }, 500);
-  }
+  };
 
   setupWord(): void {
     this.tempWord = this.removeRandomElement(this.words)
@@ -103,8 +104,8 @@ export class AppComponent {
       this.enWord2 = "";
       this.enWord3 = "";
       this.enWord4 = "";
-    }
-  }
+    };
+  };
 
   // API
   markAsStudied(id: number): void {
@@ -113,25 +114,25 @@ export class AppComponent {
       },
       error: err => console.error('Error updating studied status:', err)
     });
-  }
+  };
 
   renderEnWord = (value: string): string => {
     if (!this.showVN) {
       let words = value.split(',');
       return words[0];
-    }
+    };
     return value;
   };
 
   change() {
     if (!this.showVN) {
       this.showVN = true;
-    }
+    };
     if (!this.showEn) {
       this.showEn = true;
-    }
+    };
     this.cdr.detectChanges();
-  }
+  };
 
   next() {
     this.markAsStudied(this.selectedWord.id)
@@ -147,17 +148,17 @@ export class AppComponent {
 
     this.setupWord();
     this.cdr.detectChanges();
-  }
+  };
 
   removeRandomElement<T>(arr: T[]): { updatedArray: T[], removedElement: T | undefined } {
     if (arr.length === 0) {
       return { updatedArray: arr, removedElement: undefined };
-    }
+    };
     const randomIndex = Math.floor(Math.random() * arr.length);
     const removedElement = arr[randomIndex];
     arr.splice(randomIndex, 1);
     return { updatedArray: arr, removedElement };
-  }
+  };
 
   speakWordCount = 0;
   speakWordCountMax = 1;
@@ -181,10 +182,10 @@ export class AppComponent {
       };
     };
     speechSynthesis.speak(utterance);
-  }
+  };
 
   speakSentenceCount = 0;
-  speakSentenceCountMax = 1;
+  speakSentenceCountMax = 10;
   async speakSentence() {
     this.speakSentenceCount += 1;
     var utterance = new SpeechSynthesisUtterance(this.enWord2);
@@ -205,13 +206,13 @@ export class AppComponent {
       };
     };
     speechSynthesis.speak(utterance);
-  }
+  };
 
   count() {
     if (this.count4Speaking !== 0) {
       this.count4Speaking = this.count4Speaking - 1
-    }
-  }
+    };
+  };
 
   checkAbleSpeak() {
     this.voices = window.speechSynthesis
@@ -220,29 +221,10 @@ export class AppComponent {
     if (this.voices.length > 0) {
       this.selectedVoice = this.voices[0];
       this.canSpeak = true;
-    }
-  }
+    };
+  };
 
   sleep(): Promise<void> {
-    return new Promise(resolve => setTimeout(resolve, 1000));
-  }
-
-  // private intervalId: any;
-  // ngOnInit(): void {
-  //   this.intervalId = setInterval(() => this.runAction(), 3500);
-  // }
-  // ngOnDestroy(): void {
-  //   if (this.intervalId) {
-  //     clearInterval(this.intervalId);
-  //   }
-  // }
-  // runAction(): void {
-  //   if (this.showVN) {
-  //     this.next();
-  //     this.speakMessage();
-  //   } else {
-  //     this.change();
-  //     this.speakMessage();
-  //   }
-  // }
+    return new Promise(resolve => setTimeout(resolve, this.timeSleep));
+  };
 }
