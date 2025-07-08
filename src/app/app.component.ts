@@ -81,7 +81,7 @@ export class AppComponent {
 
   setupWord(): void {
     this.tempWord = this.removeRandomElement(this.words)
-    this.words = this.tempWord.updatedArray;
+    this.words = this.shuffleItems(this.tempWord.updatedArray);
 
     if (this.tempWord.removedElement) {
       this.selectedWord = this.tempWord.removedElement;
@@ -106,6 +106,14 @@ export class AppComponent {
       this.enWord4 = "";
     };
   };
+
+  shuffleItems<T>(items: T[]): T[] {
+    for (let i = items.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [items[i], items[j]] = [items[j], items[i]];
+    }
+    return items;
+  }
 
   // API
   markAsStudied(id: number): void {
