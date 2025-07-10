@@ -1,302 +1,78 @@
 [
   {
     "id": 1,
-    "en1": "critical",
-    "en2": "I was in a critical condition after the accident, but I recovered.",
+    "en1": "overlap",
+    "en2": "I noticed that some of our responsibilities overlap with those of the marketing team.",
     "en3": "",
     "en4": "",
-    "vn1": "(a) nghiêm trọng, quan trọng"
+    "vn1": "(v) chồng chéo, trùng lặp"
   },
   {
     "id": 2,
-    "en1": "intense",
-    "en2": "I felt intense pressure before the final exam.",
+    "en1": "reluctant",
+    "en2": "I was reluctant to speak in front of a large audience.",
     "en3": "",
     "en4": "",
-    "vn1": "(a) dữ dội, mãnh liệt"
+    "vn1": "(a) miễn cưỡng, do dự"
   },
   {
     "id": 3,
-    "en1": "concur",
-    "en2": "I concur with your opinion about the new policy.",
+    "en1": "evidence",
+    "en2": "I found evidence that supported my theory during the experiment.",
     "en3": "",
     "en4": "",
-    "vn1": "(v) đồng ý, cùng ý kiến"
+    "vn1": "(n) bằng chứng"
   },
   {
     "id": 4,
-    "en1": "scarcity",
-    "en2": "I noticed the scarcity of clean water during my trip to the village.",
+    "en1": "subsequent",
+    "en2": "I finished my homework, and in the subsequent hours, I relaxed and watched a movie.",
     "en3": "",
     "en4": "",
-    "vn1": "(n) sự khan hiếm, thiếu hụt"
+    "vn1": "(a) sau đó"
   },
   {
     "id": 5,
-    "en1": "emphasize",
-    "en2": "I want to emphasize the importance of teamwork in this project.",
+    "en1": "ingress",
+    "en2": "I found the ingress to the building hidden behind some trees.",
     "en3": "",
     "en4": "",
-    "vn1": "(v) nhấn mạnh, làm nổi bật"
+    "vn1": "(n) lối vào, sự đi vào"
   },
   {
     "id": 6,
-    "en1": "articulate",
-    "en2": "I admire people who can articulate their thoughts clearly during presentations.",
+    "en1": "derive",
+    "en2": "I derive great satisfaction from helping others.",
     "en3": "",
     "en4": "",
-    "vn1": "(v) diễn đạt rõ ràng"
+    "vn1": "(v) lấy được, có được từ"
   },
   {
     "id": 7,
-    "en1": "alleviate",
-    "en2": "I took some medicine to alleviate the pain in my back.",
+    "en1": "cohesive",
+    "en2": "I believe our team is very cohesive and works well together.",
     "en3": "",
     "en4": "",
-    "vn1": "(v) làm giảm bớt, xoa dịu"
+    "vn1": "(a) gắn kết, liên kết"
   },
   {
     "id": 8,
-    "en1": "activity",
-    "en2": "I enjoy outdoor activity like hiking and cycling on weekends.",
+    "en1": "disposable",
+    "en2": "I always carry disposable masks when I travel.",
     "en3": "",
     "en4": "",
-    "vn1": "(n) hoạt động"
+    "vn1": "(a) dùng một lần"
   },
   {
     "id": 9,
-    "en1": "devastated",
-    "en2": "I was devastated by the news of her sudden passing.",
+    "en1": "quarry",
+    "en2": "I visited the quarry to see how the stones were extracted for construction.",
     "en3": "",
     "en4": "",
-    "vn1": "(a) rất đau buồn; bị tàn phá"
+    "vn1": "(n) mỏ đá"
   },
   {
     "id": 10,
-    "en1": "incoherent",
-    "en2": "I couldn't understand his incoherent explanation during the meeting.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(a) rời rạc, không mạch lạc"
-  },
-  {
-    "id": 11,
-    "en1": "mitigate",
-    "en2": "I will take some actions to mitigate the risks before starting the project.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(v) làm dịu"
-  },
-  {
-    "id": 12,
-    "en1": "disrupt",
-    "en2": "I didn't mean to disrupt the meeting; I just had a quick question.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(v) làm gián đoạn, gây rối"
-  },
-  {
-    "id": 13,
-    "en1": "hindsight",
-    "en2": "I often think that in hindsight, I could have handled the situation better.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(n) sự nhìn lại"
-  },
-  {
-    "id": 14,
-    "en1": "assign",
-    "en2": "I will assign each team member a specific task to complete by Friday.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(v) phân công, giao nhiệm vụ"
-  },
-  {
-    "id": 15,
-    "en1": "extract",
-    "en2": "I managed to extract some useful information from the report.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(v) rút ra, chiết xuất"
-  },
-  {
-    "id": 16,
-    "en1": "cease",
-    "en2": "I decided to cease all communication with him after the argument.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(v) ngừng, chấm dứt, dừng lại"
-  },
-  {
-    "id": 17,
-    "en1": "discriminate",
-    "en2": "I would never discriminate against someone based on their background.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(v) phân biệt đối xử"
-  },
-  {
-    "id": 18,
-    "en1": "ongoing",
-    "en2": "I am involved in an ongoing project that aims to reduce plastic waste.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(a) đang diễn ra, liên tục"
-  },
-  {
-    "id": 19,
-    "en1": "cite",
-    "en2": "I cited several studies to support my argument.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(v) trích dẫn"
-  },
-  {
-    "id": 20,
-    "en1": "escalate",
-    "en2": "I didn't want to escalate the argument, so I stayed quiet.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(v) leo thang, tăng mạnh"
-  },
-  {
-    "id": 21,
-    "en1": "debris",
-    "en2": "I accidentally dropped the glass, and now there's broken debris all over the floor.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(n) mảnh vỡ, đống đổ nát"
-  },
-  {
-    "id": 22,
-    "en1": "infer",
-    "en2": "I can infer from his tone that he was upset.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(v) suy luận"
-  },
-  {
-    "id": 23,
-    "en1": "acknowledge",
-    "en2": "I acknowledged my mistake and apologized to the team.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(v) công nhận, thừa nhận"
-  },
-  {
-    "id": 24,
-    "en1": "enforce",
-    "en2": "I believe we should enforce stricter rules on littering.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(v) thi hành, bắt buộc"
-  },
-  {
-    "id": 25,
-    "en1": "icon",
-    "en2": "I consider her an icon of fashion because of her unique style.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(n) biểu tượng"
-  },
-  {
-    "id": 26,
-    "en1": "residence",
-    "en2": "I moved to a new residence closer to my workplace last month.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(n) nơi cư trú, nơi ở"
-  },
-  {
-    "id": 27,
-    "en1": "imply",
-    "en2": "I didn't mean to imply that you were wrong.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(v) ngụ ý, ám chỉ"
-  },
-  {
-    "id": 28,
-    "en1": "bias",
-    "en2": "I try to avoid bias when making important decisions.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(n) thành kiến, thiên vị"
-  },
-  {
-    "id": 29,
-    "en1": "irrigate",
-    "en2": "I use a simple system to irrigate my garden every morning.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(v) tưới tiêu"
-  },
-  {
-    "id": 30,
-    "en1": "era",
-    "en2": "I believe we are living in an era of rapid technological advancement.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(n) kỷ nguyên, thời đại"
-  },
-  {
-    "id": 31,
-    "en1": "cottage",
-    "en2": "I spent the weekend at a cozy cottage by the lake.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(n) nhà tranh, nhà nhỏ"
-  },
-  {
-    "id": 32,
-    "en1": "preclude",
-    "en2": "I arrived early to preclude any chance of being late.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(v) ngăn ngừa, ngăn chặn"
-  },
-  {
-    "id": 33,
-    "en1": "distinguish",
-    "en2": "I can easily distinguish between the two similar paintings.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(v) phân biệt"
-  },
-  {
-    "id": 34,
-    "en1": "negate",
-    "en2": "I cannot let one mistake negate all my hard work.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(v) phủ nhận, làm mất hiệu lực"
-  },
-  {
-    "id": 35,
-    "en1": "neglect",
-    "en2": "I sometimes neglect my health when I am too busy.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(v,n) bỏ bê - sự sao nhãng"
-  },
-  {
-    "id": 36,
-    "en1": "acute",
-    "en2": "I felt acute pain in my shoulder after lifting something too heavy.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(a) nghiêm trọng, dữ dội"
-  },
-  {
-    "id": 37,
-    "en1": "retain",
-    "en2": "I try to retain as much information as possible after each lesson.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(v) giữ lại, duy trì"
-  },
-  {
-    "id": 38,
     "en1": "crop",
     "en2": "I saw farmers working hard to harvest their rice crop before the rain.",
     "en3": "",
@@ -304,71 +80,103 @@
     "vn1": "(n) mùa vụ, cây trồng"
   },
   {
-    "id": 39,
-    "en1": "commute",
-    "en2": "I commute to the city by train every day for work.",
+    "id": 11,
+    "en1": "predominant",
+    "en2": "I believe that culture plays a predominant role in shaping our values.",
     "en3": "",
     "en4": "",
-    "vn1": "(v) đi lại (thường xuyên)"
+    "vn1": "(a) chiếm ưu thế, chủ yếu"
   },
   {
-    "id": 40,
-    "en1": "tolerate",
-    "en2": "I can't tolerate loud noises when I'm trying to concentrate.",
+    "id": 12,
+    "en1": "occupant",
+    "en2": "I am the occupant of the apartment on the third floor.",
     "en3": "",
     "en4": "",
-    "vn1": "(v) chịu đựng, khoan dung"
+    "vn1": "(n) người cư trú, người chiếm hữu"
   },
   {
-    "id": 41,
-    "en1": "spontaneous",
-    "en2": "I love going on spontaneous trips with my friends, without any plans.",
+    "id": 13,
+    "en1": "flawed",
+    "en2": "I realized my plan was flawed and needed some changes.",
     "en3": "",
     "en4": "",
-    "vn1": "(a) tự phát, ngẫu hứng"
+    "vn1": "(a) có lỗi, không hoàn hảo"
   },
   {
-    "id": 42,
-    "en1": "adulthood",
-    "en2": "I entered adulthood with big dreams and a strong desire to succeed.",
+    "id": 14,
+    "en1": "modify",
+    "en2": "I need to modify my schedule to fit the new meeting time.",
     "en3": "",
     "en4": "",
-    "vn1": "(n) tuổi trưởng thành"
+    "vn1": "(v) sửa đổi, thay đổi"
   },
   {
-    "id": 43,
-    "en1": "decline",
-    "en2": "I noticed a decline in my energy levels after staying up late all week.",
+    "id": 15,
+    "en1": "bias",
+    "en2": "I try to avoid bias when making important decisions.",
     "en3": "",
     "en4": "",
-    "vn1": "(n) sự suy giảm, sụt giảm"
+    "vn1": "(n) thành kiến, thiên vị"
   },
   {
-    "id": 44,
-    "en1": "concrete",
-    "en2": "I saw the workers pour concrete to build the foundation of the new building.",
+    "id": 16,
+    "en1": "emerge",
+    "en2": "I began to emerge from my comfort zone during the new project.",
     "en3": "",
     "en4": "",
-    "vn1": "(n) bê tông"
+    "vn1": "(v) xuất hiện, hiện ra, nổi lên"
   },
   {
-    "id": 45,
-    "en1": "undergo",
-    "en2": "I had to undergo surgery last year.",
+    "id": 17,
+    "en1": "accurate",
+    "en2": "I try to provide accurate information in all my reports.",
     "en3": "",
     "en4": "",
-    "vn1": "(v) trải qua, chịu đựng"
+    "vn1": "(a) chính xác, đúng đắn"
   },
   {
-    "id": 46,
-    "en1": "sufficient",
-    "en2": "I don't have sufficient time to finish this project today.",
+    "id": 18,
+    "en1": "articulate",
+    "en2": "I admire people who can articulate their thoughts clearly during presentations.",
     "en3": "",
     "en4": "",
-    "vn1": "(a) đủ, đầy đủ"
+    "vn1": "(v) diễn đạt rõ ràng"
   },
   {
-    "id": 47,
+    "id": 19,
+    "en1": "infer",
+    "en2": "I can infer from his tone that he was upset.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) suy luận"
+  },
+  {
+    "id": 20,
+    "en1": "enhance",
+    "en2": "I want to enhance my skills by taking more courses.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) nâng cao, cải thiện"
+  },
+  {
+    "id": 21,
+    "en1": "commodity",
+    "en2": "I invested in oil as a commodity because its price was expected to rise.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) hàng hóa"
+  },
+  {
+    "id": 22,
+    "en1": "adjacent",
+    "en2": "I parked my car in the space adjacent to the building.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) liền kề, sát cạnh"
+  },
+  {
+    "id": 23,
     "en1": "imminent",
     "en2": "I was warned about the imminent danger near the cliff.",
     "en3": "",
@@ -376,52 +184,244 @@
     "vn1": "(a) sắp xảy ra"
   },
   {
-    "id": 48,
-    "en1": "indicate",
-    "en2": "I would like to indicate a few areas where improvements are needed.",
+    "id": 24,
+    "en1": "devote",
+    "en2": "I devote most of my free time to learning English.",
     "en3": "",
     "en4": "",
-    "vn1": "(v) chỉ ra, cho thấy"
+    "vn1": "(v) cống hiến, dành"
+  },
+  {
+    "id": 25,
+    "en1": "attribute",
+    "en2": "I attribute my success to hard work and support from my family.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v,n) quy cho - đặc điểm"
+  },
+  {
+    "id": 26,
+    "en1": "acknowledge",
+    "en2": "I acknowledged my mistake and apologized to the team.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) công nhận, thừa nhận"
+  },
+  {
+    "id": 27,
+    "en1": "ability",
+    "en2": "I believe in my ability to solve problems and learn new things quickly.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) khả năng"
+  },
+  {
+    "id": 28,
+    "en1": "plausible",
+    "en2": "I think your explanation is plausible, but I need to see more evidence.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) hợp lý"
+  },
+  {
+    "id": 29,
+    "en1": "legitimate",
+    "en2": "I believe she has a legitimate reason for being absent today.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) hợp pháp, chính đáng"
+  },
+  {
+    "id": 30,
+    "en1": "advocate",
+    "en2": "I strongly advocate for equal access to education for all children.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) ủng hộ, tán thành"
+  },
+  {
+    "id": 31,
+    "en1": "mitigate",
+    "en2": "I will take some actions to mitigate the risks before starting the project.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) làm dịu"
+  },
+  {
+    "id": 32,
+    "en1": "contradict",
+    "en2": "I didn't mean to contradict you, I just saw things differently.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) mâu thuẫn"
+  },
+  {
+    "id": 33,
+    "en1": "cease",
+    "en2": "I decided to cease all communication with him after the argument.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) ngừng, chấm dứt, dừng lại"
+  },
+  {
+    "id": 34,
+    "en1": "convey",
+    "en2": "I try to convey my feelings clearly so that others can understand me.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) truyền đạt"
+  },
+  {
+    "id": 35,
+    "en1": "inspiration",
+    "en2": "I find inspiration in nature when I'm feeling stressed.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) nguồn cảm hứng"
+  },
+  {
+    "id": 36,
+    "en1": "acquire",
+    "en2": "I hope to acquire new skills by attending this workshop.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) đạt được, thu được"
+  },
+  {
+    "id": 37,
+    "en1": "retirement",
+    "en2": "I am looking forward to my retirement and spending more time with my family.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự nghỉ hưu"
+  },
+  {
+    "id": 38,
+    "en1": "incentivize",
+    "en2": "I plan to incentivize my team by offering bonuses for early project completion.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) khuyến khích, tạo động lực"
+  },
+  {
+    "id": 39,
+    "en1": "underlie",
+    "en2": "I believe that trust should underlie every strong relationship.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) nằm dưới, là nền tảng"
+  },
+  {
+    "id": 40,
+    "en1": "oppose",
+    "en2": "I strongly oppose the idea of cutting down more trees.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) phản đối"
+  },
+  {
+    "id": 41,
+    "en1": "excessive",
+    "en2": "I think eating excessive sugar can harm your health.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) quá mức, vượt quá giới hạn"
+  },
+  {
+    "id": 42,
+    "en1": "inhabitant",
+    "en2": "I was amazed by how friendly the inhabitants of the island were.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) cư dân"
+  },
+  {
+    "id": 43,
+    "en1": "integrate",
+    "en2": "I tried to integrate new technology into my daily work.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) tích hợp, hội nhập"
+  },
+  {
+    "id": 44,
+    "en1": "trigger",
+    "en2": "I accidentally triggered the alarm when I opened the door.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) kích hoạt, gây ra"
+  },
+  {
+    "id": 45,
+    "en1": "anxiety",
+    "en2": "I often feel anxiety before taking an important exam.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự lo lắng"
+  },
+  {
+    "id": 46,
+    "en1": "steel",
+    "en2": "I saw workers using steel beams to support the new bridge.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) thép"
+  },
+  {
+    "id": 47,
+    "en1": "enforce",
+    "en2": "I believe we should enforce stricter rules on littering.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) thi hành, bắt buộc"
+  },
+  {
+    "id": 48,
+    "en1": "terminate",
+    "en2": "I decided to terminate the contract due to poor service.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) chấm dứt, kết thúc"
   },
   {
     "id": 49,
-    "en1": "hamper",
-    "en2": "I didn't let the bad weather hamper my travel plans.",
+    "en1": "resolve",
+    "en2": "I tried to resolve the conflict between my two friends.",
     "en3": "",
     "en4": "",
-    "vn1": "(v) cản trở, gây khó khăn"
+    "vn1": "(v) giải quyết"
   },
   {
     "id": 50,
-    "en1": "preserve",
-    "en2": "I try to preserve old family photos by storing them carefully.",
+    "en1": "reproduce",
+    "en2": "I tried to reproduce the experiment, but the results were different.",
     "en3": "",
     "en4": "",
-    "vn1": "(v) bảo tồn, giữ gìn"
+    "vn1": "(v) tái tạo, sinh sản, sao chép lại"
   },
   {
     "id": 51,
-    "en1": "simulate",
-    "en2": "I used software to simulate different weather conditions for the experiment.",
+    "en1": "cater",
+    "en2": "I cater for small parties and family events on weekends.",
     "en3": "",
     "en4": "",
-    "vn1": "(v) mô phỏng, giả lập"
+    "vn1": "(v) phục vụ - cung cấp thực phẩm"
   },
   {
     "id": 52,
-    "en1": "migrate",
-    "en2": "I plan to migrate to another city for better job opportunities.",
+    "en1": "dilemma",
+    "en2": "I faced a dilemma when I had to choose between my dream job and staying close to my family.",
     "en3": "",
     "en4": "",
-    "vn1": "(v) di cư"
+    "vn1": "(n) tình huống khó xử"
   },
   {
     "id": 53,
-    "en1": "fluctuation",
-    "en2": "I noticed the fluctuation in temperature throughout the day.",
+    "en1": "ideology",
+    "en2": "I try to understand different ideologies before forming my own opinion on social issues.",
     "en3": "",
     "en4": "",
-    "vn1": "(n) sự dao động"
+    "vn1": "(n) hệ tư tưởng"
   },
   {
     "id": 54,
@@ -433,286 +433,62 @@
   },
   {
     "id": 55,
-    "en1": "compensate",
-    "en2": "I worked extra hours to compensate for my absence last week.",
+    "en1": "notion",
+    "en2": "I don't agree with the notion that success comes without hard work.",
     "en3": "",
     "en4": "",
-    "vn1": "(v) bồi thường, đền bù"
+    "vn1": "(n) quan điểm"
   },
   {
     "id": 56,
-    "en1": "sustainable",
-    "en2": "I try to live a sustainable lifestyle by reducing waste and saving energy.",
+    "en1": "tension",
+    "en2": "I could feel the tension in the room before the meeting started.",
     "en3": "",
     "en4": "",
-    "vn1": "(a) bền vững"
+    "vn1": "(n) sự căng thẳng"
   },
   {
     "id": 57,
-    "en1": "overlap",
-    "en2": "I noticed that some of our responsibilities overlap with those of the marketing team.",
+    "en1": "arson",
+    "en2": "I was shocked when I heard that the building was destroyed by arson.",
     "en3": "",
     "en4": "",
-    "vn1": "(v) chồng chéo, trùng lặp"
+    "vn1": "(n) sự (kẻ) đốt phá"
   },
   {
     "id": 58,
-    "en1": "qualification",
-    "en2": "I need to improve my qualifications to apply for the job.",
+    "en1": "identity",
+    "en2": "I am still exploring my professional identity and what I want to do in the future.",
     "en3": "",
     "en4": "",
-    "vn1": "(n) trình độ chuyên môn, bằng cấp"
+    "vn1": "(n) danh tính"
   },
   {
     "id": 59,
-    "en1": "inhabitant",
-    "en2": "I was amazed by how friendly the inhabitants of the island were.",
+    "en1": "conventional",
+    "en2": "I prefer conventional methods of studying, like reading books and taking notes.",
     "en3": "",
     "en4": "",
-    "vn1": "(n) cư dân"
+    "vn1": "(a) thông thường"
   },
   {
     "id": 60,
-    "en1": "erode",
-    "en2": "I saw how the rain eroded the soil in our garden.",
+    "en1": "impair",
+    "en2": "I was afraid that lack of sleep would impair my focus.",
     "en3": "",
     "en4": "",
-    "vn1": "(v) xói mòn, ăn mòn"
+    "vn1": "(v) làm suy yếu, làm hư hỏng"
   },
   {
     "id": 61,
-    "en1": "resolve",
-    "en2": "I tried to resolve the conflict between my two friends.",
+    "en1": "highlight",
+    "en2": "I want to highlight the importance of regular exercise in maintaining good health.",
     "en3": "",
     "en4": "",
-    "vn1": "(v) giải quyết"
+    "vn1": "(v) nhấn mạnh, làm nổi bật"
   },
   {
     "id": 62,
-    "en1": "mediate",
-    "en2": "I offered to mediate the disagreement between my two friends.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(v) làm trung gian, hoà giải"
-  },
-  {
-    "id": 63,
-    "en1": "conform",
-    "en2": "I try to conform to the company's dress code during business hours.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(v) tuân theo, làm theo"
-  },
-  {
-    "id": 64,
-    "en1": "commodity",
-    "en2": "I invested in oil as a commodity because its price was expected to rise.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(n) hàng hóa"
-  },
-  {
-    "id": 65,
-    "en1": "climate",
-    "en2": "I enjoy living in a place with a warm and sunny climate.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(n) khí hậu"
-  },
-  {
-    "id": 66,
-    "en1": "storage",
-    "en2": "I need more storage for all my books and documents.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(n) sự lưu trữ, kho chứa"
-  },
-  {
-    "id": 67,
-    "en1": "accommodation",
-    "en2": "I booked my accommodation near the beach for the summer holiday.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(n) chỗ ở"
-  },
-  {
-    "id": 68,
-    "en1": "emerge",
-    "en2": "I began to emerge from my comfort zone during the new project.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(v) xuất hiện, hiện ra, nổi lên"
-  },
-  {
-    "id": 69,
-    "en1": "refine",
-    "en2": "I constantly refine my English speaking skills through practice.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(v) cải tiến, tinh chỉnh"
-  },
-  {
-    "id": 70,
-    "en1": "derive",
-    "en2": "I derive great satisfaction from helping others.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(v) lấy được, có được từ"
-  },
-  {
-    "id": 71,
-    "en1": "substitute",
-    "en2": "I had to substitute sugar with honey in the recipe.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(v,n) thay thế"
-  },
-  {
-    "id": 72,
-    "en1": "irreparable",
-    "en2": "I made an irreparable mistake that affected our friendship forever.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(a) không thể sửa chữa được"
-  },
-  {
-    "id": 73,
-    "en1": "crater",
-    "en2": "I saw a huge crater formed by a volcanic eruption during our trip.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(n) miệng núi lửa, hố lớn"
-  },
-  {
-    "id": 74,
-    "en1": "genuine",
-    "en2": "I appreciate her genuine kindness and support.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(a) chân thật, thành thật"
-  },
-  {
-    "id": 75,
-    "en1": "interpret",
-    "en2": "I had to interpret the instructions for my friend because she didn't understand them.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(v) diễn giải"
-  },
-  {
-    "id": 76,
-    "en1": "advocate",
-    "en2": "I strongly advocate for equal access to education for all children.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(v) ủng hộ, tán thành"
-  },
-  {
-    "id": 77,
-    "en1": "isolate",
-    "en2": "I had to isolate myself when I got sick to avoid spreading the virus.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(v) cô lập, tách biệt"
-  },
-  {
-    "id": 78,
-    "en1": "flourish",
-    "en2": "I believe my business will flourish with the right strategy.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(v) phát triển mạnh, thịnh vượng"
-  },
-  {
-    "id": 79,
-    "en1": "anticipate",
-    "en2": "I didn't anticipate such a strong reaction from the audience.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(v) dự đoán, mong đợi"
-  },
-  {
-    "id": 80,
-    "en1": "influence",
-    "en2": "I noticed the strong influence of his advice on my decision.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(n) ảnh hưởng"
-  },
-  {
-    "id": 81,
-    "en1": "evidence",
-    "en2": "I found evidence that supported my theory during the experiment.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(n) bằng chứng"
-  },
-  {
-    "id": 82,
-    "en1": "character",
-    "en2": "I believe that a person's character is more important than their appearance.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(n) tính cách"
-  },
-  {
-    "id": 83,
-    "en1": "diverse",
-    "en2": "I enjoy working in a team with people from diverse backgrounds.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(a) đa dạng"
-  },
-  {
-    "id": 84,
-    "en1": "insight",
-    "en2": "I gained a lot of insight into how successful businesses operate.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(n) cái nhìn sâu sắc"
-  },
-  {
-    "id": 85,
-    "en1": "ingress",
-    "en2": "I found the ingress to the building hidden behind some trees.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(n) lối vào, sự đi vào"
-  },
-  {
-    "id": 86,
-    "en1": "underlie",
-    "en2": "I believe that trust should underlie every strong relationship.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(v) nằm dưới, là nền tảng"
-  },
-  {
-    "id": 87,
-    "en1": "allocate",
-    "en2": "I allocate enough time every day to study English.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(v) phân bổ, chia phần"
-  },
-  {
-    "id": 88,
-    "en1": "sophisticated",
-    "en2": "I use a sophisticated software to analyze large sets of data for my research.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(a) tinh vi, phức tạp"
-  },
-  {
-    "id": 89,
-    "en1": "plausible",
-    "en2": "I think your explanation is plausible, but I need to see more evidence.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(a) hợp lý"
-  },
-  {
-    "id": 90,
     "en1": "voluntary",
     "en2": "I joined the cleanup campaign as a voluntary participant.",
     "en3": "",
@@ -720,231 +496,7 @@
     "vn1": "(a) tự nguyện"
   },
   {
-    "id": 91,
-    "en1": "construction",
-    "en2": "I work in the construction industry, building bridges and roads.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(n) sự xây dựng"
-  },
-  {
-    "id": 92,
-    "en1": "facilitate",
-    "en2": "I try to facilitate teamwork by encouraging open communication.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(v) tạo điều kiện"
-  },
-  {
-    "id": 93,
-    "en1": "compromise",
-    "en2": "I wanted pizza, she wanted noodles, so we made a compromise and ate burgers.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(n,v) thoả hiệp"
-  },
-  {
-    "id": 94,
-    "en1": "absorb",
-    "en2": "I tried to absorb as much information as possible before the exam.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(v) hấp thụ, tiếp thu"
-  },
-  {
-    "id": 95,
-    "en1": "disposable",
-    "en2": "I always carry disposable masks when I travel.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(a) dùng một lần"
-  },
-  {
-    "id": 96,
-    "en1": "subsidy",
-    "en2": "I applied for a government subsidy to support my small business.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(n) tiền trợ cấp"
-  },
-  {
-    "id": 97,
-    "en1": "liable",
-    "en2": "I am liable for any damage caused during the rental period.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(a) có trách nhiệm"
-  },
-  {
-    "id": 98,
-    "en1": "prevalent",
-    "en2": "I noticed that remote work has become more prevalent recently.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(a) phổ biến, thịnh hành"
-  },
-  {
-    "id": 99,
-    "en1": "idioms",
-    "en2": "I like learning English idioms because they make my speaking more fun.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(n) thành ngữ"
-  },
-  {
-    "id": 100,
-    "en1": "welfare",
-    "en2": "I support programs that improve the welfare of disadvantaged children.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(n) phúc lợi"
-  },
-  {
-    "id": 101,
-    "en1": "innovation",
-    "en2": "I believe innovation is the key to solving modern problems.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(n) sự đổi mới, sáng kiến"
-  },
-  {
-    "id": 102,
-    "en1": "dilemma",
-    "en2": "I faced a dilemma when I had to choose between my dream job and staying close to my family.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(n) tình huống khó xử"
-  },
-  {
-    "id": 103,
-    "en1": "incentive",
-    "en2": "I was given a bonus as an incentive to finish the project early.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(n) sự khích lệ, động lực"
-  },
-  {
-    "id": 104,
-    "en1": "endure",
-    "en2": "I had to endure months of physical therapy after the accident.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(v) chịu đựng"
-  },
-  {
-    "id": 105,
-    "en1": "adverse",
-    "en2": "I continued working despite the adverse weather conditions.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(a) bất lợi, có hại"
-  },
-  {
-    "id": 106,
-    "en1": "allergic",
-    "en2": "I'm allergic to peanuts, so I always check food labels carefully.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(a) bị dị ứng"
-  },
-  {
-    "id": 107,
-    "en1": "transform",
-    "en2": "I believe education can transform lives for the better.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(v) biến đổi, thay đổi hoàn toàn"
-  },
-  {
-    "id": 108,
-    "en1": "comprise",
-    "en2": "I understand that the project comprises several important phases.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(v) bao gồm"
-  },
-  {
-    "id": 109,
-    "en1": "assume",
-    "en2": "I assume you already know about the meeting tomorrow.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(v) cho rằng"
-  },
-  {
-    "id": 110,
-    "en1": "gadget",
-    "en2": "I always carry a small gadget in my bag that helps me charge my phone on the go.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(n) thiết bị nhỏ"
-  },
-  {
-    "id": 111,
-    "en1": "device",
-    "en2": "I use my smartphone as a device to check emails and stay connected with friends.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(n) thiết bị"
-  },
-  {
-    "id": 112,
-    "en1": "devote",
-    "en2": "I devote most of my free time to learning English.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(v) cống hiến, dành"
-  },
-  {
-    "id": 113,
-    "en1": "adolescent",
-    "en2": "I was a shy adolescent who loved reading books more than going out.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(n) thanh thiếu niên"
-  },
-  {
-    "id": 114,
-    "en1": "bond",
-    "en2": "I have a strong bond with my best friend because we've shared so many memories together.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(n) mối quan hệ, sự liên kết"
-  },
-  {
-    "id": 115,
-    "en1": "arbitrary",
-    "en2": "I made an arbitrary choice without thinking it through.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(a) tùy tiện, ngẫu nhiên"
-  },
-  {
-    "id": 116,
-    "en1": "community",
-    "en2": "I enjoy helping my local community through volunteer work.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(n) cộng đồng"
-  },
-  {
-    "id": 117,
-    "en1": "framework",
-    "en2": "I used a clear framework to organize my ideas before writing the essay.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(n) khuôn khổ, cơ cấu"
-  },
-  {
-    "id": 118,
-    "en1": "excessive",
-    "en2": "I think eating excessive sugar can harm your health.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(a) quá mức, vượt quá giới hạn"
-  },
-  {
-    "id": 119,
+    "id": 63,
     "en1": "irreplaceable",
     "en2": "I lost an irreplaceable gift from my grandmother last year.",
     "en3": "",
@@ -952,52 +504,500 @@
     "vn1": "(a) không thể thay thế được"
   },
   {
-    "id": 120,
-    "en1": "willingness",
-    "en2": "I appreciate your willingness to help us on such short notice.",
+    "id": 64,
+    "en1": "constrain",
+    "en2": "I try not to constrain my creativity when brainstorming new ideas.",
     "en3": "",
     "en4": "",
-    "vn1": "(n) sự sẵn lòng, sự tự nguyện"
+    "vn1": "(v) hạn chế, kiềm chế"
+  },
+  {
+    "id": 65,
+    "en1": "genuine",
+    "en2": "I appreciate her genuine kindness and support.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) chân thật, thành thật"
+  },
+  {
+    "id": 66,
+    "en1": "disrupt",
+    "en2": "I didn't mean to disrupt the meeting; I just had a quick question.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) làm gián đoạn, gây rối"
+  },
+  {
+    "id": 67,
+    "en1": "flourish",
+    "en2": "I believe my business will flourish with the right strategy.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) phát triển mạnh, thịnh vượng"
+  },
+  {
+    "id": 68,
+    "en1": "anticipate",
+    "en2": "I didn't anticipate such a strong reaction from the audience.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) dự đoán, mong đợi"
+  },
+  {
+    "id": 69,
+    "en1": "comprise",
+    "en2": "I understand that the project comprises several important phases.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) bao gồm"
+  },
+  {
+    "id": 70,
+    "en1": "displace",
+    "en2": "I saw how the flood displaced hundreds of families in the area.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) di dời, thay thế"
+  },
+  {
+    "id": 71,
+    "en1": "migrate",
+    "en2": "I plan to migrate to another city for better job opportunities.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) di cư"
+  },
+  {
+    "id": 72,
+    "en1": "free press",
+    "en2": "I support the idea of a free press because it helps hold the government accountable.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) báo chí tự do"
+  },
+  {
+    "id": 73,
+    "en1": "storage",
+    "en2": "I need more storage for all my books and documents.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự lưu trữ, kho chứa"
+  },
+  {
+    "id": 74,
+    "en1": "sector",
+    "en2": "I want to work in the healthcare sector to help improve people's lives.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) khu vực, lĩnh vực"
+  },
+  {
+    "id": 75,
+    "en1": "acute",
+    "en2": "I felt acute pain in my shoulder after lifting something too heavy.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) nghiêm trọng, dữ dội"
+  },
+  {
+    "id": 76,
+    "en1": "coherent",
+    "en2": "I tried to present a coherent argument during the debate.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) mạch lạc, rõ ràng"
+  },
+  {
+    "id": 77,
+    "en1": "integral",
+    "en2": "I believe trust is an integral part of any strong relationship.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) cần thiết, không thể thiếu"
+  },
+  {
+    "id": 78,
+    "en1": "sufficient",
+    "en2": "I don't have sufficient time to finish this project today.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) đủ, đầy đủ"
+  },
+  {
+    "id": 79,
+    "en1": "irreversible",
+    "en2": "I realized too late that my decision had caused irreversible damage.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) không thể đảo ngược"
+  },
+  {
+    "id": 80,
+    "en1": "ongoing",
+    "en2": "I am involved in an ongoing project that aims to reduce plastic waste.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) đang diễn ra, liên tục"
+  },
+  {
+    "id": 81,
+    "en1": "community",
+    "en2": "I enjoy helping my local community through volunteer work.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) cộng đồng"
+  },
+  {
+    "id": 82,
+    "en1": "contribute",
+    "en2": "I want to contribute my skills to help the team succeed.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) đóng góp, góp phần"
+  },
+  {
+    "id": 83,
+    "en1": "inhibit",
+    "en2": "I sometimes feel that fear can inhibit my creativity.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) ngăn chặn, kìm hãm"
+  },
+  {
+    "id": 84,
+    "en1": "concrete",
+    "en2": "I saw the workers pour concrete to build the foundation of the new building.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) bê tông"
+  },
+  {
+    "id": 85,
+    "en1": "influence",
+    "en2": "I noticed the strong influence of his advice on my decision.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) ảnh hưởng"
+  },
+  {
+    "id": 86,
+    "en1": "sophisticated",
+    "en2": "I use a sophisticated software to analyze large sets of data for my research.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) tinh vi, phức tạp"
+  },
+  {
+    "id": 87,
+    "en1": "undermine",
+    "en2": "I worry that negative comments might undermine our team’s confidence.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) làm suy yếu, làm giảm uy tín"
+  },
+  {
+    "id": 88,
+    "en1": "benchmark",
+    "en2": "I use last year's sales figures as a benchmark to measure our current performance.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) chuẩn mực, tiêu chuẩn so sánh"
+  },
+  {
+    "id": 89,
+    "en1": "icon",
+    "en2": "I consider her an icon of fashion because of her unique style.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) biểu tượng"
+  },
+  {
+    "id": 90,
+    "en1": "inevitable",
+    "en2": "I knew it was inevitable that we would have to say goodbye someday.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) không thể tránh khỏi"
+  },
+  {
+    "id": 91,
+    "en1": "gadget",
+    "en2": "I always carry a small gadget in my bag that helps me charge my phone on the go.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) thiết bị nhỏ"
+  },
+  {
+    "id": 92,
+    "en1": "concern",
+    "en2": "I have a genuine concern about the environment.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n,v) mối lo ngại - lo lắng"
+  },
+  {
+    "id": 93,
+    "en1": "prospect",
+    "en2": "I am excited about the prospects of starting my own business.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) triển vọng, tiềm năng"
+  },
+  {
+    "id": 94,
+    "en1": "reinforce",
+    "en2": "I used examples to reinforce my point during the presentation.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) củng cố, tăng cường"
+  },
+  {
+    "id": 95,
+    "en1": "justify",
+    "en2": "I had to justify my decision to leave the project early.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) biện minh, chứng minh là đúng"
+  },
+  {
+    "id": 96,
+    "en1": "mediate",
+    "en2": "I offered to mediate the disagreement between my two friends.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) làm trung gian, hoà giải"
+  },
+  {
+    "id": 97,
+    "en1": "undergo",
+    "en2": "I had to undergo surgery last year.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) trải qua, chịu đựng"
+  },
+  {
+    "id": 98,
+    "en1": "collapse",
+    "en2": "I almost collapsed from exhaustion after working all night.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v,n) sụp đổ"
+  },
+  {
+    "id": 99,
+    "en1": "significant",
+    "en2": "I noticed a significant improvement in my English after daily practice.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) quan trọng, đáng kể"
+  },
+  {
+    "id": 100,
+    "en1": "redundant",
+    "en2": "I removed the redundant words to make my essay clearer.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) dư thừa, không cần thiết"
+  },
+  {
+    "id": 101,
+    "en1": "allocate",
+    "en2": "I allocate enough time every day to study English.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) phân bổ, chia phần"
+  },
+  {
+    "id": 102,
+    "en1": "negate",
+    "en2": "I cannot let one mistake negate all my hard work.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) phủ nhận, làm mất hiệu lực"
+  },
+  {
+    "id": 103,
+    "en1": "distraction",
+    "en2": "I had to remove all distractions to focus on my final exam.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự phân tâm"
+  },
+  {
+    "id": 104,
+    "en1": "controversy",
+    "en2": "I didn't expect my comment to cause so much controversy online.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) cuộc tranh cãi, tranh luận"
+  },
+  {
+    "id": 105,
+    "en1": "empirical",
+    "en2": "I prefer to base my conclusions on empirical evidence.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) thực nghiệm"
+  },
+  {
+    "id": 106,
+    "en1": "landmark",
+    "en2": "I took a picture in front of the famous landmark in the city center.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) cột mốc, dấu ấn"
+  },
+  {
+    "id": 107,
+    "en1": "widespread",
+    "en2": "I was surprised by the widespread support for the new policy.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) lan rộng, phổ biến"
+  },
+  {
+    "id": 108,
+    "en1": "function",
+    "en2": "I rely on my computer for the function of managing my daily tasks.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) chức năng"
+  },
+  {
+    "id": 109,
+    "en1": "endure",
+    "en2": "I had to endure months of physical therapy after the accident.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) chịu đựng"
+  },
+  {
+    "id": 110,
+    "en1": "assign",
+    "en2": "I will assign each team member a specific task to complete by Friday.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) phân công, giao nhiệm vụ"
+  },
+  {
+    "id": 111,
+    "en1": "era",
+    "en2": "I believe we are living in an era of rapid technological advancement.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) kỷ nguyên, thời đại"
+  },
+  {
+    "id": 112,
+    "en1": "adolescence",
+    "en2": "I learned many important life lessons during my adolescence.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) tuổi vị thành niên"
+  },
+  {
+    "id": 113,
+    "en1": "construction",
+    "en2": "I work in the construction industry, building bridges and roads.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự xây dựng"
+  },
+  {
+    "id": 114,
+    "en1": "inherent",
+    "en2": "I believe the challenges in life are inherent, and we must learn to overcome them.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) vốn có"
+  },
+  {
+    "id": 115,
+    "en1": "conform",
+    "en2": "I try to conform to the company's dress code during business hours.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) tuân theo, làm theo"
+  },
+  {
+    "id": 116,
+    "en1": "prevalent",
+    "en2": "I noticed that remote work has become more prevalent recently.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) phổ biến, thịnh hành"
+  },
+  {
+    "id": 117,
+    "en1": "sustainable",
+    "en2": "I try to live a sustainable lifestyle by reducing waste and saving energy.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) bền vững"
+  },
+  {
+    "id": 118,
+    "en1": "exacerbate",
+    "en2": "I didn't mean to exacerbate the situation by raising my voice.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) làm trầm trọng thêm"
+  },
+  {
+    "id": 119,
+    "en1": "attraction",
+    "en2": "I visited the main attraction of the city, which was a beautiful ancient temple.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự hấp dẫn"
+  },
+  {
+    "id": 120,
+    "en1": "evaluate",
+    "en2": "I need to evaluate all the options before making a decision.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) đánh giá"
   },
   {
     "id": 121,
-    "en1": "predominant",
-    "en2": "I believe that culture plays a predominant role in shaping our values.",
+    "en1": "lift shaft",
+    "en2": "I was surprised to see how wide the lift shaft is in this building.",
     "en3": "",
     "en4": "",
-    "vn1": "(a) chiếm ưu thế, chủ yếu"
+    "vn1": "(n) ống thang máy"
   },
   {
     "id": 122,
-    "en1": "intimacy",
-    "en2": "I believe that true intimacy in a relationship comes from trust and open communication.",
+    "en1": "ambiguous",
+    "en2": "I found the instructions ambiguous and hard to follow.",
     "en3": "",
     "en4": "",
-    "vn1": "(n) sự thân mật, sự gần gũi"
+    "vn1": "(a) mơ hồ, không rõ ràng"
   },
   {
     "id": 123,
-    "en1": "fraction",
-    "en2": "I only finished a fraction of the work today, so I need to do more tomorrow.",
+    "en1": "substantial",
+    "en2": "I received a substantial pay raise after the successful project.",
     "en3": "",
     "en4": "",
-    "vn1": "(n) một phần nhỏ, phân số"
+    "vn1": "(a) đáng kể, lớn lao"
   },
   {
     "id": 124,
-    "en1": "contrast",
-    "en2": "I can see a big contrast between city life and life in the countryside.",
+    "en1": "retain",
+    "en2": "I try to retain as much information as possible after each lesson.",
     "en3": "",
     "en4": "",
-    "vn1": "(v) tương phản"
+    "vn1": "(v) giữ lại, duy trì"
   },
   {
     "id": 125,
-    "en1": "distort",
-    "en2": "I noticed that the mirror distorts my reflection slightly.",
+    "en1": "drastic",
+    "en2": "I had to make drastic changes to my schedule to accommodate the new project.",
     "en3": "",
     "en4": "",
-    "vn1": "(v) bóp méo, làm sai lệch"
+    "vn1": "(a) mạnh mẽ, quyết liệt"
   },
   {
     "id": 126,
@@ -1009,198 +1009,14 @@
   },
   {
     "id": 127,
-    "en1": "flawed",
-    "en2": "I realized my plan was flawed and needed some changes.",
+    "en1": "discriminate",
+    "en2": "I would never discriminate against someone based on their background.",
     "en3": "",
     "en4": "",
-    "vn1": "(a) có lỗi, không hoàn hảo"
+    "vn1": "(v) phân biệt đối xử"
   },
   {
     "id": 128,
-    "en1": "innovative",
-    "en2": "I came up with an innovative solution to reduce energy consumption.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(a) sáng tạo, đổi mới"
-  },
-  {
-    "id": 129,
-    "en1": "accumulate",
-    "en2": "I managed to accumulate enough money for a new laptop.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(v) tích lũy, gom góp"
-  },
-  {
-    "id": 130,
-    "en1": "retirement",
-    "en2": "I am looking forward to my retirement and spending more time with my family.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(n) sự nghỉ hưu"
-  },
-  {
-    "id": 131,
-    "en1": "validate",
-    "en2": "I need to validate the data before submitting the report.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(v) xác thực"
-  },
-  {
-    "id": 132,
-    "en1": "occupant",
-    "en2": "I am the occupant of the apartment on the third floor.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(n) người cư trú, người chiếm hữu"
-  },
-  {
-    "id": 133,
-    "en1": "excavation",
-    "en2": "I visited an excavation site where ancient ruins were being uncovered.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(n) sự đào bới, khai quật"
-  },
-  {
-    "id": 134,
-    "en1": "inspiration",
-    "en2": "I find inspiration in nature when I'm feeling stressed.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(n) nguồn cảm hứng"
-  },
-  {
-    "id": 135,
-    "en1": "assumption",
-    "en2": "I made the assumption that she had already finished the report.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(v) giả định"
-  },
-  {
-    "id": 136,
-    "en1": "controversial",
-    "en2": "I shared my opinion on a controversial topic during the meeting.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(a) gây tranh cãi"
-  },
-  {
-    "id": 137,
-    "en1": "justification",
-    "en2": "I need a strong justification for spending this much money on new equipment.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(n) sự biện minh, lý do chính đáng"
-  },
-  {
-    "id": 138,
-    "en1": "identity",
-    "en2": "I am still exploring my professional identity and what I want to do in the future.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(n) danh tính"
-  },
-  {
-    "id": 139,
-    "en1": "constrain",
-    "en2": "I try not to constrain my creativity when brainstorming new ideas.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(v) hạn chế, kiềm chế"
-  },
-  {
-    "id": 140,
-    "en1": "generate",
-    "en2": "I try to generate new ideas for my writing every day.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(v) tạo ra"
-  },
-  {
-    "id": 141,
-    "en1": "harness",
-    "en2": "I want to harness the power of technology to improve education.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(v) tận dụng, khai thác"
-  },
-  {
-    "id": 142,
-    "en1": "violate",
-    "en2": "I didn't mean to violate any rules during the exam.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(v) vi phạm"
-  },
-  {
-    "id": 143,
-    "en1": "yield",
-    "en2": "I hope my hard work will yield good results.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(v) sản xuất, mang lại"
-  },
-  {
-    "id": 144,
-    "en1": "predominantly",
-    "en2": "I eat meals that are predominantly vegetables and fruits.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(av) phần lớn, chủ yếu"
-  },
-  {
-    "id": 145,
-    "en1": "comprehensive",
-    "en2": "I prepared a comprehensive report for the meeting.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(a) toàn diện"
-  },
-  {
-    "id": 146,
-    "en1": "benchmark",
-    "en2": "I use last year's sales figures as a benchmark to measure our current performance.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(n) chuẩn mực, tiêu chuẩn so sánh"
-  },
-  {
-    "id": 147,
-    "en1": "aspect",
-    "en2": "I try to look at every aspect of a problem before making a decision.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(n) khía cạnh"
-  },
-  {
-    "id": 148,
-    "en1": "contradict",
-    "en2": "I didn't mean to contradict you, I just saw things differently.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(v) mâu thuẫn"
-  },
-  {
-    "id": 149,
-    "en1": "legitimate",
-    "en2": "I believe she has a legitimate reason for being absent today.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(a) hợp pháp, chính đáng"
-  },
-  {
-    "id": 150,
-    "en1": "free press",
-    "en2": "I support the idea of a free press because it helps hold the government accountable.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(n) báo chí tự do"
-  },
-  {
-    "id": 151,
     "en1": "maintain",
     "en2": "I try to maintain a healthy lifestyle by exercising regularly.",
     "en3": "",
@@ -1208,252 +1024,436 @@
     "vn1": "(v) duy trì, giữ gìn"
   },
   {
-    "id": 152,
-    "en1": "sector",
-    "en2": "I want to work in the healthcare sector to help improve people's lives.",
+    "id": 129,
+    "en1": "compile",
+    "en2": "I compiled all the research data into one report.",
     "en3": "",
     "en4": "",
-    "vn1": "(n) khu vực, lĩnh vực"
+    "vn1": "(v) biên soạn, tổng hợp"
+  },
+  {
+    "id": 130,
+    "en1": "accommodation",
+    "en2": "I booked my accommodation near the beach for the summer holiday.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) chỗ ở"
+  },
+  {
+    "id": 131,
+    "en1": "incentive",
+    "en2": "I was given a bonus as an incentive to finish the project early.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự khích lệ, động lực"
+  },
+  {
+    "id": 132,
+    "en1": "controversial",
+    "en2": "I shared my opinion on a controversial topic during the meeting.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) gây tranh cãi"
+  },
+  {
+    "id": 133,
+    "en1": "tolerate",
+    "en2": "I can't tolerate loud noises when I'm trying to concentrate.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) chịu đựng, khoan dung"
+  },
+  {
+    "id": 134,
+    "en1": "aspect",
+    "en2": "I try to look at every aspect of a problem before making a decision.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) khía cạnh"
+  },
+  {
+    "id": 135,
+    "en1": "insight",
+    "en2": "I gained a lot of insight into how successful businesses operate.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) cái nhìn sâu sắc"
+  },
+  {
+    "id": 136,
+    "en1": "arbitrary",
+    "en2": "I made an arbitrary choice without thinking it through.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) tùy tiện, ngẫu nhiên"
+  },
+  {
+    "id": 137,
+    "en1": "distinguish",
+    "en2": "I can easily distinguish between the two similar paintings.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) phân biệt"
+  },
+  {
+    "id": 138,
+    "en1": "intimacy",
+    "en2": "I believe that true intimacy in a relationship comes from trust and open communication.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự thân mật, sự gần gũi"
+  },
+  {
+    "id": 139,
+    "en1": "prevalence",
+    "en2": "I was surprised by the high prevalence of smartphone use among children.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự phổ biến, sự thịnh hành"
+  },
+  {
+    "id": 140,
+    "en1": "commence",
+    "en2": "I will commence my new job next Monday.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) bắt đầu, khởi đầu"
+  },
+  {
+    "id": 141,
+    "en1": "burglary",
+    "en2": "I was terrified when I realized that my house had been the target of a burglary.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) vụ trộm cắp"
+  },
+  {
+    "id": 142,
+    "en1": "excavation",
+    "en2": "I visited an excavation site where ancient ruins were being uncovered.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự đào bới, khai quật"
+  },
+  {
+    "id": 143,
+    "en1": "viable",
+    "en2": "I believe this is a viable solution to the current problem.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) khả thi, có thể làm được"
+  },
+  {
+    "id": 144,
+    "en1": "temperature",
+    "en2": "I checked the temperature before going outside this morning.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) nhiệt độ"
+  },
+  {
+    "id": 145,
+    "en1": "innovation",
+    "en2": "I believe innovation is the key to solving modern problems.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự đổi mới, sáng kiến"
+  },
+  {
+    "id": 146,
+    "en1": "devastated",
+    "en2": "I was devastated by the news of her sudden passing.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) rất đau buồn; bị tàn phá"
+  },
+  {
+    "id": 147,
+    "en1": "fraction",
+    "en2": "I only finished a fraction of the work today, so I need to do more tomorrow.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) một phần nhỏ, phân số"
+  },
+  {
+    "id": 148,
+    "en1": "erode",
+    "en2": "I saw how the rain eroded the soil in our garden.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) xói mòn, ăn mòn"
+  },
+  {
+    "id": 149,
+    "en1": "device",
+    "en2": "I use my smartphone as a device to check emails and stay connected with friends.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) thiết bị"
+  },
+  {
+    "id": 150,
+    "en1": "cooperate",
+    "en2": "I always try to cooperate with my teammates during group projects.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) hợp tác"
+  },
+  {
+    "id": 151,
+    "en1": "hindsight",
+    "en2": "I often think that in hindsight, I could have handled the situation better.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự nhìn lại"
+  },
+  {
+    "id": 152,
+    "en1": "contradiction",
+    "en2": "I noticed a contradiction between what he said and what he did.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự mâu thuẫn"
   },
   {
     "id": 153,
-    "en1": "reinforce",
-    "en2": "I used examples to reinforce my point during the presentation.",
+    "en1": "deduce",
+    "en2": "I can deduce from his tone that he was not pleased with the results.",
     "en3": "",
     "en4": "",
-    "vn1": "(v) củng cố, tăng cường"
+    "vn1": "(v) suy luận, suy ra"
   },
   {
     "id": 154,
-    "en1": "distraction",
-    "en2": "I had to remove all distractions to focus on my final exam.",
+    "en1": "cottage",
+    "en2": "I spent the weekend at a cozy cottage by the lake.",
     "en3": "",
     "en4": "",
-    "vn1": "(n) sự phân tâm"
+    "vn1": "(n) nhà tranh, nhà nhỏ"
   },
   {
     "id": 155,
-    "en1": "coherent",
-    "en2": "I tried to present a coherent argument during the debate.",
+    "en1": "bond",
+    "en2": "I have a strong bond with my best friend because we've shared so many memories together.",
     "en3": "",
     "en4": "",
-    "vn1": "(a) mạch lạc, rõ ràng"
+    "vn1": "(n) mối quan hệ, sự liên kết"
   },
   {
     "id": 156,
-    "en1": "lift shaft",
-    "en2": "I was surprised to see how wide the lift shaft is in this building.",
+    "en1": "obtain",
+    "en2": "I managed to obtain a visa after submitting all the documents.",
     "en3": "",
     "en4": "",
-    "vn1": "(n) ống thang máy"
+    "vn1": "(v) đạt được, giành được"
   },
   {
     "id": 157,
-    "en1": "cater",
-    "en2": "I cater for small parties and family events on weekends.",
+    "en1": "adolescent",
+    "en2": "I was a shy adolescent who loved reading books more than going out.",
     "en3": "",
     "en4": "",
-    "vn1": "(v) phục vụ - cung cấp thực phẩm"
+    "vn1": "(n) thanh thiếu niên"
   },
   {
     "id": 158,
-    "en1": "justify",
-    "en2": "I had to justify my decision to leave the project early.",
+    "en1": "transform",
+    "en2": "I believe education can transform lives for the better.",
     "en3": "",
     "en4": "",
-    "vn1": "(v) biện minh, chứng minh là đúng"
+    "vn1": "(v) biến đổi, thay đổi hoàn toàn"
   },
   {
     "id": 159,
-    "en1": "detrimental",
-    "en2": "I realized that staying up late was detrimental to my health.",
+    "en1": "allergy",
+    "en2": "I have a serious allergy to seafood, so I never eat it.",
     "en3": "",
     "en4": "",
-    "vn1": "(a) có hại"
+    "vn1": "(n) dị ứng"
   },
   {
     "id": 160,
-    "en1": "ability",
-    "en2": "I believe in my ability to solve problems and learn new things quickly.",
+    "en1": "participate",
+    "en2": "I participate in group discussions to improve my communication skills.",
     "en3": "",
     "en4": "",
-    "vn1": "(n) khả năng"
+    "vn1": "(v) tham gia"
   },
   {
     "id": 161,
-    "en1": "convey",
-    "en2": "I try to convey my feelings clearly so that others can understand me.",
+    "en1": "simulate",
+    "en2": "I used software to simulate different weather conditions for the experiment.",
     "en3": "",
     "en4": "",
-    "vn1": "(v) truyền đạt"
+    "vn1": "(v) mô phỏng, giả lập"
   },
   {
     "id": 162,
-    "en1": "revise",
-    "en2": "I need to revise my essay before submitting it.",
+    "en1": "comprehensive",
+    "en2": "I prepared a comprehensive report for the meeting.",
     "en3": "",
     "en4": "",
-    "vn1": "(v) xem lại, sửa đổi"
+    "vn1": "(a) toàn diện"
   },
   {
     "id": 163,
-    "en1": "antiquated",
-    "en2": "I think the system is antiquated and needs to be updated to improve efficiency.",
+    "en1": "curriculum",
+    "en2": "I think the school should add more art classes to the curriculum.",
     "en3": "",
     "en4": "",
-    "vn1": "(a) lỗi thời"
+    "vn1": "(n) chương trình học"
   },
   {
     "id": 164,
-    "en1": "integrate",
-    "en2": "I tried to integrate new technology into my daily work.",
+    "en1": "implicate",
+    "en2": "I realized my actions could implicate my friends in the misunderstanding.",
     "en3": "",
     "en4": "",
-    "vn1": "(v) tích hợp, hội nhập"
+    "vn1": "(v) làm dính líu, liên quan đến"
   },
   {
     "id": 165,
-    "en1": "subsequent",
-    "en2": "I finished my homework, and in the subsequent hours, I relaxed and watched a movie.",
+    "en1": "innovative",
+    "en2": "I came up with an innovative solution to reduce energy consumption.",
     "en3": "",
     "en4": "",
-    "vn1": "(a) sau đó"
+    "vn1": "(a) sáng tạo, đổi mới"
   },
   {
     "id": 166,
-    "en1": "controversy",
-    "en2": "I didn't expect my comment to cause so much controversy online.",
+    "en1": "compensate",
+    "en2": "I worked extra hours to compensate for my absence last week.",
     "en3": "",
     "en4": "",
-    "vn1": "(n) cuộc tranh cãi, tranh luận"
+    "vn1": "(v) bồi thường, đền bù"
   },
   {
     "id": 167,
-    "en1": "redundant",
-    "en2": "I removed the redundant words to make my essay clearer.",
+    "en1": "accommodate",
+    "en2": "I will accommodate your request and rearrange the meeting time.",
     "en3": "",
     "en4": "",
-    "vn1": "(a) dư thừa, không cần thiết"
+    "vn1": "(v) đáp ứng, thay đổi"
   },
   {
     "id": 168,
-    "en1": "contrary",
-    "en2": "I heard the weather would be sunny, but the reality was quite the contrary.",
+    "en1": "deter",
+    "en2": "I installed a camera to deter thieves from breaking into my house.",
     "en3": "",
     "en4": "",
-    "vn1": "(a,n) trái ngược"
+    "vn1": "(v) ngăn cản, làm nản lòng"
   },
   {
     "id": 169,
-    "en1": "attraction",
-    "en2": "I visited the main attraction of the city, which was a beautiful ancient temple.",
+    "en1": "temperamental",
+    "en2": "I find it hard to work with him because he's so temperamental.",
     "en3": "",
     "en4": "",
-    "vn1": "(n) sự hấp dẫn"
+    "vn1": "(a) tính khí thất thường"
   },
   {
     "id": 170,
-    "en1": "adolescence",
-    "en2": "I learned many important life lessons during my adolescence.",
+    "en1": "collocations",
+    "en2": "I need to learn more collocations to speak English more fluently.",
     "en3": "",
     "en4": "",
-    "vn1": "(n) tuổi vị thành niên"
+    "vn1": "(n) cụm từ"
   },
   {
     "id": 171,
-    "en1": "skyscraper",
-    "en2": "I was amazed when I saw the tallest skyscraper in the city.",
+    "en1": "emphasize",
+    "en2": "I want to emphasize the importance of teamwork in this project.",
     "en3": "",
     "en4": "",
-    "vn1": "(n) tòa nhà chọc trời"
+    "vn1": "(v) nhấn mạnh, làm nổi bật"
   },
   {
     "id": 172,
-    "en1": "lucrative",
-    "en2": "I want to find a lucrative job that will help me save more money.",
+    "en1": "crater",
+    "en2": "I saw a huge crater formed by a volcanic eruption during our trip.",
     "en3": "",
     "en4": "",
-    "vn1": "(a) có lợi nhuận"
+    "vn1": "(n) miệng núi lửa, hố lớn"
   },
   {
     "id": 173,
-    "en1": "capable",
-    "en2": "I am capable of handling this task on my own.",
+    "en1": "utilize",
+    "en2": "I try to utilize my free time to learn new skills.",
     "en3": "",
     "en4": "",
-    "vn1": "(a) có khả năng"
+    "vn1": "(v) sử dụng, tận dụng"
   },
   {
     "id": 174,
-    "en1": "adjacent",
-    "en2": "I parked my car in the space adjacent to the building.",
+    "en1": "cite",
+    "en2": "I cited several studies to support my argument.",
     "en3": "",
     "en4": "",
-    "vn1": "(a) liền kề, sát cạnh"
+    "vn1": "(v) trích dẫn"
   },
   {
     "id": 175,
-    "en1": "persist",
-    "en2": "I persist in practicing English every day to improve my skills.",
+    "en1": "refine",
+    "en2": "I constantly refine my English speaking skills through practice.",
     "en3": "",
     "en4": "",
-    "vn1": "(v) kiên trì, tiếp tục"
+    "vn1": "(v) cải tiến, tinh chỉnh"
   },
   {
     "id": 176,
-    "en1": "accurate",
-    "en2": "I try to provide accurate information in all my reports.",
+    "en1": "facilitate",
+    "en2": "I try to facilitate teamwork by encouraging open communication.",
     "en3": "",
     "en4": "",
-    "vn1": "(a) chính xác, đúng đắn"
+    "vn1": "(v) tạo điều kiện"
   },
   {
     "id": 177,
-    "en1": "impose",
-    "en2": "I don't want to impose my opinions on others.",
+    "en1": "framework",
+    "en2": "I used a clear framework to organize my ideas before writing the essay.",
     "en3": "",
     "en4": "",
-    "vn1": "(v) áp đặt, bắt buộc"
+    "vn1": "(n) khuôn khổ, cơ cấu"
   },
   {
     "id": 178,
-    "en1": "drastic",
-    "en2": "I had to make drastic changes to my schedule to accommodate the new project.",
+    "en1": "incorporate",
+    "en2": "I incorporated feedback from my team into the final report.",
     "en3": "",
     "en4": "",
-    "vn1": "(a) mạnh mẽ, quyết liệt"
+    "vn1": "(v) kết hợp"
   },
   {
     "id": 179,
-    "en1": "gesture",
-    "en2": "I made a small gesture of kindness by holding the door open for her.",
+    "en1": "restrain",
+    "en2": "I had to restrain myself from shouting during the meeting.",
     "en3": "",
     "en4": "",
-    "vn1": "(v) ra hiệu"
+    "vn1": "(v) kiềm chế, hạn chế"
   },
   {
     "id": 180,
-    "en1": "staircase",
-    "en2": "I slipped on the staircase but luckily didn't get hurt.",
+    "en1": "structure",
+    "en2": "I was impressed by the structure of the ancient temple.",
     "en3": "",
     "en4": "",
-    "vn1": "(n) cầu thang"
+    "vn1": "(n) cấu trúc, công trình"
   },
   {
     "id": 181,
-    "en1": "reproduce",
-    "en2": "I tried to reproduce the experiment, but the results were different.",
+    "en1": "eliminate",
+    "en2": "I need to eliminate the distractions so I can focus better on my work.",
     "en3": "",
     "en4": "",
-    "vn1": "(v) tái tạo, sinh sản, sao chép lại"
+    "vn1": "(v) loại bỏ"
   },
   {
     "id": 182,
-    "en1": "notify",
-    "en2": "I will notify you as soon as the package arrives.",
+    "en1": "assumption",
+    "en2": "I made the assumption that she had already finished the report.",
     "en3": "",
     "en4": "",
-    "vn1": "(v) thông báo, báo tin"
+    "vn1": "(v) giả định"
   },
   {
     "id": 183,
@@ -1465,94 +1465,142 @@
   },
   {
     "id": 184,
-    "en1": "significant",
-    "en2": "I noticed a significant improvement in my English after daily practice.",
+    "en1": "fluctuation",
+    "en2": "I noticed the fluctuation in temperature throughout the day.",
     "en3": "",
     "en4": "",
-    "vn1": "(a) quan trọng, đáng kể"
+    "vn1": "(n) sự dao động"
   },
   {
     "id": 185,
-    "en1": "resilient",
-    "en2": "I try to be resilient whenever I face challenges in life.",
+    "en1": "qualification",
+    "en2": "I need to improve my qualifications to apply for the job.",
     "en3": "",
     "en4": "",
-    "vn1": "(a) kiên cường"
+    "vn1": "(n) trình độ chuyên môn, bằng cấp"
   },
   {
     "id": 186,
-    "en1": "detect",
-    "en2": "I was able to detect a small mistake in the report.",
+    "en1": "antiquated",
+    "en2": "I think the system is antiquated and needs to be updated to improve efficiency.",
     "en3": "",
     "en4": "",
-    "vn1": "(v) phát hiện"
+    "vn1": "(a) lỗi thời"
   },
   {
     "id": 187,
-    "en1": "disparity",
-    "en2": "I noticed a disparity in the test scores between the two classes.",
+    "en1": "deteriorate",
+    "en2": "I noticed that the old building started to deteriorate after the storm.",
     "en3": "",
     "en4": "",
-    "vn1": "(n) sự chênh lệch, khác biệt"
+    "vn1": "(v) trở nên xấu đi, suy giảm"
   },
   {
     "id": 188,
-    "en1": "tension",
-    "en2": "I could feel the tension in the room before the meeting started.",
+    "en1": "critical",
+    "en2": "I was in a critical condition after the accident, but I recovered.",
     "en3": "",
     "en4": "",
-    "vn1": "(n) sự căng thẳng"
+    "vn1": "(a) nghiêm trọng, quan trọng"
   },
   {
     "id": 189,
-    "en1": "recipe",
-    "en2": "I followed a new recipe to bake a chocolate cake.",
+    "en1": "capable",
+    "en2": "I am capable of handling this task on my own.",
     "en3": "",
     "en4": "",
-    "vn1": "(n) công thức nấu ăn"
+    "vn1": "(a) có khả năng"
   },
   {
     "id": 190,
-    "en1": "eliminate",
-    "en2": "I need to eliminate the distractions so I can focus better on my work.",
+    "en1": "notify",
+    "en2": "I will notify you as soon as the package arrives.",
     "en3": "",
     "en4": "",
-    "vn1": "(v) loại bỏ"
+    "vn1": "(v) thông báo, báo tin"
   },
   {
     "id": 191,
-    "en1": "collapse",
-    "en2": "I almost collapsed from exhaustion after working all night.",
+    "en1": "authority",
+    "en2": "I always respect the authority of my manager at work.",
     "en3": "",
     "en4": "",
-    "vn1": "(v,n) sụp đổ"
+    "vn1": "(n) quyền lực"
   },
   {
     "id": 192,
-    "en1": "consequence",
-    "en2": "I understand the consequence of my actions and take full responsibility.",
+    "en1": "revise",
+    "en2": "I need to revise my essay before submitting it.",
     "en3": "",
     "en4": "",
-    "vn1": "(n) hậu quả"
+    "vn1": "(v) xem lại, sửa đổi"
   },
   {
     "id": 193,
-    "en1": "helpless",
-    "en2": "I felt helpless when I saw the injured bird on the ground.",
+    "en1": "incoherent",
+    "en2": "I couldn't understand his incoherent explanation during the meeting.",
     "en3": "",
     "en4": "",
-    "vn1": "(a) bất lực, không thể tự lo liệu"
+    "vn1": "(a) rời rạc, không mạch lạc"
   },
   {
     "id": 194,
-    "en1": "claim",
-    "en2": "I claim that regular exercise improves mental health.",
+    "en1": "substantiate",
+    "en2": "I need to substantiate my claims with strong evidence.",
     "en3": "",
     "en4": "",
-    "vn1": "(v,n) tuyên bố, khẳng định"
+    "vn1": "(v) chứng minh, làm rõ"
   },
   {
     "id": 195,
+    "en1": "behaviour",
+    "en2": "I try to show good behaviour at school to set a good example for others.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) hành vi, cách cư xử"
+  },
+  {
+    "id": 196,
+    "en1": "decline",
+    "en2": "I noticed a decline in my energy levels after staying up late all week.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự suy giảm, sụt giảm"
+  },
+  {
+    "id": 197,
+    "en1": "extract",
+    "en2": "I managed to extract some useful information from the report.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) rút ra, chiết xuất"
+  },
+  {
+    "id": 198,
+    "en1": "invention",
+    "en2": "I admire Thomas Edison for his invention of the light bulb.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) phát minh"
+  },
+  {
+    "id": 199,
+    "en1": "merit",
+    "en2": "I tried to judge each application based on its own merit.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) giá trị, xứng đáng"
+  },
+  {
+    "id": 200,
+    "en1": "offset",
+    "en2": "I use extra hours at work to offset the time I took off last week.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) bù đắp, cân bằng"
+  },
+  {
+    "id": 201,
     "en1": "implement",
     "en2": "I plan to implement a new schedule to improve productivity.",
     "en3": "",
@@ -1560,68 +1608,20 @@
     "vn1": "(v) thực hiện, thi hành"
   },
   {
-    "id": 196,
-    "en1": "attain",
-    "en2": "I hope to attain my career goals within the next five years.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(v) đạt được, giành được"
-  },
-  {
-    "id": 197,
-    "en1": "preliminary",
-    "en2": "I reviewed the preliminary results before the final report was published.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(a) sơ bộ, ban đầu"
-  },
-  {
-    "id": 198,
-    "en1": "substantial",
-    "en2": "I received a substantial pay raise after the successful project.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(a) đáng kể, lớn lao"
-  },
-  {
-    "id": 199,
-    "en1": "incentivize",
-    "en2": "I plan to incentivize my team by offering bonuses for early project completion.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(v) khuyến khích, tạo động lực"
-  },
-  {
-    "id": 200,
-    "en1": "contradiction",
-    "en2": "I noticed a contradiction between what he said and what he did.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(n) sự mâu thuẫn"
-  },
-  {
-    "id": 201,
-    "en1": "cooperate",
-    "en2": "I always try to cooperate with my teammates during group projects.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(v) hợp tác"
-  },
-  {
     "id": 202,
-    "en1": "amend",
-    "en2": "I need to amend the contract before we sign it.",
+    "en1": "climate",
+    "en2": "I enjoy living in a place with a warm and sunny climate.",
     "en3": "",
     "en4": "",
-    "vn1": "(v) sửa đổi, điều chỉnh"
+    "vn1": "(n) khí hậu"
   },
   {
     "id": 203,
-    "en1": "transmit",
-    "en2": "I used email to transmit the documents to my supervisor.",
+    "en1": "scrutinize",
+    "en2": "I always scrutinize the details before making an important decision.",
     "en3": "",
     "en4": "",
-    "vn1": "(v) truyền, phát"
+    "vn1": "(v) xem xét kỹ lưỡng"
   },
   {
     "id": 204,
@@ -1633,350 +1633,94 @@
   },
   {
     "id": 205,
-    "en1": "deter",
-    "en2": "I installed a camera to deter thieves from breaking into my house.",
+    "en1": "adverse",
+    "en2": "I continued working despite the adverse weather conditions.",
     "en3": "",
     "en4": "",
-    "vn1": "(v) ngăn cản, làm nản lòng"
+    "vn1": "(a) bất lợi, có hại"
   },
   {
     "id": 206,
-    "en1": "profound",
-    "en2": "I had a profound experience while traveling alone.",
+    "en1": "claim",
+    "en2": "I claim that regular exercise improves mental health.",
     "en3": "",
     "en4": "",
-    "vn1": "(a) sâu sắc, thấm thía"
+    "vn1": "(v,n) tuyên bố, khẳng định"
   },
   {
     "id": 207,
-    "en1": "incorporate",
-    "en2": "I incorporated feedback from my team into the final report.",
+    "en1": "commute",
+    "en2": "I commute to the city by train every day for work.",
     "en3": "",
     "en4": "",
-    "vn1": "(v) kết hợp"
+    "vn1": "(v) đi lại (thường xuyên)"
   },
   {
     "id": 208,
-    "en1": "sustain",
-    "en2": "I try to sustain a healthy lifestyle through regular exercise.",
+    "en1": "accumulate",
+    "en2": "I managed to accumulate enough money for a new laptop.",
     "en3": "",
     "en4": "",
-    "vn1": "(v) duy trì, kéo dài"
+    "vn1": "(v) tích lũy, gom góp"
   },
   {
     "id": 209,
-    "en1": "anxiety",
-    "en2": "I often feel anxiety before taking an important exam.",
+    "en1": "harness",
+    "en2": "I want to harness the power of technology to improve education.",
     "en3": "",
     "en4": "",
-    "vn1": "(n) sự lo lắng"
+    "vn1": "(v) tận dụng, khai thác"
   },
   {
     "id": 210,
-    "en1": "transition",
-    "en2": "I found the transition from school to university both exciting and challenging.",
+    "en1": "irrigate",
+    "en2": "I use a simple system to irrigate my garden every morning.",
     "en3": "",
     "en4": "",
-    "vn1": "(n) sự chuyển tiếp"
+    "vn1": "(v) tưới tiêu"
   },
   {
     "id": 211,
-    "en1": "enhance",
-    "en2": "I want to enhance my skills by taking more courses.",
+    "en1": "compromise",
+    "en2": "I wanted pizza, she wanted noodles, so we made a compromise and ate burgers.",
     "en3": "",
     "en4": "",
-    "vn1": "(v) nâng cao, cải thiện"
+    "vn1": "(n,v) thoả hiệp"
   },
   {
     "id": 212,
-    "en1": "ambiguous",
-    "en2": "I found the instructions ambiguous and hard to follow.",
+    "en1": "gesture",
+    "en2": "I made a small gesture of kindness by holding the door open for her.",
     "en3": "",
     "en4": "",
-    "vn1": "(a) mơ hồ, không rõ ràng"
+    "vn1": "(v) ra hiệu"
   },
   {
     "id": 213,
-    "en1": "oppose",
-    "en2": "I strongly oppose the idea of cutting down more trees.",
+    "en1": "detrimental",
+    "en2": "I realized that staying up late was detrimental to my health.",
     "en3": "",
     "en4": "",
-    "vn1": "(v) phản đối"
+    "vn1": "(a) có hại"
   },
   {
     "id": 214,
-    "en1": "temperature",
-    "en2": "I checked the temperature before going outside this morning.",
+    "en1": "marginal",
+    "en2": "I noticed only a marginal improvement in my test scores after studying all week.",
     "en3": "",
     "en4": "",
-    "vn1": "(n) nhiệt độ"
+    "vn1": "(a) nhỏ, không đáng kể"
   },
   {
     "id": 215,
-    "en1": "quarry",
-    "en2": "I visited the quarry to see how the stones were extracted for construction.",
+    "en1": "fluctuate",
+    "en2": "I noticed that the temperature tends to fluctuate during the day.",
     "en3": "",
     "en4": "",
-    "vn1": "(n) mỏ đá"
+    "vn1": "(v) dao động, thay đổi liên tục"
   },
   {
     "id": 216,
-    "en1": "obtain",
-    "en2": "I managed to obtain a visa after submitting all the documents.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(v) đạt được, giành được"
-  },
-  {
-    "id": 217,
-    "en1": "substantiate",
-    "en2": "I need to substantiate my claims with strong evidence.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(v) chứng minh, làm rõ"
-  },
-  {
-    "id": 218,
-    "en1": "inhibit",
-    "en2": "I sometimes feel that fear can inhibit my creativity.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(v) ngăn chặn, kìm hãm"
-  },
-  {
-    "id": 219,
-    "en1": "brotherhood",
-    "en2": "I feel a strong sense of brotherhood with my colleagues after working together for so many years.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(n) tình anh em"
-  },
-  {
-    "id": 220,
-    "en1": "displace",
-    "en2": "I saw how the flood displaced hundreds of families in the area.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(v) di dời, thay thế"
-  },
-  {
-    "id": 221,
-    "en1": "depict",
-    "en2": "I tried to depict the peaceful scenery in my painting.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(v) mô tả, miêu tả"
-  },
-  {
-    "id": 222,
-    "en1": "suppress",
-    "en2": "I tried to suppress my anger during the meeting.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(v) đàn áp, kiềm nén"
-  },
-  {
-    "id": 223,
-    "en1": "function",
-    "en2": "I rely on my computer for the function of managing my daily tasks.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(n) chức năng"
-  },
-  {
-    "id": 224,
-    "en1": "intervene",
-    "en2": "I had to intervene when the argument between them got too heated.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(v) can thiệp, xen vào"
-  },
-  {
-    "id": 225,
-    "en1": "reluctant",
-    "en2": "I was reluctant to speak in front of a large audience.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(a) miễn cưỡng, do dự"
-  },
-  {
-    "id": 226,
-    "en1": "impair",
-    "en2": "I was afraid that lack of sleep would impair my focus.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(v) làm suy yếu, làm hư hỏng"
-  },
-  {
-    "id": 227,
-    "en1": "landmark",
-    "en2": "I took a picture in front of the famous landmark in the city center.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(n) cột mốc, dấu ấn"
-  },
-  {
-    "id": 228,
-    "en1": "contribute",
-    "en2": "I want to contribute my skills to help the team succeed.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(v) đóng góp, góp phần"
-  },
-  {
-    "id": 229,
-    "en1": "deteriorate",
-    "en2": "I noticed that the old building started to deteriorate after the storm.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(v) trở nên xấu đi, suy giảm"
-  },
-  {
-    "id": 230,
-    "en1": "accommodate",
-    "en2": "I will accommodate your request and rearrange the meeting time.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(v) đáp ứng, thay đổi"
-  },
-  {
-    "id": 231,
-    "en1": "burglary",
-    "en2": "I was terrified when I realized that my house had been the target of a burglary.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(n) vụ trộm cắp"
-  },
-  {
-    "id": 232,
-    "en1": "behaviour",
-    "en2": "I try to show good behaviour at school to set a good example for others.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(n) hành vi, cách cư xử"
-  },
-  {
-    "id": 233,
-    "en1": "restrain",
-    "en2": "I had to restrain myself from shouting during the meeting.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(v) kiềm chế, hạn chế"
-  },
-  {
-    "id": 234,
-    "en1": "highlight",
-    "en2": "I want to highlight the importance of regular exercise in maintaining good health.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(v) nhấn mạnh, làm nổi bật"
-  },
-  {
-    "id": 235,
-    "en1": "compile",
-    "en2": "I compiled all the research data into one report.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(v) biên soạn, tổng hợp"
-  },
-  {
-    "id": 236,
-    "en1": "notion",
-    "en2": "I don't agree with the notion that success comes without hard work.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(n) quan điểm"
-  },
-  {
-    "id": 237,
-    "en1": "overwhelming",
-    "en2": "I felt an overwhelming sense of joy when I graduated.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(a) áp đảo, mạnh mẽ"
-  },
-  {
-    "id": 238,
-    "en1": "platform",
-    "en2": "I use this platform to share my artwork with others around the world.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(n) nền tảng"
-  },
-  {
-    "id": 239,
-    "en1": "attribute",
-    "en2": "I attribute my success to hard work and support from my family.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(v,n) quy cho - đặc điểm"
-  },
-  {
-    "id": 240,
-    "en1": "ideology",
-    "en2": "I try to understand different ideologies before forming my own opinion on social issues.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(n) hệ tư tưởng"
-  },
-  {
-    "id": 241,
-    "en1": "consume",
-    "en2": "I try to consume less sugar for the sake of my health.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(v) tiêu thụ"
-  },
-  {
-    "id": 242,
-    "en1": "prominent",
-    "en2": "I was honored to meet a prominent scientist at the conference.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(v) nổi bật, quan trọng"
-  },
-  {
-    "id": 243,
-    "en1": "temperamental",
-    "en2": "I find it hard to work with him because he's so temperamental.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(a) tính khí thất thường"
-  },
-  {
-    "id": 244,
-    "en1": "undermine",
-    "en2": "I worry that negative comments might undermine our team’s confidence.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(v) làm suy yếu, làm giảm uy tín"
-  },
-  {
-    "id": 245,
-    "en1": "empirical",
-    "en2": "I prefer to base my conclusions on empirical evidence.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(a) thực nghiệm"
-  },
-  {
-    "id": 246,
-    "en1": "benefit",
-    "en2": "I see a lot of benefit in practicing English every day.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(n,v) lợi ích - được lợi"
-  },
-  {
-    "id": 247,
-    "en1": "concern",
-    "en2": "I have a genuine concern about the environment.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(n,v) mối lo ngại - lo lắng"
-  },
-  {
-    "id": 248,
     "en1": "insoluble",
     "en2": "I found the conflict between them completely insoluble at that moment.",
     "en3": "",
@@ -1984,47 +1728,271 @@
     "vn1": "(a) không thể giải quyết, không hòa tan"
   },
   {
-    "id": 249,
-    "en1": "require",
-    "en2": "I require more time to finish my homework.",
+    "id": 217,
+    "en1": "character",
+    "en2": "I believe that a person's character is more important than their appearance.",
     "en3": "",
     "en4": "",
-    "vn1": "(v) yêu cầu, đòi hỏi"
+    "vn1": "(n) tính cách"
+  },
+  {
+    "id": 218,
+    "en1": "violate",
+    "en2": "I didn't mean to violate any rules during the exam.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) vi phạm"
+  },
+  {
+    "id": 219,
+    "en1": "disparity",
+    "en2": "I noticed a disparity in the test scores between the two classes.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự chênh lệch, khác biệt"
+  },
+  {
+    "id": 220,
+    "en1": "diverse",
+    "en2": "I enjoy working in a team with people from diverse backgrounds.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) đa dạng"
+  },
+  {
+    "id": 221,
+    "en1": "absorb",
+    "en2": "I tried to absorb as much information as possible before the exam.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) hấp thụ, tiếp thu"
+  },
+  {
+    "id": 222,
+    "en1": "activity",
+    "en2": "I enjoy outdoor activity like hiking and cycling on weekends.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) hoạt động"
+  },
+  {
+    "id": 223,
+    "en1": "brotherhood",
+    "en2": "I feel a strong sense of brotherhood with my colleagues after working together for so many years.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) tình anh em"
+  },
+  {
+    "id": 224,
+    "en1": "diminish",
+    "en2": "I try not to let negative comments diminish my confidence.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) giảm bớt, làm suy giảm"
+  },
+  {
+    "id": 225,
+    "en1": "hamper",
+    "en2": "I didn't let the bad weather hamper my travel plans.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) cản trở, gây khó khăn"
+  },
+  {
+    "id": 226,
+    "en1": "preliminary",
+    "en2": "I reviewed the preliminary results before the final report was published.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) sơ bộ, ban đầu"
+  },
+  {
+    "id": 227,
+    "en1": "impose",
+    "en2": "I don't want to impose my opinions on others.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) áp đặt, bắt buộc"
+  },
+  {
+    "id": 228,
+    "en1": "attain",
+    "en2": "I hope to attain my career goals within the next five years.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) đạt được, giành được"
+  },
+  {
+    "id": 229,
+    "en1": "interpret",
+    "en2": "I had to interpret the instructions for my friend because she didn't understand them.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) diễn giải"
+  },
+  {
+    "id": 230,
+    "en1": "lucrative",
+    "en2": "I want to find a lucrative job that will help me save more money.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) có lợi nhuận"
+  },
+  {
+    "id": 231,
+    "en1": "feasible",
+    "en2": "I don't think it's feasible to finish this project in just two days.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) khả thi, thực hiện được"
+  },
+  {
+    "id": 232,
+    "en1": "liable",
+    "en2": "I am liable for any damage caused during the rental period.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) có trách nhiệm"
+  },
+  {
+    "id": 233,
+    "en1": "concur",
+    "en2": "I concur with your opinion about the new policy.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) đồng ý, cùng ý kiến"
+  },
+  {
+    "id": 234,
+    "en1": "assume",
+    "en2": "I assume you already know about the meeting tomorrow.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) cho rằng"
+  },
+  {
+    "id": 235,
+    "en1": "overwhelming",
+    "en2": "I felt an overwhelming sense of joy when I graduated.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) áp đảo, mạnh mẽ"
+  },
+  {
+    "id": 236,
+    "en1": "distort",
+    "en2": "I noticed that the mirror distorts my reflection slightly.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) bóp méo, làm sai lệch"
+  },
+  {
+    "id": 237,
+    "en1": "depict",
+    "en2": "I tried to depict the peaceful scenery in my painting.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) mô tả, miêu tả"
+  },
+  {
+    "id": 238,
+    "en1": "persist",
+    "en2": "I persist in practicing English every day to improve my skills.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) kiên trì, tiếp tục"
+  },
+  {
+    "id": 239,
+    "en1": "staircase",
+    "en2": "I slipped on the staircase but luckily didn't get hurt.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) cầu thang"
+  },
+  {
+    "id": 240,
+    "en1": "recipe",
+    "en2": "I followed a new recipe to bake a chocolate cake.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) công thức nấu ăn"
+  },
+  {
+    "id": 241,
+    "en1": "detect",
+    "en2": "I was able to detect a small mistake in the report.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) phát hiện"
+  },
+  {
+    "id": 242,
+    "en1": "idioms",
+    "en2": "I like learning English idioms because they make my speaking more fun.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) thành ngữ"
+  },
+  {
+    "id": 243,
+    "en1": "amend",
+    "en2": "I need to amend the contract before we sign it.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) sửa đổi, điều chỉnh"
+  },
+  {
+    "id": 244,
+    "en1": "resilient",
+    "en2": "I try to be resilient whenever I face challenges in life.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) kiên cường"
+  },
+  {
+    "id": 245,
+    "en1": "debris",
+    "en2": "I accidentally dropped the glass, and now there's broken debris all over the floor.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) mảnh vỡ, đống đổ nát"
+  },
+  {
+    "id": 246,
+    "en1": "willingness",
+    "en2": "I appreciate your willingness to help us on such short notice.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự sẵn lòng, sự tự nguyện"
+  },
+  {
+    "id": 247,
+    "en1": "profound",
+    "en2": "I had a profound experience while traveling alone.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) sâu sắc, thấm thía"
+  },
+  {
+    "id": 248,
+    "en1": "skyscraper",
+    "en2": "I was amazed when I saw the tallest skyscraper in the city.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) tòa nhà chọc trời"
+  },
+  {
+    "id": 249,
+    "en1": "allergic",
+    "en2": "I'm allergic to peanuts, so I always check food labels carefully.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) bị dị ứng"
   },
   {
     "id": 250,
-    "en1": "cohesive",
-    "en2": "I believe our team is very cohesive and works well together.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(a) gắn kết, liên kết"
-  },
-  {
-    "id": 251,
-    "en1": "commence",
-    "en2": "I will commence my new job next Monday.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(v) bắt đầu, khởi đầu"
-  },
-  {
-    "id": 252,
-    "en1": "offset",
-    "en2": "I use extra hours at work to offset the time I took off last week.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(v) bù đắp, cân bằng"
-  },
-  {
-    "id": 253,
-    "en1": "steel",
-    "en2": "I saw workers using steel beams to support the new bridge.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(n) thép"
-  },
-  {
-    "id": 254,
     "en1": "category",
     "en2": "I placed the books into the correct category on the shelf.",
     "en3": "",
@@ -2032,12 +2000,44 @@
     "vn1": "(n) hạng, loại"
   },
   {
-    "id": 255,
-    "en1": "modify",
-    "en2": "I need to modify my schedule to fit the new meeting time.",
+    "id": 251,
+    "en1": "irreparable",
+    "en2": "I made an irreparable mistake that affected our friendship forever.",
     "en3": "",
     "en4": "",
-    "vn1": "(v) sửa đổi, thay đổi"
+    "vn1": "(a) không thể sửa chữa được"
+  },
+  {
+    "id": 252,
+    "en1": "subsidy",
+    "en2": "I applied for a government subsidy to support my small business.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) tiền trợ cấp"
+  },
+  {
+    "id": 253,
+    "en1": "neglect",
+    "en2": "I sometimes neglect my health when I am too busy.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v,n) bỏ bê - sự sao nhãng"
+  },
+  {
+    "id": 254,
+    "en1": "residence",
+    "en2": "I moved to a new residence closer to my workplace last month.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) nơi cư trú, nơi ở"
+  },
+  {
+    "id": 255,
+    "en1": "scarcity",
+    "en2": "I noticed the scarcity of clean water during my trip to the village.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự khan hiếm, thiếu hụt"
   },
   {
     "id": 256,
@@ -2049,78 +2049,6 @@
   },
   {
     "id": 257,
-    "en1": "structure",
-    "en2": "I was impressed by the structure of the ancient temple.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(n) cấu trúc, công trình"
-  },
-  {
-    "id": 258,
-    "en1": "collocations",
-    "en2": "I need to learn more collocations to speak English more fluently.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(n) cụm từ"
-  },
-  {
-    "id": 259,
-    "en1": "feasible",
-    "en2": "I don't think it's feasible to finish this project in just two days.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(a) khả thi, thực hiện được"
-  },
-  {
-    "id": 260,
-    "en1": "allergy",
-    "en2": "I have a serious allergy to seafood, so I never eat it.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(n) dị ứng"
-  },
-  {
-    "id": 261,
-    "en1": "merit",
-    "en2": "I tried to judge each application based on its own merit.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(n) giá trị, xứng đáng"
-  },
-  {
-    "id": 262,
-    "en1": "marginal",
-    "en2": "I noticed only a marginal improvement in my test scores after studying all week.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(a) nhỏ, không đáng kể"
-  },
-  {
-    "id": 263,
-    "en1": "fame",
-    "en2": "I don't seek fame, I just want to make a positive impact on the world.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(n) danh tiếng"
-  },
-  {
-    "id": 264,
-    "en1": "conventional",
-    "en2": "I prefer conventional methods of studying, like reading books and taking notes.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(a) thông thường"
-  },
-  {
-    "id": 265,
-    "en1": "curriculum",
-    "en2": "I think the school should add more art classes to the curriculum.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(n) chương trình học"
-  },
-  {
-    "id": 266,
     "en1": "precede",
     "en2": "I arrived early to precede the start of the meeting.",
     "en3": "",
@@ -2128,15 +2056,143 @@
     "vn1": "(v) đi trước, đến trước"
   },
   {
-    "id": 267,
-    "en1": "integral",
-    "en2": "I believe trust is an integral part of any strong relationship.",
+    "id": 258,
+    "en1": "platform",
+    "en2": "I use this platform to share my artwork with others around the world.",
     "en3": "",
     "en4": "",
-    "vn1": "(a) cần thiết, không thể thiếu"
+    "vn1": "(n) nền tảng"
+  },
+  {
+    "id": 259,
+    "en1": "require",
+    "en2": "I require more time to finish my homework.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) yêu cầu, đòi hỏi"
+  },
+  {
+    "id": 260,
+    "en1": "escalate",
+    "en2": "I didn't want to escalate the argument, so I stayed quiet.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) leo thang, tăng mạnh"
+  },
+  {
+    "id": 261,
+    "en1": "contrast",
+    "en2": "I can see a big contrast between city life and life in the countryside.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) tương phản"
+  },
+  {
+    "id": 262,
+    "en1": "validate",
+    "en2": "I need to validate the data before submitting the report.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) xác thực"
+  },
+  {
+    "id": 263,
+    "en1": "contrary",
+    "en2": "I heard the weather would be sunny, but the reality was quite the contrary.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a,n) trái ngược"
+  },
+  {
+    "id": 264,
+    "en1": "adulthood",
+    "en2": "I entered adulthood with big dreams and a strong desire to succeed.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) tuổi trưởng thành"
+  },
+  {
+    "id": 265,
+    "en1": "transition",
+    "en2": "I found the transition from school to university both exciting and challenging.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự chuyển tiếp"
+  },
+  {
+    "id": 266,
+    "en1": "benefit",
+    "en2": "I see a lot of benefit in practicing English every day.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n,v) lợi ích - được lợi"
+  },
+  {
+    "id": 267,
+    "en1": "justification",
+    "en2": "I need a strong justification for spending this much money on new equipment.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự biện minh, lý do chính đáng"
   },
   {
     "id": 268,
+    "en1": "legislate",
+    "en2": "I believe the government should legislate stricter environmental laws.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) lập pháp, ban hành luật"
+  },
+  {
+    "id": 269,
+    "en1": "spontaneous",
+    "en2": "I love going on spontaneous trips with my friends, without any plans.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) tự phát, ngẫu hứng"
+  },
+  {
+    "id": 270,
+    "en1": "isolate",
+    "en2": "I had to isolate myself when I got sick to avoid spreading the virus.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) cô lập, tách biệt"
+  },
+  {
+    "id": 271,
+    "en1": "yield",
+    "en2": "I hope my hard work will yield good results.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) sản xuất, mang lại"
+  },
+  {
+    "id": 272,
+    "en1": "suppress",
+    "en2": "I tried to suppress my anger during the meeting.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) đàn áp, kiềm nén"
+  },
+  {
+    "id": 273,
+    "en1": "intense",
+    "en2": "I felt intense pressure before the final exam.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) dữ dội, mãnh liệt"
+  },
+  {
+    "id": 274,
+    "en1": "sustain",
+    "en2": "I try to sustain a healthy lifestyle through regular exercise.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) duy trì, kéo dài"
+  },
+  {
+    "id": 275,
     "en1": "timber",
     "en2": "I used high-quality timber to build the shelves in my room.",
     "en3": "",
@@ -2144,79 +2200,63 @@
     "vn1": "(n) gỗ (xẻ)"
   },
   {
-    "id": 269,
-    "en1": "viable",
-    "en2": "I believe this is a viable solution to the current problem.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(a) khả thi, có thể làm được"
-  },
-  {
-    "id": 270,
-    "en1": "utilize",
-    "en2": "I try to utilize my free time to learn new skills.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(v) sử dụng, tận dụng"
-  },
-  {
-    "id": 271,
-    "en1": "implicate",
-    "en2": "I realized my actions could implicate my friends in the misunderstanding.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(v) làm dính líu, liên quan đến"
-  },
-  {
-    "id": 272,
-    "en1": "invention",
-    "en2": "I admire Thomas Edison for his invention of the light bulb.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(n) phát minh"
-  },
-  {
-    "id": 273,
-    "en1": "prospect",
-    "en2": "I am excited about the prospects of starting my own business.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(n) triển vọng, tiềm năng"
-  },
-  {
-    "id": 274,
-    "en1": "arson",
-    "en2": "I was shocked when I heard that the building was destroyed by arson.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(n) sự (kẻ) đốt phá"
-  },
-  {
-    "id": 275,
-    "en1": "exacerbate",
-    "en2": "I didn't mean to exacerbate the situation by raising my voice.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(v) làm trầm trọng thêm"
-  },
-  {
     "id": 276,
-    "en1": "inevitable",
-    "en2": "I knew it was inevitable that we would have to say goodbye someday.",
+    "en1": "predominantly",
+    "en2": "I eat meals that are predominantly vegetables and fruits.",
     "en3": "",
     "en4": "",
-    "vn1": "(a) không thể tránh khỏi"
+    "vn1": "(av) phần lớn, chủ yếu"
   },
   {
     "id": 277,
-    "en1": "prevalence",
-    "en2": "I was surprised by the high prevalence of smartphone use among children.",
+    "en1": "prominent",
+    "en2": "I was honored to meet a prominent scientist at the conference.",
     "en3": "",
     "en4": "",
-    "vn1": "(n) sự phổ biến, sự thịnh hành"
+    "vn1": "(v) nổi bật, quan trọng"
   },
   {
     "id": 278,
+    "en1": "substitute",
+    "en2": "I had to substitute sugar with honey in the recipe.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v,n) thay thế"
+  },
+  {
+    "id": 279,
+    "en1": "generate",
+    "en2": "I try to generate new ideas for my writing every day.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) tạo ra"
+  },
+  {
+    "id": 280,
+    "en1": "fame",
+    "en2": "I don't seek fame, I just want to make a positive impact on the world.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) danh tiếng"
+  },
+  {
+    "id": 281,
+    "en1": "consequence",
+    "en2": "I understand the consequence of my actions and take full responsibility.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) hậu quả"
+  },
+  {
+    "id": 282,
+    "en1": "imply",
+    "en2": "I didn't mean to imply that you were wrong.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) ngụ ý, ám chỉ"
+  },
+  {
+    "id": 283,
     "en1": "cosmos",
     "en2": "I often look at the night sky and wonder about the mysteries of the cosmos.",
     "en3": "",
@@ -2224,52 +2264,12 @@
     "vn1": "(n) vũ trụ"
   },
   {
-    "id": 279,
-    "en1": "acquire",
-    "en2": "I hope to acquire new skills by attending this workshop.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(v) đạt được, thu được"
-  },
-  {
-    "id": 280,
-    "en1": "inherent",
-    "en2": "I believe the challenges in life are inherent, and we must learn to overcome them.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(a) vốn có"
-  },
-  {
-    "id": 281,
-    "en1": "widespread",
-    "en2": "I was surprised by the widespread support for the new policy.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(a) lan rộng, phổ biến"
-  },
-  {
-    "id": 282,
-    "en1": "deduce",
-    "en2": "I can deduce from his tone that he was not pleased with the results.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(v) suy luận, suy ra"
-  },
-  {
-    "id": 283,
-    "en1": "participate",
-    "en2": "I participate in group discussions to improve my communication skills.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(v) tham gia"
-  },
-  {
     "id": 284,
-    "en1": "evaluate",
-    "en2": "I need to evaluate all the options before making a decision.",
+    "en1": "helpless",
+    "en2": "I felt helpless when I saw the injured bird on the ground.",
     "en3": "",
     "en4": "",
-    "vn1": "(v) đánh giá"
+    "vn1": "(a) bất lực, không thể tự lo liệu"
   },
   {
     "id": 285,
@@ -2281,62 +2281,6 @@
   },
   {
     "id": 286,
-    "en1": "irreversible",
-    "en2": "I realized too late that my decision had caused irreversible damage.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(a) không thể đảo ngược"
-  },
-  {
-    "id": 287,
-    "en1": "scrutinize",
-    "en2": "I always scrutinize the details before making an important decision.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(v) xem xét kỹ lưỡng"
-  },
-  {
-    "id": 288,
-    "en1": "legislate",
-    "en2": "I believe the government should legislate stricter environmental laws.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(v) lập pháp, ban hành luật"
-  },
-  {
-    "id": 289,
-    "en1": "authority",
-    "en2": "I always respect the authority of my manager at work.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(n) quyền lực"
-  },
-  {
-    "id": 290,
-    "en1": "terminate",
-    "en2": "I decided to terminate the contract due to poor service.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(v) chấm dứt, kết thúc"
-  },
-  {
-    "id": 291,
-    "en1": "fluctuate",
-    "en2": "I noticed that the temperature tends to fluctuate during the day.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(v) dao động, thay đổi liên tục"
-  },
-  {
-    "id": 292,
-    "en1": "trigger",
-    "en2": "I accidentally triggered the alarm when I opened the door.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(v) kích hoạt, gây ra"
-  },
-  {
-    "id": 293,
     "en1": "phrasal verbs",
     "en2": "I find phrasal verbs hard to remember, but I practice them every day.",
     "en3": "",
@@ -2344,11 +2288,67 @@
     "vn1": "(n) cụm động từ"
   },
   {
-    "id": 294,
-    "en1": "diminish",
-    "en2": "I try not to let negative comments diminish my confidence.",
+    "id": 287,
+    "en1": "preserve",
+    "en2": "I try to preserve old family photos by storing them carefully.",
     "en3": "",
     "en4": "",
-    "vn1": "(v) giảm bớt, làm suy giảm"
+    "vn1": "(v) bảo tồn, giữ gìn"
+  },
+  {
+    "id": 288,
+    "en1": "consume",
+    "en2": "I try to consume less sugar for the sake of my health.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) tiêu thụ"
+  },
+  {
+    "id": 289,
+    "en1": "alleviate",
+    "en2": "I took some medicine to alleviate the pain in my back.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) làm giảm bớt, xoa dịu"
+  },
+  {
+    "id": 290,
+    "en1": "indicate",
+    "en2": "I would like to indicate a few areas where improvements are needed.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) chỉ ra, cho thấy"
+  },
+  {
+    "id": 291,
+    "en1": "intervene",
+    "en2": "I had to intervene when the argument between them got too heated.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) can thiệp, xen vào"
+  },
+  {
+    "id": 292,
+    "en1": "preclude",
+    "en2": "I arrived early to preclude any chance of being late.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) ngăn ngừa, ngăn chặn"
+  },
+  {
+    "id": 293,
+    "en1": "transmit",
+    "en2": "I used email to transmit the documents to my supervisor.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) truyền, phát"
+  },
+  {
+    "id": 294,
+    "en1": "welfare",
+    "en2": "I support programs that improve the welfare of disadvantaged children.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) phúc lợi"
   }
 ]
