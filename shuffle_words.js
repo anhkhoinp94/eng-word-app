@@ -30,7 +30,9 @@ function shuffleItems(items) {
 // Main process
 function main() {
   const originalItems = readJSON('src\\assets\\det\\words.json');
-  console.log(`We have totally ${originalItems.length} words.`);
+  let items = originalItems;
+  items.shift();
+  console.log(`We have totally ${items.length} words.`);
 
   // Check duplicated
   const duplicates = originalItems
@@ -56,7 +58,7 @@ function main() {
   }
 
   // Shuffle words
-  let shuffledItems = shuffleItems(originalItems);
+  let shuffledItems = shuffleItems(items);
   const randomNumber = Math.floor(Math.random() * (100 - 5 + 1)) + 5;
   for (let i = 0; i < randomNumber; i++) {
     console.log(`the ${i} time`);

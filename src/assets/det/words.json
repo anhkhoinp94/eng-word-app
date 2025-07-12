@@ -1,6 +1,22 @@
 [
   {
     "id": 0,
+    "en1": "",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "() "
+  },
+  {
+    "id": 0,
+    "en1": "paperback",
+    "en2": "I bought the paperback version because it's cheaper and easier to carry.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sách bìa mềm"
+  },
+  {
+    "id": 0,
     "en1": "fraction",
     "en2": "I only finished a fraction of the work today, so I need to do more tomorrow.",
     "en3": "",
@@ -2422,5 +2438,109 @@
     "en3": "",
     "en4": "",
     "vn1": "(a) tạm thời, dự kiến, chưa chắc chắn"
+  },
+  {
+    "id": 0,
+    "en1": "agriculture",
+    "en2": "I studied agriculture because I want to help farmers grow food more efficiently.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) nông nghiệp"
+  },
+  {
+    "id": 0,
+    "en1": "biodiversity",
+    "en2": "I believe protecting biodiversity is essential for a healthy planet.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) đa dạng sinh học"
+  },
+  {
+    "id": 0,
+    "en1": "action-packed",
+    "en2": "I watched an action-packed movie last night, and it was so exciting!",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) đầy hành động, kịch tính"
+  },
+  {
+    "id": 0,
+    "en1": "addictive",
+    "en2": "I try to avoid sugary drinks because they can be addictive.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) gây nghiện"
+  },
+  {
+    "id": 0,
+    "en1": "creepy",
+    "en2": "I felt creepy when I heard footsteps behind me in the dark.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) rùng rợn, sởn gai óc"
+  },
+  {
+    "id": 0,
+    "en1": "dreary",
+    "en2": "I stayed inside all day because of the dreary weather.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) ảm đạm, buồn tẻ"
+  },
+  {
+    "id": 0,
+    "en1": "entertaining",
+    "en2": "I always try to be entertaining when I tell stories to my friends.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) vui nhộn, thú vị, giải trí"
+  },
+  {
+    "id": 0,
+    "en1": "flick through",
+    "en2": "I flicked through the magazine while waiting at the dentist's office.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) lướt qua, xem qua nhanh"
+  },
+  {
+    "id": 0,
+    "en1": "futuristic",
+    "en2": "I love the futuristic design of this electric car.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) thuộc về tương lai, viễn tưởng"
+  },
+  {
+    "id": 0,
+    "en1": "hardcover",
+    "en2": "I prefer hardcover books because they last longer.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n,a) bìa cứng"
+  },
+  {
+    "id": 0,
+    "en1": "heartbreaking",
+    "en2": "I watched a heartbreaking documentary about abandoned children.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) đau lòng, tan nát cõi lòng"
+  },
+  {
+    "id": 0,
+    "en1": "inspirational",
+    "en2": "I find her story truly inspirational, it motivates me to never give up.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) đầy cảm hứng"
+  },
+  {
+    "id": 0,
+    "en1": "page-turner",
+    "en2": "I stayed up all night because the novel was such a page-turner.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) cuốn sách hấp dẫn, khó dừng lại"
   }
 ]
