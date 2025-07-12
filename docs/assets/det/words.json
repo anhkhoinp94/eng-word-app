@@ -9,6 +9,54 @@
   },
   {
     "id": 0,
+    "en1": "thought-provoking",
+    "en2": "I just finished a thought-provoking book about climate change.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) kích thích tư duy"
+  },
+  {
+    "id": 0,
+    "en1": "tear-jerking",
+    "en2": "I couldn't stop crying after watching that tear-jerking movie.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) bị lụy, rất cảm động"
+  },
+  {
+    "id": 0,
+    "en1": "spell out",
+    "en2": "I had to spell out the instructions so that everyone understood.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) giải thích kỹ"
+  },
+  {
+    "id": 0,
+    "en1": "sci-fi",
+    "en2": "I love watching sci-fi movies because they spark my imagination.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) khoa học viễn tưởng"
+  },
+  {
+    "id": 0,
+    "en1": "release",
+    "en2": "I can't wait to watch the movie when they release it next week.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) phát hành, giải phóng, thả ra"
+  },
+  {
+    "id": 0,
+    "en1": "peruse",
+    "en2": "I took a moment to peruse the report before the meeting.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) nghiên cứu kỹ, xem xét cẩn thận"
+  },
+  {
+    "id": 0,
     "en1": "paperback",
     "en2": "I bought the paperback version because it's cheaper and easier to carry.",
     "en3": "",
