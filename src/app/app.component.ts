@@ -193,7 +193,7 @@ export class AppComponent {
   };
 
   speakSentenceCount = 0;
-  speakSentenceCountMax = 6;
+  speakSentenceCountMax = 5;
   async speakSentence() {
     this.speakSentenceCount += 1;
     var utterance = new SpeechSynthesisUtterance(this.enWord2);
