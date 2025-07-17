@@ -9,6 +9,62 @@
   },
   {
     "id": 0,
+    "en1": "embrace",
+    "en2": "I try to embrace new challenges as opportunities to grow.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) ôm / chấp nhận, đón nhận"
+  },
+  {
+    "id": 0,
+    "en1": "indispensable",
+    "en2": "I consider my phone indispensable for both work and daily life.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) rất cần thiết, không thể thiếu"
+  },
+  {
+    "id": 0,
+    "en1": "oppress",
+    "en2": "I believe it's wrong to oppress people because of their beliefs.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) đàn áp, áp bức"
+  },
+  {
+    "id": 0,
+    "en1": "prohibit",
+    "en2": "I think we should prohibit smoking in all public places.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) cấm, ngăn cấm"
+  },
+  {
+    "id": 0,
+    "en1": "thrive",
+    "en2": "I thrive in environments where I can be creative and work independently.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) phát triển mạnh, thịnh vượng"
+  },
+  {
+    "id": 0,
+    "en1": "violation",
+    "en2": "I reported the company for a serious violation of safety regulations.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự vi phạm"
+  },
+  {
+    "id": 0,
+    "en1": "infringe",
+    "en2": "I try not to infringe on other people's privacy.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) vi phạm, xâm phạm"
+  },
+  {
+    "id": 0,
     "en1": "ambivalence",
     "en2": "I have ambivalence about quitting my job because I like the people but not the work.",
     "en3": "",
@@ -1074,7 +1130,7 @@
   {
     "id": 0,
     "en1": "undermine",
-    "en2": "I worry that negative comments might undermine our team’s confidence.",
+    "en2": "I worry that negative comments might undermine our team's confidence.",
     "en3": "",
     "en4": "",
     "vn1": "(v) làm suy yếu, làm giảm uy tín"
