@@ -33,25 +33,25 @@ function main() {
   let words1 = readJSON('src\\assets\\det\\words1.json');
   words1.forEach(i => {
     i.speakSentenceCountMax = 2;
-    i.speakWordCountMax = 2;
+    i.speakWordCountMax = 1;
   });
 
   let words2 = readJSON('src\\assets\\det\\words2.json');
   words2.forEach(i => {
     i.speakSentenceCountMax = 3;
-    i.speakWordCountMax = 3;
+    i.speakWordCountMax = 1;
   });
 
   let words3 = readJSON('src\\assets\\det\\words3.json');
   words3.forEach(i => {
     i.speakSentenceCountMax = 4;
-    i.speakWordCountMax = 4;
+    i.speakWordCountMax = 1;
   });
 
   let words = readJSON('src\\assets\\det\\words.json');
   words.forEach(i => {
-    i.speakSentenceCountMax = 5;
-    i.speakWordCountMax = 5;
+    i.speakSentenceCountMax = 4;
+    i.speakWordCountMax = 1;
   });
   words.shift();
 
