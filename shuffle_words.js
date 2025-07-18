@@ -1,4 +1,5 @@
 const fs = require('fs');
+const { concat } = require('rxjs');
 
 // Read JSON from file and return an array of items
 function readJSON(filename) {
@@ -29,13 +30,36 @@ function shuffleItems(items) {
 
 // Main process
 function main() {
-  const originalItems = readJSON('src\\assets\\det\\words.json');
-  let items = originalItems;
-  items.shift();
+  let words1 = readJSON('src\\assets\\det\\words1.json');
+  words1.forEach(i => {
+    i.speakSentenceCountMax = 2;
+    i.speakWordCountMax = 2;
+  });
+
+  let words2 = readJSON('src\\assets\\det\\words2.json');
+  words2.forEach(i => {
+    i.speakSentenceCountMax = 3;
+    i.speakWordCountMax = 3;
+  });
+
+  let words3 = readJSON('src\\assets\\det\\words3.json');
+  words3.forEach(i => {
+    i.speakSentenceCountMax = 4;
+    i.speakWordCountMax = 4;
+  });
+
+  let words = readJSON('src\\assets\\det\\words.json');
+  words.forEach(i => {
+    i.speakSentenceCountMax = 5;
+    i.speakWordCountMax = 5;
+  });
+  words.shift();
+
+  let items = words.concat(words1, words2, words3);
   console.log(`We have totally ${items.length} words.`);
 
   // Check duplicated
-  const duplicates = originalItems
+  const duplicates = items
     .map(item => item.en1)
     .filter((word, index, self) => self.indexOf(word) !== index);
 
@@ -46,7 +70,7 @@ function main() {
   }
 
   // Check sample sentences
-  const notIncluded = originalItems.filter(item => {
+  const notIncluded = items.filter(item => {
     const word = item.en1.toLowerCase();
     const sentence = item.en2.toLowerCase();
     return !sentence.includes(word);

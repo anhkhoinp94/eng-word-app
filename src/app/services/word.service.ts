@@ -9,6 +9,8 @@ export interface DBWord {
   en3: string;
   en4: string;
   vn1: string;
+  speakSentenceCountMax: number;
+  speakWordCountMax: number;
 }
 
 @Injectable({
@@ -17,7 +19,7 @@ export interface DBWord {
 export class WordService {
   private apiUrl = 'http://localhost:8080/words';
 
-  constructor(private http: HttpClient) {}
+  constructor(private http: HttpClient) { }
 
   getWords(): Observable<DBWord[]> {
     return this.http.get<DBWord[]>(this.apiUrl);

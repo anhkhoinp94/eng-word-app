@@ -11,6 +11,8 @@ interface Word {
   en3: string;
   en4: string;
   vn1: string;
+  speakSentenceCountMax: number;
+  speakWordCountMax: number;
 }
 
 @Component({
@@ -47,6 +49,8 @@ export class AppComponent {
     en3: '',
     en4: '',
     vn1: '',
+    speakSentenceCountMax: 0,
+    speakWordCountMax: 0,
   };
 
   // speak
@@ -90,6 +94,8 @@ export class AppComponent {
       this.enWord2 = this.tempWord.removedElement.en2;
       this.enWord3 = this.tempWord.removedElement.en3;
       this.enWord4 = this.tempWord.removedElement.en4;
+      this.speakSentenceCountMax = this.tempWord.removedElement.speakSentenceCountMax;
+      this.speakWordCountMax = this.tempWord.removedElement.speakWordCountMax;
     } else {
       this.selectedWord = {
         id: 0,
@@ -98,6 +104,8 @@ export class AppComponent {
         en3: '',
         en4: '',
         vn1: '',
+        speakSentenceCountMax: 0,
+        speakWordCountMax: 0,
       };
       this.vnWord1 = "";
       this.enWord1 = "";
