@@ -9,6 +9,46 @@
   },
   {
     "id": 0,
+    "en1": "verify",
+    "en2": "I need to verify this information before I send the report.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) xác minh, kiểm chứng"
+  },
+  {
+    "id": 0,
+    "en1": "reinstate",
+    "en2": "I hope they will reinstate me after the investigation is over.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) phục hồi, khôi phục lại"
+  },
+  {
+    "id": 0,
+    "en1": "induce",
+    "en2": "I think lack of sleep can induce headaches.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) gây ra, khiến cho / thuyết phục"
+  },
+  {
+    "id": 0,
+    "en1": "presume",
+    "en2": "I presume you've finished your homework already.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) cho là, giả định"
+  },
+  {
+    "id": 0,
+    "en1": "abuse",
+    "en2": "I think some people abuse their power for personal gain.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) lạm dụng, ngược đãi"
+  },
+  {
+    "id": 0,
     "en1": "comprehend",
     "en2": "I find it hard to comprehend how some people can be so cruel.",
     "en3": "",
