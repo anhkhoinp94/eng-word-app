@@ -38,13 +38,13 @@ function main() {
 
   let words2 = readJSON('src\\assets\\det\\words2.json');
   words2.forEach(i => {
-    i.speakSentenceCountMax = 3;
+    i.speakSentenceCountMax = 2;
     i.speakWordCountMax = 1;
   });
 
   let words3 = readJSON('src\\assets\\det\\words3.json');
   words3.forEach(i => {
-    i.speakSentenceCountMax = 4;
+    i.speakSentenceCountMax = 3;
     i.speakWordCountMax = 1;
   });
 
