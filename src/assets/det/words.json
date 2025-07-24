@@ -9,6 +9,62 @@
   },
   {
     "id": 0,
+    "en1": "discard",
+    "en2": "I decided to discard all the old clothes I no longer wear.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) loại bỏ, vứt bỏ"
+  },
+  {
+    "id": 0,
+    "en1": "supplement",
+    "en2": "I take vitamins to supplement my diet.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) bổ sung, thêm vào"
+  },
+  {
+    "id": 0,
+    "en1": "endorse",
+    "en2": "I fully endorse his proposal because it's practical and fair.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) ủng hộ, tán thành / quảng bá"
+  },
+  {
+    "id": 0,
+    "en1": "assert",
+    "en2": "I had to assert myself during the meeting to make sure my ideas were heard.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) khẳng định, quả quyết"
+  },
+  {
+    "id": 0,
+    "en1": "commodify",
+    "en2": "I don't like how they try to commodify every aspect of our culture.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) thương mại hóa"
+  },
+  {
+    "id": 0,
+    "en1": "harsh",
+    "en2": "I didn't mean to be harsh, I just wanted to be honest.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) khắc nghiệt, gay gắt"
+  },
+  {
+    "id": 0,
+    "en1": "concede",
+    "en2": "I concede that I may have been too harsh in my judgment.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) thừa nhận, nhượng bộ"
+  },
+  {
+    "id": 0,
     "en1": "verify",
     "en2": "I need to verify this information before I send the report.",
     "en3": "",
