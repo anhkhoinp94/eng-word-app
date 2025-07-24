@@ -9,6 +9,54 @@
   },
   {
     "id": 0,
+    "en1": "comprehend",
+    "en2": "I find it hard to comprehend how some people can be so cruel.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) hiểu, lĩnh hội"
+  },
+  {
+    "id": 0,
+    "en1": "invoke",
+    "en2": "I had to invoke my right to remain silent during the questioning.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) viện dẫn, dẫn ra / cầu khẩn"
+  },
+  {
+    "id": 0,
+    "en1": "encounter",
+    "en2": "I often encounter problems when trying to connect to the internet.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) gặp phải, chạm trán"
+  },
+  {
+    "id": 0,
+    "en1": "dominate",
+    "en2": "I don't like it when one person tries to dominate the whole conversation.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) thống trị, lấn át"
+  },
+  {
+    "id": 0,
+    "en1": "deviate",
+    "en2": "I try not to deviate from my study schedule during exam week.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) chệch hướng, lệch khỏi"
+  },
+  {
+    "id": 0,
+    "en1": "comply",
+    "en2": "I always try to comply with the safety rules at work.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) tuân theo, làm theo"
+  },
+  {
+    "id": 0,
     "en1": "redundancy",
     "en2": "I lost my job due to redundancy when the company restructured.",
     "en3": "",
