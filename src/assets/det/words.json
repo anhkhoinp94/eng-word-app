@@ -9,6 +9,62 @@
   },
   {
     "id": 0,
+    "en1": "drainage",
+    "en2": "I think the street floods so often because the drainage system is poor.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) hệ thống thoát nước, sự thoát nước"
+  },
+  {
+    "id": 0,
+    "en1": "workload",
+    "en2": "I'm struggling to manage my workload this week because of multiple deadlines.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) khối lượng công việc"
+  },
+  {
+    "id": 0,
+    "en1": "intensive",
+    "en2": "I just completed an intensive English course to prepare for the IELTS exam.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) tập trung, chuyên sâu"
+  },
+  {
+    "id": 0,
+    "en1": "goof around",
+    "en2": "I didn't finish the project because I spent too much time goofing around.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) đùa giỡn"
+  },
+  {
+    "id": 0,
+    "en1": "fall behind with",
+    "en2": "I fell behind with my assignments after being sick for a week.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) tụt lại phía sau"
+  },
+  {
+    "id": 0,
+    "en1": "eager beaver",
+    "en2": "I used to be such an eager beaver at my first job, always arriving early and volunteering for extra tasks.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) người chăm chỉ, nhiệt huyết"
+  },
+  {
+    "id": 0,
+    "en1": "bookworm",
+    "en2": "I've always been a bookworm. I can spend hours lost in a good novel.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) mọt sách"
+  },
+  {
+    "id": 0,
     "en1": "alter",
     "en2": "I had to alter my plans because of the bad weather.",
     "en3": "",

@@ -79,7 +79,11 @@ export class AppComponent {
     this.voices = speechSynthesis.getVoices().filter(x => x.lang === "en-US");
     setTimeout(() => {
       this.voices = speechSynthesis.getVoices().filter(x => x.lang === "en-US");
-      this.selectedVoice = this.voices[0];
+      if (this.voices.length >= 29) {
+        this.selectedVoice = this.voices[28];
+      } else {
+        this.selectedVoice = this.voices[0];
+      }
     }, 500);
   };
 
