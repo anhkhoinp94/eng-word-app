@@ -9,19 +9,59 @@
   },
   {
     "id": 0,
-    "en1": "",
-    "en2": "",
+    "en1": "ravenous",
+    "en2": "I was ravenous after skipping lunch and working all day.",
     "en3": "",
     "en4": "",
-    "vn1": "() "
+    "vn1": "(a) đói cồn cào, đói ngấu nghiến"
   },
   {
     "id": 0,
-    "en1": "",
-    "en2": "",
+    "en1": "overeat",
+    "en2": "I always feel sleepy after I overeat at big family dinners.",
     "en3": "",
     "en4": "",
-    "vn1": "() "
+    "vn1": "(v) ăn quá nhiều"
+  },
+  {
+    "id": 0,
+    "en1": "nutritious",
+    "en2": "I usually start my day with a nutritious breakfast.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) giàu dinh dưỡng, bổ dưỡng"
+  },
+  {
+    "id": 0,
+    "en1": "nutrient",
+    "en2": "I always try to eat vegetables because they are full of important nutrients.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) chất dinh dưỡng"
+  },
+  {
+    "id": 0,
+    "en1": "mouth-watering",
+    "en2": "I couldn't resist the mouth-watering smell of freshly baked bread.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) ngon chảy nước miếng"
+  },
+  {
+    "id": 0,
+    "en1": "full-up",
+    "en2": "I can't eat another bite. I'm completely full-up!",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) no căng, đầy bụng"
+  },
+  {
+    "id": 0,
+    "en1": "flavorful",
+    "en2": "I really enjoyed the soup because it was so flavorful.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) đậm đà, đầy hương vị"
   },
   {
     "id": 0,
