@@ -9,6 +9,118 @@
   },
   {
     "id": 0,
+    "en1": "",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "() "
+  },
+  {
+    "id": 0,
+    "en1": "",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "() "
+  },
+  {
+    "id": 0,
+    "en1": "cuisine",
+    "en2": "I love exploring different types of cuisine when I travel.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) ẩm thực, cách nấu ăn"
+  },
+  {
+    "id": 0,
+    "en1": "additive",
+    "en2": "I try to avoid foods with too many artificial additives.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n,a) chất phụ gia / có tính bổ sung"
+  },
+  {
+    "id": 0,
+    "en1": "vulnerable",
+    "en2": "I feel vulnerable when I talk about my personal problems.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) dễ bị tổn thương, ảnh hưởng"
+  },
+  {
+    "id": 0,
+    "en1": "pollutant",
+    "en2": "I read that factories release a lot of harmful pollutants into the air.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) chất gây ô nhiễm"
+  },
+  {
+    "id": 0,
+    "en1": "poacher",
+    "en2": "I think poachers should face stricter punishment for harming endangered animals.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) kẻ săn trộm"
+  },
+  {
+    "id": 0,
+    "en1": "poach",
+    "en2": "I believe we must take action against those who poach endangered animals.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) săn trộm / luộc trứng"
+  },
+  {
+    "id": 0,
+    "en1": "measure",
+    "en2": "The government introduced new measures to reduce pollution.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n,v) biện pháp / đo lường"
+  },
+  {
+    "id": 0,
+    "en1": "litter",
+    "en2": "I always remind my friends not to litter in the park.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n,v) rác, xả rác"
+  },
+  {
+    "id": 0,
+    "en1": "leftover",
+    "en2": "I had some leftovers from dinner, so I brought them for lunch.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n,a) đồ ăn thừa, còn sót lại"
+  },
+  {
+    "id": 0,
+    "en1": "grave",
+    "en2": "I'm deeply concerned because the doctor said it's a grave condition.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) nghiêm trọng, trầm trọng"
+  },
+  {
+    "id": 0,
+    "en1": "breathtaking",
+    "en2": "I stood at the top of the mountain and admired the breathtaking view.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) ngoạn mục, đẹp nghẹt thở"
+  },
+  {
+    "id": 0,
+    "en1": "glacier",
+    "en2": "I saw a massive glacier during my trip to Alaska, and it was breathtaking.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sông băng, băng hà"
+  },
+  {
+    "id": 0,
     "en1": "drainage",
     "en2": "I think the street floods so often because the drainage system is poor.",
     "en3": "",
