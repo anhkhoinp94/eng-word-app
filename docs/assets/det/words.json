@@ -9,6 +9,102 @@
   },
   {
     "id": 0,
+    "en1": "appreciate",
+    "en2": "I really appreciate your help with the project.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) trân trọng, đánh giá cao"
+  },
+  {
+    "id": 0,
+    "en1": "subtle",
+    "en2": "I noticed a subtle change in her attitude after the meeting.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) tinh tế, khéo léo"
+  },
+  {
+    "id": 0,
+    "en1": "harmony",
+    "en2": "I believe that living in harmony with others is essential for a happy life.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự hòa hợp"
+  },
+  {
+    "id": 0,
+    "en1": "convention",
+    "en2": "I believe following social conventions helps maintain harmony in society.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) quy ước, tục lệ / hội nghị"
+  },
+  {
+    "id": 0,
+    "en1": "salient",
+    "en2": "I highlighted the salient points of the report during the meeting.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) nổi bật, đáng chú ý"
+  },
+  {
+    "id": 0,
+    "en1": "unsettling",
+    "en2": "I found the news about the sudden changes in the company quite unsettling.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) khó chịu"
+  },
+  {
+    "id": 0,
+    "en1": "dissonant",
+    "en2": "I found the dissonant chords in the song quite unsettling.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) không hòa hợp"
+  },
+  {
+    "id": 0,
+    "en1": "foreshadow",
+    "en2": "I think the dark music in that scene foreshadows something terrible is about to happen.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) báo trước, dự báo"
+  },
+  {
+    "id": 0,
+    "en1": "ubiquitous",
+    "en2": "I find smartphones so ubiquitous these days that it's hard to imagine life without them.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) phổ biến khắp nơi"
+  },
+  {
+    "id": 0,
+    "en1": "nuance",
+    "en2": "I appreciate the nuance in her voice that shows she's not really happy.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sắc thái"
+  },
+  {
+    "id": 0,
+    "en1": "ominous",
+    "en2": "I felt uneasy as I walked through the forest under the ominous clouds.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) điềm báo, đáng lo ngại"
+  },
+  {
+    "id": 0,
+    "en1": "atmosphere",
+    "en2": "I loved the cozy atmosphere of the little café.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) không khí, bầu không khí"
+  },
+  {
+    "id": 0,
     "en1": "realism",
     "en2": "I appreciate the realism in that novel, it shows life exactly as it is.",
     "en3": "",
