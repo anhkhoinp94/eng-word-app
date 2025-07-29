@@ -9,6 +9,110 @@
   },
   {
     "id": 0,
+    "en1": "brave",
+    "en2": "I think she was very brave to speak up in front of the whole class.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) dũng cảm, can đảm"
+  },
+  {
+    "id": 0,
+    "en1": "portray",
+    "en2": "I tried to portray the main character as brave and kind.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) miêu tả, khắc họa"
+  },
+  {
+    "id": 0,
+    "en1": "sculpture",
+    "en2": "I was amazed by the detail in the sculpture at the museum.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) tác phẩm điêu khắc"
+  },
+  {
+    "id": 0,
+    "en1": "physiognomy",
+    "en2": "I studied the physiognomy of ancient sculptures to understand how emotions were portrayed.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) diện mạo, tướng mạo"
+  },
+  {
+    "id": 0,
+    "en1": "texture",
+    "en2": "I love this sweater because it has such a soft texture.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) kết cấu"
+  },
+  {
+    "id": 0,
+    "en1": "motivation",
+    "en2": "I need some motivation to finish this assignment on time.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) động lực"
+  },
+  {
+    "id": 0,
+    "en1": "asynchronous",
+    "en2": "I enjoy asynchronous learning because I can study at my own pace.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) không đồng thời"
+  },
+  {
+    "id": 0,
+    "en1": "synchronous",
+    "en2": "I prefer synchronous online classes because I can interact with the teacher in real time.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) đồng thời, đồng bộ"
+  },
+  {
+    "id": 0,
+    "en1": "ingredient",
+    "en2": "I forgot to buy one important ingredient for the cake.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) thành phần, nguyên liệu"
+  },
+  {
+    "id": 0,
+    "en1": "responsibility",
+    "en2": "I take full responsibility for the mistake and will make sure it doesn't happen again.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) trách nhiệm"
+  },
+  {
+    "id": 0,
+    "en1": "ultimately",
+    "en2": "I ultimately decided to follow my passion instead of choosing a safer career path.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adv) cuối cùng, sau cùng"
+  },
+  {
+    "id": 0,
+    "en1": "underestimate",
+    "en2": "I think they underestimated how difficult the project would be.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) đánh giá thấp"
+  },
+  {
+    "id": 0,
+    "en1": "essentially",
+    "en2": "I essentially agree with your point, though I have a few minor concerns.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adv) về cơ bản, bản chất"
+  },
+  {
+    "id": 0,
     "en1": "cumulative",
     "en2": "I've learned that small daily efforts can have a powerful cumulative effect over time.",
     "en3": "",
