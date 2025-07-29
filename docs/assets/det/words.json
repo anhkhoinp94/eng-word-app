@@ -9,6 +9,134 @@
   },
   {
     "id": 0,
+    "en1": "cumulative",
+    "en2": "I've learned that small daily efforts can have a powerful cumulative effect over time.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) tích lũy, dồn lại"
+  },
+  {
+    "id": 0,
+    "en1": "scrape",
+    "en2": "I had to scrape the ice off my car's windshield this morning.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v,n) làm xước / vết xước"
+  },
+  {
+    "id": 0,
+    "en1": "derelict",
+    "en2": "I walked past a derelict building that looked like it hadn't been touched in years.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) bị bỏ hoang, vô chủ, xuống cấp"
+  },
+  {
+    "id": 0,
+    "en1": "annexation",
+    "en2": "I studied the history of the annexation of smaller regions by powerful empires.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự sáp nhập, thôn tính"
+  },
+  {
+    "id": 0,
+    "en1": "saturation",
+    "en2": "I think the smartphone market has reached saturation; there's little room for new brands.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự bão hòa / đậm, thấm đẫm"
+  },
+  {
+    "id": 0,
+    "en1": "imperative",
+    "en2": "I believe it's imperative that we act now to address climate change.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) cấp bách, rất quan trọng"
+  },
+  {
+    "id": 0,
+    "en1": "enact",
+    "en2": "I think the government should enact stronger laws to protect the environment.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) ban hành luật"
+  },
+  {
+    "id": 0,
+    "en1": "federal",
+    "en2": "I applied for a job with the federal government last month.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) thuộc liên bang"
+  },
+  {
+    "id": 0,
+    "en1": "ethnic",
+    "en2": "I enjoy learning about different ethnic traditions around the world.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) thuộc về dân tộc, chủng tộc"
+  },
+  {
+    "id": 0,
+    "en1": "winkle",
+    "en2": "I managed to winkle the old photo out from the back of the drawer.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) lôi ra, moi ra"
+  },
+  {
+    "id": 0,
+    "en1": "adhere",
+    "en2": "I always try to adhere to the rules, even when no one is watching.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) tuân thủ / dính chặt vào"
+  },
+  {
+    "id": 0,
+    "en1": "conceal",
+    "en2": "I tried to conceal my disappointment after hearing the bad news.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) che giấu, giấu kín"
+  },
+  {
+    "id": 0,
+    "en1": "betoken",
+    "en2": "I believe that dark clouds betoken an approaching storm.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) biểu thị, báo hiệu, là dấu hiệu của"
+  },
+  {
+    "id": 0,
+    "en1": "accomplish",
+    "en2": "I felt proud when I finally accomplished all my goals for the year.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) hoàn thành, đạt được"
+  },
+  {
+    "id": 0,
+    "en1": "erect",
+    "en2": "I helped my neighbors erect a tent for the outdoor party.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) dựng lên, xây dựng"
+  },
+  {
+    "id": 0,
+    "en1": "cemetery",
+    "en2": "I visited my grandfather's grave at the cemetery last weekend.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) nghĩa trang, nghĩa địa"
+  },
+  {
+    "id": 0,
     "en1": "well-matched",
     "en2": "I think they are a well-matched couple with similar goals and values.",
     "en3": "",
