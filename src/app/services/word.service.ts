@@ -11,6 +11,7 @@ export interface DBWord {
   vn1: string;
   speakSentenceCountMax: number;
   speakWordCountMax: number;
+  page: number;
 }
 
 @Injectable({
