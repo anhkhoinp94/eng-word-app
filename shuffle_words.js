@@ -32,36 +32,42 @@ function shuffleItems(items) {
 function main() {
   let words1 = readJSON('src\\assets\\det\\words1.json');
   words1.forEach(i => {
-    i.speakSentenceCountMax = 2;
+    i.speakSentenceCountMax = 1;
     i.speakWordCountMax = 1;
   });
 
   let words2 = readJSON('src\\assets\\det\\words2.json');
   words2.forEach(i => {
-    i.speakSentenceCountMax = 2;
+    i.speakSentenceCountMax = 1;
     i.speakWordCountMax = 1;
   });
 
   let words3 = readJSON('src\\assets\\det\\words3.json');
   words3.forEach(i => {
-    i.speakSentenceCountMax = 3;
+    i.speakSentenceCountMax = 2;
     i.speakWordCountMax = 1;
   });
 
   let words4 = readJSON('src\\assets\\det\\words4.json');
   words4.forEach(i => {
+    i.speakSentenceCountMax = 2;
+    i.speakWordCountMax = 1;
+  });
+
+  let words5 = readJSON('src\\assets\\det\\words5.json');
+  words5.forEach(i => {
     i.speakSentenceCountMax = 3;
     i.speakWordCountMax = 1;
   });
 
   let words = readJSON('src\\assets\\det\\words.json');
   words.forEach(i => {
-    i.speakSentenceCountMax = 4;
+    i.speakSentenceCountMax = 3;
     i.speakWordCountMax = 1;
   });
   words.shift();
 
-  let items = words.concat(words1, words2, words3, words4);
+  let items = words.concat(words1, words2, words3, words4, words5);
   console.log(`We have totally ${items.length} words.`);
 
   // Check duplicated
