@@ -24,9 +24,6 @@ export class AppComponent {
   showEn = true;
   showVN = false;
   no = 1;
-  id = 1;
-  minId = 0;
-  maxId = ielts.length - 1;
   vnWord1 = '';
   enWord1 = '';
   enWord2 = '';
@@ -36,10 +33,8 @@ export class AppComponent {
   words: Word[] = [];
   countSawWords = 0;
   tempWord: any;
-  countMax = 3;
-  count4Speaking = 3;
   deployT = deployTime.time;
-  isAuto = true;
+  isAuto = false;
   timeSleep = 1000;
 
   selectedWord: Word = {
@@ -157,7 +152,6 @@ export class AppComponent {
   next() {
     this.markAsStudied(this.selectedWord.id)
     this.textxtx = '';
-    this.count4Speaking = this.countMax;
     this.countSawWords += 1;
     this.no = this.no * -1;
     this.showVN = this.no > 0;
@@ -226,12 +220,6 @@ export class AppComponent {
       };
     };
     speechSynthesis.speak(utterance);
-  };
-
-  count() {
-    if (this.count4Speaking !== 0) {
-      this.count4Speaking = this.count4Speaking - 1
-    };
   };
 
   checkAbleSpeak() {
