@@ -46,7 +46,7 @@ function main() {
 
   let words3 = readJSON('src\\assets\\det\\words3.json');
   words3.forEach(i => {
-    i.speakSentenceCountMax = 2;
+    i.speakSentenceCountMax = 1;
     i.speakWordCountMax = 1;
     i.page = 3;
   });
@@ -65,6 +65,13 @@ function main() {
     i.page = 5;
   });
 
+  let words6 = readJSON('src\\assets\\det\\words6.json');
+  words6.forEach(i => {
+    i.speakSentenceCountMax = 3;
+    i.speakWordCountMax = 1;
+    i.page = 6;
+  });
+
   let words = readJSON('src\\assets\\det\\words.json');
   words.forEach(i => {
     i.speakSentenceCountMax = 3;
@@ -73,7 +80,7 @@ function main() {
   });
   words.shift();
 
-  let items = words.concat(words1, words2, words3, words4, words5);
+  let items = words.concat(words1, words2, words3, words4, words5, words6);
   console.log(`We have totally ${items.length} words.`);
 
   // Check duplicated
