@@ -76,7 +76,7 @@ function main() {
   words.forEach(i => {
     i.speakSentenceCountMax = 3;
     i.speakWordCountMax = 1;
-    i.page = 6;
+    i.page = 7;
   });
   words.shift();
 
