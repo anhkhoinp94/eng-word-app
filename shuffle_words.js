@@ -72,11 +72,18 @@ function main() {
     i.page = 6;
   });
 
+  let words7 = readJSON('src\\assets\\det\\words7.json');
+  words7.forEach(i => {
+    i.speakSentenceCountMax = 3;
+    i.speakWordCountMax = 1;
+    i.page = 7;
+  });
+
   let words = readJSON('src\\assets\\det\\words.json');
   words.forEach(i => {
     i.speakSentenceCountMax = 3;
     i.speakWordCountMax = 1;
-    i.page = 7;
+    i.page = 8;
   });
   words.shift();
 

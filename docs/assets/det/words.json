@@ -9,242 +9,50 @@
   },
   {
     "id": 0,
-    "en1": "initiative",
-    "en2": "I supported the new recycling initiative at my workplace.",
+    "en1": "self-deprecating",
+    "en2": "I made a self-deprecating joke to break the tension.",
     "en3": "",
     "en4": "",
-    "vn1": "(n) sáng kiến / tính chủ động"
+    "vn1": "(a) tự hạ thấp bản thân"
   },
   {
     "id": 0,
-    "en1": "multi-skilled",
-    "en2": "I consider myself a multi-skilled employee who can handle both technical and creative tasks.",
+    "en1": "entrepreneur",
+    "en2": "I've always wanted to be an entrepreneur and start my own company.",
     "en3": "",
     "en4": "",
-    "vn1": "(a) đa kỹ năng"
+    "vn1": "(n) doanh nhân"
   },
   {
     "id": 0,
-    "en1": "flexibility",
-    "en2": "I value the flexibility of working from home.",
+    "en1": "extrovert",
+    "en2": "I'm an extrovert, so I get energy from being around others.",
     "en3": "",
     "en4": "",
-    "vn1": "(n) tính linh hoạt, mềm dẻo"
+    "vn1": "(n) người hướng ngoại"
   },
   {
     "id": 0,
-    "en1": "benchmarking",
-    "en2": "I used benchmarking to evaluate our team's performance against industry leaders.",
+    "en1": "designate",
+    "en2": "I will designate you as the team leader for this project.",
     "en3": "",
     "en4": "",
-    "vn1": "(n) đối chiếu chuẩn"
+    "vn1": "(v) chỉ định, bổ nhiệm"
   },
   {
     "id": 0,
-    "en1": "collate",
-    "en2": "I need to collate all the survey results before writing the report.",
+    "en1": "ambition",
+    "en2": "I have a strong ambition to become a successful architect.",
     "en3": "",
     "en4": "",
-    "vn1": "(v) thu thập và sắp xếp"
+    "vn1": "(n) tham vọng"
   },
   {
     "id": 0,
-    "en1": "roll out",
-    "en2": "I helped roll out the new training program across all departments.",
+    "en1": "intellectual",
+    "en2": "I enjoy having intellectual conversations about science and philosophy.",
     "en3": "",
     "en4": "",
-    "vn1": "(v) triển khai"
-  },
-  {
-    "id": 0,
-    "en1": "anecdotal",
-    "en2": "I only have anecdotal evidence to support my claim.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(a) mang tính giai thoại"
-  },
-  {
-    "id": 0,
-    "en1": "tuition",
-    "en2": "I had to work part-time to pay my college tuition.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(n) học phí"
-  },
-  {
-    "id": 0,
-    "en1": "investment",
-    "en2": "I'm hoping for a high return on investment from this project.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(n ) sự đầu tư"
-  },
-  {
-    "id": 0,
-    "en1": "mobility",
-    "en2": "I admire countries that promote social mobility through education.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(n) sự di chuyển / khả năng chuyển đổi"
-  },
-  {
-    "id": 0,
-    "en1": "cultured",
-    "en2": "I always enjoy talking to him because he's so cultured and well-read.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(a) có học thức, có văn hóa"
-  },
-  {
-    "id": 0,
-    "en1": "authoritarian",
-    "en2": "I found it hard to work under such an authoritarian manager.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(a) độc đoán, độc tài"
-  },
-  {
-    "id": 0,
-    "en1": "mortality",
-    "en2": "I was shocked by the high mortality rate during the pandemic.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(n) sự tử vong"
-  },
-  {
-    "id": 0,
-    "en1": "pandemic",
-    "en2": "I never imagined living through a global pandemic in my lifetime.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(n,a) đại dịch"
-  },
-  {
-    "id": 0,
-    "en1": "optimistic",
-    "en2": "I'm optimistic that things will get better soon.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(a) lạc quan"
-  },
-  {
-    "id": 0,
-    "en1": "burden",
-    "en2": "I feel a heavy burden trying to support my whole family.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(n) gánh nặng"
-  },
-  {
-    "id": 0,
-    "en1": "correlation",
-    "en2": "I noticed a strong correlation between exercise and better sleep.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(n) mối tương quan"
-  },
-  {
-    "id": 0,
-    "en1": "reliance on",
-    "en2": "I try to reduce my reliance on technology in daily life.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(n) sự phụ thuộc vào"
-  },
-  {
-    "id": 0,
-    "en1": "glued to",
-    "en2": "I was glued to the screen during the entire movie.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(a) dán mắt vào"
-  },
-  {
-    "id": 0,
-    "en1": "restriction",
-    "en2": "I don't like the restriction on visiting hours at the hospital.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(n) sự hạn chế"
-  },
-  {
-    "id": 0,
-    "en1": "marked",
-    "en2": "I noticed a marked improvement in my English after daily practice.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(a) rõ rệt"
-  },
-  {
-    "id": 0,
-    "en1": "variety",
-    "en2": "I enjoy a wide variety of music genres, from classical to rock.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(n) sự đa dạng"
-  },
-  {
-    "id": 0,
-    "en1": "uncoordinated",
-    "en2": "I felt uncoordinated when I tried to dance for the first time.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(a) vụng về, thiếu phối hợp"
-  },
-  {
-    "id": 0,
-    "en1": "disguise",
-    "en2": "I tried to disguise my nervousness during the interview.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(v) che giấu, ngụy trang"
-  },
-  {
-    "id": 0,
-    "en1": "covertly",
-    "en2": "I covertly glanced at my friend's test to check one answer.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(adv) một cách bí mật, lén lút"
-  },
-  {
-    "id": 0,
-    "en1": "adjust",
-    "en2": "I had to adjust my schedule to make time for exercise.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(v) điều chỉnh"
-  },
-  {
-    "id": 0,
-    "en1": "refer to",
-    "en2": "I always refer to my notes before an important meeting.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(v) tham khảo, đề cập đến"
-  },
-  {
-    "id": 0,
-    "en1": "discomfort",
-    "en2": "I felt some discomfort after sitting in the same position for hours.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(n) sự khó chịu"
-  },
-  {
-    "id": 0,
-    "en1": "seek out",
-    "en2": "I try to seek out new experiences whenever I travel.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(v) tìm kiếm"
-  },
-  {
-    "id": 0,
-    "en1": "defend",
-    "en2": "I had to defend my opinion during the class discussion.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(v) bảo vệ, phòng thủ"
+    "vn1": "(a,n) thuộc về trí tuệ / người trí thức"
   }
 ]
