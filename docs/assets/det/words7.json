@@ -1,6 +1,38 @@
 [
   {
     "id": 0,
+    "en1": "extrovert",
+    "en2": "I'm an extrovert, so I get energy from being around others.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) người hướng ngoại"
+  },
+  {
+    "id": 0,
+    "en1": "designate",
+    "en2": "I will designate you as the team leader for this project.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) chỉ định, bổ nhiệm"
+  },
+  {
+    "id": 0,
+    "en1": "ambition",
+    "en2": "I have a strong ambition to become a successful architect.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) tham vọng"
+  },
+  {
+    "id": 0,
+    "en1": "intellectual",
+    "en2": "I enjoy having intellectual conversations about science and philosophy.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a,n) thuộc về trí tuệ / người trí thức"
+  },
+  {
+    "id": 0,
     "en1": "frustrated",
     "en2": "I felt frustrated when my efforts didn't lead to any results.",
     "en3": "",
@@ -369,14 +401,6 @@
   },
   {
     "id": 0,
-    "en1": "pesticide",
-    "en2": "I try to avoid food that contains too much pesticide residue.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(n) thuốc trừ sâu"
-  },
-  {
-    "id": 0,
     "en1": "fertilizer",
     "en2": "I use organic fertilizer to improve the quality of my soil.",
     "en3": "",
@@ -529,14 +553,6 @@
   },
   {
     "id": 0,
-    "en1": "flexible",
-    "en2": "I like jobs that offer flexible working hours.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(a) linh hoạt, dẻo dai"
-  },
-  {
-    "id": 0,
     "en1": "undertake",
     "en2": "I decided to undertake a research project on climate change.",
     "en3": "",
@@ -550,14 +566,6 @@
     "en3": "",
     "en4": "",
     "vn1": "(n) tay nghề, sự tinh xảo"
-  },
-  {
-    "id": 0,
-    "en1": "spectacular",
-    "en2": "I watched a spectacular sunset from the mountain top.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(a,n) ngoạn mục"
   },
   {
     "id": 0,
@@ -742,14 +750,6 @@
     "en3": "",
     "en4": "",
     "vn1": "(a) vụng về, thiếu phối hợp"
-  },
-  {
-    "id": 0,
-    "en1": "disguise",
-    "en2": "I tried to disguise my nervousness during the interview.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(v) che giấu, ngụy trang"
   },
   {
     "id": 0,

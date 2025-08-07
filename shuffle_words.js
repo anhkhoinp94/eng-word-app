@@ -99,8 +99,8 @@ function main() {
   // items = items.concat(words2);
   // items = items.concat(words3);
   // items = items.concat(words4);
-  // items = items.concat(words5);
-  // items = items.concat(words6);
+  items = items.concat(words5);
+  items = items.concat(words6);
   items = items.concat(words7);
   items = items.concat(words8);
   console.log(`We have totally ${items.length} words.`);

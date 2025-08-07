@@ -1,6 +1,38 @@
 [
   {
     "id": 0,
+    "en1": "forage",
+    "en2": "I watched the squirrels forage for acorns in the park.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) kiếm ăn"
+  },
+  {
+    "id": 0,
+    "en1": "diversity",
+    "en2": "I value the cultural diversity in our community.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự đa dạng"
+  },
+  {
+    "id": 0,
+    "en1": "monocrop",
+    "en2": "I used to monocrop corn on my farm, but now I grow diverse crops to improve soil health and reduce pests.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) trồng độc canh"
+  },
+  {
+    "id": 0,
+    "en1": "rely on",
+    "en2": "I rely on my teammates to help me complete the project on time.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) phụ thuộc vào"
+  },
+  {
+    "id": 0,
     "en1": "wear down",
     "en2": "I feel like the constant stress is starting to wear me down.",
     "en3": "",
@@ -517,7 +549,7 @@
     "en2": "I watched a spectacular fireworks display on New Year's Eve.",
     "en3": "",
     "en4": "",
-    "vn1": "(a) ngoạn mục"
+    "vn1": "(a,n) ngoạn mục"
   },
   {
     "id": 0,
@@ -766,37 +798,5 @@
     "en3": "",
     "en4": "",
     "vn1": "(n) doanh nhân"
-  },
-  {
-    "id": 0,
-    "en1": "extrovert",
-    "en2": "I'm an extrovert, so I get energy from being around others.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(n) người hướng ngoại"
-  },
-  {
-    "id": 0,
-    "en1": "designate",
-    "en2": "I will designate you as the team leader for this project.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(v) chỉ định, bổ nhiệm"
-  },
-  {
-    "id": 0,
-    "en1": "ambition",
-    "en2": "I have a strong ambition to become a successful architect.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(n) tham vọng"
-  },
-  {
-    "id": 0,
-    "en1": "intellectual",
-    "en2": "I enjoy having intellectual conversations about science and philosophy.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(a,n) thuộc về trí tuệ / người trí thức"
   }
 ]
