@@ -79,15 +79,30 @@ function main() {
     i.page = 7;
   });
 
-  let words = readJSON('src\\assets\\det\\words.json');
-  words.forEach(i => {
+  let words8 = readJSON('src\\assets\\det\\words8.json');
+  words8.forEach(i => {
     i.speakSentenceCountMax = 3;
     i.speakWordCountMax = 1;
     i.page = 8;
   });
+
+  let words = readJSON('src\\assets\\det\\words.json');
+  words.forEach(i => {
+    i.speakSentenceCountMax = 3;
+    i.speakWordCountMax = 1;
+    i.page = 9;
+  });
   words.shift();
 
-  let items = words.concat(words1, words2, words3, words4, words5, words6);
+  let items = words;
+  // items = items.concat(words1);
+  // items = items.concat(words2);
+  // items = items.concat(words3);
+  // items = items.concat(words4);
+  // items = items.concat(words5);
+  // items = items.concat(words6);
+  items = items.concat(words7);
+  items = items.concat(words8);
   console.log(`We have totally ${items.length} words.`);
 
   // Check duplicated

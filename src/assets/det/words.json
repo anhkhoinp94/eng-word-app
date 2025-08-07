@@ -9,50 +9,90 @@
   },
   {
     "id": 0,
-    "en1": "self-deprecating",
-    "en2": "I made a self-deprecating joke to break the tension.",
+    "en1": "pollen",
+    "en2": "I have allergies whenever I breathe in too much pollen in spring.",
     "en3": "",
     "en4": "",
-    "vn1": "(a) tự hạ thấp bản thân"
+    "vn1": "(n) phấn hoa"
   },
   {
     "id": 0,
-    "en1": "entrepreneur",
-    "en2": "I've always wanted to be an entrepreneur and start my own company.",
+    "en1": "gravity",
+    "en2": "I dropped the ball and it fell to the ground because of gravity.",
     "en3": "",
     "en4": "",
-    "vn1": "(n) doanh nhân"
+    "vn1": "(n) trọng lực, tính nghiêm trọng"
   },
   {
     "id": 0,
-    "en1": "extrovert",
-    "en2": "I'm an extrovert, so I get energy from being around others.",
+    "en1": "entomology",
+    "en2": "I decided to study entomology because I've always been fascinated by insects.",
     "en3": "",
     "en4": "",
-    "vn1": "(n) người hướng ngoại"
+    "vn1": "(n) côn trùng học"
   },
   {
     "id": 0,
-    "en1": "designate",
-    "en2": "I will designate you as the team leader for this project.",
+    "en1": "rattle",
+    "en2": "I shook the box and heard something rattle inside.",
     "en3": "",
     "en4": "",
-    "vn1": "(v) chỉ định, bổ nhiệm"
+    "vn1": "(v) làm rung lắc"
   },
   {
     "id": 0,
-    "en1": "ambition",
-    "en2": "I have a strong ambition to become a successful architect.",
+    "en1": "shake",
+    "en2": "I always shake the bottle before using it.",
     "en3": "",
     "en4": "",
-    "vn1": "(n) tham vọng"
+    "vn1": "(v) lắc, rung, bắt tay"
   },
   {
     "id": 0,
-    "en1": "intellectual",
-    "en2": "I enjoy having intellectual conversations about science and philosophy.",
+    "en1": "blossom",
+    "en2": "I love watching the cherry trees blossom in spring.",
     "en3": "",
     "en4": "",
-    "vn1": "(a,n) thuộc về trí tuệ / người trí thức"
+    "vn1": "(v) nở hoa"
+  },
+  {
+    "id": 0,
+    "en1": "nimble",
+    "en2": "I need to be nimble to keep up with my energetic puppy.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) nhanh nhẹn, lanh lợi"
+  },
+  {
+    "id": 0,
+    "en1": "forage",
+    "en2": "I watched the squirrels forage for acorns in the park.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) kiếm ăn"
+  },
+  {
+    "id": 0,
+    "en1": "diversity",
+    "en2": "I value the cultural diversity in our community.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự đa dạng"
+  },
+  {
+    "id": 0,
+    "en1": "monocrop",
+    "en2": "I used to monocrop corn on my farm, but now I grow diverse crops to improve soil health and reduce pests.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) trồng độc canh"
+  },
+  {
+    "id": 0,
+    "en1": "rely on",
+    "en2": "I rely on my teammates to help me complete the project on time.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) phụ thuộc vào"
   }
 ]
