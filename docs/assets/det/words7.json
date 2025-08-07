@@ -1,6 +1,14 @@
 [
   {
     "id": 0,
+    "en1": "entrepreneur",
+    "en2": "I've always wanted to be an entrepreneur and start my own company.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) doanh nhân"
+  },
+  {
+    "id": 0,
     "en1": "extrovert",
     "en2": "I'm an extrovert, so I get energy from being around others.",
     "en3": "",
@@ -470,14 +478,6 @@
     "en3": "",
     "en4": "",
     "vn1": "(v) kỷ niệm, ăn mừng"
-  },
-  {
-    "id": 0,
-    "en1": "remarkable",
-    "en2": "I think she has done a remarkable job leading the team through tough times.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(a) đáng chú ý, xuất sắc"
   },
   {
     "id": 0,

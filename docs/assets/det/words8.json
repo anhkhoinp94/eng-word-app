@@ -1,6 +1,14 @@
 [
   {
     "id": 0,
+    "en1": "nimble",
+    "en2": "I need to be nimble to keep up with my energetic puppy.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) nhanh nhẹn, lanh lợi"
+  },
+  {
+    "id": 0,
     "en1": "forage",
     "en2": "I watched the squirrels forage for acorns in the park.",
     "en3": "",
@@ -790,13 +798,5 @@
     "en3": "",
     "en4": "",
     "vn1": "(a) tự hạ thấp bản thân"
-  },
-  {
-    "id": 0,
-    "en1": "entrepreneur",
-    "en2": "I've always wanted to be an entrepreneur and start my own company.",
-    "en3": "",
-    "en4": "",
-    "vn1": "(n) doanh nhân"
   }
 ]
