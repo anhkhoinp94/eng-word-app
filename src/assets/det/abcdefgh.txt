@@ -1,0 +1,3504 @@
+abolished||(v)||bãi bỏ
+absence||(n)||sự thiếu vắng
+absenteeism||(n)||sự vắng mặt (không có phép tại nơi làm việc)
+absent||(adj)||vắng mặt
+abstracted||(adj)||trừu tượng
+abstraction||(n)||khả năng tư duy trừu tượng
+abundance||(n)||sự phong phú, dồi dào
+abundant||(adj)||dồi dào, phong phú
+abusive||(adj)||lăng mạ, xúc phạm
+academy||(n)||học viện, viện hàn lâm
+accelerate||(v)||(tăng tốc, thúc đẩy)
+accelerometer||(n)||máy đo gia tốc
+acceptable||(adj)||chấp nhận được
+acceptance||(n)||sự chấp nhận
+accept||(v)||chấp nhận
+accessibility||(n)||tính dễ tiếp cận
+accessible||(adj)||có thể tiếp cận được
+access||(n)||quyền tiếp cận
+accident risk||(phr)||nguy cơ tai nạn
+accidental||(adj)||tình cờ, ngẫu nhiên
+accompanied||(v)||đi kèm, kèm theo
+accomplished||(adj)||tài giỏi, xuất sắc
+accomplishment||(n)||thành tựu, sự hoàn thành
+accountability||(n)||trách nhiệm giải trình
+accounts||(v)||chiếm, tính đến
+accoutrements||(n)||phụ kiện, vật dụng đi kèm
+accuracy||(n)||độ chính xác
+accurately||(adv)||chính xác
+achievements||(n)||thành tựu
+achievement||n||thành tựu
+achieve||(v)||đạt được (thành tựu, mục tiêu)
+acidification||(n)||sự axit hóa
+acoustic||(adj)||thuộc về âm học, âm thanh
+acquaintances||(n)||người quen
+acquaintance||(n)||người quen
+acquiescing||(v)||bằng lòng, chịu phục tùng
+acquisitiveness||(n)||sự ham học, ham thu nhận (thông tin, kiến thức...)
+acquisitive||(adj)||thích sở hữu, ham muốn có được
+acreage||(n)||diện tích đất (tính bằng mẫu Anh)
+action||(n)||hành động
+active exploration||(phr)||sự khám phá tích cực, chủ động
+actual delivery||(phr)||sự thực hiện thực tế
+acuity||(n)||độ nhạy bén (thị giác, thính giác...)
+adaptability||(n)||khả năng thích nghi
+adaptable||adj||có thể thích nghi
+adaptation||(n)||sự thích nghi
+adaptive||(adj)||thích nghi, có khả năng thích ứng
+addictions||(n)||sự nghiện
+adequately||(adv)||đầy đủ, thỏa đáng
+adherence||(n)||sự bám chặt, sự tuân thủ
+adhesive||(n)||chất kết dính
+adjustment||(n)||sự điều chỉnh, thích nghi
+administered||(v)||tiêm thuốc
+administer||(v)||cho, áp dụng (thuốc, liệu pháp)
+adoption||(n)||sự áp dụng
+adopt||(v)||chấp nhận, tiếp nhận
+adoration||(n)||sự sùng bái, lòng yêu mến
+advanced||(adj)||tiên tiến
+advancement||(n)||sự tiến bộ, cải tiến
+advance||(n)||sự tiến lên
+advantageous trait||(n)||đặc điểm có lợi
+advantage||(n)||lợi thế
+adventurers||(n)||nhà thám hiểm
+advent||(n)||sự xuất hiện, sự ra đời
+adversity||(n)||(nghịch cảnh, khó khăn)
+advertising||(n)||quảng cáo
+advisable||(adj)||đáng khuyên, nên làm
+advisory||(adj)||tư vấn
+advocating||(v)||ủng hộ, tán thành
+aerosol||(n)||bình xịt, khí dung
+aesthetics||(n)||tính thẩm mỹ
+aesthetic||(adj)||thuộc về thẩm mỹ
+affective||(adj)||liên quan đến cảm xúc
+affiliated||(adj)||có liên kết, thuộc về (nhóm nào đó)
+affiliation||(n)||sự kết nối, liên kết
+affinity||(n)||sự giống nhau, mối liên hệ
+affixed||(adj)||gắn chặt, cố định
+afflicted||(adj)||bị ảnh hưởng, bị hành hạ (bởi bệnh, tình trạng tiêu cực...)
+afflicting||(v)||gây đau đớn, ảnh hưởng xấu
+affliction||(n)||nỗi đau đớn, bệnh tật
+afflict||(v)||gây đau đớn, làm khổ sở
+affluence||(n)||sự giàu có
+affluent||(adj)||giàu có, sung túc
+affordable||(adj)||có giá phải chăng
+afforded||(v)||cung cấp, mang lại
+afford||(v)||mang lại, tạo điều kiện cho
+aforementioned||(adj)||đã đề cập ở trên
+afternoon||(n)||buổi chiều
+agency||(n)||quyền năng, khả năng hành động
+aggression instinct||(n)||bản năng hung hăng
+agricultural||(adj)||thuộc nông nghiệp
+ailment||(n)||bệnh tật (thường nhẹ)
+aimless||(adj)||không mục đích
+airborne||(adj)||trong không khí
+airing the mind||(idiom)||thư giãn đầu óc, làm mới tinh thần
+alarming||(adj)||đáng báo động
+alchemy||(n)||thuật giả kim
+algorithm||(n)||thuật toán
+alienation||(n)||sự xa lánh, sự cô lập xã hội
+alien||(adj)||ngoại lai, không thuộc về nơi đó (loài ngoại lai)
+alignment||(n)||sự căn chỉnh, đường thẳng
+align||(v)||căn chỉnh, sắp thẳng hàng
+all-terrain||(adj)||đa địa hình
+allegation||(n)||lời cáo buộc
+alleged||(adj)||bị cho là, được cho là
+allege||(v)||buộc tội, cho rằng
+alleviating||(v)||làm giảm bớt
+alleviation||(n)||sự giảm nhẹ, làm dịu bớt
+allocation||(n)||sự phân bổ
+allowance||(n)||sự cho phép, sự chấp nhận
+alteration||(n)||sự thay đổi, điều chỉnh
+alternatives||(n)||lựa chọn thay thế
+alternative||(adj)||thay thế, khác
+altitude||(n)||độ cao so với mặt đất
+aluminum||(n)||nhôm
+amass||(v)||tích lũy, gom góp
+amateur||(adj)||nghiệp dư
+ambiguity||(n)||sự mơ hồ
+ambitious||(adj)||đầy tham vọng
+ambivalent||(adj)||mâu thuẫn, vừa yêu vừa ghét
+amenities||(n)||tiện nghi
+amorphous||(adj)||vô định hình
+analgesic||(n)||thuốc giảm đau
+analogous||(adj)||tương tự, giống nhau
+analogue||(n)||điều tương tự
+analogy||(n)||sự tương tự, phép so sánh
+analysed||(v)||phân tích
+analyses||(n)||sự phân tích
+analyse||(v)||phân tích
+analysis||(n)||sự phân tích
+analyst||n||nhà phân tích
+analytical||(adj)||thuộc phân tích
+analyze||(v)||phân tích
+anatomical||(adj)||thuộc giải phẫu
+anatomy||(n)||giải phẫu
+ancestors||(n)||tổ tiên
+ancestral||(adj)||thuộc tổ tiên, ông bà
+anchorage||(n)||nơi neo giữ
+anchored||(v)||neo chặt, gắn chặt
+ancient||(adj)||cổ xưa
+ancillary||(adj)||phụ trợ, hỗ trợ
+anesthesiology||(n)||khoa gây mê
+anesthetic||(n)||thuốc gây mê
+anesthetized||(adj)||được gây mê
+anguished||(adj) — đau khổ, thống khổ
+animosity||(n)||sự thù địch
+annually||(adv)||hàng năm
+annual||(adj)||hàng năm
+anomaly||(n)||sự bất thường, điều khác thường
+anthropologist||(n)||nhà nhân chủng học
+anthropology||(n)||nhân học
+anti-social||(adj)||chống xã hội, không hòa nhập xã hội
+antibiotic resistance||(n)||sự kháng kháng sinh
+antibiotic||(n)||thuốc kháng sinh
+antibody||(n)||kháng thể
+anticipation||(n)||sự mong đợi, dự đoán
+anticipatory||(adj)||mang tính chờ đợi, dự đoán
+antiseptic||(adj)||(n)||khử trùng; chất khử trùng
+aphids||(n)||rệp cây
+appalled||(adj)||bị choáng, sốc (theo nghĩa tiêu cực)
+apparatus||(n)||thiết bị, dụng cụ
+apparent||(adj)||rõ ràng, hiển nhiên
+appeal||(n)||(v)||sức hấp dẫn; thu hút
+appearance||(n)||diện mạo, sự xuất hiện
+appear||(v)||xuất hiện
+appendage||(n)||phần phụ, chi phụ
+appetite||(n)||nhu cầu (ở đây nghĩa bóng: nhu cầu lớn)
+appliances||(n)||thiết bị (gia dụng)
+applications||(n)||ứng dụng
+application||(n)||sự ứng dụng
+appointments||(n)||cuộc hẹn
+appointment||(n)||sự bổ nhiệm
+appraisal||(n)||sự đánh giá
+appropriate||(adj)||phù hợp, thích hợp
+approximately||(adv)||khoảng chừng, xấp xỉ
+approximate||(v)||xấp xỉ
+aptitude||(n)||năng khiếu, năng lực
+aquarium||(n)||bể nuôi cá, thủy cung
+aqueduct||(n)||cầu dẫn nước
+aquifer||(n)||tầng chứa nước ngầm
+arboreal||(adj)||sống trên cây
+archaeological evidence||(n)||bằng chứng khảo cổ học
+archaeological traces||(n)||dấu tích khảo cổ
+archaeological||(adj)||thuộc khảo cổ
+archaeologists||(n)||nhà khảo cổ
+archaeology||(n)||khảo cổ học
+archipelagoes||(n)||quần đảo
+archipelago||(n)||(quần đảo)
+architecturally||(adv)||thuộc về kiến trúc
+architectural||(adj)||thuộc kiến trúc
+architecture||(n)||kiến trúc
+archive||(n)||kho lưu trữ
+arising||(v)||nảy sinh, phát sinh
+aristocrats||(n)||quý tộc
+aristocrat||(n)||quý tộc
+aroma||(n)||mùi thơm, hương thơm
+arousal||(n)||sự kích thích, sự hưng phấn
+arrangement||(n)||sự sắp xếp
+arrange||(v)||sắp xếp, tổ chức
+array||(n)||một nhóm, một loạt
+arrested development||(n)||sự phát triển bị kìm hãm
+arrival||(n)||sự đến
+artefacts||(n)||hiện vật (thường là đồ khảo cổ)
+artefact||(n)||đồ tạo tác, hiện vật
+arteries||(n)||tuyến đường chính
+arteriosclerosis||(n)||xơ cứng động mạch
+artificial||(adj)||nhân tạo
+artistry||(n)||tài nghệ, sự tinh tế
+ascertain||(v)||xác định, tìm hiểu chắc chắn
+ash||(n)||tro
+aspirations||(n)||nguyện vọng, khát vọng
+aspirator||(n)||ống hút mẫu (trong khoa học)
+aspire||(v)||khao khát, mong muốn
+aspiring||(adj)||khao khát, đầy tham vọng
+assault||(n)||sự tấn công, hành hung
+assemblage||(n)||tập hợp, nhóm (sinh vật, đồ vật)
+asserting||(v)||khẳng định, xác nhận
+asserts||(v)||khẳng định
+assessed||(v)||đánh giá
+assessment||(n)||sự đánh giá
+asset||(n)||tài sản (nghĩa bóng: lợi thế, điểm mạnh)
+assignments||(n)||bài tập, nhiệm vụ
+assimilation||(n)||sự đồng hóa
+associated||(adj)||liên quan, gắn liền
+associate||(v)||liên kết, gắn liền với
+astonishingly||(adv)||một cách đáng kinh ngạc
+astonishing||(adj)||đáng kinh ngạc
+astonish||(v)||làm ngạc nhiên
+astronomical||(adj)||thuộc thiên văn
+astronomy||(n)||thiên văn học
+asymmetry||(n)||sự bất đối xứng
+at the expense of||(phrase)||gây tổn hại cho
+atavism||(n)||sự tái xuất của đặc điểm tổ tiên
+atmospheric||(adj)||thuộc khí quyển
+attainment||(n)||thành tích
+attitudes||(n)||thái độ
+attractions||(n)||điểm thu hút
+attract||(v)||thu hút
+attributable||(adj)||có thể quy cho
+attributed to||(phr.v)||được quy cho, được cho là do
+attributed||(v)||được cho là do, quy cho
+audacious||(adj)||táo bạo, liều lĩnh
+auditory comprehension||(n)||khả năng hiểu thính giác
+auditory cortex||(n)||vỏ não thính giác (vùng xử lý âm thanh của não)
+authenticate||v||xác thực, chứng minh danh tính
+authentic||(adj)||nguyên bản, xác thực
+authorised||adj||được ủy quyền
+authorise||(v)||cho phép, ủy quyền
+authorities||(n)||chức quyền
+autoimmune||(adj)||tự miễn dịch
+automated||(adj)||tự động hóa
+automatic mimicry||(n)||sự bắt chước tự động, vô thức
+automatic||(adj)||tự động
+autonomous||(adj)||tự chủ, độc lập
+autonomy||(n)||quyền tự trị
+autopilot||(n) — chế độ tự động
+autopsy||(n)||cuộc khám nghiệm tử thi
+available||(adj)||có sẵn
+average||(v)||trung bình
+avian||(adj)||thuộc về chim
+avoidance||(n)||sự tránh né
+avoid||(v)||tránh
+awarded||(v) — trao thưởng, trao tặng
+awareness||(n)||nhận thức
+axis of rotation||(phr)||trục quay
+axle||(n)||trục xe
+babble||(v)||bập bẹ
+bacillus||(n)||trực khuẩn
+backed||(adj)||được phủ lớp bảo vệ phía sau
+backfire||(v)||phản tác dụng
+backlash||(n)||phản ứng dữ dội
+backstop||(n)||chỗ dựa, điểm tựa
+bacteria||(n)||vi khuẩn
+baffle||(n)||(v)||tấm chắn; làm trở ngại
+baillie||(n)||quan chức hành chính/cảnh sát ở cảng
+baited||(adj)||được đặt mồi (bẫy)
+balance of species||(n)||sự cân bằng các loài
+balance of trade||(n)||cán cân thương mại
+balance||(v)||giữ thăng bằng
+banality||(n)||sự tầm thường, thiếu sáng tạo
+bandwidth||(n)||băng thông
+bankruptcy||(n)||sự phá sản
+bargaining power||(n)||sức mạnh thương lượng
+barrel||(n)||thân (bút, súng); thùng
+barren||(adj)||cằn cỗi
+barriers||(n)||rào cản
+barrier||(n)||rào cản, trở ngại
+barter||(v)||trao đổi hàng hóa
+basis||(n)||cơ sở
+basket cases||(n)||trường hợp thất bại hoàn toàn (ẩn dụ)
+battering||(n)||sự tổn thương mạnh, sự đả kích
+battery||(n)||pin
+bearing||n||phương hướng
+begetter||(n)||người sinh ra, người tạo ra
+behavioral||(adj)||thuộc hành vi
+believe||(v)||tin tưởng, tin là
+beneficial||(adj)||có lợi
+beneficiaries||(n)||người thụ hưởng
+benefits||(n)||lợi ích
+benevolent||(adj)||nhân từ, tốt bụng
+benign||(adj)||lành tính, không gây hại
+bereavement||(n)||sự mất mát người thân
+bespectacled||(adj)||đeo kính
+betrays||(v)||phản bội, cho thấy (dấu hiệu)
+betting||(adj)||liên quan đến đặt cược
+beverages||(n)||đồ uống
+bidding||(n)||sự trả giá, đấu thầu
+bilateral||(adj)||hai bên, song phương
+binary||(adj)||nhị phân
+bio-cultural||(adj)||thuộc sinh học và văn hóa
+biochemical||(adj)||thuộc về hóa sinh
+biocontrol||(n)||kiểm soát sinh học (dùng sinh vật để kiểm soát sâu bệnh)
+biodegradable||(adj)||phân hủy sinh học
+biodegrade||(v)||phân hủy sinh học
+biological basis||(n)||cơ sở sinh học
+biological||(adj)||thuộc về sinh học
+biologists||(n)||nhà sinh vật học
+biologist||(n)||nhà sinh học
+biomechanical||(adj)||thuộc cơ học sinh học
+biometric(s)||adj/n||(liên quan đến) sinh trắc học
+biometrics||(n)||công nghệ sinh trắc học
+bipedal||(adj)||đi bằng hai chân
+bisect||(v)||chia đôi, cắt ngang
+bladder||(n)||bọng đựng nước tiểu (ở heo, cừu)
+blanket||(v)||bao phủ
+bleak||(adj)||(ảm đạm, u ám)
+blemish||(n)||vết nhơ, khiếm khuyết
+blend||(n)||hỗn hợp
+blighted||(adj)||bị tàn phá, bị hủy hoại
+blight||(n)||bệnh cây trồng (dịch hại)
+block of words||(phr)||cụm từ, đoạn từ (đọc thành từng khối)
+blockbusters||(n)||sản phẩm thành công lớn (đặc biệt trong xuất bản hoặc phim ảnh)
+blocking||(v)||chặn lại
+blooming||(adj)||đang ra hoa, nở rộ
+blue-sky||(adj)||viển vông, lý tưởng hóa
+blue-water||(adj)||biển sâu (cụm từ)
+blueprints||(n)||bản thiết kế, bản kế hoạch
+blueprint||(n)||bản thiết kế
+boast||(v)||khoe khoang, tự hào
+boisterous||(adj)||ồn ào, náo nhiệt
+bonanza||(n)||vụ mùa bội thu, cơ hội sinh lợi
+bonding||(n)||sự gắn kết
+boost||(v)||thúc đẩy
+bore little or no relationship to||(phr)||gần như không liên quan đến
+botanical||(adj)||thuộc thực vật học
+botanist||(n)||nhà thực vật học
+boundaries||(n)||giới hạn
+bountiful||(adj)||phong phú, dồi dào
+bounty||(n)||tiền thưởng (thường cho việc săn bắt)
+boycott||(n/v)||tẩy chay
+brass||(n)||đồng thau
+breakthrough||(n)||bước đột phá
+brewer||(n)||người làm bia, chủ nhà máy bia
+brink||(n)||bờ vực
+brisk||(adj)||nhanh nhẹn, sôi nổi (ở đây là hoạt động mua bán nhộn nhịp)
+broadsides||(n)||trang in một mặt khổ lớn dùng để thông báo
+broad||(adj)||rộng
+bronchitis||(n)||bệnh viêm phế quản
+bronze||(n)||đồng thau
+brood||(n)||ổ (trứng, ấu trùng côn trùng)
+brush-up courses||(phr)||khóa học ôn tập
+budgetary||(adj)||liên quan đến ngân sách
+bulk||(n)||khối lượng lớn, số lượng lớn
+bullying||(n)||sự bắt nạt
+buoyancy||(n)||sự nổi trên mặt nước
+buoyant||(adj)||nổi được trên mặt nước, nhẹ
+bureaucrat||(n)||quan chức, công chức hành chính
+burgeoning||(adj)||phát triển nhanh chóng
+buried past||(phr)||quá khứ bị lãng quên
+burst||(n)||sự bùng nổ
+business hours||(n)||giờ làm việc
+bygone||(adj)||thuộc về quá khứ
+calamities||(n)||thảm họa
+calamity||(n)||thảm họa, tai họa
+calculate||(v)||tính toán
+calendar||(n)||lịch
+calibrated||(v)||đo lường chính xác, hiệu chỉnh
+calibrate||(v)||hiệu chỉnh
+calibrating||(v)||hiệu chỉnh
+camouflaged||(adj)||ngụy trang
+campaigners||(n)||người vận động
+campaigns||(v)||vận động
+campaign||(n)||chiến dịch
+candlesticks||(n)||chân nến
+canning||(n)||đóng hộp
+canoes||(n)||xuồng, thuyền nhỏ
+canon||(n)||tuyển tập tác phẩm tiêu biểu
+canopy||(n)||tán cây
+canvas||(v)||đi khắp nơi để thu thập hoặc vận động (trong ngữ cảnh “canvas the folk song books”)
+capability||(n)||khả năng, năng lực
+capacity||(n)||công suất, khả năng chứa
+capital||(n)||vốn (tài chính)
+capriciousness||(n)||sự thất thường
+capsizing||(v)||lật úp (tàu thuyền)
+captainitis||(n)||khuynh hướng phụ thuộc thụ động vào lãnh đạo
+captive-breeding||(adj)||nuôi sinh sản trong điều kiện nuôi nhốt
+captive||(adj)||bị giam giữ, nuôi nhốt
+capture||(v)||nắm bắt (ý nghĩa, thông tin)
+carbohydrate||(n)||cacbohidrat (chất đường bột)
+carbon dioxide||(n)||khí CO₂
+carbon||(n)||cacbon
+carcinogen||(n)||chất gây ung thư
+cardinal||(adj)||chủ yếu, chính yếu
+cardio-vascular||(adj)||thuộc tim mạch
+cardiovascular||(adj)||thuộc tim mạch
+career||(n)||sự nghiệp
+carefree||(adj)||vô tư, không lo lắng
+carefully||(adv)||cẩn thận
+carnivore||(n)||động vật ăn thịt
+carnivorous||(adj)||ăn thịt
+carousel||(n)||máy xoay, băng chuyền
+carpentry||(n)||nghề mộc
+carrying capacity||(n)||sức chứa tối đa
+cartography||(n)||nghệ thuật lập bản đồ
+cascade||(v)||chảy đổ xuống như thác
+cash-strapped||(adj)||thiếu tiền, gặp khó khăn về tài chính
+cast iron||(n)||gang đúc
+caste||(n)||đẳng cấp (trong xã hội hoặc loài vật)
+casualty||(n)||nạn nhân, thiệt hại
+catalyse||(v)||kích thích, xúc tác
+cataract||(n)||bệnh đục thủy tinh thể
+catastrophe||(n)||thảm họa
+categorise||(v)||phân loại
+catering||(v)||cung cấp dịch vụ
+caterpillars||(n)||sâu bướm
+caustic||(adj)||ăn mòn, có tính ăn mòn
+cavort||(v)||nhảy nhót, vui đùa phấn khích
+centralised||(adj)||tập trung
+central||(adj)||trung tâm
+centre||(n)||trung tâm
+centrifugal||(adj)||li tâm
+centrifuge||(v)||ly tâm, tách bằng lực quay
+cerebral||(adj)||thuộc về não bộ
+ceremonial||(adj)||thuộc nghi lễ
+certainty||(n)||sự chắc chắn
+certain||(adj)||chắc chắn
+certification||(n)||chứng nhận
+certify||(v)||chứng nhận
+chain||(n)||chuỗi
+challenge||(v)||thách thức, đặt nghi vấn
+challenging||(adj)||mang tính thử thách
+championship||(n)||giải vô địch
+champion||(v)||ủng hộ, đấu tranh cho
+chance||(n)||cơ hội, may rủi
+change||(n/v)||thay đổi
+chant||(v)||tụng, niệm
+chaos||(n)||sự hỗn loạn
+chaotic||(adj)||hỗn loạn
+characterise||(v)||mô tả đặc điểm, tiêu biểu cho
+characteristics||(n)||đặc điểm
+characteristic||(n)||đặc điểm
+charcoal||(n)||than củi
+charged||(adj)||căng thẳng, đầy cảm xúc
+charismatic||(adj)||có sức hút, lôi cuốn
+chemical compound||(n)||hợp chất hóa học
+chemical signals||n||tín hiệu hóa học
+chemical stripping||(n)||quá trình tách hóa chất ra khỏi dung dịch
+chemistry||(n)||hóa học
+chemotherapy||(n)||hóa trị liệu
+cheval glass||(n)||gương đứng toàn thân
+chlorination||(n)||quá trình khử trùng bằng clo
+christened||(v)||đặt tên, làm lễ đặt tên
+chromatic||(adj)||liên quan đến các nốt trong thang âm chia 12 cung
+chronically||(adv)||mãn tính
+chronicle||(v)||ghi chép lại, ghi nhận
+chronic||(adj)||kinh niên, lâu dài
+chronotype||(n)||kiểu đồng hồ sinh học cá nhân
+chunking||(n)||sự chia khối (cách bộ não ghi nhớ theo từng nhóm nhỏ thông tin)
+churning out||(phr.v)||sản xuất nhanh, liên tục
+circadian||(adj)||(thuộc) chu kỳ sinh học 24 giờ
+circuits||(n)||mạch (thần kinh)
+circuit||(n)||mạch điện
+circulating||(adj)||luân chuyển
+circulation||(n)||tuần hoàn
+circumscribe||(v)||giới hạn, hạn chế
+circumstances||(n)||hoàn cảnh, tình huống
+circumstance||(n)||hoàn cảnh
+civilisations||(n)||nền văn minh
+civilisation||(n)||nền văn minh
+clamber||(v)||leo, trèo (một cách khó khăn)
+claming||(v)||kêu gào, đòi hỏi
+classical||(adj)||cổ điển
+classic||(n) — tác phẩm kinh điển
+classification||(n)||sự phân loại
+clay powders||(n)||bột đất sét
+clearance||(n)||sự cho phép (chính thức)
+clearwater||(adj)||nước trong
+cleverer||(adj)||thông minh hơn
+climatic||(adj)||thuộc khí hậu
+climatologists||(n)||nhà khí hậu học
+climax||(n)||cao trào, đỉnh điểm
+climb||(v)||tăng lên
+clinical||(adj)||lâm sàng
+clonally||(adv)||bằng phương pháp vô tính (nhân bản vô tính)
+cloth||(n)||vải
+clouding||(n)||sự mờ đục
+clouds||(n)||mây
+clues||(n)||manh mối
+co-author||(n)||đồng tác giả
+co-evolve||(v)||cùng tiến hóa
+co-operate||(v)||hợp tác
+co-operatives||(n)||hợp tác xã
+co-ordinate||(v)||phối hợp, điều phối
+coastal||(adj)||thuộc bờ biển
+coconuts||(n)||quả dừa
+cocoon||(n)||kén tằm
+coding||(n)||mã hóa
+coefficient||(n)||hệ số
+coercion||(n)||sự ép buộc
+coexistence||(n)||sự cùng tồn tại
+coffin||(n)||quan tài (ẩn dụ: sự kết thúc)
+cognition||n||nhận thức
+cognitive divergence||(phr)||sự khác biệt nhận thức
+cohort||(n)||nhóm người (có chung đặc điểm)
+coincided||(v)||trùng hợp
+coincidence||(n)||sự trùng hợp
+coinciding||(adj)||trùng hợp
+coined||(v)||đặt ra (từ, thuật ngữ mới)
+collaborate||(v)||hợp tác
+collaboration||(n)||sự hợp tác
+collaborative||(adj)||cùng hợp tác
+collated||(v)||thu thập và tổng hợp
+colleagues||(n)||đồng nghiệp
+collective||(adj)||(tập thể, chung)
+collision||(n)||va chạm
+colonial||(adj)||thuộc thuộc địa
+colonisation||(n)||sự xâm chiếm, định cư
+colonised||(v)||(đã bị chiếm làm thuộc địa)
+colonisers||(n)||người đi khai hoang, người định cư
+colonise||(v)||chiếm làm thuộc địa, định cư (ở nơi mới)
+colonization||(n)||sự thực dân hóa
+colonnaded||(adj)||có cột, có hàng cột
+colony||(n)||đàn (ong, kiến, sinh vật sống theo bầy)
+colossus||(n)||thứ khổng lồ
+column inches||(n)||khổ báo (khoảng không gian dành cho bài viết)
+combine||(v)||kết hợp
+combustibility||(n)||khả năng cháy
+comfortable||(adj)||thoải mái
+comfort||(n)||sự thoải mái
+command||(v)||chiếm được (sự chú ý, ngưỡng mộ)
+commenced||(v)||bắt đầu
+commentary||(n) — lời bình luận, chú giải
+commentators||(n)||các nhà bình luận
+commentator||(n)||nhà bình luận, người phân tích
+commerce||(n)||thương mại
+commercialisation||(n)||sự thương mại hóa
+commercially viable||(adj)||có thể hoạt động thương mại được
+commercially||(adv)||về mặt thương mại
+commercial||(adj)||thuộc về thương mại
+commissioned||(v)||ủy quyền, giao nhiệm vụ
+commissioning authority||(n)||cơ quan đặt hàng/ủy quyền xây dựng
+commission||(v)||đặt làm, ủy thác
+committed||(adj)||tận tâm, cam kết
+commit||(v) — cam kết, dốc sức
+commodity futures markets||(n)||thị trường tương lai hàng hóa
+communal||(adj)||chung, công cộng
+communications competence||(phr)||năng lực giao tiếp
+communication||n||sự giao tiếp
+communities||(n)||cộng đồng
+community services||(n)||dịch vụ cộng đồng
+commuter||(n)||người đi làm xa (thường đi từ ngoại ô vào thành phố)
+compacted||(adj)||được nén chặt
+compactness||(n)||tính gọn gàng, súc tích
+compact||(adj)||(gắn bó, kết chặt)
+comparable||(adj)||có thể so sánh được
+comparison||(n)||sự so sánh
+compassion||(n)||lòng thương xót
+compatible||(adj)||tương thích
+compatriot||(n)||đồng hương, đồng quốc tịch
+compelling||(adj)||thuyết phục, hấp dẫn
+compendium||(n)||bản tóm lược, tuyển tập
+compensated||(v)||đền bù, bồi thường
+competition||(n)||sự cạnh tranh
+competitive advantage||(phr)||lợi thế cạnh tranh
+competitive||(adj)||cạnh tranh
+competitor||(n)||đối thủ cạnh tranh
+compilations||(n)||tuyển tập
+compilation||(n)||sự sưu tập, tập hợp
+compiled||(v)||biên soạn, tổng hợp
+compiling||(n)||sự biên soạn, tổng hợp
+complaint||(n)||lời phàn nàn, khiếu nại
+complementing||(v)||bổ sung
+complexity||(n)||sự phức tạp
+complex||(adj)||phức tạp
+complicated||adj||phức tạp
+complications||(n)||biến chứng
+components||(n)||các bộ phận, linh kiện
+component||(n)||bộ phận, linh kiện
+compound||(n)||hợp chất
+comprehension||(n)||sự hiểu, sự lĩnh hội
+compression||(n)||sự ép, nén
+comprises||(v)||bao gồm
+comprising||(v)||bao gồm
+compromised||(adj)||bị suy yếu
+compulsory||(adj)||bắt buộc
+computed||(v)||tính toán
+computerised||(adj)||máy tính hóa
+concave||(adj)||lõm
+conceit||(n)||sự tự cao, ý tưởng ngớ ngẩn
+conceivable||(adj)||có thể tưởng tượng được
+conceive||(v)||hình dung, tưởng tượng
+concentrate||(v)||tập trung
+concentrations||(n)||nồng độ
+concentration||(n)||nồng độ
+conceptions||(n)||nhận thức, quan niệm
+conception||(n)||sự thụ thai
+conceptual||(adj)||thuộc về khái niệm
+concept||(n)||khái niệm
+concerns||(n)||mối lo ngại
+conclude||(v)||kết luận
+concretion||(n)||sự kết khối, sỏi
+conditioning||(n)||rèn luyện thể chất
+condition||(n)||tình trạng, bệnh lý
+conductance||(n)||độ dẫn điện
+conduct||(v)||tiến hành (nghiên cứu, khảo sát)
+confectionery||(n)||kẹo bánh ngọt
+conference||(n)||hội nghị, hội thảo
+confidence||(n)||sự tự tin
+confident||(adj)||tự tin
+configuration||(n)||(cấu hình, sự sắp xếp)
+confined to||(adj)||giới hạn trong
+confined||(adj)||bị giới hạn, bị giam giữ
+confine||(v)||giới hạn, giam giữ
+conflict||(n)||xung đột
+conform to||(v)||phù hợp với, tuân theo
+confrontational||(adj)||thái độ đối đầu
+confronted||(v)||đối mặt
+confusion||(n)||sự bối rối, nhầm lẫn
+congested||(adj)||đông đúc, chật kín
+congestion||(n)||sự tắc nghẽn
+conglomeration||(n)||mớ hỗn hợp, tập hợp lộn xộn
+congregate||(v)||tụ tập, nhóm lại
+conjecture||(n)||giả thuyết, phỏng đoán
+conjunction||(n)||sự kết hợp, liên kết
+connections||(n)||kết nối
+connotation||(n)||ý nghĩa hàm ẩn
+conquer||(v)||vượt qua
+conquistador||(n)||nhà chinh phục Tây Ban Nha thời kỳ thám hiểm
+conscious/unconscious strategies||(n)||chiến thuật có ý thức/không ý thức
+consciousness||(n)||ý thức, nhận thức
+consequential||(adj)||quan trọng, có ảnh hưởng
+consequently||(adv)||do đó, vì vậy
+conservationist||(n)||nhà bảo tồn thiên nhiên
+conservator||(n)||người bảo tồn, người trông coi
+conserved||(v)||được bảo tồn
+conserve||(v)||bảo tồn, giữ gìn
+considerable||(adj)||đáng kể
+considerations||(n)||những yếu tố cân nhắc
+consideration||(n)||sự cân nhắc, xem xét
+considered||(adj)||được coi là
+consistency||(n)||sự nhất quán, sự kiên định
+consistently||(adv)||một cách nhất quán
+consolidates||(v)||củng cố
+consolidate||(v)||củng cố
+consolidation||(n)||sự củng cố
+conspicuous||(adj)||dễ thấy, rõ ràng
+constituents||(n)||cử tri, người dân (được đại diện)
+constituent||(adj)||cấu thành, hợp thành
+constitutes||(v)||cấu thành, tạo thành
+constitute||(v)||cấu thành, tạo thành
+constitution||(n)||cấu tạo, thể chất
+constraint||(n)||sự hạn chế, ràng buộc
+construct||(v)||xây dựng, chế tạo
+consultant||(n)||nhà tư vấn
+consult||(v)||tham khảo, tra cứu
+consumer boom||(n)||sự bùng nổ tiêu dùng
+consumer||(n)||người tiêu dùng
+consumption||(n)||sự tiêu thụ
+containerisation||(n)||việc sử dụng container trong vận tải
+contamination||(n)||sự nhiễm bẩn, sự lây nhiễm
+contemporaries||(n)||những người cùng thời
+contender||(n)||người thách thức, đối thủ
+contention||(n)||sự tranh luận, tranh cãi
+contest||(n)||cuộc thi
+context||(n)||bối cảnh
+contingent||(adj)||phụ thuộc vào, tùy thuộc vào
+continuous||(adj)||liên tục, không gián đoạn
+continuum||(n)||dãy liên tục
+contract||(v)||co lại, rút ngắn
+contradictory||(adj)||mâu thuẫn
+contraption||(n)||dụng cụ, thiết bị kỳ quặc
+contributing editor||(n)||biên tập viên cộng tác
+contributing||(adj)||góp phần
+contribution||(n)||sự đóng góp
+contributor||(n)||yếu tố góp phần, người đóng góp
+contrived||(adj)||giả tạo, sắp đặt trước
+control||(n)||kiểm soát
+conurbation||(n)||vùng đô thị mở rộng
+convection||(n)||sự đối lưu
+conveniences||(n)||tiện nghi
+convert||(v)||chuyển đổi
+convex||(adj)||lồi ra
+convicted||(adj)||đã bị kết án
+conviction||(n)||sự tin chắc, niềm tin mạnh mẽ
+cooperation||(n)||sự hợp tác
+coordination||(n)||sự phối hợp
+corals||(n)||san hô
+coral||(n)||san hô
+core||(n)||lõi (ví dụ lõi bút chì)
+corporal punishment||(n)||hình phạt thể xác
+corpus||(n)||tập hợp ngôn ngữ (dùng để nghiên cứu)
+correlate||(v)||tương quan, có liên quan
+corrosion||(n)||sự ăn mòn
+cortex||(n)||vỏ não
+cortisol||(n)||cortisol (hóc-môn căng thẳng)
+cosmetics||(n)||mỹ phẩm
+cosmic||(adj)||thuộc vũ trụ
+cost effectiveness||(n)||hiệu quả chi phí
+cost-effective||(adj)||hiệu quả về chi phí
+cost||(n)||chi phí, giá phải trả
+cottony cushion scale||(n)||rệp bông (loại sâu hại cây)
+counselling||(n)||tư vấn
+counter-intuitively||(adv)||trái với trực giác, ngược lại với lẽ thường
+counter-productive||(adj)||phản tác dụng
+countered||(v)||chống lại
+counterintuitive||(adj)||trái với trực giác
+counterpart||(n)||đối tác, bản tương ứng
+counter||(v)||chống lại
+courage||(n)||lòng dũng cảm
+courier||(n)||người đưa thư, người giao hàng
+covalent||(adj)||liên kết cộng hóa trị
+coverage||(n)||sự đưa tin, phủ sóng
+covered||(adj)||được phủ
+cracking||(n)||sự nứt
+cradle||(n)||giá đỡ, khung nâng (trong kỹ thuật nâng hạ)
+crafted||(v)||được chế tác, tạo ra khéo léo
+crash||(v)||đâm vào, phá hủy
+crawl||(v)||bò, trườn
+craze||(n)||cơn sốt, trào lưu
+creative thinking||(n)||tư duy sáng tạo
+creativity||(n)||sự sáng tạo
+creature||n||sinh vật
+credence||(n)||sự tin tưởng
+credibility||(n)||độ tin cậy
+credible||(adj)||đáng tin cậy
+credit-card record||n||dữ liệu giao dịch thẻ tín dụng
+credit||(n)||sự ghi nhận
+cremated||(v)||hỏa táng
+crepuscular||(adj)||hoạt động lúc chạng vạng
+crippling||(adj)||làm tê liệt, gây suy yếu nghiêm trọng
+crisis||(n)||khủng hoảng
+criteria||(n)||tiêu chí, tiêu chuẩn
+criticise||(v)||chỉ trích, phê bình
+critic||(n)||người chỉ trích, phê bình
+crockery||(n)||đồ sành sứ (bát, đĩa, chén)
+cross one’s fingers||(idiom)||mong điều tốt lành xảy ra
+cross-section||(n)||đại diện tiêu biểu, mẫu đại diện
+crowded||adj||đông đúc
+crude oil||(n)||dầu thô
+crude||(adj)||thô sơ, đơn giản
+crushed||(adj)||bị nghiền nát
+crustacean||(n)||loài giáp xác
+cues||(n)||dấu hiệu, tín hiệu
+culling||(n)||việc loại bỏ, săn bắn
+cull||(v)||giết bớt (động vật, để kiểm soát số lượng)
+culminate||(v)||(lên đến cực điểm, đạt đến đỉnh cao)
+cultivated||(adj)||được trồng trọt, nuôi dưỡng
+cultivation||(n)||canh tác
+cultural background||(n)||bối cảnh văn hóa
+cultural overtones||(phr)||sắc thái văn hóa
+cunning||(adj)||(mưu mẹo, xảo quyệt)
+curative||(adj)||có tác dụng chữa bệnh
+curiosities||(n)||(điều kỳ lạ, vật kỳ lạ)
+currency||(n)||sự thịnh hành
+currents||(n)||dòng chảy (trong biển hoặc sông)
+curtailed||(v)||giảm bớt, hạn chế
+curvature||(n)||độ cong
+curved||(adj)||cong
+curve||(v)||uốn cong
+cushioning||(n)||lớp đệm bảo vệ
+customs||(n) — phong tục
+cuticle||(n)||lớp biểu bì (trên da, hoặc trên cơ thể côn trùng)
+cutlery||(n)||dao, nĩa, muỗng
+cyber-economy||(n)||kinh tế kỹ thuật số
+cycle||(n)||chu kỳ
+cylindrical||(adj)||hình trụ
+daily rates||(phr)||mức giá hàng ngày
+dais||(n)||bục (trao giải, phát biểu)
+damping||(v)||giảm chấn, làm dịu
+daring||(adj)||dũng cảm, táo bạo
+databank||(n)||ngân hàng dữ liệu
+daunting||(adj)||gây lo lắng, khó khăn, đáng ngại
+dawn||(n)||bình minh; buổi đầu, khởi đầu
+dearth||(n)||sự khan hiếm
+debate||(v)||tranh luận
+deceptive||(adj)||dễ gây hiểu lầm, lừa dối
+decisive||(adj)||mang tính quyết định
+deck-stiffened||(adj)||được làm cứng bằng mặt đường
+declining||(adj)||giảm dần, suy giảm
+decoration||(n)||trang trí
+decorative||(adj)||mang tính trang trí
+dedicated||(adj)||tận tâm, tận tụy
+dedication||(n)||sự cống hiến
+deduction||(n)||suy luận, sự khấu trừ
+deemed||(v)||được coi là
+deep-wired instinct||(phrase)||bản năng sâu sắc, ăn sâu vào tiềm thức
+defective||(adj)||có khuyết điểm, bị lỗi
+defences||(n)||hệ thống phòng vệ (cơ thể hoặc quân sự)
+defence||(n)||sự phòng thủ, bào chữa
+defendant||(n)||bị cáo, người bị kiện
+deficiency||(n)||sự thiếu hụt
+deficit||(n)||sự thiếu hụt
+define||(v)||định nghĩa, xác định
+deflated||(adj)||giảm giá trị, làm xẹp (bóng)
+deflect||(v)||làm chệch hướng
+deforestation||(n)||sự phá rừng
+deformation||(n)||sự biến dạng
+degradation||(n)||sự suy giảm, xuống cấp
+degrade||(v)||làm suy giảm, thoái hóa
+dehydrate||(v)||làm khô, hút ẩm
+dehydration||(n)||sự mất nước
+deleterious||(adj)||có hại
+delude||(v)||làm cho ảo tưởng, lừa dối
+demand||(n)||nhu cầu
+dementia||(n)||bệnh mất trí nhớ
+demise||(n)||sự kết thúc, sự biến mất
+democratic||(adj)||dân chủ
+demographer||(n)||nhà dân số học
+demographic||(adj)||thuộc nhân khẩu học
+demolish||(v)||phá hủy
+demonstrate||(v)||chứng minh, biểu thị
+denigration||(n)||sự làm mất danh dự, sự bôi nhọ
+denote||(v)||biểu thị
+denounce||(v)||tố cáo, chỉ trích
+densely||(adv)||mật độ cao
+density||(n)||mật độ
+denuded||(adj)||bị làm trụi, bị tước bỏ
+denude||(v)||làm trơ trụi, làm trọc
+deontology||(n)||nghĩa vụ học, đạo đức học về bổn phận
+dependence||(n)||sự phụ thuộc
+dependency||(n)||sự phụ thuộc
+dependent||(adj)||phụ thuộc
+depicted||(v)||miêu tả
+depleted||(adj)||cạn kiệt
+depletion||(n)||sự suy giảm, cạn kiệt
+deploy||v||triển khai, đưa vào sử dụng
+deposit||(n)||lớp lắng, mỏ
+depressing||(adj)||làm chán nản
+depression||(n)||trầm cảm
+deprive||(v)||tước đoạt, lấy đi
+deregulate||(v)||bãi bỏ quy định
+deregulation||(n)||sự bãi bỏ quy định
+deride||(v)||chế nhạo, coi thường
+derived||(v)||bắt nguồn từ, có nguồn gốc từ
+desalination||(n)||sự khử mặn
+descend from||(v)||xuất thân từ, có nguồn gốc từ
+descendants||(n)||hậu duệ
+descend||(v)||xuất thân, có nguồn gốc
+descent||(n)||sự đi xuống
+desegregation||(n)||xóa bỏ phân biệt chủng tộc
+desertification||(n)||sa mạc hóa
+designated||(adj)||được chỉ định, được quy định rõ
+designed||(adj)||được thiết kế
+desirable||(adj)||đáng mong muốn
+desperately||(adv)||một cách tuyệt vọng, rất cần thiết
+destination||(n)||điểm đến
+destiny||(n)||số phận
+destroy||(v)||phá hủy
+detective||(n)||thám tử
+deterioration||(n)||sự xuống cấp
+determination||(n)||sự quyết tâm
+determined by||(phr.v)||được quyết định bởi
+determined||(adj)||kiên định, quyết tâm
+detractors||(n)||người phản đối, người chỉ trích
+devastating||(adj)||tàn phá, gây thiệt hại nghiêm trọng
+development||(n)||sự phát triển
+develop||(v)||phát triển
+deviance||(n)||sự lệch chuẩn, sai lệch
+devoid||(adj)||không có, thiếu
+devotion||(n)||sự tận tâm
+dexterity||(n)||sự khéo léo, khéo tay
+diagnosis||(n)||chẩn đoán
+dialects||(n)||phương ngữ
+dial||(v)||quay số
+diameter||(n)||đường kính
+dietary||(adj)||thuộc chế độ ăn uống
+differentiate||(v)||phân biệt
+difficult||(adj)||khó khăn
+diffraction||(n)||nhiễu xạ
+digitalized world||(phr)||thế giới số hóa
+digital||(adj)||kỹ thuật số
+digitised||adj||được số hóa
+digit||(n)||ngón (tay, chân)
+dignify||(v)||làm cho xứng đáng, làm cho trang trọng
+dilapidated||(adj)||tồi tàn, đổ nát
+diligently||(adv)||chăm chỉ, cần mẫn
+dimensions||(n)||kích thước
+dimension||(n)||kích thước
+diminishing||(adj)||giảm dần
+dim||(v)||làm mờ, làm giảm ánh sáng
+dioxide||(n)||dioxide
+diplomatic gifts||(phr)||quà tặng ngoại giao
+disabled||(adj)||tàn tật, khuyết tật
+disadvantaged||(adj)||bị thiệt thòi, khó khăn
+disadvantage||(n)||bất lợi
+disagreement||(n)||sự bất đồng
+disappeared||(v)||biến mất
+disappear||(v)||biến mất
+discipline||(n)||kỷ luật
+disconcert||(v)||làm bối rối, mất tự tin
+discovery learning||(n)||học khám phá
+discovery||(n)||sự phát hiện
+discover||(v)||khám phá
+discreetly||(adv)||một cách kín đáo, thận trọng
+discrete||(adj)||riêng biệt
+discretion||(n)||sự tự quyết
+discriminated||(v)||bị phân biệt đối xử
+discriminatory||(adj)||có tính phân biệt đối xử
+disembark||(v)||xuống tàu, lên bờ
+disempowered||(adj)||bị mất quyền kiểm soát
+disequilibrium||(n)||sự mất cân bằng
+disillusioned||(adj)||thất vọng, vỡ mộng
+disillusionment||(n)||sự vỡ mộng
+disillusion||(n)||sự vỡ mộng
+disincentive||(n)||sự làm nản chí, điều gây cản trở
+disintegrate||(v)||phân rã, tan rã
+disjunction||(n)||sự tách rời, không ăn khớp
+dislocation||(n)||trật khớp, sự sai lệch vị trí
+dismissed||(v)||bác bỏ
+disorderly||(adj)||mất trật tự
+disorder||(n)||rối loạn
+disorientated||(adj)||mất phương hướng
+disparate||(adj)||khác hẳn nhau
+dispatching||(v)||tiêu diệt, xử lý nhanh
+dispersal||(n)||sự phân tán
+dispiriting||(adj)||gây chán nản, làm mất tinh thần
+displacement||(n)||sự dịch chuyển
+disproportionately||(adv)||không cân xứng
+disproportionate||(adj)||quá mức, không cân xứng
+disprove||(v)||bác bỏ
+dispute||(v)||tranh cãi, nghi ngờ
+disputing||(v)||tranh luận, tranh cãi
+disregard||(v)||bỏ qua
+disreputable||(adj)||tai tiếng, mất uy tín
+disrupted||(adj)||bị gián đoạn
+disruption||(n)||sự gián đoạn
+disruptive||(adj)||gây gián đoạn, làm rối loạn
+disseminate||(v)||phổ biến, truyền bá
+dissemination||(n)||sự truyền bá, phổ biến
+dissertation||(n)||luận văn, luận án
+dissimilar||(adj)||khác nhau
+distance||(n)||khoảng cách
+distant||(adj) — xa xôi, hẻo lánh
+distaste||(n)||sự không thích, sự chán ghét
+distinction||(n)||sự phân biệt
+distinctiveness||(n)||sự khác biệt
+distinct||(adj)||riêng biệt, khác biệt
+distinguishing||(adj)||dễ phân biệt
+distortion||(n)||sự bóp méo, xuyên tạc
+distractible||(adj)||dễ bị phân tâm
+distress||(n)||sự đau khổ, phiền muộn
+distribution||(n)||sự phân bố
+disturbance||(n)||sự xáo trộn
+disturbing||(adj)||đáng lo ngại
+diurnal||(adj)||hoạt động về ban ngày
+diverge||(v)||phân tách, rẽ hướng
+diversify||(v)||đa dạng hóa
+diverted||(v)||chuyển hướng
+divine||(adj)||thiêng liêng, thần thánh
+documentary||(n)||phim tài liệu
+documented||(adj)||được ghi chép lại
+document||(v)||ghi nhận, ghi chép
+dogmatic||(adj)||giáo điều, độc đoán
+domestic consumption||(n)||tiêu thụ trong nước
+domesticate||(v)||thuần hóa
+domestic||(adj)||nội địa, trong gia đình
+dominance||(n)||sự thống trị, ưu thế
+dominant||(adj)||chiếm ưu thế
+dominated||(adj)||chiếm ưu thế
+donation||(n)||khoản quyên góp, sự đóng góp
+doubt||(v)||nghi ngờ
+downfall||(n)||sự sụp đổ
+downstream||(adv)||phía dưới (trong quá trình sản xuất)
+downward||(adj)||hướng xuống
+draining||(v)||rút nước
+dramatically||(adv)||đáng kể, đột ngột
+dramatic||(adj)||ấn tượng, nổi bật, rõ nét
+dredging||(n)||nạo vét (lòng sông, đáy biển)
+drivel||(n)||lời nói vô nghĩa, nhảm nhí
+dross||(n)||đồ bỏ đi, vật không giá trị
+droughts||(n)||hạn hán
+drought||(n)||hạn hán
+drudgery||(n)||(công việc cực nhọc, tẻ nhạt)
+du jour||(adj, phr)||hiện thời, đang thịnh hành
+dual-purpose||(adj)||đa năng, hai mục đích
+dub||(v)||đặt tên, gán cho tên
+duplex||(adj)||kép
+duplicating pads||(n)||giấy than, tấm sao chép
+duration||(n)||khoảng thời gian
+dwindling||(adj)||ngày càng giảm
+earnest||(adj)||nghiêm túc, chân thành
+ebony||(n)||gỗ mun
+eccentricities||(n)||sự lập dị
+eccentric||(adj)||lập dị, khác thường
+echolocation||(n)||định vị bằng sóng âm
+echo||(n)||(v)||tiếng vang; dội lại
+ecological barrier||(phr)||rào cản sinh thái
+ecologically unfit||(phr)||không phù hợp về mặt sinh thái
+ecologically||(adv)||một cách sinh thái
+ecological||(adj)||thuộc về sinh thái
+ecologist||(n)||nhà sinh thái học
+ecology||(n)||sinh thái
+economic activity||(n)||hoạt động kinh tế
+economic cycle||(phr)||chu kỳ kinh tế
+economic depression||(n)||suy thoái kinh tế
+economic pressure||(phr)||áp lực kinh tế
+economically||(adv)||về mặt kinh tế
+economical||(adj)||tiết kiệm, hiệu quả
+economic||(adj)||thuộc kinh tế
+economy||(n)||sự tiết kiệm, kinh tế
+ecosystem||(n)||hệ sinh thái
+ecotourism||(n)||du lịch sinh thái
+editorial||(n)||bài xã luận
+educational||(adj)||mang tính giáo dục
+educative||(adj)||có tính giáo dục
+effectiveness||(n)||hiệu quả
+effective||(adj)||hiệu quả
+effect||(n)||hiệu ứng, tác động
+efficiency||(n)||hiệu quả, năng suất
+efficient||(adj)||hiệu quả
+effluent||(n)||nước thải (từ nhà máy...)
+egalitarian||(adj)||bình đẳng, công bằng
+eke out||(v)||kiếm đủ sống, xoay xở đủ
+elaborate||adj||phức tạp, tỉ mỉ
+elastomeric||(adj)||có tính đàn hồi
+electrical short||(phr)||chập điện
+electricity||(n)||điện
+electromagnetic||(adj)||điện từ
+elegantly||(adv)||1 cách thanh lịch, tinh tế
+elegant||(adj)||thanh lịch, tinh tế
+elementary||(adj) — cơ bản, sơ đẳng
+elements||(n)||yếu tố, thành phần
+elevation||(n)||sự nâng cao (vị thế, tinh thần...)
+elicit||(v)||gợi ra, khơi ra
+elimination||(n)||sự loại bỏ
+ellipsoidal||(adj)||hình elip
+eloquently||(adv)||một cách hùng hồn
+elucidate||(v)||làm sáng tỏ
+elude||(v)||tránh khỏi, vượt khỏi tầm với
+elusive||(adj)||khó tìm, khó nắm bắt
+embankment||(n)||bờ kè, đê
+embarrassment||n||điều đáng xấu hổ
+embedded||(adj)||ăn sâu, gắn chặt
+embellish||(v)||trang điểm, tô điểm
+embryonic||(adj)||thuộc phôi thai
+embryo||(n)||phôi thai
+emerged||(v)||xuất hiện
+emergence||(n)||sự xuất hiện, sự nổi lên
+emergency||(n)||trường hợp khẩn cấp
+emergent||(adj)||mới nổi, đang phát triển
+eminent||(adj)||nổi tiếng, xuất chúng
+emissions||(n)||khí thải
+emission||(n)||khí thải, sự phát ra
+emit||(v)||phát ra (khí, ánh sáng, âm thanh)
+emotionally||(adv)||về mặt cảm xúc
+empathise||(v) — đồng cảm
+emphasised||(v)||nhấn mạnh
+emphasise||(v)||nhấn mạnh
+emphasis||(n)||sự nhấn mạnh
+emphysema||(n)||bệnh khí phế thũng
+employment||(n)||việc làm
+empower||(v)||trao quyền
+emptiness||(n)||sự trống trải
+emulate||(v)||mô phỏng, bắt chước để học tập
+emulsifier||(n)||chất nhũ hóa (giúp trộn chất lỏng không tan với nhau)
+enable||(v)||cho phép, tạo điều kiện
+enacted||(v)||ban hành (luật)
+encapsulated||(v)||tóm gọn, bao gồm
+encasement||(n)||sự bao bọc, vỏ bọc
+enclosed||(adj)||bao bọc
+enclosures||(n)||chuồng, khu vực bao quanh
+enclosure||(n)||khu vực rào lại, khu nuôi nhốt
+encompassed||(v)||bao gồm
+encountered||(v)||gặp phải
+encourages||(v)||khuyến khích
+encyclopaedia||(n)||bách khoa toàn thư
+encyclopaedic||(adj)||bao quát, toàn diện như bách khoa toàn thư
+endangered||(adj)||bị đe dọa tuyệt chủng
+endeavour||(n)||nỗ lực, sự cố gắng
+endemic species||(n)||loài đặc hữu
+endemic||(adj)||bản địa, chỉ có ở một khu vực nào đó
+endurance||(n)||sức chịu đựng, sức bền
+endures||(v)||chịu đựng, kéo dài
+enduring rejection||(phrase)||chịu đựng sự từ chối
+energy-saving||(adj)||tiết kiệm năng lượng
+energy||(n)||năng lượng
+enfranchised||(adj)||được trao quyền (bình chọn)
+engage in||v phr||tham gia vào
+engaged||(v)||tham chiến, tham gia (trận chiến)
+engaging||(adj)||lôi cuốn, hấp dẫn
+engender||(v)||gây ra, sinh ra
+engineering||(n)||kỹ thuật
+engrossed||(adj)||mải mê, chìm đắm
+enhanced||(adj)||được tăng cường, nâng cao
+enhancement||(n)||sự tăng cường, cải thiện
+enhancing||(v)||cải thiện, nâng cao
+enjoyment||(n)||sự thích thú
+enlarge||(v)||mở rộng
+enlist||(v)||tuyển dụng
+enormous||adj||to lớn
+enriched||(v)||làm giàu, bồi bổ
+enrolment||(n)||sự ghi danh, nhập học
+ensemble||(n)||(tập hợp, nhóm đồng bộ)
+ensuing||(adj)||xảy ra sau đó, tiếp theo
+enthusiasm||(n)||nhiệt huyết, sự hăng hái
+enthusiastically||(adv)||hăng hái, nhiệt tình
+entirety||(n)||toàn bộ, toàn thể
+entitled to||(phr)||có quyền làm gì
+entitled||(adj)||có quyền được hưởng
+entitlement||(n)||quyền lợi được hưởng
+entity||(n)||thực thể
+entrenched||(adj)||ăn sâu, bám chặt
+entrepreneurial||(adj)||mang tính kinh doanh, khởi nghiệp
+envelop||(v)||bao phủ, che kín
+environmental adaptation||(phr)||sự thích nghi môi trường
+environmental implication||(phr)||ảnh hưởng môi trường
+environmental leaders||(n)||lãnh đạo môi trường
+environmentalists||(n)||nhà môi trường học
+environmentalist||(n)||nhà hoạt động môi trường
+environmental||(adj)||thuộc môi trường
+environment||(n)||môi trường
+envision||(v)||hình dung, mường tượng
+ephemeral||(adj)||phù du, chóng tàn
+epidemic||(adj/n)||dịch bệnh, lan rộng
+epidemiologist||(n)||nhà dịch tễ học
+epigenetics||(n)||ngành di truyền biểu sinh
+epistemology||(n)||triết học nhận thức
+epitomize||(v)||tượng trưng, đại diện
+epoch||(n)||kỷ nguyên, thời đại
+equality||(n)||sự bình đẳng
+equal||(adj)||bằng nhau
+equilibration||(n)||quá trình cân bằng lại
+equip||(v)||trang bị
+equitable||(adj)||công bằng
+equity||(n)||sự công bằng
+equivalent||(adj)||tương đương
+eradicate||(v)||diệt trừ, xóa bỏ
+eradication||(n)||sự tiêu diệt, loại bỏ hoàn toàn
+erected||(v)||dựng lên, xây dựng
+erecting||(v)||xây dựng, dựng lên
+ergonomic||(adj)||hợp với sinh lý học lao động, tiện lợi cho người dùng
+eroded||(v)||bị xói mòn
+eroding||(v)||xói mòn, làm suy giảm
+erratically||(adv)||một cách thất thường, không theo quy luật
+erroneous||(adj)||sai lầm
+error-detecting||(adj)||phát hiện lỗi
+error-free||(adj)||không có lỗi
+eruption||(n)||(sự phun trào)
+escalating||(adj)||leo thang, tăng dần
+eschewed||(v)||tránh, kiêng kỵ
+essay||n||bài tiểu luận
+essence||(n)||bản chất, cốt lõi
+essential||(adj)||thiết yếu, cần thiết
+establishment||(n)||sự thành lập
+estimates||(n)||sự ước lượng
+estimate||(v)||ước lượng, ước tính
+estrangement||(n)||sự xa lạ, xa cách
+estuary||(n)||cửa sông
+eternity||(n)||sự vĩnh cửu
+ethereal||(adj)||mơ hồ, thoát tục
+ethnoarchaeology||(n)||khảo cổ học dân tộc học
+ethnography||(n)||nghiên cứu dân tộc học, khảo sát xã hội
+ethnology||(n)||dân tộc học
+ethos||(n)||giá trị nền tảng, đặc tính của tổ chức
+ethylene||(n)||etilen (một loại khí hydrocarbon)
+eugenics||(n)||thuyết ưu sinh
+evacuation||(n)||(sự sơ tán)
+evaporate||(v)||bay hơi
+ever-increasing||(adj)||ngày càng tăng
+evicted||(v)||bị đuổi khỏi nhà
+evidently||(adv)||rõ ràng là
+evident||(adj)||hiển nhiên, rõ ràng
+evocative||(adj)||gợi nhớ, gợi cảm giác
+evoke||(v)||gợi lên, khơi dậy
+evolutionary adaptation||(phr)||sự thích nghi tiến hóa
+evolutionary explanation||(n)||lời giải thích theo thuyết tiến hóa
+evolved||(v)||tiến hóa
+evolve||(v)||tiến hóa, phát triển dần
+exacerbated||(v)||làm trầm trọng thêm
+exacerbating||(v)||làm trầm trọng thêm
+exaggerated||(adj)||phóng đại
+exaggerate||(v)||phóng đại
+exam-orientated||(adj)||theo định hướng thi cử
+examinations||(n)||sự kiểm tra
+examination||(n)||kỳ thi, sự kiểm tra
+excavations||(n)||sự khai quật
+exceptional||(adj)||phi thường, hiếm có
+exception||(n)||ngoại lệ
+excessively||(adv)||quá mức, quá đáng
+excess||(n)||sự quá mức, vượt mức
+exchange||(n)||sự trao đổi
+excluded||(adj)||bị loại ra, không được tham gia
+exclude||(v)||loại trừ
+exclusively||(adv)||độc quyền, duy nhất
+exclusive||(adj)||không bao gồm, loại trừ
+excommunicated||(v)||bị khai trừ, loại trừ khỏi cộng đồng (thường là trong tôn giáo)
+excommunication||(n)||sự khai trừ (tôn giáo)
+excursion||(n)||chuyến tham quan, chuyến đi ngắn
+execute||(v)||thực hiện
+executive||(n)||giám đốc điều hành, nhân sự cấp cao
+exemplar||(n)||mẫu mực, điển hình
+exercise||(v)||tập thể dục
+exert||(v)||tác động, gây ảnh hưởng
+exhausting||(v)||làm cạn kiệt
+exhaustive||(adj)||toàn diện, thấu đáo
+exhaust||(n)||khí thải
+exhibition||(n)||triển lãm
+existence||(n)||sự tồn tại
+existing||(adj)||hiện có
+exotic||(adj)||ngoại lai, kỳ lạ
+expanded||(adj)||đã được mở rộng, nở ra
+expanding||(adj)||mở rộng
+expectancy||(n)||tuổi thọ
+expectantly||(adv)||một cách háo hức, mong chờ
+expectations||(n)||kỳ vọng
+expedition||(n)||cuộc thám hiểm, chuyến thăm dò
+expenditure||(n)||chi phí, sự tiêu dùng
+expense||(n)||chi phí
+experience||(n)||kinh nghiệm
+experimental||(adj)||thí nghiệm
+expertise||(n)||chuyên môn, kiến thức chuyên sâu
+explanations||(n)||lời giải thích
+expletive||(n)||lời chửi thề
+explicitly||(adv)||một cách rõ ràng, dứt khoát
+exploitation||(n)||sự khai thác, bóc lột
+explorer||(n)||nhà thám hiểm
+explore||(v)||khám phá, tìm hiểu
+exponentially||(adv)||một cách nhanh chóng theo cấp số nhân
+exporters||(n)||nước xuất khẩu
+exporter||(n)||nhà xuất khẩu
+exposed||(adj)||tiếp xúc
+exposes||(v)||phơi bày
+exposure (to something)||(n)||sự tiếp xúc, trải nghiệm với cái gì đó
+expression||(n)||sự biểu hiện
+extended||(adj)||kéo dài
+extend||(v)||mở rộng (thị trường, phạm vi)
+extension||(n)||phần mở rộng, sự kéo dài
+extensively||(adv)||một cách rộng rãi
+extensive||(adj)||(rộng rãi, bao quát)
+extent||(n)||mức độ
+external resources||(phr)||nguồn lực bên ngoài
+extinction||(n)||sự tuyệt chủng
+extinct||(adj)||tuyệt chủng
+extortionately||(adv)||cực kỳ đắt đỏ
+extracted||(adj)||chiết xuất
+extraction||(n)||sự chiết xuất, khai thác
+extraordinary||(adj)||phi thường, khác thường
+extravagance||(n)||sự phung phí
+extreme position||(phr)||quan điểm cực đoan
+extremely||(adv)||cực kỳ
+exuberant||(adj)||tràn đầy năng lượng, hồ hởi
+facade||(n)||mặt tiền tòa nhà
+facilitated||(adj)||được tạo điều kiện, được hỗ trợ
+facilitating||(v)||tạo điều kiện thuận lợi
+facilities||(n)||cơ sở vật chất, tiện nghi
+facility||(n)||khả năng, năng lực
+factor||(n)||yếu tố
+faculty||(n)||khả năng, năng lực
+false dawn||(n)||sự khởi đầu sai lầm
+famine||(n)||nạn đói
+fanatical||(adj)||cuồng nhiệt
+far-fetched||(adj)||khó tin, không hợp lý
+farm economy||(n)||nền kinh tế nông nghiệp
+fascinating||(adj)||hấp dẫn, thú vị
+fascination||(n)||sự say mê, sự cuốn hút
+fast (colourfast)||(adj)||bền màu, không phai
+fatal||(adj)||gây chết người
+fatigued||(adj)||mệt mỏi
+fatigue||(n)||sự mỏi, mỏi kim loại (trong kỹ thuật)
+fauna||(n)||động vật
+favorable||(adj)||thuận lợi
+favourable||(adj)||thuận lợi
+fearlessness||(n)||sự không sợ hãi
+fear||(n)||nỗi sợ
+feat||(n)||thành tựu, kỳ tích
+feeble||(adj)||yếu ớt, kém phát triển
+feedback||(n)||(phản hồi, tín hiệu phản hồi)
+fee||(n)||phí, lệ phí
+felt||(n)||vải nỉ
+femur||(n)||xương đùi
+fend for themselves||(phrase)||tự lo liệu, tự lo cho bản thân
+ferment||(v)||lên men
+ferry||(n)||phà
+fertilisation||(n)||sự thụ tinh
+fertiliser||(n)||phân bón
+fertilise||v||bón phân, làm màu mỡ
+feted||(adj)||được ca ngợi, được tán dương
+fiercely||(adv)||một cách dữ dội, mãnh liệt
+fierce||(adj)||mãnh liệt, dữ dội
+filter||(v)||lọc
+finance||(v)||tài trợ, cấp vốn
+financial incentive||(n)||động lực tài chính
+financialised||(adj)||tài chính hóa
+financiers||(n)||nhà tài chính
+fine-tuned||(adj)||được điều chỉnh tinh vi
+fireplace||(n)||lò sưởi
+firmament||(n)||bầu trời, thiên đàng
+firm||(adj)||cứng chắc, vững chắc
+firsthand||(adj/adv)||trực tiếp, tận mắt
+fisherman||(n)||ngư dân
+fixing eyes on||(phr)||tập trung nhìn vào
+flammable||(adj)||dễ cháy
+flange||(n)||mặt bích, gờ (trong kết cấu thép)
+fledging||(n)||thời kỳ chim non rời tổ và bắt đầu tự lập
+fleet||(n)||đoàn xe, đội tàu
+flexitime||(n)||giờ làm việc linh hoạt
+flight||(n)||sự tránh né
+flirtation||(n)||sự đùa giỡn, ve vãn (nghĩa bóng: thử nghiệm nhẹ nhàng với)
+float (on the stock exchange)||(v)||niêm yết cổ phiếu lên sàn chứng khoán
+floating around||(phr.v)||trôi nổi xung quanh
+flooding||(n)||lũ lụt
+floral||(adj)||thuộc về hoa
+flora||(n)||thực vật
+flower||(v)||nở hoa
+flow||(n)||sự mạch lạc, sự liên tục
+fluent||(adj) — thông thạo (ngôn ngữ)
+focal||(adj)||trung tâm, trọng tâm
+fodder||(n)||thức ăn cho gia súc
+foetal||(adj)||thuộc về thai nhi
+foetus||(n)||bào thai
+folklorist||(n)||nhà nghiên cứu văn hóa dân gian
+follow-up||(adj)||tiếp theo, theo dõi
+foodstuffs||(n)||thực phẩm
+foraging||(v)||kiếm ăn
+forceful||(adj)||mạnh mẽ, đầy thuyết phục
+forearm||(n)||cẳng tay
+foreign||(adj)||nước ngoài
+foremost||(adj)||quan trọng hàng đầu
+forensic||(adj)||thuộc pháp y, pháp chứng
+forestry||(n)||lâm nghiệp
+forests||(n)||rừng
+forest||(n)||rừng
+forge ahead||(phr.v)||tiến lên mạnh mẽ
+formally||(adv)||một cách chính thức
+formal||(adj)||chính thức, có quy tắc
+formation||(n)||sự hình thành
+formative||(adj)||có tính hình thành, phát triển
+formidable||(adj)||(đáng gờm, khó vượt qua)
+formulary||(n)||danh mục thuốc, tập đơn thuốc
+fortuitous||(adj)||tình cờ, may mắn
+forward-thinking||(adj)||có tầm nhìn xa, tiến bộ
+fossilized||(adj)||hóa thạch
+fossil||(adj)||hóa thạch
+fostered||(adj)||được nuôi dưỡng
+foundation||(n)||nền tảng
+fractional distillation||(n)||chưng cất phân đoạn
+fracture||(n)||(v)||chỗ gãy, vết nứt; làm gãy
+fragmentation||(n)||sự phân mảnh
+fragments||(n)||mảnh nhỏ, đoạn rời rạc
+fragrant||(adj)||thơm ngát
+fraud||(n)||gian lận
+freefall||(n)||sự suy giảm nhanh chóng
+freestanding||(adj)||đứng độc lập
+freight||(n)||hàng hóa vận tải
+frequencies||(n)||tần số
+frequently||(adv)||thường xuyên
+frequent||(adj)||thường xuyên
+frescoes||(n)||tranh tường
+fresh||(adj)||tươi, mới
+frictions||(n)||sự cọ xát, va chạm (ở đây: sự cản trở)
+friction||(n)||ma sát
+frigid||(adj)||rất lạnh, băng giá
+frond||(n)||lá rong biển
+frustrating||(adj)||gây khó chịu, bực bội
+fulfilment||(n)||sự hoàn thành, sự thỏa mãn
+fulfil||(v)||hoàn thành, thực hiện
+full-fledged||(adj)||đầy đủ phẩm chất, chính thức
+fumes||(n)||khói, hơi độc
+functional multilingualism||(phr)||đa ngôn ngữ chức năng
+functioning||(adj)||hoạt động, vận hành
+fundamentally||(adv)||về cơ bản, căn bản
+fundamental||(adj)||cơ bản, nền tảng
+funding||(n)||kinh phí
+fund||(v)||cấp vốn, tài trợ
+furnish||(v)||cung cấp
+fuse||(v)||kết hợp, hòa trộn
+garbage||(n)||rác thải
+garret||(n)||gác xép
+garrison||(n)||đồn trú quân
+garrulous||(adj) — lắm lời, ba hoa
+garth||(n)||khu đất hoặc chuồng, nơi nuôi/giữ cá
+gauge||(v)||đánh giá
+gear towards||(v)||hướng tới, nhắm tới
+geared to||(phr.v)||hướng tới, phù hợp với
+gel-forming||(adj)||tạo gel
+generalise||(v)||khái quát hóa
+generalize||(v)||khái quát hóa
+generation||(n)||thế hệ
+genetic distance||(n)||khoảng cách di truyền
+genetic programming||(n)||sự lập trình di truyền
+genetic||(adj)||thuộc về di truyền
+genius||(n)||thiên tài
+genus||(n)||chi (phân loại sinh học)
+geographical||(adj)||thuộc về địa lý
+geographic||(adj)||thuộc địa lý
+geography||(n)||địa lý
+geological||(adj)||thuộc về địa chất
+geometric||(adj)||thuộc về hình học
+gestation||(n)||thời kỳ thai nghén
+gesticulation||(n)||sự ra hiệu, cử chỉ tay
+gestures||(n)||cử chỉ
+gilt||(adj)||mạ vàng
+gimmick||(n)||chiêu trò thu hút
+girder||(n)||dầm thép (của cầu, nhà)
+glaciers||(n)||sông băng
+glaring||(adj)||rõ ràng (theo nghĩa tiêu cực), lộ liễu
+glazing||(n)||lớp kính
+glimpse||(n)||cái nhìn lướt qua, thoáng qua
+glitter||(v)||lấp lánh, lóng lánh
+global coordination||(phr)||sự phối hợp toàn cầu
+global warming||(n)||sự nóng lên toàn cầu
+globalisation||(n)||toàn cầu hóa
+globalization||(n)||toàn cầu hóa
+glossary||(n)||bảng chú giải thuật ngữ
+glossy||(adj)||bóng, sáng bóng
+glued together||(phr.v)||dán lại với nhau
+go awry||(v phrase)||trở nên sai lệch, hỏng hóc
+go to great lengths||(phrase)||nỗ lực rất nhiều, làm mọi cách để đạt được
+goal-posts||(n)||tiêu chí (ẩn dụ)
+good intentions||(phr)||ý định tốt
+governmental||(adj)||thuộc chính phủ
+grab attention||(phr)||thu hút sự chú ý
+grade||(n)||cấp độ, loại
+gradient||(n)||độ dốc
+gradually||(adv)||dần dần
+gradual||(adj)||từ từ, dần dần
+graffiti||(n)||hình vẽ/bức vẽ trên tường
+grain||(n)||ngũ cốc
+grandson||(n)||cháu trai
+grand||(adj)||đồ sộ, trang nghiêm
+granite||(n)||đá granite
+granules||(n)||hạt nhỏ, viên nhỏ
+graphite||(n)||than chì
+graphologist||(n)||người phân tích chữ viết tay
+gravitational||(adj)||thuộc về trọng lực
+gravitation||(n)||lực hấp dẫn
+graziers||(n)||người chăn nuôi gia súc (đặc biệt là ở Úc)
+greatly||(adv)||rất nhiều
+greenfield||(adj)||(n)||(thuộc) đất chưa từng xây dựng
+greenhouse emissions||(n)||khí thải nhà kính
+greenhouse gas emissions||(n)||khí thải gây hiệu ứng nhà kính
+greenhouse||(adj/n)||nhà kính
+gregarious||(adj)||thích giao du, hòa đồng
+grinding||(n)||sự nghiền, mài
+gripping||(adj)||hấp dẫn, thu hút
+groan||(v)||rên rỉ, than vãn
+groove||(n)||rãnh, khe
+grossly||(adv)||một cách nghiêm trọng, quá mức
+groundbreaking||(adj)||đột phá, mang tính cách mạng
+grounding||(n)||nền tảng cơ bản
+groundwater||(n)||nước ngầm
+ground||(v)||mài mòn
+growing||(adj)||ngày càng tăng
+guesswork||(n)||sự phỏng đoán
+guidance||(n)||sự hướng dẫn
+gullibly||(adv)||một cách cả tin
+guzzling||(v)||uống hoặc tiêu thụ nhiều (nhiên liệu)
+habitable||(adj)||(có thể ở được)
+habitat destruction||(n)||sự phá hủy môi trường sống
+habitual||(adj)||thói quen, thường lệ
+haemoglobin||(n)||huyết sắc tố
+half-life||(n)||thời gian bán hủy
+hallucination||(n)||ảo giác (do bệnh hoặc thuốc)
+halted||(v)||dừng lại, ngăn chặn
+halve||(v)||giảm một nửa
+hand labour||(n)||lao động thủ công
+handicap||(n)||trở ngại
+handling||(n)||sự xử lý
+harassment||(n)||sự quấy rối
+harbor||(n)||cảng
+harbour||(v)||nuôi dưỡng (ý nghĩ, cảm xúc, thường là tiêu cực)
+hard-wired||(adj)||được lập trình sẵn, ăn sâu
+hardened||(adj)||được làm cứng lại
+hardness||(n)||độ cứng
+hardwood||(n)||gỗ cứng (từ cây lá rộng)
+harmoniousness||(n)||sự hài hòa
+harmonization||(n)||sự hài hòa, thống nhất
+harvested||(v)||thu hoạch
+harvesting||(n)||thu hoạch
+harvest||(n)||mùa thu hoạch, sản lượng
+haulage||(n)||vận tải hàng hóa đường bộ hoặc đường sắt
+haul||(v)||kéo, vận chuyển
+haunting||(adj)||gây ám ảnh, không nguôi
+hazardous||(adj)||nguy hiểm
+hazard||(n)||(mối nguy hiểm)
+headwinds||(n)||gió ngược
+health||(n)||sức khỏe
+heart-warming||(adj)||ấm lòng
+hearth||(n)||chỗ đặt lò sưởi
+heave||(v)||nhấc, kéo mạnh
+heightened||(adj) — tăng cường, được nâng cao
+height||(n)||chiều cao
+helm||(n)||vị trí lãnh đạo
+hemisphere||(n)||bán cầu (não hoặc địa cầu)
+herbivore||(n)||động vật ăn cỏ
+herbivorous||(adj)||ăn cỏ
+herbs||(n)||các loại thảo mộc
+heredity||(n)||tính di truyền
+heritability||(n)||tính di truyền (khả năng một đặc điểm được truyền lại)
+heritage||(n)||di sản
+heterodox||(adj)||dị giáo, không chính thống
+heterogeneous||(adj)||đa dạng, không đồng nhất
+hexamethylenediamine||(n)||hexametylenđiamin (hóa chất dùng trong tổng hợp polymer)
+heyday||(n)||thời kỳ hoàng kim
+hiccup||(n)||trục trặc nhỏ, sự gián đoạn tạm thời
+hierarchically||(adv)||theo thứ bậc, có hệ thống cấp bậc
+hierarchy||(n)||hệ thống cấp bậc
+high-rise||(n/adj)||nhà cao tầng
+highway||(n)||đường cao tốc
+hindrance||(n)||trở ngại, cản trở
+hinged||(adj)||có bản lề
+historic||(adj)||có tính lịch sử
+hitherto||(adv)||cho đến nay
+holdfast||(n)||bộ phận giữ rong biển bám vào đá
+holistically||(adv)||một cách toàn diện (thân–tâm–trí)
+holistic||(adj)||tổng thể, toàn diện
+hollow||(adj)||rỗng
+homicide||(n)||tội giết người
+homogeneity||(n)||tính đồng nhất
+homogeneous||(adj)||đồng nhất
+homogenising||(n)||đồng nhất hóa
+honorary||(adj)||danh dự (không kèm thù lao thực tế)
+horizons||(n)||đường chân trời
+horizontal||(adj)||nằm ngang
+horizon||(n)||phạm vi, tầm nhìn (ở đây nghĩa bóng: phạm vi trải nghiệm, cơ hội)
+hormone||(n)||hóc-môn
+horticultural||(adj)||thuộc về làm vườn, trồng trọt
+horticulturist||(n)||nhà làm vườn, chuyên gia làm vườn
+hostile||(adj)||thù địch, chống đối
+hue||(n)||sắc thái, màu sắc
+human-induced||(adj)||do con người gây ra
+humidity||(n)||độ ẩm
+humiliation||(n)||sự làm nhục, sự bẽ mặt
+humility||(n)||sự khiêm tốn
+hunker down||(phr.v)||trú ẩn, rút lui
+hurricane||(n)||(bão lớn, cuồng phong)
+hydrophobic||(adj)||kỵ nước, không tan trong nước
+hydropower||(n)||thủy điện
+hygiene||(n)||vệ sinh
+hyper-saline||(adj)||quá mặn
+hyperlethal||(adj)||cực kỳ gây chết người
+hype||(n)||sự cường điệu
+hypnotic||(adj)||mê hoặc, gây thôi miên
+hypothalamus||(n)||vùng dưới đồi (trong não)
+hypotheses||(n)||giả thuyết (số nhiều)
+hypothesised||(v)||giả thuyết
+iconic||(adj)||mang tính biểu tượng
+icons||(n)||biểu tượng
+idealistic||(adj)||lý tưởng hóa
+identical||(adj)||giống hệt nhau
+identifiable||(adj)||có thể nhận dạng được
+identification||(n)||sự nhận dạng
+identified with||phr v||gắn liền với
+idiosyncrasy||(n)||đặc điểm riêng, thói quen riêng
+idiosyncratic||(adj)||đặc thù, lập dị
+idling||(adj)||chạy không tải (động cơ)
+ignition||(n)||sự đánh lửa
+ignorance||(n)||sự thiếu hiểu biết
+ignore||(v)||phớt lờ, bỏ qua
+illness||(n)||bệnh tật
+illusion||(n)||ảo giác
+illustrated||(v)||minh họa
+illustrate||(v)||minh họa
+illustration||(n)||minh họa
+imagery||(n)||hình ảnh (ẩn dụ hoặc tượng trưng)
+imagination||(n)||trí tưởng tượng
+imaginatively||(adv)||một cách sáng tạo, giàu tưởng tượng
+imagine||(v)||tưởng tượng
+imbalance||(n)||sự mất cân bằng
+imitate||(v)||bắt chước, mô phỏng
+immeasurable||(adj)||không đo lường được, vô cùng lớn
+immemorial||(adj)||xa xưa, từ thời cổ đại
+immense||(adj)||rất lớn, mênh mông
+immersed||(adj)||đắm chìm, mải mê
+immigration||(n)||sự nhập cư
+immobile||(adj)||bất động, không di chuyển được
+immortalise||(v)||làm cho bất tử, làm cho lưu danh muôn thuở
+immune system||(n)||hệ miễn dịch
+immune-system||(n)||hệ miễn dịch
+immune||(adj)||miễn nhiễm
+immunisations||(n)||tiêm chủng
+immunity||(n)||sự miễn dịch
+immunologically||(adv)||về mặt miễn dịch
+impacts||(n)||tác động
+impact||(n)||tác động
+impaired||(adj)||bị suy giảm, bị tổn hại
+impede||(v)||cản trở, làm chậm lại
+impediment||(n)||trở ngại, sự cản trở
+impending||(adj)||sắp xảy ra, cận kề
+impenetrable||(adj)||bất khả xâm nhập, rậm rạp
+imperial monopoly||(phr)||độc quyền hoàng gia
+impetus||(n)||sự thúc đẩy, động lực
+impinge||(v)||ảnh hưởng xấu
+implausible||(adj)||không hợp lý
+implemented||(v)||thực thi
+implications||(n)||hàm ý, tác động
+implicit||(adj)||ngấm ngầm, tiềm ẩn
+implying||(v)||ngụ ý
+importance||(n)||tầm quan trọng
+import||(v)||nhập khẩu
+imposed||(v)||áp đặt
+impoverished||(adj)||nghèo khó
+impression||(n)||dấu ấn, vết hằn
+impressive||(adj)||ấn tượng
+improvement||(n)||sự cải tiến, cải thiện
+impulse||(n) — xung động, thôi thúc
+impulsive||(adj) — bốc đồng, theo cảm hứng
+impurities||(n)||tạp chất
+in earnest||(idiom)||một cách nghiêm túc
+in the throes of||(phrase)||trong cơn (khó khăn, biến động...)
+in-built||(adj)||được tích hợp sẵn
+in-group||(n)||nhóm đồng loại, nhóm thân thuộc
+inaccessible||(adj)||khó tiếp cận, không thể đến được
+inadequate||(adj)||không đầy đủ, không thỏa đáng
+inadvertently||(adv)||vô ý, không cố ý
+inappropriate||(adj)||không phù hợp
+inaugurate||(v)||khai mạc, mở đầu
+inauguration||(n)||lễ khánh thành, lễ khai mạc
+inbreeding||(n)||giao phối cận huyết
+incalculable||(adj)||không thể tính toán được, vô kể
+incarnations||(n)||hiện thân
+incendiary||(adj)||gây cháy
+inception||(n)||sự khởi đầu
+incidence||(n)||tỷ lệ xảy ra (thường dùng cho bệnh, vấn đề)
+incident||(n)||sự việc, vụ việc
+inclined||(adj)||nghiêng
+included||(adj)||được bao gồm
+inclusions||(n)||vật thể lẫn vào
+inclusive||(adj)||bao gồm nhiều thành phần
+incomprehension||(n)||sự không hiểu
+inconceivable||(adj)||không thể tưởng tượng nổi, khó tin
+incongruity||(n)||sự không phù hợp, sự phi lý
+incorporated||(adj)||được kết hợp
+incorporating||(v)||kết hợp
+increasingly||adv||ngày càng
+indentations||(n)||vết lõm, khuyết
+indentation||(n)||vết lõm
+independence||(n)||sự độc lập
+independent||(adj)||độc lập
+indestructibility||(n)||sự không thể phá hủy
+indicative||(adj)||biểu thị, chỉ ra
+indicator||(n)||chỉ số, dấu hiệu
+indifference||(n) — sự thờ ơ, không quan tâm
+indigestion||(n)||chứng khó tiêu
+indiscriminate||(adj)||bừa bãi, không phân biệt
+indisputable||(adj)||không thể chối cãi
+individualism||(n)||chủ nghĩa cá nhân
+individualistic||(adj)||mang tính cá nhân
+individuals||(n)||cá thể, cá nhân
+individual||n||cá thể
+indulge||(v)||tự cho phép hưởng thụ
+industrial revolution||(n)||cuộc cách mạng công nghiệp
+industrialisation||(n)||công nghiệp hóa
+industrialise||(v)||công nghiệp hoá
+industrial||(adj)||thuộc công nghiệp
+industry||(n)||ngành công nghiệp
+ineffective||(adj)||không hiệu quả
+inequity||(n)||sự bất công, không công bằng
+inert||(adj)||trơ, không hoạt động, không phản ứng
+inevitability||(n)||tính tất yếu
+inexpensive||(adj)||rẻ, không đắt
+inextricably||(adv)||không thể tách rời
+infallible||(adj)||không thể sai, luôn đúng
+infancy||(n)||giai đoạn sơ khai
+infant industry||(n)||ngành công nghiệp non trẻ
+inferior||(adj)||kém hơn, thua kém
+inferred||(v)||suy ra, kết luận
+infertility||(n)||vô sinh
+infested||(adj)||bị xâm nhập, bị phá hoại (bởi sâu bọ, dịch bệnh)
+inflammable||(adj)||dễ cháy (đồng nghĩa với flammable)
+inflammatory||(adj)||gây viêm
+inflate||(v)||làm phồng lên
+influential||(adj)||có ảnh hưởng
+influenza||(n)||bệnh cúm
+infra-red||(adj)||tia hồng ngoại
+ingenuity||(n)||sự khéo léo, tài trí
+inhabitants||(n)||cư dân
+inhabited||(adj)||có người sinh sống
+inhaling||(v)||hít vào
+inherently||(adv)||vốn dĩ, vốn có
+inheritance||(n)||sự thừa hưởng, sự di truyền
+inherited||(adj)||được thừa hưởng
+inhibitors||(n)||chất ức chế
+inhospitable||(adj)||khắc nghiệt, không hiếu khách (môi trường sống)
+initially||(adv)||ban đầu
+initial||(adj)||ban đầu
+initiated||(v)||khởi xướng
+initiation||(n)||nghi thức kết nạp (vào nhóm)
+initiatives||(n)||sáng kiến
+injured||(adj)||bị thương
+inquiry||(n)||cuộc điều tra, khảo sát
+inroads||(n)||bước tiến, thành tựu ban đầu
+inscribe||(v)||khắc, ghi
+insecurity||(n)||sự bất an, thiếu an toàn
+inspection||(n)||sự kiểm tra, giám sát
+inspect||(v)||kiểm tra, quan sát kỹ
+inspire||(v)||truyền cảm hứng
+instability||(n)||sự không ổn định
+installation||(n)||sự lắp đặt
+installing||(v)||lắp đặt
+install||(v)||lắp đặt
+instalments||(n)||khoản trả góp
+instantaneous||(adj)||ngay lập tức
+instil||(v)||truyền dẫn (ý nghĩ, cảm xúc)
+instinctive||(adj)||bản năng
+institutional structure||(n)||cấu trúc thể chế
+institutionalisation||(n)||sự thể chế hóa, đưa vào hệ thống chính thức
+institutionalised||(adj)||được tổ chức thành thể chế
+institutions||(n)||tổ chức
+instruction||(n)||sự hướng dẫn
+instrumental||(adj)||đóng vai trò phương tiện, có tác dụng quan trọng
+instrument||(n)||dụng cụ (ở đây là dụng cụ định vị)
+insularity||(n)||sự hẹp hòi, không cởi mở
+insulate||(v)||cách ly, bảo vệ khỏi tác động bên ngoài
+insulating||(adj)||cách nhiệt, cách điện
+insulation||(n)||sự cách nhiệt, cách điện
+insulator||(n)||chất cách điện
+intact||(adj)||nguyên vẹn
+integrated||(adj)||tích hợp, hợp nhất
+integrating||(v)||tích hợp
+integrity||(n)||tính chính trực, liêm chính
+intellectual property||(n)||tài sản trí tuệ
+intelligence||(n)||trí thông minh
+intelligent||adj||thông minh
+intensely||(adv)||một cách mãnh liệt
+intensified||(v)||làm tăng cường
+intensity||(n)||cường độ, mức độ mạnh
+intensively||(adv)||một cách chuyên sâu
+interaction||(n)||sự tương tác
+interbreeding||(n)||sự giao phối giữa các quần thể
+interchangeably||(adv)||có thể thay thế cho nhau
+interchange||(n)||sự trao đổi qua lại
+interconnected||adj||có liên kết với nhau
+interdependent||(adj)||phụ thuộc lẫn nhau
+interesting||(adj)||thú vị
+interest||(n)||sự quan tâm
+interference||(n)||sự can thiệp, nhiễu sóng
+interfere||(v)||can thiệp, gây trở ngại
+interferometer||(n)||giao thoa kế (dụng cụ đo dựa trên hiện tượng giao thoa)
+interglacials||(n)||các thời kỳ ấm xen kẽ giữa các kỷ băng hà
+interiorise||(v)||nội tâm hóa, tiếp nhận vào bên trong
+interloper||(n)||kẻ xen vào, kẻ xâm nhập
+intermediary||(n)||người trung gian
+interminable||(adj)||dường như không bao giờ kết thúc
+intermodal||(adj)||đa phương thức (vận tải)
+interpersonal||(adj)||giữa các cá nhân
+interplay||(n)||sự tác động qua lại
+interpreters||(n)||thông dịch viên
+intervention||(n)||sự can thiệp
+interview||(v)||phỏng vấn
+intestines||(n)||ruột
+intimately||(adv)||một cách sâu sắc, thân mật
+intimidated||(v)||bị đe dọa
+intimidate||(v)||đe dọa, hăm dọa
+intimidation||(n)||sự đe doạ, hăm doạ
+intricately||adv||một cách phức tạp
+intriguing||(adj)||hấp dẫn, gợi sự tò mò
+introduction||(n)||sự giới thiệu
+intrusion||(n)||sự xâm nhập, sự làm phiền
+intrusive||(adj)||xâm nhập, gây phiền nhiễu
+intuition||(n)||trực giác
+intuitively||(adv)||một cách trực giác
+intuitive||(adj)||trực giác
+invaluable||(adj)||vô giá, rất quý
+invariably||(adv)||luôn luôn, lúc nào cũng
+invasive||(adj)||xâm lấn, lan tràn
+inveigle||(v)||dụ dỗ, thuyết phục (một cách tinh vi)
+inventive||(adj)||sáng tạo, giàu ý tưởng
+invent||(v)||phát minh
+inverted||(adj)||đảo ngược
+investigated||(v)||điều tra, nghiên cứu
+investigation||(n)||cuộc điều tra, nghiên cứu
+involvement||(n)||sự tham gia, sự dính líu
+ironically||(adv)||một cách trớ trêu
+irony||(n)||sự mỉa mai, châm biếm
+irregularities||n||điểm bất thường, sự không đều
+irregular||(adj)||không đều, không đều đặn
+irrelevant||(adj)||không liên quan
+irresistible||(adj)||không thể cưỡng lại được
+irrespective||(adj)||bất kể
+irritability||(n)||tính dễ cáu, dễ bị kích thích
+irritate||(v)||kích thích, làm khó chịu
+islands||(n)||đảo
+isolated||(adj)||bị cô lập
+ivory||(n)||ngà voi
+jargon||(n)||thuật ngữ chuyên ngành
+jeopardise||(v)||gây nguy hiểm, đe dọa
+joint venture||(n)||liên doanh
+joked||(v)||đùa cợt
+journalist||(n)||nhà báo
+judgement||(n)||sự phán xét
+judgment||(n)||sự đánh giá, phán đoán
+judiciously||(adv)||một cách sáng suốt, đúng đắn
+judicious||(adj)||khôn ngoan, sáng suốt
+jungle||(n)||rừng rậm
+juniper wood||(n)||gỗ cây bách xù
+jury||(n)||bồi thẩm đoàn, ban giám khảo
+justified||(v)||biện minh
+juvenile||(adj)||thuộc về tuổi vị thành niên, chưa trưởng thành (dùng cho động vật hoặc con người)
+kaleidoscope||(n)||kính vạn hoa (nghĩa bóng: sự thay đổi liên tục)
+keen||(adj)||mãnh liệt, say mê
+knowledge||(n)||kiến thức
+labour-intensive||(adj)||sử dụng nhiều lao động
+labour-saving||(adj)||tiết kiệm sức lao động
+labyrinth||(n)||mê cung, mạng lưới phức tạp
+laden (with)||(adj)||chứa đầy, chất đầy
+laden with||(adj)||chất đầy, nặng trĩu
+lagoons||(n)||đầm phá
+laissez-faire||(n)||chính sách không can thiệp
+lake||(n)||hồ
+lamination||(n)||quá trình cán mỏng, ép nhiều lớp
+landfill||(n)||bãi chôn lấp rác
+landlord||(n)||chủ đất
+language stages||(phr)||các giai đoạn học ngôn ngữ
+language translation||(n)||dịch ngôn ngữ
+lateralised||(adj)||được chuyên biệt hóa về một bán cầu não
+latitude||(n)||vĩ độ
+layout||(n)||bố cục, sơ đồ
+leader in||(phr)||lãnh đạo trong lĩnh vực
+leads||(n)||dấu hiệu, dấu vết
+lead||(n)||manh mối
+lease of life||(n phr)||sức sống mới
+leather||(n)||da thuộc
+lecturer||(n)||giảng viên
+left out||(phrase)||bị loại ra, bị bỏ rơi, không được tham gia
+legacy||(n)||di sản
+legal advice||(n)||tư vấn pháp lý
+legend||(n)||truyền thuyết
+legion||(n)||(đoàn, số lượng lớn)
+legislation||(n)||pháp luật, quy định
+legitimacy||(n)||tính hợp pháp, sự chính đáng
+leisure||(n)||thời gian rảnh rỗi
+lengthening||(adj)||kéo dài
+lethal||(adj)||chết người, gây chết
+lettering||(n)||kiểu chữ, chữ viết tay hoặc in trên biển bảng
+leukaemia||(n)||bệnh bạch cầu
+leukemia||(n)||bệnh bạch cầu
+levied||(v)||đánh thuế
+lexical||(adj)||thuộc từ vựng
+lexicographer||(n)||người biên soạn từ điển
+liaison||(n)||người liên lạc, sự liên kết
+liberates||(v)||giải phóng
+liberation||(n)||sự giải phóng
+lifecycle||(n)||vòng đời
+lifestyle||(n)||lối sống
+lighterman||(n)||người điều khiển xà lan (thuyền chở hàng nhẹ)
+lightning||(n)||tia chớp
+likelihood||(n)||khả năng, xác suất
+likely||(adj)||có khả năng
+limestone||(n)||đá vôi
+limitless||(adj)||không giới hạn
+lineage||(n)||dòng dõi, thế hệ
+linger||(v)||nán lại, chần chừ
+lingua franca||(n)||ngôn ngữ chung
+linguistic nationalism||(phr)||chủ nghĩa dân tộc ngôn ngữ
+linguistic||(adj)||thuộc ngôn ngữ học
+linguists||(n)||nhà ngôn ngữ học
+linguist||(n)||nhà ngôn ngữ học
+liquidate||(v)||thanh lý, giải thể
+literacy||(n)||trình độ học vấn, khả năng đọc viết
+literary wasteland||(n)||vùng đất cằn cỗi về văn học (ẩn dụ)
+literati||(n)||giới trí thức, văn nhân
+lithography||(n)||kỹ thuật in thạch bản
+livable||(adj)||đáng sống, thích hợp để sống
+livelihoods||(n)||kế sinh nhai
+livestock||(n)||gia súc
+load-bearing||(adj)||chịu lực
+lobbies||(v)||vận động hành lang
+locality||(n)||khu vực, địa phương
+logging||(n)||khai thác gỗ
+logistical||(adj)||thuộc hậu cần
+lonely||(adj)||cô đơn
+long-term||(adj)||dài hạn
+longitudinal||(adj)||dài hạn, theo dõi trong thời gian dài
+looped||(adj)||bị lặp lại liên tục
+looting||(n)||sự cướp bóc
+lopsidedness||(n)||sự mất cân đối
+low birth-weight||(adj)||cân nặng sơ sinh thấp
+lower energy content||(n)||hàm lượng năng lượng thấp hơn
+loyalty||(n)||lòng trung thành
+lunatic fringe||(n)||nhóm người điên rồ, cực đoan
+lushness||(n)||sự tươi tốt, sum suê
+lustrous||(adj)||bóng loáng, sáng bóng
+luxuriant||(adj)||sum suê, tươi tốt
+luxurious||(adj)||sang trọng
+luxury||(n)||xa xỉ phẩm, sự xa hoa
+machete||(n)||dao phay, dao rựa
+magma||(n)||magma, dung nham
+magnetic||(adj)||thuộc từ tính
+magnificent||(adj)||tráng lệ, nguy nga
+magnified||(adj)||được phóng đại
+magnitude||(n)||tầm quan trọng, quy mô lớn
+maim||(v)||làm tàn tật
+mainland||(n)||đất liền
+maintained||(v)||duy trì
+maintaining||(v)||duy trì
+maintenance||(n)||bảo trì, bảo dưỡng
+major||(adj)||lớn, quan trọng
+make-believe||(adj)||(n)||giả tưởng, tưởng tượng
+makeshift||(adj)||tạm thời
+malevolent||(adj)||có ác ý
+malleable||(adj)||dễ uốn, dễ thay đổi
+maltreated||(v)||ngược đãi
+mammal||(n)||động vật có vú
+manageable||(adj)||có thể quản lý được
+management||(n)||sự quản lý
+manage||(v)||xoay xở, xử lý được
+mandated||(adj)||được chỉ định, được ủy quyền
+mandate||(v)||ra lệnh, ủy quyền
+manicured||(adj)||được chăm sóc kỹ lưỡng
+manifestations||(n)||biểu hiện
+manifestation||(n)||sự biểu hiện
+manifesting||(v)||biểu hiện, thể hiện rõ
+manifest||(v)||biểu hiện, thể hiện
+manifold||(adj)||(nhiều, đa dạng)
+manipulating||(v)||điều khiển (một cách khéo léo, thường là không trung thực)
+manipulation||(n)||sự điều khiển, thao túng
+manmade fibres||(phr)||sợi nhân tạo
+manoeuvre||(n)||động tác khéo léo, thao tác
+mantelpiece||(n)||kệ lò sưởi
+manual||(adj)||thủ công, bằng tay
+manufacturer||(n)||nhà sản xuất
+manufacture||(v)||sản xuất, chế tạo
+manufacturing||(n)||sự sản xuất
+manuscript||(n)||bản thảo
+marathon||(n)||cuộc chạy đua đường dài (ẩn dụ: quá trình lâu dài)
+march||(n)||cuộc tuần hành
+margin of error||(n)||mức sai số
+marginalisation||(n)||sự gạt ra ngoài lề
+margin||(n)||lợi nhuận biên
+mariners||(n)||thủy thủ
+markers||(n)||dấu hiệu, biểu tượng
+marketing||(n)||tiếp thị
+marketplace||(n)||thị trường
+marshy||(adj)||lầy lội
+marsupial||(n)||động vật có túi
+marvels||(n)||điều kỳ diệu, tuyệt tác
+marvel||(n)||điều kỳ diệu
+mash||(v)||nghiền nát
+mass production||(phr)||sản xuất hàng loạt
+mastering||(v)||thành thạo
+mastery||(n)||sự thành thạo
+master||(v)||thành thạo, làm chủ
+materialise||(v)||xuất hiện, thành hiện thực
+materials||(n)||vật liệu
+mathematical||(adj)||thuộc toán học
+matriarch||(n)||người phụ nữ đứng đầu gia đình hoặc bộ lạc
+mealy bugs||(n)||rệp sáp (sâu bệnh hại cây)
+mechanical pencils||(phr)||bút chì cơ khí
+mechanical||(adj)||(thuộc) cơ học, máy móc
+mechanic||(n)||cách thức vận hành, cơ chế
+mechanisms||(n)||cơ chế
+mechanism||(n)||cơ chế
+medal||(n) — huy chương
+medicinal||(adj)||thuộc về y học, chữa bệnh
+mediocre||(adj)||tầm thường, bình thường
+mega fauna||(n)||các động vật lớn
+melting||(n)||sự tan chảy
+members||(n)||thành viên
+memorised||(adj)||đã được ghi nhớ
+memorise||(v)||ghi nhớ
+menace||(n)||mối đe dọa
+mental||(adj)||tinh thần
+mercenary||(adj)||(n)||lính đánh thuê
+merchandise||(n)||hàng hóa
+mercury||(n)||nhiệt kế (trong ngữ cảnh: mức nhiệt đo được)
+messenger||(n)||chất truyền tin, sứ giả
+metabolism||(n)||quá trình trao đổi chất
+metamorphose||(v)||biến thái, biến đổi hình dạng
+metaphorical||(adj)||nghĩa bóng, ẩn dụ
+meteorologist||(n)||nhà khí tượng học
+method||(n)||phương pháp
+metric tonne||(n)||tấn (đơn vị đo khối lượng)
+metropolitan||(adj)||thuộc về đô thị lớn
+micro-evolution||(n)||vi tiến hóa
+microbe||(n)||vi sinh vật
+microscope||(n)||kính hiển vi
+microwave||(n)||vi sóng
+middlemen||(n)||người môi giới, trung gian
+mighty||(adj)||hùng mạnh, quyền lực
+migrated||(v)||di chuyển, di cư
+migration||(n)||sự di cư
+migratory||(adj)||di cư, di chuyển theo mùa
+milestone||(n)||cột mốc quan trọng
+millennia||(n)||hàng nghìn năm
+mimicked||(v)||bắt chước, sao chép hành vi
+mimic||(v)||(bắt chước)
+mind-set||(n)||tư duy, quan điểm
+miniaturisation||(n)||(sự thu nhỏ, sự làm nhỏ lại)
+minimal||(adj)||tối thiểu
+minimise||(v)||giảm thiểu
+minimising||(v)||giảm thiểu
+minimize||(v)||giảm thiểu
+minimum||(n)||mức tối thiểu
+minority||(adj)||thiểu số
+minuscule||(adj)||rất nhỏ, nhỏ xíu
+misbehavior||(n)||hành vi sai trái
+misconception||(n)||quan niệm sai lầm
+misconduct||(n)||hành vi sai trái
+misdirected||(v)||sử dụng sai hướng
+mishandled||(v)||xử lý sai, điều khiển kém
+misinterpretation||(n)||sự hiểu sai, diễn giải sai
+misinterpret||(v)||hiểu sai
+misleading||(adj)||gây sai lệch, sai lầm
+mismanagement||(n)||sự quản lý yếu kém
+mistrust||(v)||không tin tưởng
+misuse||(n)||sự lạm dụng
+mitochondrial||(adj)||thuộc ty thể
+mobile||(adj)||di động
+mobilise||v||huy động
+modal||(adj)||thuộc phương thức (giao thông, ngữ pháp, v.v.)
+modeled||(v)||tạo hình
+model||(n)||mô hình
+modem||(adj)||hiện đại
+moderation||(n)||sự điều độ, sự tiết chế
+modest||(adj)||khiêm tốn, vừa phải (ở đây là thành công vừa phải)
+mode||(n)||chế độ, dạng (trong kỹ thuật: mode shape = dạng dao động)
+modification||(n)||sự điều chỉnh, sự sửa đổi
+moisture||(n)||độ ẩm
+molecular||(adj)||thuộc về phân tử
+molestation||(n)||sự quấy rối, làm phiền (ở đây ám chỉ quấy rối tình dục)
+mollusc||(n)||động vật thân mềm
+molten||(adj)||dạng lỏng (do nóng chảy)
+momentum||(n)||đà, động lượng
+monatomic||(adj)||đơn nguyên tử
+monetary value||(n)||giá trị tiền tệ
+moniker||(n)||biệt danh
+monitored||(v)||giám sát
+monitoring||(v)||giám sát
+monitor||v||giám sát
+monograph||(n)||đơn khảo, bài luận chuyên đề
+monolith||(n)||khối nguyên khối (ẩn dụ: thứ duy nhất, bất biến)
+monopolies||(n)||độc quyền
+monsoons||(n)||gió mùa
+monstrosity||(n)||sự to lớn kỳ dị, vật quái dị
+monumental||(adj)||vĩ đại, đồ sộ
+monument||(n)||tượng đài, công trình tưởng niệm
+moral revulsion||(n)||sự phản cảm về mặt đạo đức
+moral||(adj)||thuộc đạo đức
+morbid||(adj)||bệnh lý, nghiêm trọng (thường về sức khỏe)
+morphology||(n)||hình thái học
+motive force||(n)||động lực, lực dẫn động
+motive power||(n)||động lực, lực đẩy
+motives||(n)||động cơ
+motor-skill||(n)||kỹ năng vận động
+motoring||(n)||việc lái xe, giao thông bằng ô tô
+motorised||(adj)||được cơ giới hóa
+moulds for cannonballs||(phr)||khuôn đúc đạn pháo
+mould||(v)||định hình, uốn nắn
+mounting||(adj)||ngày càng gia tăng
+mourned||(v)||thương tiếc
+mucilage||(n)||chất nhầy
+muddle||(v)||làm rối, làm lộn xộn
+muddling||(v)||làm rối, làm lẫn lộn
+multi-dimensional||(adj)||đa chiều
+multi-generational||(adj)||đa thế hệ
+multi-storey||(adj)||nhiều tầng
+multifaceted||(adj)||đa khía cạnh
+multinational companies (MNCs)||(n)||công ty đa quốc gia
+multiply||(v)||nhân lên, sinh sôi
+mundane||(adj)||tầm thường, thế tục
+municipal||(adj)||thuộc về thành phố, đô thị
+mutual||(adj)||lẫn nhau
+myriad||(n)||(vô số, rất nhiều)
+mysterious||(adj)||(bí ẩn)
+mystery||(n)||bí ẩn
+mystique||(n)||sự bí ẩn, huyền bí
+mythology||(n)||thần thoại học
+myths||(n)||thần thoại
+myth||(n)||thần thoại
+naive||(adj)||ngây thơ, chất phác
+nationality||(n)||quốc tịch
+native tongue||(phr)||tiếng mẹ đẻ
+natural explanations||(phr)||các giải thích tự nhiên
+natural||(adj)||tự nhiên
+nausea||(n)||cảm giác buồn nôn
+navigate||v||điều hướng, định hướng
+navigation||(n)||hệ thống điều hướng
+necessitate||(v)||đòi hỏi, bắt buộc phải có
+necessities||(n)||nhu yếu phẩm
+necessity||(n)||sự cần thiết
+necrosis||(n)||sự hoại tử
+needles||(n)||kim khâu
+needlework||(n)||đồ thêu
+negative behaviour||(n)||hành vi tiêu cực
+negative publicity||(n)||dư luận tiêu cực
+negative||(adj)||tiêu cực
+neglected||(adj)||bị bỏ quên, không được chăm sóc
+negotiate||(v)||đàm phán, thương lượng (từ này xuất hiện gián tiếp qua “agreement”, mình đưa thêm vì liên quan)
+negotiating||(v)||thương lượng
+negotiation||(n)||sự thương lượng
+neoclassical||(adj)||tân cổ điển
+nerve cell||(n)||tế bào thần kinh
+nestful||(n)||một tổ đầy (kiến, chim, v.v.)
+network||(n)||mạng lưới
+net||(n)||mạng lưới, mạng
+neurons||(n)||tế bào thần kinh
+neuroscientist||(n)||nhà khoa học thần kinh
+nevertheless||(adv)||tuy nhiên, dẫu vậy
+niche||(adj)||(n)||(thị trường) ngách; (nghĩa khác: vị trí thích hợp)
+nightshade||(n)||cây cà độc dược
+nip||(v)||cắn, véo nhẹ nhưng đau
+nitrate||(n)||nitrat
+noble cause||(n)||mục đích cao cả
+nocturnal||(adj)||hoạt động về đêm
+nodules||(n)||cục nhỏ, u nhỏ
+nomadic||(adj)||du mục
+non-flammable||(adj)||không cháy được
+non-reactive||(adj)||không phản ứng (hóa học), trơ
+non-repetitive||(adj)||không lặp lại
+non-stop||(adj)||không ngừng nghỉ
+non-targeted||(adj)||không phải đối tượng mục tiêu
+non-violent||(adj)||phi bạo lực
+nonetheless||(adv)||dù sao, tuy nhiên
+nonintervention||(n)||sự không can thiệp
+norm-referenced||(adj)||dựa trên chuẩn mực
+normally||(adv)||bình thường
+not-for-profit||(adj)||phi lợi nhuận
+notable||(adj)||đáng chú ý
+notational||(adj)||thuộc về ký hiệu
+notation||(n)||hệ thống ký hiệu (âm nhạc, toán học…)
+notes||(n)||ghi chú
+noticeable||(adj)||dễ nhận thấy
+notorious||(adj)||nổi tiếng xấu, tai tiếng
+notwithstanding||(prep)||(formal) mặc dù, bất chấp
+nourishment||(n)||sự nuôi dưỡng, dưỡng chất (nghĩa bóng: bồi dưỡng tinh thần)
+nourish||(v)||nuôi dưỡng
+novelty||(n)||sự mới lạ
+noxious||(adj)||độc hại, nguy hiểm cho sức khỏe
+nuances||(n)||sắc thái tinh tế (trong nghĩa, cách dùng...)
+nuisance||(n)||sự phiền toái
+numbered||(v)||đếm được, có số lượng
+numeration||(n)||hệ thống đếm, phép đếm
+numerous||(adj)||nhiều, vô số
+nurture||(v) — nuôi dưỡng, chăm sóc
+nutrient-rich||(adj)||giàu chất dinh dưỡng
+nutrients||(n)||chất dinh dưỡng
+nutritionally||(adv)||về mặt dinh dưỡng
+nutritional||(adj)||thuộc về dinh dưỡng
+nutrition||(n)||dinh dưỡng
+oarsman||(n)||người chèo thuyền
+obedience||(n)||sự vâng lời, tuân theo
+obese||(adj)||béo phì
+objectify||(v)||khách quan hóa, biến thành đối tượng
+objections||(n)||sự phản đối
+objective||(n)||mục tiêu
+obligation||(n)||nghĩa vụ
+obligatory||(adj)||bắt buộc
+obliged||(v)||bắt buộc
+obliging||(v)||bắt buộc, yêu cầu
+obnoxious||(adj)||đáng ghét, khó chịu
+obscurity||(n)||sự bị lãng quên, tình trạng ít người biết đến
+observations||(n)||sự quan sát
+observation||(n)||quan sát, nhận xét
+observed||(adj)||được quan sát
+observe||v||quan sát
+obsession||(n)||sự say mê, ám ảnh
+obsidian||(n)||thủy tinh núi lửa (loại thủy tinh tự nhiên)
+obsolete||(adj)||lỗi thời
+obstacle||(n)||chướng ngại vật
+obstruction||(n)||chướng ngại vật
+obtainable||(adj)||có thể đạt được, có thể lấy được
+occasionally||(adv)||thỉnh thoảng
+occurrence||(n) — sự việc, biến cố
+occur||(v)||xảy ra
+odontology||(n)||nha khoa
+odorant||(n)||chất tạo mùi
+odourless||(adj)||không mùi
+odour||(n)||mùi, hương
+off-limits||(adj)||bị cấm, không được phép
+off-peak||(adj)||ngoài giờ cao điểm
+offender||(n)||người vi phạm, thủ phạm
+offensive||(adj)||gây khó chịu, xúc phạm
+official||(adj)||chính thức
+old-fashioned||(adj)||cổ hủ, lỗi thời
+olfaction||(n)||khứu giác
+omnivorous||(adj)||ăn tạp
+onerous||(adj)||(nặng nề, khó nhọc)
+onslaught||(n)||đợt tấn công ồ ạt
+operations||(n)||hoạt động
+operation||(n)||chiến dịch, quá trình thực hiện
+ophthalmology||(n)||nhãn khoa
+opportunistic||(adj)||ăn tạp, tùy cơ ứng biến
+opportunities||(n)||cơ hội
+opportunity||(n)||cơ hội
+opposition||(n)||sự phản đối
+oppression||(n)||sự áp bức
+optical||(adj)||thuộc về quang học
+optimise||(v)||tối ưu hóa
+optimising||(v)||tối ưu hóa
+optimum||(adj)||tối ưu, tốt nhất
+option||(n)||lựa chọn
+oral||(adj)||truyền miệng
+orbit||(n)||quỹ đạo
+organic insecticides||(n)||thuốc trừ sâu hữu cơ
+organic matter||(n)||vật chất hữu cơ
+orientation||(n)||sự định hướng, chương trình định hướng
+originality||(n)||tính độc đáo
+origins||(n)||nguồn gốc
+ornamentation||(n)||sự trang trí
+ornaments||(n)||đồ trang trí
+ornate||(adj)||hoa mỹ, trang trí công phu
+orthography||(n)||chính tả
+outbreak||(n)||sự bùng phát
+outer space||(phr)||không gian ngoài Trái Đất
+outgoing||(adj)||hòa đồng, cởi mở
+outlandish||(adj)||kỳ dị, lạ thường
+outlay||(n)||chi phí, khoản đầu tư
+outlet||(n)||lối thoát, phương tiện thể hiện
+outliers||(n)||đảo nhỏ, nơi biệt lập
+outline||(v)||phác thảo, trình bày khái quát
+outpost||(n)||(tiền đồn)
+output||(n)||sản lượng
+outsider||(n)||người ngoài cuộc, người không thuộc nhóm
+outspoken||(adj)||thẳng thắn, bộc trực
+outstanding||(adj)||xuất sắc, nổi bật
+outstrip||(v)||vượt qua
+outwardly display||(phrase)||thể hiện ra bên ngoài
+outward||(adj)||đi ra ngoài
+oval||(adj)||hình bầu dục
+over-heating||(n)||sự quá nhiệt
+overarching||(adj)||toàn diện, bao trùm
+overbearing||(adj)||độc đoán, hống hách
+overfishing||(n)||đánh bắt quá mức
+overladen||(adj)||chở quá tải
+overload||(n)||quá tải
+overlooked||(adj)||bị bỏ qua
+overlook||(v)||bỏ qua, xem nhẹ
+overpopulation||(n)||tình trạng quá đông dân
+overseas||(adv)||ở nước ngoài
+oversee||(v)||giám sát
+overshadow||(v)||làm lu mờ, che khuất
+overshooting||(v)||vượt quá
+overshoot||(v)||vượt quá (giới hạn mong muốn)
+overstate||(v)||nói quá, phóng đại
+overstorey||(n)||tầng cây cao trên tán rừng
+overturning||(v)||lật đổ, bác bỏ
+overview||(n)||tổng quan
+overweight||(adj)||thừa cân
+overwhelming consensus||(n)||sự đồng thuận áp đảo
+ownership||(n)||quyền sở hữu
+oxidation||(n)||sự oxy hóa
+oxygen||(n)||khí oxy
+package||(n)||bao bì, gói hàng
+paddies||(n)||ruộng lúa nước
+paediatrics||(n)||nhi khoa
+painstaking||(adj)||cần cù, tỉ mỉ
+palaeontologist||(n)||nhà cổ sinh vật học
+paleontologists||(n)||nhà cổ sinh vật học
+paleontologist||(n)||nhà cổ sinh vật học
+palette||(n)||bệ hàng, pallet
+pale||(v)||trở nên lu mờ, kém quan trọng
+palynologists||(n)||nhà nghiên cứu phấn hoa
+pamphlet||(n)||sách mỏng, tờ rơi
+panic||(n)||sự hoảng loạn
+pantheon||(n)||đền thờ các vị thần, tập hợp các thần
+pantograph||(n)||dụng cụ sao chép hình ảnh theo tỉ lệ
+paperwork||(n)||công việc giấy tờ
+paraboloidal||(adj)||hình parabol
+parachutes||(n)||dù (dùng để nhảy dù)
+parade||(v)||phô bày, trình diễn
+paradox||(n)||nghịch lý
+parallax||(n)||thị sai
+parallel||(n)||sự tương đồng, vật tương tự
+paralysed||(adj)||bị tê liệt
+paralysis||(n)||chứng liệt, sự tê liệt
+paramount||(adj)||tối cao, quan trọng nhất
+paraphernalia||(n)||đồ dùng, vật dụng liên quan
+parasitic||(adj)||ký sinh
+parasitised||(v)||bị ký sinh
+pared down||(phr.v)||cắt giảm
+parlour||(n)||phòng khách
+parsed||(v)||phân tích
+participants||(n)||người tham gia
+participant||(n)||người tham gia
+participation||(n)||sự tham gia
+participative||(adj)||có sự tham gia
+particle||(n)||hạt nhỏ
+particulate matter||(n)||bụi mịn, hạt vật chất nhỏ
+partnership||(n)||sự hợp tác, đối tác
+passages||(n)||hành lang
+passenger lift||(n)||thang máy chở người
+passive smoking||(n)||hút thuốc thụ động
+passive ventilation||(n)||thông gió tự nhiên
+passive||(adj)||thụ động
+passivity||(n)||sự thụ động
+pasture||(n)||đồng cỏ chăn thả
+patent||(v)||đăng ký bằng sáng chế
+paterfamilias||(n)||chủ gia đình (người đứng đầu gia đình)
+pathways||(n)||con đường (ở đây: thần kinh)
+patrician||(n)||người quý tộc, tầng lớp thượng lưu
+patrol||(v)||tuần tra
+patronage||(n)||sự bảo trợ
+pattern recognition||(n)||nhận dạng mẫu
+patterns||(n)||mô hình
+pattern||(n)||mẫu, kiểu mẫu
+paucity||(n)||sự thiếu hụt
+pavilions||(n)||nhà nhỏ, lều
+payload||(n)||tải trọng (máy bay, tàu, v.v...)
+peasants||(n)||người nông dân
+peculiar||(adj)||đặc biệt, khác thường
+peer||(n)||đồng nghiệp cùng trình độ
+penetration||(n)||sự thâm nhập
+penny-pinchers||(n)||người keo kiệt
+pent-up||(adj)||bị dồn nén
+per capita||(adj)||bình quân đầu người
+percussion||(n)||sự va chạm, sự gõ
+perennial||(adj)||đa niên, sống lâu năm
+performing||(adj)||trình diễn, biểu diễn
+perfumery||(n)||ngành sản xuất nước hoa
+peril||(n)||nguy hiểm
+perimeter||(n)||chu vi, đường bao quanh
+periodical||(n)||tạp chí xuất bản định kỳ
+periodic||(adj)||theo chu kỳ
+perioperative||(adj)||xung quanh phẫu thuật
+perish||(v)||hư hỏng, thối rữa
+permafrost||(n)||băng vĩnh cửu
+permanence||(n)||tính lâu dài, sự vĩnh cửu
+permanent||(adj)||vĩnh viễn
+permeate||(v)||lan tỏa, thấm vào
+perpendicular||(adj)||vuông góc
+perpetrator||(n)||thủ phạm
+perpetual||(adj)||vĩnh viễn
+perpetuated||(v)||duy trì, làm cho tồn tại mãi
+perpetuate||(v)||duy trì, làm tồn tại lâu dài
+perseverance||(n)||sự kiên trì
+persisted||(v)||tiếp tục tồn tại
+persistence||(n)||sự tồn tại bền lâu
+personalise||(v)||cá nhân hóa
+personality||(n)||tính cách
+personnel development||(phr)||phát triển nhân sự
+persuasion||(n)||sự thuyết phục
+pervasive||(adj)||lan tỏa, phổ biến
+pest(s)||(n)||sâu bệnh, côn trùng gây hại
+pests||(n)||sâu bệnh, côn trùng gây hại
+petroleum||(n)||dầu mỏ
+pharmaceutical||(adj)||thuộc về dược phẩm
+pharmacist||(n)||dược sĩ
+phenomenal||(adj)||phi thường, xuất sắc
+phenomena||(n, plural)||hiện tượng
+philanthropist||(n)||nhà từ thiện
+philosophically||(adv)||một cách điềm nhiên, bình thản
+philosophical||(adj)||thuộc triết học
+philosophy||(n)||triết lý, quan điểm
+phoneme||(n)||âm vị
+photo-degradation||(n)||sự phân hủy do ánh sáng
+photographic||(adj)||thuộc về nhiếp ảnh
+photoperiodism||(n)||hiện tượng sinh học phản ứng với độ dài ngày
+photosynthesis||(n)||quang hợp
+phrenology||(n)||thuật xem hình dạng sọ
+physical activity||(n)||hoạt động thể chất
+physical imitation||(n)||sự bắt chước về hành vi, thể chất
+physician||(n)||bác sĩ
+physiologist||(n)||nhà sinh lý học
+physiology||(n)||sinh lý học
+pidgins||(n)||tiếng lai, tiếng pha trộn đơn giản
+piecemeal||(adj/adv)||từng phần, từng bước
+pier||(n)||trụ cầu
+pile up||(v)||chồng chất
+pillar||(n)||cột trụ
+pilot plant||(n)||nhà máy thử nghiệm
+pilot programme||(n)||chương trình thử nghiệm
+pinpoint||(v)||xác định chính xác
+pioneered||(v)||tiên phong, mở đường
+pioneering||(adj)||tiên phong
+pioneer||(n)||người tiên phong
+placements||(n)||sự thực tập
+placid||(adj)||dịu dàng, điềm tĩnh
+plague||(n)||dịch bệnh, sự bùng phát mạnh mẽ (ở đây là dịch côn trùng)
+planned||(adj)||có kế hoạch
+plantation||(n)||đồn điền
+plate glass||(n)||kính tấm
+plate||(n)||mảng kiến tạo
+pleasant||(adj)||dễ chịu, thú vị
+plentiful||(adj)||nhiều, phong phú
+plethora||(n)||rất nhiều, số lượng lớn
+plight||(n)||hoàn cảnh khó khăn, cảnh ngộ
+plots||(n)||mảnh đất
+plumb||(v)||tìm hiểu sâu, khám phá kỹ
+plume||(n)||cột/luồng (khói, hơi)
+plummeted||(v)||giảm mạnh
+plummet||(v)||rơi thẳng xuống, tụt mạnh
+plunder||(v)||cướp bóc
+pneumonia||(n)||bệnh viêm phổi
+poised||(adj)||sẵn sàng, chuẩn bị
+polar explanation||(n)||sự giải thích đối lập hoàn toàn
+policy||(n)||chính sách
+polished||(adj)||đánh bóng
+political leaders||(n)||lãnh đạo chính trị
+political pressure||(phr)||áp lực chính trị
+politically||(adv)||về mặt chính trị
+political||(adj)||thuộc chính trị
+pollinate||(v)||thụ phấn
+pollutants||(n)||chất gây ô nhiễm
+polluted||(adj)||bị ô nhiễm
+pollution||(n)||sự ô nhiễm
+poll||(n)||cuộc thăm dò ý kiến
+polymath||(n)||người thông thạo nhiều lĩnh vực
+polymerization||(n)||quá trình tạo polyme
+polymer||(n)||polyme, chất đa phân tử
+polypropylene||(n)||polypropylen (nhựa dẻo)
+polystyrene||(n)||polystyren (một loại nhựa dẻo)
+populace||(n)||dân chúng
+popularity||(n)||sự phổ biến
+populated||(adj)||có người sinh sống
+population||(n)||dân số, quần thể
+pore over||(v)||miệt mài nghiên cứu, nghiền ngẫm
+pores||(n)||lỗ chân lông, lỗ nhỏ
+portrayal||(n)||sự khắc họa, mô tả
+position||(n)||vị trí
+positive||(adj)||tích cực
+possess||(v)||sở hữu
+possibility||(n)||khả năng
+possible||(adj)||có thể
+possums||(n)||thú có túi (loài opossum ở Úc)
+post-stage achievement test||(phr)||bài kiểm tra sau giai đoạn
+post-test||(n)||bài kiểm tra sau khi học
+postponement||(n)||sự trì hoãn
+postpone||(v)||hoãn lại
+postponing||(v)||hoãn lại, trì hoãn
+posture||(n)||tư thế
+potency||(n)||hiệu lực, công hiệu
+potent||(adj)||mạnh, có hiệu lực lớn
+pots||(n)||bình, chậu
+pot||(n)||bình, chum
+poverty||(n)||nghèo đói
+powered||(adj)||được cung cấp năng lượng
+powerful||(adj)||mạnh mẽ
+practicable||(adj)||khả thi
+practicality||(n)||tính khả thi, tính thực tiễn
+practically||(adv)||hầu như, gần như
+practical||(adj)||thiết thực, khả thi
+pragmatic||(adj)||thực dụng
+pragmatists||(n)||người thực dụng
+pre-recorded||(adj)||được ghi âm sẵn
+pre-school||(n)||trường mẫu giáo, nhà trẻ
+pre-wash||(adj)||xử lý trước khi giặt
+precarious||(adj)||mong manh, bấp bênh
+precaution||n||biện pháp phòng ngừa
+precedence||(n)||quyền ưu tiên
+precedent||(n)||tiền lệ
+preceding||(adj)||trước đó
+precinct||(n)||khu vực, khuôn viên
+precious||(adj)||quý giá
+precipitate||(v)||thúc đẩy, gây ra
+precipitation||(n)||lượng mưa
+precisely||(adv)||chính xác
+precision||(n)||(độ chính xác)
+preconditions||(n)||điều kiện tiên quyết
+precursor||(n)||tiền chất, chất tiền thân
+predators||(n)||động vật săn mồi
+predatory||(adj)||ăn thịt, săn mồi
+predator||(n)||động vật ăn thịt, kẻ săn mồi
+predecessors||(n)||người đi trước
+predecessor||(n)||tiền nhiệm
+predicament||(n)||tình trạng khó khăn
+predicated on||(phr)||dựa trên
+predictability||(n)||tính có thể đoán trước được
+predictable||(adj)||có thể đoán trước
+predicted||(v)||dự đoán
+predictions||(n)||sự dự đoán
+predisposed||(adj)||có xu hướng, dễ bị ảnh hưởng
+predominate||(v)||chiếm ưu thế
+preeminent||(adj)||ưu việt, xuất sắc hơn hẳn
+prefabricate||(v)||sản xuất sẵn, lắp ghép sẵn
+preferably||(adv)||tốt hơn hết là, lý tưởng nhất là
+preference||(n)||sở thích, sự ưu tiên
+prehistoric ancestors||(n)||tổ tiên tiền sử
+prehistoric||adj||tiền sử
+prejudice||(n)||định kiến, thành kiến
+premature||(adj)||sớm, chưa đến lúc
+premeditated||(adj)||có suy tính trước
+premium||(n)||giá trị cao, phần thưởng (ở đây: giá cao cho chất lượng cao)
+preparation time||(phr)||thời gian chuẩn bị
+preparatory||(adj)||chuẩn bị, mở đầu
+prerequisite||(n)||điều kiện tiên quyết
+prescriptions||(n)||đơn thuốc
+prescription||(n)||phương pháp điều trị, giải pháp
+presence||(n)||sự hiện diện
+presentation||(n)||sự trình bày
+preservation||(n)||sự bảo tồn, duy trì
+preservative||(n)||chất bảo quản
+pressure||(n)||áp lực
+prestigious||(adj)||có uy tín
+pretence||(n)||sự giả vờ, sự làm ra vẻ
+prevail upon||(phr.v)||thuyết phục, khiến ai làm gì
+prevailing||(adj)||thịnh hành, phổ biến
+prevail||(v)||chiếm ưu thế, thịnh hành
+preventable||(adj)||có thể ngăn ngừa
+prevent||(v)||ngăn ngừa
+previously||(adv)||trước đây
+primal urge||(n)||ham muốn nguyên thủy
+primary care trust (PCT)||(n)||ủy ban chăm sóc sức khỏe ban đầu
+primary||(adj)||chính, chủ yếu
+primitive ancestors||(n)||tổ tiên nguyên thủy
+principle||(n)||nguyên tắc
+printmaker||(n)||người in tranh nghệ thuật
+priority||(n)||ưu tiên
+prior||(adj)||trước
+prised||(v)||nạy ra, tách ra
+pristine||(adj)||nguyên sơ, tinh khôi
+privatisation||(n)||sự tư nhân hóa
+privileged||(adj)||đặc quyền, ưu đãi
+privilege||(n)||đặc quyền
+pro-active||(adj)||chủ động
+proactive||(adj)||chủ động giải quyết trước khi sự việc xảy ra
+probability||(n)||xác suất
+probe||(v)||thăm dò, điều tra kỹ
+proboscideans||(n)||loài có vòi (như voi)
+procedure||n||thủ tục
+proceeds||(n)||tiền thu được
+proceed||(v)||tiếp tục, tiến hành
+processes||(n)||quy trình
+processing||(n)||quá trình xử lý
+processors||(n)||nhà chế biến (trong công nghiệp thực phẩm)
+process||(n)||quá trình
+proclaim||(v)||tuyên bố, công bố
+procurement||(n)||sự thu mua, mua sắm
+prodigies||(n)||thần đồng
+prodigious||(adj)||to lớn, phi thường
+produce||(v)||sản xuất, tạo ra
+production||(n)||sự sản xuất
+productive||(adj)||có năng suất, sinh lợi
+productivity||(n)||năng suất, hiệu suất lao động
+products||(n)||sản phẩm
+professional||(adj)||chuyên nghiệp
+professorship||(n)||chức giáo sư
+program||(n)||chương trình
+progressed||(v)||tiến bộ
+progression||(n)||sự tiến bộ, sự phát triển
+progressives||(n)||những người theo chủ nghĩa tiến bộ
+projected||(v)||chiếu, áp đặt (ý nghĩ)
+projectile||(n)||vật phóng, đạn bắn ra
+proliferate||(v)||sinh sôi, tăng nhanh
+prolific||(adj)||phong phú, nhiều
+prolonged||(adj)||kéo dài
+prominence||(n)||sự nổi bật, sự quan trọng
+promising||(adj)||đầy hứa hẹn, triển vọng
+promoted||(v)||thúc đẩy
+promote||(v)||thúc đẩy
+promoting||(v)||thúc đẩy
+promotion||(n)||sự thúc đẩy, khuyến khích
+prompted||(v)||thúc đẩy
+promptly||(adv)||ngay lập tức
+prompt||(v)||thúc đẩy, gợi ra
+prone||(adj)||dễ bị, có xu hướng
+pronounced||(adj)||được phát âm, được đọc rõ
+pronouncements||(n)||lời tuyên bố, lời nhận định chính thức
+propagate||v||truyền bá, lan truyền
+propagation||(n)||sự sinh sản, sự lan truyền
+propellant||(n)||chất đẩy
+propel||(v)||thúc đẩy, đẩy mạnh
+properly||(adv)||một cách đúng đắn
+properties||(n)||đặc tính
+proportion||(n)||tỷ lệ, mức độ
+proposals||(n)||đề xuất, kiến nghị
+prosperity||(n)||sự thịnh vượng, phồn vinh
+prosperous||(adj)||thịnh vượng, phát đạt
+prosper||(v)||thịnh vượng
+protagonist||(n)||nhân vật chính
+protecting||(v)||bảo vệ
+protective||(adj)||bảo vệ
+protect||(v)||bảo vệ
+protein||(n)||chất đạm, protein
+protester||(n)||người biểu tình
+prototypes||(n)||nguyên mẫu
+prototype||(n)||(nguyên mẫu, bản mẫu)
+protruding||(adj)||nhô ra
+provenance||(n)||nguồn gốc, xuất xứ
+proviso||(n)||điều kiện, điều khoản
+prowess||(n)||năng lực, kỹ năng vượt trội
+proximity||(n)||sự gần kề
+pseudo||(adj)||giả, không thật
+psychiatrist||(n)||bác sĩ tâm thần
+psychologist||(n)||nhà tâm lý học
+publicise||(v)||công khai, quảng bá
+publicly||(adv)||công khai
+public||(adj)||công chúng
+pull to belong||(phrase)||sức hút để được thuộc về, mong muốn hòa nhập
+pump||(v)||bơm
+punctual||(adj)||đúng giờ
+punishing||(adj)||khắc nghiệt, cực nhọc
+punish||(v)||trừng phạt
+purifying||(adj)||làm tinh khiết, làm sạch
+pursue||(v)||theo đuổi (ước mơ, sự nghiệp)
+pursuit||(n)||hoạt động, niềm đam mê theo đuổi
+puzzling||(adj)||khó hiểu
+quadrupedal||(adj)||đi bằng bốn chân
+qualifications||(n)||bằng cấp
+qualify||(v)||đủ điều kiện
+quantities||(n)||số lượng
+quarried||(v)||khai thác (mỏ đá)
+quasi-intelligent||(adj)||(gần như có trí tuệ)
+queries||(n)||câu hỏi, thắc mắc
+quest||(n)||cuộc tìm kiếm, hành trình
+quick fix||(phr)||giải pháp nhanh, tạm thời
+quicker progress||(phr)||tiến bộ nhanh hơn
+quit||(v)||bỏ cuộc
+quotas||(n)||hạn ngạch
+radiation||(n)||bức xạ
+radicalise||(v)||cực đoan hóa
+radio collar||(n)||vòng cổ phát sóng radio
+radioactive decay||(n)||sự phân rã phóng xạ
+radiography||(n)||kỹ thuật chụp X-quang
+raging||(v)||diễn ra dữ dội (cháy rừng, chiến tranh...)
+rainfall||(n)||lượng mưa
+raise questions||v phr||đặt ra câu hỏi (thường là nghi vấn, lo ngại)
+ramification||(n)||hệ quả, hậu quả
+rampantly||(adv)||một cách nhanh chóng, tràn lan
+random||(adj)||ngẫu nhiên
+ranging||(v)||phạm vi, dao động từ
+rapidly||(adv)||một cách nhanh chóng
+rapid||(adj)||nhanh chóng
+rare||(adj)||hiếm
+rate||(n)||tốc độ
+rationalise||(v) — hợp lý hóa
+rationing||(n)||sự phân phối hạn chế (dùng tài nguyên y tế)
+ration||(n)||khẩu phần (lương thực)
+ratio||(n)||tỉ lệ
+ravage||(n)||tàn phá
+raw silk||(phr)||lụa thô
+raze||(v)||phá hủy, san bằng
+re-emergence||(n)||sự tái xuất hiện
+re-route||(v)||đổi hướng, chuyển tuyến
+reaction||(n)||phản ứng
+reactivate||(v)||kích hoạt lại
+readership||(n)||độc giả
+readily||(adv)||dễ dàng, sẵn sàng
+realisation||(n)||sự nhận ra, hiểu ra
+realistic expectations||(phr)||kỳ vọng thực tế
+realistic||(adj)||thực tế
+realization||(n)||sự nhận thức
+realm||(n)||lĩnh vực, thế giới
+rearing||(v)||nuôi dưỡng, chăm sóc (động vật)
+reasonably||(adv)||một cách hợp lý
+reasoned||(v)||lập luận, suy luận
+reasoning||(n)||lập luận, suy luận
+rebound||(v)||phản hồi, hồi phục
+rebuild||(v)||xây dựng lại
+receptionists||(n)||nhân viên lễ tân
+recipient||n||người nhận
+reciprocity||(n)||sự có đi có lại
+reckless||(adj)||liều lĩnh, thiếu thận trọng
+reckon||(v)||cho rằng, nghĩ rằng
+reclamation||(n)||sự cải tạo đất, phục hồi đất
+recognise||(v)||nhận ra, công nhận
+recognize||(v)||nhận ra, công nhận
+recollection||(n)||sự hồi tưởng
+recommendation||(n)||khuyến nghị
+reconsider||(v)||xem xét lại
+recording||(n)||sự ghi chép
+recoup||(v)||bù lại, thu hồi vốn
+recovery||(n)||sự hồi phục
+recreational||(adj)||mang tính giải trí, tiêu khiển
+recreation||(n)||sự giải trí
+recruitment||(n)||tuyển dụng
+recursion||(n)||sự đệ quy (ngôn ngữ học: lồng ghép câu)
+recycled||(v)||tái chế
+recycle||(v)||tái chế
+recycling||(n)||sự tái chế
+redemption||(n)||sự cứu chuộc, sự giải thoát
+redevelopment||(n)||tái phát triển
+reduce||(v)||giảm bớt
+reducing||(adj)||khử, giảm
+reduction||(n)||sự giảm bớt
+reel||(n)||cuộn, guồng (dùng để quấn sợi)
+reference||(n)||mẫu tham khảo, đối chiếu
+referendum||(n)||cuộc trưng cầu dân ý
+referral||(n)||sự giới thiệu
+refined||(adj)||được cải thiện, được tinh chỉnh
+refining||(v)||cải tiến
+reflective||(adj)||suy ngẫm, sâu sắc
+reflect||(v)||phản ánh
+reformulated||(adj)||được điều chỉnh lại công thức
+reformulate||(v)||cải tiến công thức, tái xây dựng công thức
+refracting||(adj)||khúc xạ (ánh sáng)
+refractive||(adj)||liên quan đến sự khúc xạ ánh sáng
+refractory material||(phr)||vật liệu chịu lửa
+refract||(v)||khúc xạ
+refresher course||(phr)||khóa học bổ túc
+refuge||(n)||nơi trú ẩn
+refuse||(n)||rác thải
+regain||(v)||lấy lại, giành lại
+regardless||(adv)||bất kể, không quan tâm đến
+regenerate||(v)||tái sinh, phục hồi
+regeneration||(n)||sự tái sinh, hồi sinh
+regional||(adj)||thuộc vùng
+region||(n)||vùng
+register||(v)||ghi nhận, nhận biết
+regrettable||(adj)||đáng tiếc
+regrettably||(adv)||thật đáng tiếc
+regularly||(adv)||đều đặn
+regulating||(v)||điều chỉnh, kiểm soát
+regulation||(n)||quy định, điều luật
+regulatory agency||(n)||cơ quan quản lý
+rehabilitation||(n)||sự phục hồi
+reinforced concrete||(n)||bê tông cốt thép
+reinforced||(adj)||được gia cố, củng cố
+reinterpretation||(n)||sự diễn giải lại
+reintroduction||(n)||sự tái thả (động vật hoang dã về môi trường tự nhiên)
+rejected/excluded||(adj)||bị loại trừ, bị từ chối
+rejection||(n)||sự từ chối, loại trừ
+reject||(v)||bác bỏ
+relatively||(adv)||tương đối, khá
+relatives||(n)||họ hàng, loài liên quan
+relative||(adj)||tương đối
+relaxed||(adj)||thư giãn, thoải mái
+relax||(v)||thư giãn, giãn ra
+relegated||(v)||gán cho (vị trí thấp hơn)
+relentless||(adj)||không ngừng nghỉ, dai dẳng
+relevant||(adj)||có liên quan, thích hợp
+reliable||(adj)||đáng tin cậy
+reliably||(adv)||(một cách đáng tin cậy)
+reliance||(n)||sự phụ thuộc
+relic||(n)||di tích, vật còn sót lại
+relief||(n)||sự cứu trợ
+religious||(adj)||thuộc về tôn giáo
+relish||(v)||thưởng thức, rất thích thú
+relocate||(v)||chuyển địa chỉ
+relocation||(n)||sự di dời, chuyển chỗ
+reluctance||(n)||sự miễn cưỡng
+remains||(n)||di tích, xác chết
+remain||(v)||vẫn còn, giữ nguyên
+remedies||(n)||phương thuốc
+remedy||(n)||phương thuốc, cách chữa trị
+remnants||(n)||tàn tích, phần còn sót lại
+remotest||(adj)||xa nhất, hẻo lánh
+remote||(adj)||hẻo lánh, xa xôi
+remove||(v)||loại bỏ
+renaissance||(n)||sự phục hưng
+renounce||(v)||(từ bỏ, không theo nữa)
+renowned||(adj)||nổi tiếng, có danh tiếng
+renown||(n)||danh tiếng
+repair||(n)||sự sửa chữa
+reparative||(adj) — có tính phục hồi, sửa chữa
+repatriation||(n)||sự đưa về lại nơi sinh sống ban đầu
+repeal||(v)||bãi bỏ (luật)
+repeatedly||(adv)||lặp đi lặp lại
+repel||v||đẩy lùi, chống lại
+repercussion||(n)||hậu quả, tác động ngược trở lại (thường tiêu cực hoặc lâu dài)
+repetitive||(adj)||lặp đi lặp lại
+replace||(v)||thay thế
+replenish||(v)||làm đầy lại, bổ sung
+replicating||(v)||sao chép, tái tạo
+represent||(v)||biểu thị, đại diện
+repression||(n)||sự đàn áp
+reproduction||(n)||bản sao (tranh, tác phẩm nghệ thuật, v.v.)
+reputable||(adj)||có danh tiếng
+reputation||(n)||danh tiếng, uy tín
+requirement||(n)||yêu cầu, nhu cầu
+rescue||(v)||giải cứu
+researchers||(n)||nhà nghiên cứu
+research||(n)||nghiên cứu
+reserves||(n)||khu bảo tồn, nơi sinh sản tự nhiên
+reservoir||(n)||hồ chứa
+reshape||(v)||tái định hình
+residences||(n)||khu nhà ở, ký túc xá
+residency||(n)||thời gian thực tập
+residential||(adj)||thuộc khu dân cư
+resident||(adj)||cư trú
+resilience||(n)||khả năng phục hồi
+resistant||(adj)||kháng, chống lại
+resist||(v)||(kháng cự)
+resolution||(n)||nghị quyết
+resonate (through)||(v)||vang vọng, tác động mạnh mẽ xuyên suốt
+resonate||(v)||dao động, cộng hưởng
+resonators||(n)||bộ cộng hưởng
+resort to||(v)||dùng đến, phải dùng đến
+resource centre||(n)||trung tâm tài nguyên
+resourcefulness||(n)||tài xoay xở, sự tháo vát
+resources||(n)||tài nguyên
+respectively||(adv)||lần lượt
+respect||(n)||sự tôn trọng
+respiration||(n) — sự hô hấp
+respiratory||(adj)||thuộc về hô hấp
+restoration||(n)||sự phục hồi
+restrains||(v)||kiềm chế, hạn chế
+restricted||(v)||giới hạn
+restrictions||(n)||sự hạn chế
+restructure||(v)||tái cấu trúc
+resurgence||(n)||sự phục hồi
+resurrected||(v)||hồi sinh
+reticence||(n)||sự kín đáo, ít nói
+retired||(adj)||đã nghỉ hưu
+retreat||(n)||sự rút lui
+retrenchment||(n)||sự cắt giảm, thu hẹp
+retribution||(n)||sự trừng phạt, báo thù
+retrieve||(v)||khôi phục, lấy lại
+retrograde amnesia||(n)||mất trí nhớ hồi quy
+reuse||(v)||tái sử dụng
+revamp||(v)||tân trang, cải tổ
+revealed||(v)||tiết lộ
+revenue-generating||(adj)||tạo ra doanh thu
+revered||(adj)||được tôn kính, kính trọng
+reversal||(n)||sự đảo ngược
+reverse psychology||(n)||tâm lý đảo ngược
+reverse||(v)||đảo ngược
+reversing||(v)||đảo ngược
+revised||(adj)||được sửa đổi
+revitalisation||(n)||sự phục hồi
+revitalising||(v)||hồi sinh, tái sinh
+revitalize||(v)||hồi sinh, làm sống lại
+revolutionary||(adj)||mang tính cách mạng
+revolutionise||(v)||cách mạng hóa
+revolutionize||(v)||cách mạng hóa
+revolutionizing||(v)||cách mạng hóa, thay đổi hoàn toàn
+rewarding||(adj)||mang lại nhiều lợi ích
+rewires||(v)||tái kết nối (thần kinh)
+rhetorical power||(phr)||sức mạnh hùng biện
+rhizome||(n)||thân rễ (thực vật học)
+rich||(adj)||giàu (ví dụ: giàu protein)
+rickety||(adj)||lung lay, ọp ẹp (dễ sụp đổ)
+rid||(v)||tống khứ, loại bỏ
+rigging||(n)||dây buộc (trên thuyền)
+rigid||(adj)||cứng nhắc, cứng
+rigorous||(adj)||nghiêm ngặt
+rim||(n)||vành, mép
+risk management||(n)||quản lý rủi ro
+risk-sharing||(adj)||chia sẻ rủi ro
+rituals||(n)||nghi lễ
+rivals||(n)||đối thủ
+roaming||(v)||đi lang thang
+robust||(adj)||khỏe mạnh
+romantic||(adj)||lãng mạn
+rotate||(v)||xoay, quay vòng
+rotting||(v)||phân hủy, thối rữa
+rouge||(n)||bột đánh bóng
+rough outline||(phr)||phác thảo sơ bộ
+royalty||(n)||hoàng tộc, giới vua chúa
+rudimentary||(adj)||thô sơ, sơ đẳng
+ruefully||(adv)||một cách buồn bã, tiếc nuối
+ruin||v||làm hỏng, tàn phá
+rule-based||(adj)||dựa trên quy tắc
+rumored||(adj)||được đồn rằng
+rush matting||(n)||thảm đan bằng cây cói (dùng đựng hàng)
+sacrifice (v/n) — hy sinh / sự hy sinh
+safeguard||(v)||(n)||bảo vệ; vật bảo vệ
+safety||(n)||sự an toàn
+sail||(v)||chèo thuyền
+salary||(n)||lương
+sales||(n)||doanh số
+salinity||(n)||độ mặn
+saliva||(n)||nước bọt
+salvage||(v)||trục vớt, cứu hộ (tàu đắm, hàng hóa...)
+sampling||(n)||việc lấy mẫu
+sanctions||(n)||các biện pháp xử phạt
+sanction||(n)||biện pháp chế tài, hình phạt
+sanitation||(n)||hệ thống vệ sinh
+sap-sucking||(adj)||hút nhựa cây (mô tả sâu bọ)
+sapling||(n)||cây non
+scale||(n)||quy mô
+scarce||(adj)||khan hiếm
+scatter||(v)||phân tán
+scavenger||(n)||người nhặt nhạnh, kẻ ăn xác thối
+scenario||(n)||kịch bản, viễn cảnh
+sceptical||(adj)||hoài nghi
+scepticism||(n)||sự hoài nghi
+sceptic||(n)||người hoài nghi
+scheme||(n)||kế hoạch, đề án
+schizophrenia||(n)||bệnh tâm thần phân liệt
+scholarly||(adj)||thuộc học thuật
+scientific||(adj)||có tính khoa học
+scientist||(n)||nhà khoa học
+scoff||(v)||chế giễu, cười nhạo
+scope||(n) — phạm vi
+scoured||(v)||tìm kiếm kỹ càng
+scourge||(n)||tai họa, nguồn đau khổ
+scouring||(v)||cày nát, quét sạch
+scrap yard||(n)||bãi phế liệu
+scream||(v)||hét lên
+screening||(n)||kiểm tra, sàng lọc
+scrupulously||(adv)||một cách cẩn trọng, tỉ mỉ
+scrutinise||(v)||xem xét kỹ lưỡng
+sculptures||(n)||tác phẩm điêu khắc
+seabirds||(n)||chim biển
+seafarer||(n)||ngư dân, người đi biển
+secret weapon||(n)||vũ khí bí mật
+secrete||v||tiết ra
+sect||(n) — giáo phái
+secure||(adj)||chắc chắn, an toàn
+sediment||(n)||trầm tích
+seedlings||(n)||cây con
+seedling||(n)||cây con (mới mọc)
+segregated||(adj)||bị tách biệt (theo chủng tộc, giới tính, tôn giáo...)
+selectivity||(n)||tính chọn lọc
+self-dispersing||(adj)||tự phát tán
+self-esteem||(n)||lòng tự trọng, tự tin về bản thân
+self-inflicted||(adj)||tự gây ra (tổn thương, bệnh tật)
+self-interest||(n)||lợi ích cá nhân
+self-presentation||(n)||sự thể hiện bản thân, cách trình bày hình ảnh cá nhân
+self-reliance||(n)||sự tự lực
+self-reliant||(adj)||(tự lực)
+self-sacrifice||(n)||sự hy sinh bản thân
+self-study||(n)||tự học
+self-sufficiency||(n)||sự tự túc
+selfless||(adj)||vị tha, quên mình
+semi-automatic||(adj)||bán tự động
+sensationalist||(adj)||giật gân
+sensation||(n)||cảm giác
+sense of place||(phr)||cảm giác thân thuộc với một nơi
+sensitive period||(n)||giai đoạn nhạy cảm
+sensitive||(adj)||nhạy cảm
+sensory||(adj)||thuộc cảm giác
+sensor||(n)||cảm biến
+sentimentalist||(n)||người đa cảm, hay ủy mị
+separated||(adj)||tách biệt
+sequence||n||chuỗi, trình tự
+serious||(adj)||nghiêm trọng
+serpentine||(adj)||uốn khúc, quanh co
+services||(n)||dịch vụ
+set aside||(ph.v)||dành riêng (thời gian, tiền bạc,...)
+setback||(n)||khó khăn, trở ngại
+settlements||(n)||khu định cư
+settlement||(n)||khu định cư
+settle||(v)||định cư
+severity||(n)||mức độ nghiêm trọng
+sewage||(n)||nước thải
+sewing||(n)||việc may vá
+sexes||(n)||giới tính
+shade-intolerant||(adj)||không chịu bóng râm
+shade-tolerant||(adj)||chịu bóng râm tốt
+shallow||(adj)||nông, cạn
+shellac||(n)||nhựa thông, vecni
+shift||(n)||sự thay đổi
+shock||(n)||cú sốc
+short-sighted||(adj)||thiển cận, tầm nhìn ngắn hạn
+shrines||(n)||đền thờ
+shrinkage||(n)||sự co lại
+shrubs||(n)||bụi cây
+side-effects||(n)||tác dụng phụ
+sideboards||(n)||tủ bên cạnh bàn ăn
+siege||(n)||sự bao vây
+sifting out||(v)||loại bỏ, sàng lọc
+signal||(n)||tín hiệu
+signature||(n)||chữ ký
+significance||(n)||ý nghĩa, tầm quan trọng
+significantly||(adv)||một cách đáng kể
+significations||(n)||ý nghĩa
+silkworm||(n)||con tằm
+silk||(n)||tơ, lụa
+similar||(adj)||tương tự
+simulation||(n)||mô phỏng
+simultaneous interpreter||(phr)||phiên dịch viên đồng thời
+simultaneously||(adv)||(đồng thời)
+simultaneous||(adj)||đồng thời
+single-mindedness||(n)||sự chuyên tâm, quyết tâm
+situated||(v)||tọa lạc
+sizeable||(adj)||đáng kể, khá lớn
+skeletal||(adj)||thuộc về bộ xương
+skeleton||(n)||bộ khung, bộ xương
+skiing||(n)||trượt tuyết
+skills shortage||(phr)||thiếu hụt kỹ năng
+skills||(n)||kỹ năng
+skim||(v)||đọc lướt
+skip back||(phr.v)||quay lại (đọc)
+skyrocketing||(adj)||tăng vọt
+slabs||(n)||tấm (bê tông)
+slash-and-burn cultivation||(phr)||canh tác đốt rừng làm nương
+slash-and-burn||(adj)||(biện pháp) triệt để, quyết liệt
+slaughter||(v)||giết hàng loạt
+slender||(adj)||thon thả, mảnh mai
+slides||(v)||trượt, rút ra
+sliding||(n)||sự trượt
+slimy||(adj)||nhầy nhụa
+slow to accept||chậm chấp nhận
+slow||(adj)||chậm
+sluice||(n)||cống nước, cửa xả
+slumber||(n)||giấc ngủ
+slum||(n)||khu ổ chuột
+smog||(n)||khói bụi, sương khói ô nhiễm
+smooth||(adj)||mịn màng, nhẵn
+smouldering||(adj)||cháy âm ỉ
+smudgy||(adj)||lem luốc, nhòe
+smuggle||(v)||buôn lậu, mang lén
+snowfall||(n)||tuyết rơi
+soared||(v)||bay vọt lên, tăng vọt
+soaring||(adj)||tăng vọt
+soar||(v)||tăng vọt
+sober||(adj)||điềm tĩnh, nghiêm túc
+sociable||(adj)||hòa đồng, dễ gần
+social roles||(n)||vai trò xã hội
+social safety nets||(n)||các mạng lưới an sinh xã hội
+social||(adj)||thuộc xã hội
+societal||(adj)||thuộc xã hội
+socio-ecological||(adj)||thuộc về xã hội và sinh thái
+socio-economic||(adj)||thuộc kinh tế – xã hội
+sociobiologist||(n)||nhà sinh học xã hội
+sociopathic||(adj) — thuộc về chứng rối loạn nhân cách chống đối xã hội
+solace||(n)||niềm an ủi
+solar-powered||(adj)||chạy bằng năng lượng mặt trời
+solar||(adj)||thuộc về mặt trời
+sole producer||(phr)||nhà sản xuất duy nhất
+solely||(adv)||duy nhất, chỉ
+sole||(adj)||duy nhất
+solicitor||(n)||luật sư
+solidarity||(n) — tình đoàn kết
+soluble||(adj)||có thể hòa tan
+solutions||(n)||giải pháp
+solution||(n)||dung dịch
+sophistication||(n)||sự tinh vi, phức tạp
+soundness||(n)||tính đúng đắn, sự hợp lý
+sources||(n)||nguồn
+souvenir||(n)||đồ lưu niệm
+sovereign||(n)||người đứng đầu, tối cao (quốc vương);||(adj) có chủ quyền
+spaced||(adj)||được đặt cách nhau
+span||(n)||nhịp (cầu); khoảng thời gian
+spare||(n)||phụ tùng, đồ dự phòng
+spark||(v)||khơi dậy, thúc đẩy
+spawn||(v)||đẻ trứng (cá)
+specialised||(adj)||chuyên môn hóa, chuyên dụng
+specialist||(adj)||chuyên biệt
+specialization||(n)||chuyên môn hóa
+species||(n)||loài, chủng loại
+specification||(n)||thông số kỹ thuật
+specific||(adj)||cụ thể, rõ ràng
+specimen||(n)||mẫu vật
+spectacle||(n)||cảnh tượng, sự trình diễn
+spectacularly||(adv)||ngoạn mục
+spectator||(n)||khán giả, người quan sát
+spectrum||(n)||dải, phạm vi (thường dùng cho màu sắc hoặc ý kiến)
+speculate||(v)||suy đoán
+speed reading||(n)||kỹ năng đọc nhanh
+speed||(n)||tốc độ
+sphere||(n)||lĩnh vực, phạm vi
+spherical||(adj)||hình cầu
+spillage||(n)||sự tràn, sự đổ (chất lỏng)
+spinning||(adj)||quay, xoay
+spokesman||(n)||phát ngôn viên
+spokesperson||(n)||người phát ngôn
+sporadically||(adv)||rải rác, thỉnh thoảng
+sporadic||(adj)||rải rác, không đều
+spot||(v)||phát hiện
+sprang||(v)||nảy sinh
+spread through||(phr)||lan rộng qua
+sprint||(n)||cuộc chạy nước rút (ẩn dụ: quá trình ngắn)
+spruik||(v)||quảng bá, chào hàng
+spur||(n)||(v)||sự thúc đẩy; thúc đẩy
+squander||(v)||phung phí, lãng phí
+stability||(n)||sự ổn định
+stable||(adj)||ổn định
+stakeholders||(n)||các bên liên quan
+stakeholder||(n)||bên liên quan
+stamina||(n)||sức bền
+stammer||(n/v)||chứng nói lắp / nói lắp
+standardised||(adj)||chuẩn hóa
+standardise||(v)||chuẩn hóa
+staple||(n)||thực phẩm chính
+starchy||(adj)||chứa nhiều tinh bột
+startle (v/n) — làm giật mình / sự giật mình
+startling||(adj)||đáng kinh ngạc
+stash||(v)||cất giấu, tích trữ
+state-of-the-art||(adj)||hiện đại nhất, tiên tiến nhất
+static||(adj)||tĩnh, không thay đổi
+statistically||(adv)||một cách thống kê
+statistical||(adj)||thuộc thống kê
+steadfastly||(adv)||một cách kiên định
+steady||(adj)||đều đặn, ổn định
+steeper||(adj)||dốc đứng hơn
+steeply||(adv)||dốc, nhanh
+steer||(v)||điều khiển
+step up||(phr.v)||tăng cường, nỗ lực
+stepping-stone||(n)||bàn đạp (cho mục tiêu lớn hơn)
+stewardship||(n)||quản lý, trông nom
+stifled||(adj)||bị cản trở, kìm hãm
+stifle||(v)||kìm hãm, ngăn cản
+stigmatise||v||kỳ thị, làm cho mang tiếng xấu
+stimuli||(n, plural)||tác nhân kích thích
+stimulus||(n)||tác nhân kích thích
+stockings||(n)||tất chân
+store||(v)||lưu trữ
+stormwater run-off||(n)||dòng nước mưa chảy tràn
+straightforward||(adj)||đơn giản, dễ hiểu
+straitjacket||(n)||sự gò bó, giới hạn
+stranglehold||(n)||sự kiểm soát chặt chẽ, kìm kẹp
+strategic||(adj)||chiến lược
+strategy||(n)||chiến lược
+streamline||(v)||tinh gọn, hợp lý hóa
+strength-to-weight ratio||(n)||tỷ lệ sức mạnh trên trọng lượng
+strengthens||(v)||làm mạnh lên
+strengthen||(v)||tăng cường sức mạnh
+stretch||(v)||kéo dài
+strictly controlled||(phr)||kiểm soát nghiêm ngặt
+strides||(n)||bước tiến lớn
+strikingly||(adv)||một cách nổi bật
+strip out||(phr.v)||loại bỏ
+striped||(adj)||có sọc, có vằn
+stroke||(n)||đột quỵ
+structural||(adj)||thuộc về cấu trúc
+structures||(n)||cấu trúc
+struggling||(adj)||gặp khó khăn, chật vật
+stubborn||(adj)||bướng bỉnh
+studies||(n)||nghiên cứu
+studious||(adj)||chăm học, ham học hỏi
+stunned||(adj)||sửng sốt, choáng váng
+sturdy||(adj)||vững chắc, kiên cố
+sub-disciplines||(n)||chuyên ngành phụ
+subdivided||(v)||chia nhỏ
+subduction||(n)||sự trượt chìm (địa chất)
+subjective||(adj)||chủ quan
+subjugate||(v)||chinh phục, khuất phục
+subliminally||(adv)||một cách tiềm thức
+subscription||(n)||sự đăng ký, thuê bao
+subsequently||(adv)||sau đó, tiếp theo
+subside||(v)||giảm bớt, dịu đi
+subsidies||(n)||trợ cấp (thường của chính phủ)
+subsistence||(n)||sự sinh tồn, kế sinh nhai
+subspecies||(n)||phân loài
+substances||(n)||chất
+substance||(n)||thực chất, chất
+substantially||(adv)||đáng kể
+substitutes||(n)||chất thay thế
+subterranean||(adj)||dưới mặt đất
+successful||(adj)||thành công
+successive||(adj)||liên tiếp
+succumbed||(v)||(chịu thua, gục ngã, không chống nổi)
+succumb||(v)||chịu thua, không chống nổi
+sufficiently||adv||đủ để
+suicide||(n)||sự tự sát (ở đây nghĩa bóng: sự tự huỷ)
+suitable||(adj)||(phù hợp)
+suite||(n)||bộ, nhóm liên quan
+summarise||(v)||tóm tắt
+sunlight||(n)||ánh sáng mặt trời
+superconducting||(adj)||siêu dẫn điện
+superficially||(adv)||một cách hời hợt, bề ngoài
+superficial||(adj)||hời hợt, bề ngoài
+superfluous||(adj)||dư thừa
+superior||(adj)||vượt trội, tốt hơn
+supermarket||(n)||siêu thị
+supersede||(v)||thay thế
+superstition||(n)||mê tín
+superstore||(n)||siêu thị lớn
+supervision||(n)||sự giám sát
+supervolcano||(n)||siêu núi lửa
+super||(adj)||siêu
+supplanted||(v)||thay thế
+supplant||(v)||thay thế, chiếm chỗ
+supplementary||(adj)||bổ sung
+supplemented||(v)||bổ sung
+supremacy||(n)||sự thống trị, ưu thế
+surface tension||(n)||sức căng bề mặt
+surface||(n)||bề mặt
+surgery||(n)||phẫu thuật
+surplus||(n)||dư thừa
+surprised||(adj)||ngạc nhiên
+surveillance||(n)||sự giám sát
+surveys||(n)||cuộc khảo sát
+survey||(n)||cuộc khảo sát
+surviving||(adj)||còn sống sót
+survivor||(n)||người sống sót
+susceptible||(adj)||dễ bị ảnh hưởng
+suspects||(n)||nghi phạm
+suspended||(adj)||bị đình chỉ, tạm ngừng
+suspenders||(n)||dây treo
+suspenseful||(adj)||gây hồi hộp, căng thẳng chờ đợi
+suspension||(n)||hỗn dịch (dạng lơ lửng trong chất lỏng)
+sustainability||(n)||tính bền vững
+sustainable communities||(n)||cộng đồng bền vững
+sustainably||(adv)||một cách bền vững
+sustained||(adj)||liên tục, kéo dài
+sustaining||(v)||duy trì
+swamped||(v)||bị áp đảo, bị tràn ngập
+swathes||(n)||những vùng lớn
+swelling||(n)||sự phồng lên, sưng lên
+swell||(v)||tăng lên, dâng lên
+switchover||(n)||sự chuyển đổi
+syllable||(n)||âm tiết
+symbiosis||(n)||mối quan hệ cộng sinh
+symbol of status||(phr)||biểu tượng địa vị
+symbolic||(adj)||mang tính biểu tượng
+symbolize||(v)||tượng trưng cho
+symbol||(n)||biểu tượng
+sympathetic||(adj)||đồng cảm
+symptomatic||(adj)||là dấu hiệu của, mang tính triệu chứng
+symptom||(n)||triệu chứng
+synchronised||(adj)||đồng bộ, cùng lúc
+synchronise||(v)||đồng bộ hóa
+syndrome||(n)||hội chứng
+synthesis||(n)||sự tổng hợp
+synthetically||(adv)||một cách tổng hợp (nhân tạo)
+synthetic||(adj)||tổng hợp, nhân tạo
+systematic||(adj)||có hệ thống
+systematisation||(n)||sự hệ thống hóa
+tackle||(v)||giải quyết, xử lý (vấn đề, nhiệm vụ)
+tackling||(v)||giải quyết, đối phó
+tacky||(adj)||kém sang, quê mùa
+tactics||(n)||chiến thuật, cách thức
+tangible||(adj)||hữu hình
+targeted||(adj)||nhằm vào, hướng tới
+tariffs||(n)||thuế quan
+taxonomy||(n)||phân loại học
+tax||(n)||thuế
+teased||(v)||tách ra (DNA)
+technical||(adj)||thuộc về kỹ thuật
+techniques||(n)||kỹ thuật
+technological||(adj)||thuộc về công nghệ
+technology||(n)||công nghệ
+teem with||(v)||đầy, tràn ngập
+telecommute||(v)||làm việc từ xa (qua mạng)
+teleservices||(n)||dịch vụ từ xa
+temperament||(n)||khí chất, tính khí
+temperate||(adj)||ôn hòa (khí hậu)
+temporal||(adj)||thuộc thời gian
+temporarily||(adv)||tạm thời
+temptations||(n)||(sự cám dỗ)
+tempted to||v phr||bị cám dỗ, dễ bị dẫn đến (việc gì đó)
+tenable||(adj)||có thể giữ vững (lý thuyết, quan điểm)
+tenant||(n)||người thuê nhà
+tendency||(n)||xu hướng
+tenderness||(n) — sự dịu dàng, ân cần
+tenet||(n)||nguyên lý, giáo lý
+tensile||(adj)||thuộc độ bền kéo
+tenure||(n)||hệ thống thuê đất
+terminology||(n)||thuật ngữ
+terraces||(n)||ruộng bậc thang
+terrain||(n)||địa hình
+territorial||(adj) — thuộc lãnh thổ
+territory||n||lãnh thổ
+terse||(adj)||ngắn gọn, súc tích
+testimonial||(n)||lời chứng thực
+text messaging||(n)||nhắn tin văn bản
+thatched huts||(n)||nhà tranh
+thawing||(adj)||tan băng
+theorem||(n)||định lý
+therapeutic||(adj)||trị liệu
+therapy||(n)||liệu pháp
+thermohaline||(adj)||liên quan đến nhiệt độ và độ mặn (nước biển)
+thermoplastic||(n)||nhựa nhiệt dẻo
+thermosets||(n)||nhựa nhiệt rắn
+thickness||(n)||độ dày
+thorny||adj||gai góc, gây tranh cãi
+thorough||(adj)||kỹ lưỡng, hoàn toàn
+thread-like||(adj)||giống như sợi chỉ, dạng sợi mảnh
+threatened||(v)||bị đe dọa
+threatening||(adj)||đe dọa
+threshold||(n)||ngưỡng, mức giới hạn
+thrilled||(adj)||vui sướng, phấn khích
+thrill||(n)||cảm giác hồi hộp, kích thích
+thrived||(v)||phát triển mạnh, thịnh vượng
+thrust||(n)||lực đẩy
+thwart||(v)||cản trở
+tides||(n)||thủy triều
+tide||(n)||xu hướng, dòng chảy
+tiers||(n)||các tầng lớp, bậc
+tinted||(adj)||được nhuộm màu, có màu nhẹ
+tiny||(adj)||rất nhỏ
+tip||(v)||mách nước, cho biết
+tirelessly||(adv)||không mệt mỏi
+tissue||(n)||mô (sinh học)
+to tackle (a problem)||(v)||giải quyết (vấn đề)
+toleration||(n)||sự khoan dung, chấp nhận
+toll||(n)||phí qua đường
+tomes||(n)||sách dày, thường là sách học thuật
+tonne||(n)||tấn (đơn vị đo lường)
+tools||(n)||dụng cụ
+topography||(n)||địa hình
+torrent||(n)||dòng nước chảy xiết
+tortoiseshell||(n)||mai rùa
+totemic||(adj)||mang tính biểu tượng
+townscape||(n)||cảnh quan đô thị
+towpath||(n)||đường kéo tàu (dọc kênh)
+toxicity||(n)||độ độc
+toxic||(adj)||độc hại
+trace||(n)||(lượng) rất nhỏ, dấu vết
+trade||(n)||thương mại; (adj) dùng để chỉ gió thương mại (trade winds)
+traditionally||(adv)||theo truyền thống
+traditional||(adj)||truyền thống
+tradition||(n)||truyền thống
+traffic calming||(phr)||các biện pháp làm giảm tốc độ và mật độ giao thông
+tragedy||(n)||bi kịch
+trailblazer||(n)||người tiên phong
+training sessions||(n)||buổi tập huấn
+training||(n)||đào tạo
+train||(n)||chuỗi (ở đây là chuỗi sóng)
+traits||(n)||đặc điểm
+trajectory||(n)||quỹ đạo, diễn biến
+trancelike||(adj)||giống trạng thái mê man
+tranquilliser||(n)||thuốc an thần
+transcend||(v)||vượt qua, vượt lên trên
+transcribe||(v)||chép lại, ghi lại (từ nghe hoặc nhìn)
+transferred||(v)||chuyển giao, di chuyển
+transformation||(n)||sự biến đổi
+transient||(adj)||tạm thời
+transit||(n)||(sự) quá cảnh, đi qua
+translated||(v)||chuyển thể, chuyển đổi
+translate||(v)||dẫn đến, chuyển thành
+translators||(n)||người dịch
+transmission||n||sự truyền đạt
+transmitter||(n)||bộ phát tín hiệu
+transmute||(v)||biến đổi (chất này thành chất khác)
+transport (someone) to||(v)||đưa ai đó đến (một thế giới khác, không gian khác - nghĩa bóng)
+transportation||(n)||vận chuyển, giao thông
+transport||(n)||phương tiện giao thông
+transverse||(adj)||ngang
+trapped||(adj)||bị mắc kẹt
+traversing||(v)||đi qua, băng qua
+treacherous||(adj)||nguy hiểm (do điều kiện không đoán trước)
+treasure||(n)||kho báu
+treatment||(n)||sự xử lý (ở đây là xử lý hóa học)
+trees||(n)||cây
+tremendous||(adj)||to lớn, rất lớn
+tremors||(n)||(rung chấn, chấn động)
+trenches||(n)||rãnh, mương
+trendiness||(n)||sự thời thượng, theo mốt
+trend||(n)||xu hướng
+tribe||(n)||bộ lạc, nhóm người có tổ chức xã hội
+trickle||(n)||dòng chảy nhỏ, ít ỏi
+triggers||(v)||kích hoạt, gây ra
+triumph||(n)||chiến thắng, thành tựu
+trivial||(adj)||tầm thường, không quan trọng
+tropical/subtropical||(adj)||thuộc vùng nhiệt đới / cận nhiệt đới
+troublesome||(adj)||gây rắc rối, khó chịu
+truss||(n)||dàn chịu lực
+trustworthiness||(n)||sự đáng tin cậy
+tsunami||(n)||sóng thần
+tuber||(n)||củ (thân rễ)
+tumultuous||(adj)||(hỗn loạn, náo động)
+twisting||(v)||biến đổi, vặn xoắn (nghĩa bóng: biến tấu)
+typography||(n)||nghệ thuật bố trí chữ in
+ubiquity||(n)||(sự có mặt khắp nơi)
+ultimate||(adj)||tối thượng, cuối cùng
+unachievable||(adj)||không thể đạt được
+unaided||(adj)||không có sự giúp đỡ
+unalterable||(adj)||không thể thay đổi
+unanticipated||(adj)||không lường trước
+uncertainty||(n)||sự không chắc chắn
+uncertain||(adj)||không chắc chắn
+unconquerable||(adj)||không thể chinh phục
+unconsciously||(adv)||vô thức, không nhận biết
+unconsciousness||(n)||tình trạng bất tỉnh
+unconstitutional||(adj)||trái hiến pháp
+uncovered||(v)||khám phá ra
+under-achievement||(n)||thành tích thấp hơn mong đợi
+under-achieving||(adj)||hoạt động kém hiệu quả
+underbrush||(n)||bụi cây rậm, tầng cây thấp trong rừng
+underemployment||(n)||tình trạng thiếu việc làm
+underestimated||(adj)||đánh giá thấp
+underestimating||(v)||đánh giá thấp
+undergraduate||(adj)||đại học (chưa tốt nghiệp)
+underlying||(adj)||nằm dưới, cơ bản
+underpins||(v)||làm nền tảng
+underpin||(v)||làm nền tảng, củng cố
+understorey||(n)||tầng cây bụi dưới tán rừng
+undervalued||(adj)||bị đánh giá thấp
+underwater||(adj)||dưới nước
+undesirable||(adj)||không mong muốn, không được ưa thích
+undisciplined||(adj)||thiếu kỷ luật
+undisputed||(adj)||không thể phủ nhận, không tranh cãi
+undone||(adj)||chưa hoàn thành, bị phá hỏng
+undo||(v)||hoàn tác, làm mất hiệu lực
+undue||(adj)||quá mức
+unemployed||(adj)||thất nghiệp
+unenviable||(adj)||không mấy đáng ao ước
+uneven||(adj)||không đều, không đồng đều
+unexpected||(adj)||không ngờ tới
+unforeseen||(adj)||không lường trước được
+unified||(adj)||thống nhất
+uniform||(adj)||đồng đều
+unimpressive||(adj)||không gây ấn tượng
+unintended||(adj)||không có ý định, không mong muốn
+uniquely||(adv)||một cách độc đáo
+unique||(adj)||độc nhất, duy nhất
+universally||(adv)||một cách phổ biến, rộng rãi
+universal||(adj)||phổ biến, chung
+unknown||(adj)||chưa biết
+unmistakable||(adj)||không thể nhầm lẫn
+unmistakably||(adv)||rõ ràng, không thể nhầm lẫn
+unobtrusive||(adj)||kín đáo, không gây chú ý
+unorthodox||(adj)||không chính thống
+unpalatable||(adj)||khó chịu, khó chấp nhận
+unplanned||(adj)||không được lên kế hoạch
+unprecedented||(adj)||chưa từng có tiền lệ
+unpredictability||(n)||sự không thể đoán trước
+unpredictable||(adj)||khó đoán, không thể dự đoán
+unravelling||(v)||làm sáng tỏ, tháo gỡ
+unravel||(v)||tháo ra, mở ra (sợi tơ)
+unreadable||(adj)||khó đọc, khó hiểu
+unresolved||(adj)||chưa được giải quyết, chưa được kết thúc
+unstable||(adj)||không ổn định
+unstreamed||(adj)||không phân lớp theo năng lực
+unsupportive||(adj)||không ủng hộ
+unsurpassed||(adj)||chưa từng bị vượt qua
+untangle||(v)||gỡ rối, làm sáng tỏ
+unusual||(adj)||không bình thường
+unwittingly||(adv)||không cố ý
+upbringing||(n)||sự nuôi dưỡng, cách dạy dỗ
+upgrade||(v)||nâng cấp
+upgrading||(n)||sự nâng cấp
+upstream||(adv)||phía trên (trong quá trình sản xuất)
+upward||(adj)||hướng lên
+urban extension||(n)||khu mở rộng đô thị
+urban regeneration||(n)||tái phát triển đô thị
+urbanised||(adj)||đô thị hóa
+urban||(adj)||thuộc về đô thị
+urn||(n)||bình đựng tro
+usurped||(v)||chiếm đoạt
+utilise||(v)||sử dụng
+utilitarian||(adj)||thực dụng
+utility||(n)||tiện ích
+utterances||(n)||lời nói, phát âm
+vacation||(n)||kỳ nghỉ
+vaccinate||(v)||tiêm phòng
+vacuuming||(adj)||hút bụi
+vague||(adj)||mơ hồ, không rõ ràng
+valve||(n)||van (điều chỉnh dòng chảy)
+vandalism||(n)||hành vi phá hoại
+vanished||(adj)||biến mất, đã tuyệt chủng
+vantage point||(n)||điểm quan sát, vị trí thuận lợi để nhìn
+vapors||(n)||hơi nước, hơi
+variability||(n)||tính biến đổi, sự thay đổi
+variable||(n)||yếu tố thay đổi, biến số
+variants||(n)||biến thể
+variant||(n)||biến thể
+variation||(n)||biến thể
+varied||(adj)||đa dạng
+variegated||(adj)||có nhiều màu sắc, loang lổ
+vast||(adj)||rộng lớn, mênh mông
+vegetarian||(n)||người ăn chay
+vegetation||(n)||thực vật
+vegetative||(adj)||(trạng thái) sinh dưỡng, không ra hoa
+vehicle||(n)||phương tiện (ẩn dụ cho công cụ truyền tải)
+velocity||(n)||vận tốc
+veneered||(adj)||được phủ lớp veneer
+ventilation||(n)||sự thông gió, hệ thống thông gió
+venture||(v)||mạo hiểm
+verandas||(n)||hiên nhà
+verbal ability||(n)||khả năng dùng ngôn ngữ
+verification||n||sự xác minh
+vermin||(n)||động vật gây hại (thường nhỏ như chuột, côn trùng)
+vernacular||(n)||(adj)||tiếng địa phương, ngôn ngữ thông tục
+versatile||(adj)||đa năng, linh hoạt
+versatility||(n)||tính đa dụng, sự linh hoạt
+vertical||(adj)||thẳng đứng
+vessel||(n)||tàu thuyền lớn
+vested interest||(phrase)||quyền lợi cá nhân, lợi ích rõ ràng
+viability||(n)||tính khả thi
+vibrations||(n)||sự rung động
+vicinity||(n)||vùng lân cận
+vicissitudes||(n)||thăng trầm, biến cố
+victimised||(v)||bị hại, bị đối xử bất công
+victimise||(v)||đối xử bất công, trù dập
+violent||(adj)||mãnh liệt, dữ dội
+virtual monopoly||(n)||sự độc quyền gần như tuyệt đối
+virtually||(adv)||hầu như, gần như
+virtue||(n)||điểm tốt, ưu điểm
+virulent||(adj)||nguy hiểm, độc hại
+visible||(adj)||có thể thấy được
+vision||(n)||viễn cảnh, tầm nhìn
+vital||(adj)||rất quan trọng, sống còn
+vitamin||(n)||vitamin
+vivid||(adj)||sinh động
+vocabulary||(n)||vốn từ, hệ thống ký hiệu
+vocalise||(v)||phát âm, phát tiếng
+vocalising||(v)||phát âm, tạo âm thanh
+vocalization||(n)||sự phát âm, phát tiếng
+vocational||(adj)||thuộc nghề nghiệp
+vocation||(n)||nghề nghiệp, thiên hướng nghề
+volatile||(adj)||dễ bay hơi
+volatility||(n)||sự biến động (giá cả, thị trường)
+volcanic||(adj)||thuộc núi lửa
+volcanoes||(n)||núi lửa
+volume||(n)||thể tích, số lượng
+volunteer||(n)||tình nguyện viên
+vomiting||(n)||sự nôn mửa
+voyages||(n)||chuyến đi biển
+vulnerability||(n)||tính dễ bị tổn thương
+waft (to)||(v)||thoảng qua, lan toả (mùi, không khí, nhiệt)
+waning||(n/adj)||trăng khuyết dần
+war-torn||(adj)||bị tàn phá bởi chiến tranh
+wardrobes||(n)||tủ quần áo
+warning||(n)||cảnh báo
+warranty||(n)||sự bảo hành
+waste||(n)||chất thải, sự lãng phí
+water-tight||(adj)||chặt chẽ, không thể bác bỏ
+waxing||(n/adj)||trăng tròn dần
+waxy-coated||(adj)||có lớp sáp phủ bên ngoài
+waxy||(adj)||có tính sáp, bóng mượt
+wealth||(n)||sự giàu có, sự phong phú
+wean off||(v)||cai (dần bỏ một thói quen hoặc chất nào đó)
+wear out||(v)||mòn, hư hại do sử dụng
+weather||(n)||thời tiết
+weaver ant||(n)||kiến dệt (loài kiến biết dệt tổ bằng tơ)
+weaving||(n)||nghề dệt
+weeds||n||cỏ dại
+wetlands||(n)||vùng đất ngập nước
+wild-fire||(n)||cháy rừng
+wilderness||(n)||vùng hoang dã
+wildlife||(n)||động vật hoang dã
+windswept||(adj)||lộng gió, trống trải
+winds||(n)||gió
+winner||(n)||người chiến thắng
+withdraw||v||rút (tiền)
+wit||(n) — sự dí dỏm, hóm hỉnh
+workforce||(n)||lực lượng lao động
+wormy||(adj)||có sâu, bị sâu ăn (quả)
+worn||(v)||hao mòn, kiệt sức
+worship||(n)||sự thờ cúng
+worthless||(adj)||vô giá trị
+worthy||(adj)||xứng đáng, có giá trị
+writhing||(n)||sự quằn quại, vặn vẹo (đau đớn)
+xenophobia||(n)||chủ nghĩa bài ngoại
+yarn||(n)||sợi (dệt vải)
+yellowing||(adj)||ngả vàng
+zero gravity||(phr)||trọng lực bằng không
+zigzagging||(adj)||zigzag, ngoằn ngoèo
