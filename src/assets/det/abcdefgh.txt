@@ -1,8 +1,3 @@
-abdomen||(n)||bụng
-abide by||(v)||tuân theo
-ablation||(n)||sự tan chảy, mất khối lượng (băng tuyết)
-abnormal||(adj)||bất thường
-abrade||(v)||mài mòn, cạo
 abreast||(adv)||kịp thời, theo kịp
 abruptly||(adv)||đột ngột
 abrupt||(adj)||đột ngột
