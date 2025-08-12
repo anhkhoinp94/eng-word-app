@@ -1,18 +1,3 @@
-abreast||(adv)||kịp thời, theo kịp
-abruptly||(adv)||đột ngột
-abrupt||(adj)||đột ngột
-absence||(n)||sự thiếu vắng
-absenteeism||(n)||sự vắng mặt (không có phép tại nơi làm việc)
-absent||(adj)||vắng mặt
-absolute||(adj)||tuyệt đối
-absolutist||(adj)||chủ nghĩa chuyên chế
-absorbed||(v)||hấp thụ
-absorbent||(adj)||có khả năng hút
-abstracted||(adj)||trừu tượng
-abstractions||(n)||những khái niệm trừu tượng
-abstraction||(n)||khả năng tư duy trừu tượng
-abundance||(n)||sự phong phú, dồi dào
-abundant||(adj)||dồi dào, phong phú
 abusive||(adj)||lăng mạ, xúc phạm
 abutment||(n)||mố cầu (bệ cầu)
 abysmally||(adv)||cực kỳ, thảm hại
@@ -33,7 +18,6 @@ accessible||(adj)||có thể tiếp cận được
 access||(n)||quyền tiếp cận
 accident risk||(phr)||nguy cơ tai nạn
 accidental||(adj)||tình cờ, ngẫu nhiên
-acclaim||(n)||sự hoan nghênh
 accommodating||(adj)||dễ tính, thích nghi
 accompanied||(v)||đi kèm, kèm theo
 accompanying||(adj)||đi kèm theo
@@ -7676,11 +7660,6 @@ spur||(n)||(v)||sự thúc đẩy; thúc đẩy
 squandering||(v)||phung phí
 squander||(v)||phung phí, lãng phí
 squeeze||(v)||ép, vắt
-stabilise||(v)||ổn định hóa
-stability||(n)||sự ổn định
-stabilized||(adj)||ổn định
-stabilize||(v)||ổn định
-stable||(adj)||ổn định
 stacked||(v)||xếp chồng lên
 stadium||(n)||sân vận động
 staggered||(adj)||rải rác, gián đoạn
@@ -8468,7 +8447,6 @@ undergird||(v)||hỗ trợ, củng cố
 undergraduate||(adj)||đại học (chưa tốt nghiệp)
 underlies||(v)||là cơ sở, là nền tảng
 underlying||(adj)||nằm dưới, cơ bản
-undermined||(v)||làm suy yếu
 undernourished||(adj)||thiếu dinh dưỡng
 underperforming||(v)||hoạt động kém hiệu quả
 underpinnings||(n)||cơ sở nền tảng
@@ -8526,7 +8504,6 @@ unintended||(adj)||không có ý định, không mong muốn
 unintentional||(adj)||không cố ý
 uninterrupted||(adj)||không bị gián đoạn  
 uninvited||(adj)||không được mời, không được cho phép
-union||(n)||liên đoàn, công đoàn
 uniquely||(adv)||một cách độc đáo
 uniqueness||(n)||tính độc nhất, đặc biệt
 unique||(adj)||độc nhất, duy nhất
@@ -8573,7 +8550,6 @@ unsightly||(adj)||khó coi, không đẹp mắt
 unskilled||(adj)||không có kỹ năng
 unsolved||(adj)||chưa được giải quyết
 unspoken||(adj)||không được nói ra
-unstable||(adj)||không ổn định
 unstreamed||(adj)||không phân lớp theo năng lực
 unstressed||(adj)||không nhấn âm
 unstructured time||(n)||thời gian không có kế hoạch
@@ -8630,9 +8606,6 @@ utilitarian||(adj)||thực dụng
 utility||(n)||tiện ích
 utilization||(n)||sự sử dụng
 utopian||(adj)||lý tưởng hóa, không thực tế
-utterances||(n)||lời nói, phát âm
-utterance||(n)||phát ngôn
-utter||(v)||phát ra (âm thanh, lời nói)
 vacation||(n)||kỳ nghỉ
 vaccinate||(v)||tiêm phòng
 vacillate||(v)||do dự, dao động
@@ -8716,13 +8689,6 @@ vibrate||(v)||rung động
 vibrations||(n)||sự rung động
 vibration||(n)||sự rung động
 vicarianism||(n)||thuyết thay thế (sinh học)
-vice president||(n)||phó chủ tịch
-vicinity||(n)||vùng lân cận
-vicious cycle||(n)||vòng luẩn quẩn
-vicious||(adj)||ác liệt, tàn khốc
-vicissitudes||(n)||thăng trầm, biến cố
-victimised||(v)||bị hại, bị đối xử bất công
-victimise||(v)||đối xử bất công, trù dập
 videotaped||(v)||ghi hình
 vigilance||(n)||sự cảnh giác
 vigorously||(adv)||(mạnh mẽ, quyết liệt)
@@ -8817,9 +8783,7 @@ waxy-coated||(adj)||có lớp sáp phủ bên ngoài
 waxy||(adj)||có tính sáp, bóng mượt
 weakness||(n)||điểm yếu
 wealth||(n)||sự giàu có, sự phong phú
-wean off||(v)||cai (dần bỏ một thói quen hoặc chất nào đó)
 wear and tear||(n)||sự hao mòn, hư hại do sử dụng
-wear out||(v)||mòn, hư hại do sử dụng
 weather-dependent||(adj)||phụ thuộc vào thời tiết
 weather||(n)||thời tiết
 weaver ant||(n)||kiến dệt (loài kiến biết dệt tổ bằng tơ)
@@ -8855,12 +8819,6 @@ wind-tunnel||(n)||hầm gió (dùng thử nghiệm khí động học)
 windbreak||(n)||hàng chắn gió
 windswept||(adj)||lộng gió, trống trải
 winds||(n)||gió
-winner||(n)||người chiến thắng
-wipes||(n)||khăn lau
-withdrawal symptoms||(n)||triệu chứng cai nghiện
-withdrawals||(n)||sự rút nước
-withdrawal||(n)||sự rút lui, triệu chứng cai nghiện
-withdraw||v||rút (tiền)
 withering||(adj)||héo úa
 withstand||(v)||chịu đựng
 wit||(n) — sự dí dỏm, hóm hỉnh
@@ -8871,7 +8829,6 @@ woeful||(adj)||rất tồi tệ, đáng buồn
 wood-fiber||(n)||sợi gỗ
 workaholic||(adj)||nghiện công việc
 workforce||(n)||lực lượng lao động
-working day||(n)||ngày làm việc
 workshop||(n)||xưởng
 worms||(n)||sâu, giun
 wormy||(adj)||có sâu, bị sâu ăn (quả)
@@ -8891,60 +8848,8 @@ xenophobia||(n)||chủ nghĩa bài ngoại
 xerography||(n)||kỹ thuật sao chụp bằng điện quang
 yachtsman||(n)||người chèo thuyền buồm thể thao
 yarn||(n)||sợi (dệt vải)
-yawn||(v/n)||ngáp
 yearning||(n)||sự khao khát
 yellowing||(adj)||ngả vàng
 youthful||(adj)||trẻ trung
 zenith||(n)||đỉnh cao
-zero emission vehicles||(n)||xe không phát thải
-zero gravity||(phr)||trọng lực bằng không
-zero technology||(n)||không cần công nghệ phức tạp
 zigzagging||(adj)||zigzag, ngoằn ngoèo
-zodiac||(n)||hoàng đạo
-ATP (adenosine triphosphate)||(n)||ATP (adenosine triphosphate - phân tử năng lượng)
-Aboriginal||(adj)||thuộc về người thổ dân Úc
-Airstream trailer||(n)||loại xe kéo du lịch (thường dùng cho du lịch đường dài)
-Anthropological||(adj)||thuộc nhân học
-Batesian mimicry||(n)||bắt chước Batesian
-Bolsheviks||(n)||phe Bolshevik, phe cách mạng ở Nga
-Byzantine Empire||(n)||Đế chế Byzantine (đế chế Đông La Mã)
-Cambrian||(adj)||thuộc kỷ Cambri
-Champagne||(n)||rượu sâm panh
-Compton scattering||(n)||tán xạ Compton (hiệu ứng vật lý)
-Congress of Soviets||(n)||Đại hội Xô viết (cơ quan lập pháp Liên Xô)
-Council of Peoples’ Commissars||(n)||Hội đồng các Uỷ ban Nhân dân (chính phủ Liên Xô)
-Cretaceous||(adj)||thuộc kỷ Creta (kỷ Phấn trắng)
-Cultural Revolution||(n)||Cách mạng Văn hóa
-DNA analysis||(n)||phân tích DNA
-DNA||(n)||axit deoxyribonucleic (chất di truyền)
-Dial-A-Law||(n)||dịch vụ cung cấp thông tin pháp lý qua tin nhắn ghi âm sẵn
-Experience Sampling Method (ESM)||(n)||phương pháp lấy mẫu trải nghiệm
-Five Year Plan||(n)||kế hoạch 5 năm (kế hoạch phát triển kinh tế Liên Xô)
-Galloping||(adj)||tăng nhanh, dữ dội
-Gigantoraptor||(n)||một chi khủng long lớn
-Global Positioning System (GPS)||(n)||hệ thống định vị toàn cầu
-Gregorian||(adj)||thuộc lịch Gregory
-Ice Age||(n)||kỷ băng hà
-Impressionist||(n)||họa sĩ trường phái Ấn tượng
-Indo-European||(adj)||thuộc Ấn-Âu
-Industrial Revolution||(n)||Cuộc Cách mạng công nghiệp
-Lapita||(n)||tên một nền văn hóa cổ đại
-Legal Referral Service||(n)||dịch vụ giới thiệu luật sư
-Ministry of Information||(n)||Bộ Thông tin
-Montreal Protocol||(n)||Giao ước Montreal về chất làm suy giảm tầng ozone
-Müllerian mimicry||(n)||sự bắt chước Müller
-National Literacy Crusade||(n)||Chiến dịch xóa mù chữ quốc gia
-Neolithic||(adj)||thuộc thời kỳ đồ đá mới
-Normans||(n)||người Normandy (vùng Pháp)
-Oralism||(n)||chủ trương dạy người khiếm thính bằng nói thay vì ngôn ngữ ký hiệu
-Palaeolithic||(adj)||thuộc thời kỳ đồ đá cũ
-Penal Laws||(n)||luật hình phạt
-Poet Laureate||(n)||thi sĩ chính thức
-Pollyannaish||(adj)||quá lạc quan (một cách ngây thơ)
-Providence||(n)||sự an bài, số phận
-Senate||(n)||Thượng viện, cơ quan chính phủ
-Southern||(adj)||thuộc phương Nam
-Stone Age||(n)||thời kỳ đồ đá
-Styrofoam||(n)||xốp cách nhiệt (thường dùng làm hộp, ly)
-Teutonic||(adj)||thuộc người Đức
-Utopia||(n)||xã hội lý tưởng, thiên đường

@@ -9,6 +9,166 @@
   },
   {
     "id": 0,
+    "en1": "stabilize",
+    "en2": "I worked hard to stabilize the project and improve its financial stability.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) làm ổn định"
+  },
+  {
+    "id": 0,
+    "en1": "stable",
+    "en2": "I feel stable in my job now, but the market situation is still quite unstable.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) ổn định"
+  },
+  {
+    "id": 0,
+    "en1": "utter",
+    "en2": "I could barely utter a word after hearing his strange utterance.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) phát ra, thốt ra"
+  },
+  {
+    "id": 0,
+    "en1": "victimize",
+    "en2": "I felt victimized at work because of my opinions.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) đối xử bất công"
+  },
+  {
+    "id": 0,
+    "en1": "vicissitude",
+    "en2": "I have learned to accept the vicissitudes of life with patience.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) sự thăng trầm"
+  },
+  {
+    "id": 0,
+    "en1": "vicious",
+    "en2": "I was shocked by the vicious attack in the news.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) ác độc, nguy hiểm"
+  },
+  {
+    "id": 0,
+    "en1": "vicinity",
+    "en2": "I live in the vicinity of the city center, so I can walk to work.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) vùng lân cận"
+  },
+  {
+    "id": 0,
+    "en1": "wean off",
+    "en2": "I am trying to wean myself off caffeine by drinking more water.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) cai"
+  },
+  {
+    "id": 0,
+    "en1": "wear out",
+    "en2": "I don't want to wear out my shoes too quickly.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) mòn, hao mòn"
+  },
+  {
+    "id": 0,
+    "en1": "wipe",
+    "en2": "I wiped the table after dinner to clean up the crumbs.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) lau"
+  },
+  {
+    "id": 0,
+    "en1": "withdraw",
+    "en2": "I decided to withdraw my application after reconsidering the job offer.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) rút"
+  },
+  {
+    "id": 0,
+    "en1": "yawn",
+    "en2": "I couldn't help but yawn during the long meeting.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v,n) ngáp"
+  },
+  {
+    "id": 0,
+    "en1": "zodiac",
+    "en2": "I checked my zodiac sign to see what the stars say about my future.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) hoàng đạo"
+  },
+  {
+    "id": 0,
+    "en1": "union",
+    "en2": "I joined the workers' union to support better working conditions.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) công đoàn, liên đoàn"
+  },
+  {
+    "id": 0,
+    "en1": "abundant",
+    "en2": "I found abundant evidence to support my theory.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) phong phú"
+  },
+  {
+    "id": 0,
+    "en1": "absorb",
+    "en2": "I used a towel to absorb the spilled water because it was very absorbent.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) hấp thụ"
+  },
+  {
+    "id": 0,
+    "en1": "absolute",
+    "en2": "I have absolute trust in the system, but I don't agree with absolutists who refuse any compromise.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) tuyệt đối"
+  },
+  {
+    "id": 0,
+    "en1": "absent",
+    "en2": "I was absent from work yesterday because I was feeling sick.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) vắng mặt"
+  },
+  {
+    "id": 0,
+    "en1": "abrupt",
+    "en2": "I was shocked by his abrupt departure without saying goodbye.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) đột ngột"
+  },
+  {
+    "id": 0,
+    "en1": "abreast of",
+    "en2": "I try to stay abreast of the latest news in technology.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adv) theo kịp"
+  },
+  {
+    "id": 0,
     "en1": "abrade",
     "en2": "I accidentally abraded my knee when I fell off my bike.",
     "en3": "",
