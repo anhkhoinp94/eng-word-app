@@ -2344,13 +2344,6 @@ disputed||(adj)||bị tranh cãi
 dispute||(v)||tranh cãi, nghi ngờ
 disputing||(v)||tranh luận, tranh cãi
 disregard||(v)||bỏ qua
-disreputable||(adj)||tai tiếng, mất uy tín
-disrepute||(n)||sự mất uy tín
-disrupted||(adj)||bị gián đoạn
-disrupting||(v)||làm gián đoạn, phá vỡ
-disruption||(n)||sự gián đoạn
-disruptive||(adj)||gây gián đoạn, làm rối loạn
-disrupts||(v)||phá vỡ, làm gián đoạn
 dissatisfaction||(n)||sự không hài lòng
 dissected||(v)||phân tích, tách ra
 disseminated||(v)||phổ biến, truyền bá

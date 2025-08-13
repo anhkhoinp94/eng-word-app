@@ -9,6 +9,22 @@
   },
   {
     "id": 0,
+    "en1": "repute",
+    "en2": "I enjoy good repute, avoid disrepute, and work with reputable people.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) danh tiếng"
+  },
+  {
+    "id": 0,
+    "en1": "disrupt",
+    "en2": "I didn't want to disrupt the meeting, so I waited until it ended to ask my question.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) làm gián đoạn, phá vỡ"
+  },
+  {
+    "id": 0,
     "en1": "disprove",
     "en2": "I managed to disprove the rumor with solid evidence.",
     "en3": "",
