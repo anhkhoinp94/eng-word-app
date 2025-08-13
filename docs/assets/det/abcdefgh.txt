@@ -2337,10 +2337,8 @@ dispiriting||(adj)||gây chán nản, làm mất tinh thần
 displaced||(v)||thay thế
 displacement||(n)||sự dịch chuyển
 displayed||(v)||thể hiện
-dispose||(v)||vứt bỏ
 disproportionately||(adv)||không cân xứng
 disproportionate||(adj)||quá mức, không cân xứng
-disprove||(v)||bác bỏ
 dispute (n/v) - tranh luận, tranh cãi
 disputed||(adj)||bị tranh cãi
 dispute||(v)||tranh cãi, nghi ngờ
@@ -2774,25 +2772,7 @@ entrepreneurs||(n)||doanh nhân
 entrusted||(v)||ủy thác
 entrust||(v)||ủy thác, giao phó
 envelop||(v)||bao phủ, che kín
-environmental adaptation||(phr)||sự thích nghi môi trường
-environmental agenda||(n)||chương trình nghị sự về môi trường
-environmental degradation||(n)||sự suy thoái môi trường
-environmental implication||(phr)||ảnh hưởng môi trường
-environmental leaders||(n)||lãnh đạo môi trường
-environmentalism||(n)||chủ nghĩa bảo vệ môi trường
-environmentalists||(n)||nhà môi trường học
-environmentalist||(n)||nhà hoạt động môi trường
-environmentally friendly||(adj)||thân thiện với môi trường
-environmentally responsible||(adj)||có trách nhiệm với môi trường
-environmentally-friendly||(adj)||thân thiện với môi trường
-environmentally||(adv)||một cách liên quan đến môi trường
-environmental||(adj)||thuộc môi trường
-environment||(n)||môi trường
-envisage||(v)||tưởng tượng, dự tính
-envision||(v)||hình dung, mường tượng
 envoy||(n)||đặc sứ, phái viên
-enzyme-driven||(adj)||được xúc tác bởi enzyme
-enzyme||(n)||enzyme
 ephemeral||(adj)||phù du, chóng tàn
 epicyclic gears||(n)||bánh răng hành tinh (cơ cấu truyền động)
 epidemics||(n)||dịch bệnh
@@ -5924,7 +5904,6 @@ phonemes||(n)||Âm vị
 phoneme||(n)||âm vị
 phonetic||(adj)||thuộc về ngữ âm
 phosphate||(n)||phốt phát
-photo-degradation||(n)||sự phân hủy do ánh sáng
 photocell||(n)||pin quang điện
 photochemical||(adj)||thuộc về quang hóa
 photoelectric effect||(n)||hiệu ứng quang điện
@@ -6996,15 +6975,8 @@ reuptake||(n)||sự tái hấp thu (dược lý)
 reuse||(v)||tái sử dụng
 revamped||(adj)||được sửa đổi, cải tiến
 revamp||(v)||tân trang, cải tổ
-revealed||(v)||tiết lộ
-reveal||(v)||tiết lộ
-revelation||(n)||sự khám phá
 revenue-generating||(adj)||tạo ra doanh thu
 revenue||(n)||thu nhập, doanh thu
-reverberate||(v)||dội lại, vang vọng
-reverberation||(n)||tiếng vang
-revered||(adj)||được tôn kính, kính trọng
-reverence||(n)||sự tôn kính
 reversal||(n)||sự đảo ngược
 reverse psychology||(n)||tâm lý đảo ngược
 reverse||(v)||đảo ngược
@@ -7027,7 +6999,6 @@ revolutionised||(v)||cách mạng hóa
 revolutionise||(v)||cách mạng hóa
 revolutionize||(v)||cách mạng hóa
 revolutionizing||(v)||cách mạng hóa, thay đổi hoàn toàn
-reward centre||(n)||trung tâm thưởng (não bộ)
 rewardingly||(adv)||một cách có giá trị, bổ ích
 rewarding||(adj)||mang lại nhiều lợi ích
 rewards||(n)||phần thưởng, sự thưởng
@@ -7045,18 +7016,11 @@ richness||(n)||sự phong phú
 rich||(adj)||giàu (ví dụ: giàu protein)
 rickety||(adj)||lung lay, ọp ẹp (dễ sụp đổ)
 ridge||(n)||gờ, đường nổi trên bề mặt
-ridiculously||(adv)||ngớ ngẩn, lố bịch
-ridiculous||(adj)||buồn cười, lố bịch
 rid||(v)||tống khứ, loại bỏ
 rife||(adj)||lan rộng, phổ biến (thường tiêu cực)
 rift||(n)||khe nứt, rãnh nứt
 rig up||(phr v)||lắp đặt nhanh, chế tạo tạm
 rigging||(n)||dây buộc (trên thuyền)
-right-hand side||(n)||phía bên phải
-rigid||(adj)||cứng nhắc, cứng
-rigorously||(adv)||một cách nghiêm ngặt
-rigorous||(adj)||nghiêm ngặt
-rigour||(n)||sự nghiêm ngặt, chặt chẽ
 rim||(n)||vành, mép
 rinse||(v)||rửa sạch
 rioting||(n)||bạo loạn
@@ -7114,8 +7078,6 @@ rubric||(n)||phương pháp, nguyên tắc
 rudimentary||(adj)||thô sơ, sơ đẳng
 ruefully||(adv)||một cách buồn bã, tiếc nuối
 rugged||(adj)||gồ ghề, lởm chởm
-ruined||(adj)||bị phá hủy
-ruin||v||làm hỏng, tàn phá
 rule-based||(adj)||dựa trên quy tắc
 ruler||(n)||người cai trị, vua chúa
 ruminant||(n)||động vật nhai lại
@@ -7144,11 +7106,6 @@ salacious||(adj)||khiêu dâm, tục tĩu
 salary||(n)||lương
 sales||(n)||doanh số
 salient features||(n)||đặc điểm nổi bật
-saline||(adj)||có muối
-salinity||(n)||độ mặn
-salivation||(n)||sự tiết nước bọt
-saliva||(n)||nước bọt
-salt||(n)||muối
 salvage||(v)||trục vớt, cứu hộ (tàu đắm, hàng hóa...)
 sampler arms||(n)||cánh tay lấy mẫu
 sample||(v)||lấy mẫu

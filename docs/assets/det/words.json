@@ -9,6 +9,110 @@
   },
   {
     "id": 0,
+    "en1": "disprove",
+    "en2": "I managed to disprove the rumor with solid evidence.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) bác bỏ"
+  },
+  {
+    "id": 0,
+    "en1": "dispose",
+    "en2": "I always dispose of garbage properly to protect the environment.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) vứt bỏ"
+  },
+  {
+    "id": 0,
+    "en1": "reveal",
+    "en2": "I reveal the truth to my friend, and this revelation changes our relationship.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) tiết lộ"
+  },
+  {
+    "id": 0,
+    "en1": "reverberate",
+    "en2": "I heard my voice reverberate through the empty hall.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) dội lại, vang vọng"
+  },
+  {
+    "id": 0,
+    "en1": "revere",
+    "en2": "I revere my teacher and show great reverence for her guidance.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) tôn kính"
+  },
+  {
+    "id": 0,
+    "en1": "ridiculous",
+    "en2": "I felt ridiculous wearing such an oversized hat in public.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) lố bịch"
+  },
+  {
+    "id": 0,
+    "en1": "rigid",
+    "en2": "I found it hard to adapt because of the company's rigid rules.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) cứng, cứng nhắc"
+  },
+  {
+    "id": 0,
+    "en1": "rigorous",
+    "en2": "I underwent rigorous training before starting my new job.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) nghiêm ngặt"
+  },
+  {
+    "id": 0,
+    "en1": "ruin",
+    "en2": "I didn't want the heavy rain to ruin our picnic plans.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v,n) phá hủy / tàn tích"
+  },
+  {
+    "id": 0,
+    "en1": "salinity",
+    "en2": "I measured the salinity of the water, noticed salt crystals on the shore, and confirmed it was a saline environment.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) độ mặn"
+  },
+  {
+    "id": 0,
+    "en1": "saliva",
+    "en2": "I noticed an increase in salivation, and saliva started to pool in my mouth.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) nước bọt"
+  },
+  {
+    "id": 0,
+    "en1": "enzyme",
+    "en2": "I learned that the enzyme lactase helps digest lactose in milk.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) enzym"
+  },
+  {
+    "id": 0,
+    "en1": "envision",
+    "en2": "I can envision a future where renewable energy dominates, and I envisage myself contributing to that change.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) hình dung, tưởng tượng"
+  },
+  {
+    "id": 0,
     "en1": "stabilize",
     "en2": "I worked hard to stabilize the project and improve its financial stability.",
     "en3": "",
