@@ -4033,13 +4033,6 @@ independent suspensions||(n)||hệ thống treo độc lập
 independently||(adv)||một cách độc lập
 independent||(adj)||độc lập
 indestructibility||(n)||sự không thể phá hủy
-index (finger)||(n)||ngón trỏ
-index||(n)||chỉ số
-indication||(n)||sự chỉ ra, dấu hiệu
-indicative||(adj)||biểu thị, chỉ ra
-indicators||(n)||chỉ số, dấu hiệu
-indicator||(n)||chỉ số, dấu hiệu
-indictment||(n)||sự buộc tội, bản cáo trạng
 indifference||(n) — sự thờ ơ, không quan tâm
 indifferent||(adj)||thờ ơ, không quan tâm
 indigenous people||(n)||người bản địa
