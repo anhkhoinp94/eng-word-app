@@ -72,70 +72,44 @@
     </div>
   </div>
 
-  <div class="row">
-    <div class="col-6">
-      <div class="row">
-        <div class="col-12">
-          <div>
-            <button class="btn btn-primary mt-4 fw-bold" style="
-              min-width: 160px;
-              height: 75px;
-              font-size: 25px;
-              float: right;
-              color: black;
-              " (click)="speakWord()" *ngIf="canSpeak">
-              Word
-              <img src="assets/icons/volume-up-svgrepo-com.svg" style="
-                width: 20px;
-                height: 20px;
-                vertical-align: middle;
-                margin-bottom: 3px;">
-            </button>
-            <button class="btn btn-secondary mt-4 fw-bold" style="
-              min-width: 160px;
-              height: 75px;
-              font-size: 25px;
-              float: right;
-            " (click)="checkAbleSpeak()" *ngIf="!canSpeak">
-              Mute
-            </button>
-          </div>
-        </div>
-        <div class="col-12"></div>
-      </div>
+  <div class="row justify-content-center mt-4">
+    <div class="col-auto">
+      <button class="btn btn-primary fw-bold" style="min-width: 120px; height: 60px; font-size: 18px; color: black;"
+        (click)="speakWord()" *ngIf="canSpeak">
+        Word
+        <img src="assets/icons/volume-up-svgrepo-com.svg"
+          style="width: 20px; height: 20px; vertical-align: middle; margin-bottom: 3px;">
+      </button>
+      <button class="btn btn-secondary fw-bold" style="min-width: 120px; height: 60px; font-size: 18px;"
+        (click)="checkAbleSpeak()" *ngIf="!canSpeak">
+        Mute
+      </button>
     </div>
-
-    <div class="col-6">
-      <button class="btn btn-success mt-4 me-2 fw-bold" style="min-width: 160px; height: 75px; font-size: 25px"
+    <div class="col-auto">
+      <button class="btn btn-warning fw-bold" style="min-width: 120px; height: 60px; font-size: 18px;"
+        (click)="speakSentence()" *ngIf="canSpeak && showEn && showVN">
+        Sentence
+        <img src="assets/icons/volume-up-svgrepo-com.svg" style="width: 20px; height: 20px; vertical-align: middle;">
+      </button>
+    </div>
+    <div class="col-auto">
+      <button class="btn btn-success me-2 fw-bold" style="min-width: 120px; height: 60px; font-size: 18px"
         (click)="change()" *ngIf="!showEn || !showVN">
         Result
       </button>
-
-      <button class="btn btn-danger mt-4 me-2 fw-bold" style="min-width: 160px; height: 75px; font-size: 25px" (click)="next()"
-        *ngIf="showEn && showVN">
+      <button class="btn btn-danger me-2 fw-bold" style="min-width: 120px; height: 60px; font-size: 18px"
+        (click)="next()" *ngIf="showEn && showVN">
         Next
       </button>
     </div>
   </div>
 
-  <div class="row" *ngIf="enWord2">
-    <div class="col-4">
-    </div>
-    <div class="col-4 d-flex justify-content-center">
-      <button class="btn btn-warning mt-3 fw-bold" style="
-        min-width: 160px;
-        height: 75px;
-        font-size: 25px;
-        " (click)="speakSentence()" *ngIf="canSpeak && showEn && showVN">
-        Sentence
-        <img src="assets/icons/volume-up-svgrepo-com.svg" style="
-          width: 20px;
-          height: 20px;
-          vertical-align: middle;
-          margin-bottom: 3px;">
-      </button>
-    </div>
-    <div class="col-4">
+  <div class="row justify-content-center mt-4">
+    <div class="col-auto d-flex flex-column align-items-center">
+      <div *ngFor="let learnedWord of learnedWords.slice(-6, -1).reverse()" class="d-block mb-2"
+        style="margin-bottom: 10px;">
+        <strong>{{ learnedWord.en1 }}</strong> : {{ learnedWord.vn1 }}
+      </div>
     </div>
   </div>
   <!-- <div *ngFor="let voice of voices" style="margin-bottom: 10px;">

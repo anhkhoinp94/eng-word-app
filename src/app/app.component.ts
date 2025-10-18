@@ -33,6 +33,7 @@ export class AppComponent {
   page = 0;
   textxtx = '';
   words: Word[] = [];
+  learnedWords: Word[] = [];
   countSawWords = 0;
   tempWord: any;
   deployT = deployTime.time;
@@ -99,6 +100,7 @@ export class AppComponent {
       this.speakSentenceCountMax = this.tempWord.removedElement.speakSentenceCountMax;
       this.speakWordCountMax = this.tempWord.removedElement.speakWordCountMax;
       this.page = this.tempWord.removedElement.page;
+      this.learnedWords.push(this.tempWord.removedElement);
     } else {
       this.selectedWord = {
         id: 0,
