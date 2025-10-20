@@ -130,7 +130,8 @@ function main() {
 
   // Shuffle words
   let shuffledItems = shuffleItems(items);
-  const randomNumber = Math.floor(Math.random() * (100 - 5 + 1)) + 5;
+  const randomNumber = Math.floor(Math.random() * (200 - 50 + 1)) + 50; // Random number between 50 and 200
+  console.log(`Shuffling items ${randomNumber} more times...`);
   for (let i = 0; i < randomNumber; i++) {
     console.log(`the ${i} time`);
     shuffledItems = shuffleItems(shuffledItems);
