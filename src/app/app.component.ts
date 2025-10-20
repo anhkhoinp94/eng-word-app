@@ -181,6 +181,10 @@ export class AppComponent {
     return { updatedArray: arr, removedElement };
   };
 
+  deleteLearnedWord(id: any) {
+    this.learnedWords = this.learnedWords.filter(word => word.id !== id);
+  }
+
   speakWordCount = 0;
   speakWordCountMax = 1;
   async speakWord() {
