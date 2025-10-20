@@ -76,7 +76,7 @@
     <div class="col-auto">
       <button class="btn btn-primary fw-bold" style="min-width: 120px; height: 60px; font-size: 18px; color: black;"
         (click)="speakWord()" *ngIf="canSpeak">
-        Word
+        Wo
         <img src="assets/icons/volume-up-svgrepo-com.svg"
           style="width: 20px; height: 20px; vertical-align: middle; margin-bottom: 3px;">
       </button>
@@ -88,18 +88,18 @@
     <div class="col-auto">
       <button class="btn btn-warning fw-bold" style="min-width: 120px; height: 60px; font-size: 18px;"
         (click)="speakSentence()" *ngIf="canSpeak && showEn && showVN">
-        Sentence
+        Se
         <img src="assets/icons/volume-up-svgrepo-com.svg" style="width: 20px; height: 20px; vertical-align: middle;">
       </button>
     </div>
     <div class="col-auto">
       <button class="btn btn-success me-2 fw-bold" style="min-width: 120px; height: 60px; font-size: 18px"
         (click)="change()" *ngIf="!showEn || !showVN">
-        Result
+        Re
       </button>
       <button class="btn btn-danger me-2 fw-bold" style="min-width: 120px; height: 60px; font-size: 18px"
         (click)="next()" *ngIf="showEn && showVN">
-        Next
+        Ne
       </button>
     </div>
   </div>
