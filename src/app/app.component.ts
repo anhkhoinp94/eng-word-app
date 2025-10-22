@@ -69,6 +69,7 @@ export class AppComponent {
         // Deploy
         console.error('Error fetching words:', err);
         this.words = this.words.concat(ielts);
+        this.learnedWords = this.words.splice(10, 30);
         this.setupWord();
       }
     });
