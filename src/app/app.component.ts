@@ -183,6 +183,7 @@ export class AppComponent {
 
   deleteLearnedWord(id: any) {
     this.learnedWords = this.learnedWords.filter(word => word.id !== id);
+    this.cdr.detectChanges();
   }
 
   speakWordCount = 0;
