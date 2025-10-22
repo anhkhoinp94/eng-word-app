@@ -95,9 +95,9 @@ function main() {
   words.shift();
 
   let items = words;
-  // items = items.concat(words1);
-  // items = items.concat(words2);
-  // items = items.concat(words3);
+  items = items.concat(words1);
+  items = items.concat(words2);
+  items = items.concat(words3);
   items = items.concat(words4);
   items = items.concat(words5);
   items = items.concat(words6);
