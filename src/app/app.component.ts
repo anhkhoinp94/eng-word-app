@@ -127,6 +127,14 @@ export class AppComponent {
     };
   };
 
+  shuffleLearnedWords() {
+    if (this.learnedWords.length > 1) {
+      const itemsToShuffle = this.learnedWords.slice(0, -1);
+      const shuffledItems = this.shuffleItems(itemsToShuffle);
+      this.learnedWords = [...shuffledItems, this.learnedWords[this.learnedWords.length - 1]];
+    }
+  }
+
   shuffleItems<T>(items: T[]): T[] {
     for (let i = items.length - 1; i > 0; i--) {
       const j = Math.floor(Math.random() * (i + 1));
