@@ -101,6 +101,9 @@ export class AppComponent {
       this.speakWordCountMax = this.tempWord.removedElement.speakWordCountMax;
       this.page = this.tempWord.removedElement.page;
       this.learnedWords.push(this.tempWord.removedElement);
+      if (this.learnedWords.length === 10) {
+        this.isAuto = false;
+      }
     } else {
       this.selectedWord = {
         id: 0,
