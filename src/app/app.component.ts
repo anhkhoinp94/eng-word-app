@@ -1,4 +1,4 @@
-import { Component, OnInit, OnDestroy } from '@angular/core';
+import { Component } from '@angular/core';
 import { ChangeDetectorRef } from '@angular/core';
 import ielts from '../assets/det/output.json';
 import deployTime from '../assets/det/deploy_time.json';
@@ -14,6 +14,7 @@ interface Word {
   speakSentenceCountMax?: number;
   speakWordCountMax?: number;
   page?: number;
+  hide?: boolean;
 }
 
 @Component({
@@ -69,6 +70,7 @@ export class AppComponent {
         // Deploy
         console.error('Error fetching words:', err);
         this.words = this.words.concat(ielts);
+        // this.learnedWords = this.words.slice(10, 20);
         this.setupWord();
       }
     });
@@ -100,6 +102,7 @@ export class AppComponent {
       this.speakSentenceCountMax = this.tempWord.removedElement.speakSentenceCountMax;
       this.speakWordCountMax = this.tempWord.removedElement.speakWordCountMax;
       this.page = this.tempWord.removedElement.page;
+      this.tempWord.removedElement.hide = true;
       this.learnedWords.push(this.tempWord.removedElement);
       if (this.learnedWords.length === 9) {
         this.isAuto = false;
@@ -186,6 +189,19 @@ export class AppComponent {
 
   deleteLearnedWord(id: any) {
     this.learnedWords = this.learnedWords.filter(word => word.id !== id);
+    this.cdr.detectChanges();
+  }
+
+  toggleHideLearnedWord(id: any) {
+    const word = this.learnedWords.find(word => word.id === id);
+    if (word) {
+      word.hide = !word.hide;
+      this.cdr.detectChanges();
+    }
+  }
+
+  clearMeaningOfLearnedWords() {
+    this.learnedWords.forEach(word => word.hide = true);
     this.cdr.detectChanges();
   }
 

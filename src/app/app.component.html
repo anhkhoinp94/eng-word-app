@@ -108,16 +108,22 @@
     <div *ngFor="let learnedWord of learnedWords.slice(0, learnedWords.length - 1).reverse(); let i = index"
       class="row mb-2" [ngClass]="{'bg-light': i % 2 === 0, 'bg-white': i % 2 !== 0}" style="margin-bottom: 10px;">
       <div class="col-4 d-flex align-items-center pe-1"
-        style="width: 140px; overflow: hidden; text-overflow: ellipsis; white-space: wrap;">
+        style="width: 140px; overflow: hidden; text-overflow: ellipsis; white-space: wrap; cursor: pointer;"
+        (click)="toggleHideLearnedWord(learnedWord.id)">
         <strong>{{ learnedWord.en1 }}</strong>
       </div>
       <div class="col-7 d-flex align-items-center px-0"
-        style="width: 180px; overflow: hidden; text-overflow: ellipsis; white-space: wrap;">
+        style="width: 180px; overflow: hidden; text-overflow: ellipsis; white-space: wrap;"
+        [ngStyle]="{'color': learnedWord.hide ? (i % 2 === 0 ? '#f8f9fa' : '#fff') : '#212529'}">
         {{ learnedWord.vn1 }}
       </div>
       <div class="col-1 d-flex align-items-center justify-content-center pe-0" style="width: 50px;">
         <button class="btn btn-sm btn-danger" (click)="deleteLearnedWord(learnedWord.id)" title="Delete">D</button>
       </div>
+    </div>
+    <div class="col-auto d-flex flex-columnd align-items-center">
+      <button class="btn btn-sm btn-info fw-bold" style="color: black; width: 200px;"
+        (click)="clearMeaningOfLearnedWords()">Clear</button>
     </div>
   </div>
 
