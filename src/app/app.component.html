@@ -113,8 +113,9 @@
         <strong>{{ learnedWord.en1 }}</strong>
       </div>
       <div class="col-7 d-flex align-items-center px-0"
-        style="width: 180px; overflow: hidden; text-overflow: ellipsis; white-space: wrap;"
-        [ngStyle]="{'color': learnedWord.hide ? (i % 2 === 0 ? '#f8f9fa' : '#fff') : '#212529'}">
+        style="width: 180px; overflow: hidden; text-overflow: ellipsis; white-space: wrap; cursor: pointer;"
+        [ngStyle]="{'color': learnedWord.hide ? (i % 2 === 0 ? '#f8f9fa' : '#fff') : '#212529'}"
+        (click)="toggleHideLearnedWord(learnedWord.id)">
         {{ learnedWord.vn1 }}
       </div>
       <div class="col-1 d-flex align-items-center justify-content-center pe-0" style="width: 50px;">
