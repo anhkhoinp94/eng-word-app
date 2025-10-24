@@ -93,11 +93,11 @@
       </button>
     </div>
     <div class="col-auto">
-      <button class="btn btn-success me-2 fw-bold" style="min-width: 90px; height: 60px; font-size: 18px"
+      <button class="btn btn-success me-2 fw-bold" style="min-width: 90px; height: 60px; font-size: 18px; color: black;"
         (click)="change()" *ngIf="!showEn || !showVN">
         Re
       </button>
-      <button class="btn btn-danger me-2 fw-bold" style="min-width: 90px; height: 60px; font-size: 18px"
+      <button class="btn btn-danger me-2 fw-bold" style="min-width: 90px; height: 60px; font-size: 18px; color: black;"
         (click)="next()" *ngIf="showEn && showVN">
         Ne
       </button>
@@ -105,8 +105,8 @@
   </div>
 
   <div class="col-auto d-flex flex-column align-items-center mt-4">
-    <div *ngFor="let learnedWord of learnedWords.slice(0, learnedWords.length - 1).reverse(); let i = index"
-      class="row mb-2" [ngClass]="{'bg-light': i % 2 === 0, 'bg-white': i % 2 !== 0}" style="margin-bottom: 10px;">
+    <div class="row" [ngClass]="{'bg-light': i % 2 === 0, 'bg-white': i % 2 !== 0}" style="min-height: 45px;"
+      *ngFor="let learnedWord of learnedWords.slice(0, learnedWords.length - 1).reverse(); let i = index">
       <div class="col-4 d-flex align-items-center pe-1"
         style="width: 140px; overflow: hidden; text-overflow: ellipsis; white-space: wrap; cursor: pointer;"
         (click)="toggleHideLearnedWord(learnedWord.id)">
@@ -119,14 +119,15 @@
         {{ learnedWord.vn1 }}
       </div>
       <div class="col-1 d-flex align-items-center justify-content-center pe-0" style="width: 50px;">
-        <button class="btn btn-sm btn-danger" (click)="deleteLearnedWord(learnedWord.id)" title="Delete">D</button>
+        <button class="btn btn-sm btn-danger fw-bold" style="color: black;"
+          (click)="deleteLearnedWord(learnedWord.id)">D</button>
       </div>
     </div>
-    <div class="col-auto d-flex flex-columnd align-items-center mb-5">
-      <button class="btn btn-secondary fw-bold me-2" style="color: black; width: 180px; height: 50px;"
-        (click)="shuffleLearnedWords()">Shuffle</button>
-      <button class="btn btn-info fw-bold" style="color: black; width: 180px; height: 50px;"
-        (click)="clearMeaningOfLearnedWords()">Clear</button>
+    <div class="col-auto d-flex flex-columnd align-items-center mt-2 mb-5">
+      <button class="btn btn-danger fw-bold me-2" style="color: black; width: 150px; height: 50px;"
+        (click)="cleanLearnedWords()">Clean</button>
+      <button class="btn btn-info fw-bold" style="color: black; width: 200px; height: 50px;"
+        (click)="clearAndSuffleLearnedWords()">Cl & Su</button>
     </div>
   </div>
 

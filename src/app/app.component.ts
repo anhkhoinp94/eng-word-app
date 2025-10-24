@@ -70,7 +70,7 @@ export class AppComponent {
         // Deploy
         console.error('Error fetching words:', err);
         this.words = this.words.concat(ielts);
-        // this.learnedWords = this.words.slice(10, 20);
+        // this.learnedWords = this.words.slice(10, 19);
         this.setupWord();
       }
     });
@@ -127,12 +127,18 @@ export class AppComponent {
     };
   };
 
-  shuffleLearnedWords() {
+  clearAndSuffleLearnedWords() {
+    this.learnedWords.forEach(word => word.hide = true);
     if (this.learnedWords.length > 1) {
       const itemsToShuffle = this.learnedWords.slice(0, -1);
       const shuffledItems = this.shuffleItems(itemsToShuffle);
       this.learnedWords = [...shuffledItems, this.learnedWords[this.learnedWords.length - 1]];
     }
+    this.cdr.detectChanges();
+  }
+
+  cleanLearnedWords() {
+    this.learnedWords = [this.learnedWords[this.learnedWords.length - 1]];
   }
 
   shuffleItems<T>(items: T[]): T[] {
@@ -206,11 +212,6 @@ export class AppComponent {
       word.hide = !word.hide;
       this.cdr.detectChanges();
     }
-  }
-
-  clearMeaningOfLearnedWords() {
-    this.learnedWords.forEach(word => word.hide = true);
-    this.cdr.detectChanges();
   }
 
   speakWordCount = 0;
