@@ -151,11 +151,11 @@ export class AppComponent {
 
   // API
   markAsStudied(id: number): void {
-    this.wordService.markStudied(id).subscribe({
-      next: () => {
-      },
-      error: err => console.error('Error updating studied status:', err)
-    });
+    // this.wordService.markStudied(id).subscribe({
+    //   next: () => {
+    //   },
+    //   error: err => console.error('Error updating studied status:', err)
+    // });
   };
 
   renderEnWord = (value: string): string => {
