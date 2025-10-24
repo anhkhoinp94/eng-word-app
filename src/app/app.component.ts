@@ -104,7 +104,7 @@ export class AppComponent {
       this.page = this.tempWord.removedElement.page;
       this.tempWord.removedElement.hide = true;
       this.learnedWords.push(this.tempWord.removedElement);
-      if (this.learnedWords.length === 9) {
+      if (this.learnedWords.length === 10) {
         this.isAuto = false;
       }
     } else {
