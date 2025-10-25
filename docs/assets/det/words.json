@@ -9,6 +9,310 @@
   },
   {
     "id": 0,
+    "en1": "appoint",
+    "en2": "I was appointed manager, and I scheduled an appointment with the team.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) bổ nhiệm, chỉ định"
+  },
+  {
+    "id": 0,
+    "en1": "approximate",
+    "en2": "I approximated the total cost of the trip before booking.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) xấp xỉ, ước lượng"
+  },
+  {
+    "id": 0,
+    "en1": "appropriate",
+    "en2": "I chose appropriate clothes for the interview.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) phù hợp, thích hợp"
+  },
+  {
+    "id": 0,
+    "en1": "soak",
+    "en2": "I accidentally soaked my shoes in the rain.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) ngâm, làm ướt"
+  },
+  {
+    "id": 0,
+    "en1": "hence",
+    "en2": "I forgot my umbrella, hence I got soaked in the rain.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(av) do đó"
+  },
+  {
+    "id": 0,
+    "en1": "herb",
+    "en2": "I grow basil, an herb, in my garden for cooking.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) thảo mộc"
+  },
+  {
+    "id": 0,
+    "en1": "herbivore",
+    "en2": "I learned that a cow is a herbivore and eats only plants.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) động vật ăn cỏ"
+  },
+  {
+    "id": 0,
+    "en1": "intake",
+    "en2": "I monitor my daily water intake to stay healthy.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) lượng tiêu thụ"
+  },
+  {
+    "id": 0,
+    "en1": "intangible",
+    "en2": "I appreciate the intangible benefits of friendship and trust.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) vô hình"
+  },
+  {
+    "id": 0,
+    "en1": "integrity",
+    "en2": "I try to maintain my integrity in every decision I make.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sự chính trực"
+  },
+  {
+    "id": 0,
+    "en1": "intelligence",
+    "en2": "I rely on my intelligence to solve complex problems.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) trí thông minh"
+  },
+  {
+    "id": 0,
+    "en1": "vivid",
+    "en2": "I have a vivid memory of my first day at school.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) sinh động, rõ ràng"
+  },
+  {
+    "id": 0,
+    "en1": "recall",
+    "en2": "I recall my childhood summers vividly and often smile at the memories.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v,n) hồi tưởng, nhớ lại"
+  },
+  {
+    "id": 0,
+    "en1": "reassure",
+    "en2": "I reassured my friend that everything would be fine.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) trấn an, làm yên lòng"
+  },
+  {
+    "id": 0,
+    "en1": "rebut",
+    "en2": "I tried to rebut his claim, and my rebuttal convinced some of the audience.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) bác bỏ"
+  },
+  {
+    "id": 0,
+    "en1": "rebel",
+    "en2": "I sometimes rebel against strict rules, feeling rebellious at times.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) phản kháng, nổi loạn"
+  },
+  {
+    "id": 0,
+    "en1": "rebound",
+    "en2": "I tried to stay positive after failure, hoping to rebound quickly.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v,n) bật lại, phục hồi"
+  },
+  {
+    "id": 0,
+    "en1": "paradox",
+    "en2": "I find it a paradox that technology can both connect and isolate people.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) nghịch lý"
+  },
+  {
+    "id": 0,
+    "en1": "palaeontology",
+    "en2": "I study palaeontology to learn about ancient life on Earth.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) cổ sinh vật học"
+  },
+  {
+    "id": 0,
+    "en1": "emit",
+    "en2": "I noticed the factory emit smoke, and the emission concerned the local community.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) phát ra, thải ra"
+  },
+  {
+    "id": 0,
+    "en1": "emeritus",
+    "en2": "I am honored to meet the professor emeritus of the university.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) danh dự"
+  },
+  {
+    "id": 0,
+    "en1": "elucidate",
+    "en2": "I will elucidate the main points of the report in today's meeting.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) làm sáng tỏ, giải thích rõ"
+  },
+  {
+    "id": 0,
+    "en1": "embankment",
+    "en2": "I walked along the embankment to enjoy the river view.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) đê, bờ đắp"
+  },
+  {
+    "id": 0,
+    "en1": "embarrass",
+    "en2": "I embarrassed myself by forgetting her name, and I felt really embarrassed.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) làm xấu hổ, bối rối"
+  },
+  {
+    "id": 0,
+    "en1": "embed",
+    "en2": "I embedded the video into my presentation for easier viewing.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) nhúng, gắn vào"
+  },
+  {
+    "id": 0,
+    "en1": "element",
+    "en2": "I studied each element of the project carefully.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) yếu tố, thành phần"
+  },
+  {
+    "id": 0,
+    "en1": "efficacy",
+    "en2": "I observed the effect of the new policy and tested its efficacy.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) hiệu quả"
+  },
+  {
+    "id": 0,
+    "en1": "effluent",
+    "en2": "I monitor the effluent from the factory to ensure it doesn't pollute the river.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) nước thải, chất thải"
+  },
+  {
+    "id": 0,
+    "en1": "ecology",
+    "en2": "I study ecology and always choose eco-friendly products.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) sinh thái học"
+  },
+  {
+    "id": 0,
+    "en1": "economy",
+    "en2": "I study economic trends to understand how the economy works.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) kinh tế"
+  },
+  {
+    "id": 0,
+    "en1": "disembark",
+    "en2": "I disembarked from the ship as soon as it reached the harbor.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) xuống"
+  },
+  {
+    "id": 0,
+    "en1": "embark",
+    "en2": "I embarked on a new career path after graduation.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) bắt đầu"
+  },
+  {
+    "id": 0,
+    "en1": "voyage",
+    "en2": "I embarked on a voyage across the Pacific Ocean last summer.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n,v) chuyến đi xa, hành trình"
+  },
+  {
+    "id": 0,
+    "en1": "voracious",
+    "en2": "I am a voracious learner, always seeking new knowledge.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) tham ăn, thèm khát"
+  },
+  {
+    "id": 0,
+    "en1": "weave",
+    "en2": "I learned to weave beautiful patterns using colorful threads.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) dệt, đan"
+  },
+  {
+    "id": 0,
+    "en1": "accept",
+    "en2": "I accept the offer, but its acceptability depends on the final terms.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(v) chấp nhận"
+  },
+  {
+    "id": 0,
+    "en1": "academy",
+    "en2": "I joined an art academy because I've always been interested in academic studies.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(n) học viện"
+  },
+  {
+    "id": 0,
+    "en1": "abusive",
+    "en2": "I left because the manager was being abusive toward the staff.",
+    "en3": "",
+    "en4": "",
+    "vn1": "(a) lăng mạ, xúc phạm"
+  },
+  {
+    "id": 0,
     "en1": "indicator",
     "en2": "I used the unemployment rate as an indicator of economic health.",
     "en3": "",

@@ -1,23 +1,14 @@
-abusive||(adj)||lăng mạ, xúc phạm
 abutment||(n)||mố cầu (bệ cầu)
 abysmally||(adv)||cực kỳ, thảm hại
-academic||(adj)||thuộc học thuật, mang tính học thuật
-academy||(n)||học viện, viện hàn lâm
 accelerated||(v)||thúc đẩy, tăng tốc
 accelerate||(v)||(tăng tốc, thúc đẩy)
 acceleration||(n)||sự tăng tốc
 accelerometer||(n)||máy đo gia tốc
 accentuate||(v)||nhấn mạnh, làm nổi bật
 accentuation||(n)||sự nhấn mạnh, làm nổi bật
-acceptability||(n)||tính chấp nhận được
-acceptable||(adj)||chấp nhận được
-acceptance||(n)||sự chấp nhận
-accept||(v)||chấp nhận
 accessibility||(n)||tính dễ tiếp cận
 accessible||(adj)||có thể tiếp cận được
 access||(n)||quyền tiếp cận
-accident risk||(phr)||nguy cơ tai nạn
-accidental||(adj)||tình cờ, ngẫu nhiên
 accommodating||(adj)||dễ tính, thích nghi
 accompanied||(v)||đi kèm, kèm theo
 accompanying||(adj)||đi kèm theo
@@ -392,24 +383,13 @@ applicant||(n)||người nộp đơn
 applications||(n)||ứng dụng
 application||(n)||sự ứng dụng
 applied||(adj)||ứng dụng
-appointed||(v)||bổ nhiệm
-appointments||(n)||cuộc hẹn
-appointment||(n)||sự bổ nhiệm
 apportioned||(v)||chia phần
 apportion||(v)||phân chia, phân bổ
 appraisal||(n)||sự đánh giá
 appreciably||(adv)||đáng kể
 appreciation||(n)||sự đánh giá cao
 apprehensive||(adj)||lo lắng, e ngại
-apprenticeship||(n)||(thời gian học việc, thực tập sinh)
-apprentices||(n)||người học việc
 approachable||(adj)||dễ gần, thân thiện
-appropriate||(adj)||phù hợp, thích hợp
-approval||(n)||sự chấp thuận
-approved||(adj)||được chấp thuận
-approximately||(adv)||khoảng chừng, xấp xỉ
-approximate||(v)||xấp xỉ
-approximation||(n)||sự xấp xỉ
 aptitude||(n)||năng khiếu, năng lực
 aptly||(adv)||một cách thích hợp
 apt||(adj)||thích hợp
@@ -2294,7 +2274,6 @@ discrimination||(n)||sự phân biệt
 discriminatory||(adj)||có tính phân biệt đối xử
 disdain||(v)||coi thường, khinh miệt
 disease||(n)||bệnh tật
-disembark||(v)||xuống tàu, lên bờ
 disempowered||(adj)||bị mất quyền kiểm soát
 disenchantment||(n)||sự chán nản, thất vọng
 disequilibrium||(n)||sự mất cân bằng
@@ -2507,25 +2486,6 @@ echolocation||(n)||định vị bằng sóng âm
 echo||(n)||(v)||tiếng vang; dội lại
 eclipsed||(v)||che khuất, làm lu mờ
 eclipse||(v)||làm lu mờ
-eco-friendly||(adj)||thân thiện với môi trường
-ecological barrier||(phr)||rào cản sinh thái
-ecological niches||(n)||ngách sinh thái
-ecological release||(n)||sự giải phóng sinh thái
-ecologically unfit||(phr)||không phù hợp về mặt sinh thái
-ecologically||(adv)||một cách sinh thái
-ecological||(adj)||thuộc về sinh thái
-ecologist||(n)||nhà sinh thái học
-ecology||(n)||sinh thái
-economic activity||(n)||hoạt động kinh tế
-economic cycle||(phr)||chu kỳ kinh tế
-economic depression||(n)||suy thoái kinh tế
-economic pressure||(phr)||áp lực kinh tế
-economically||(adv)||về mặt kinh tế
-economical||(adj)||tiết kiệm, hiệu quả
-economic||(adj)||thuộc kinh tế
-economies||(n)||hiệu quả kinh tế
-economist||(n)||nhà kinh tế học
-economy||(n)||sự tiết kiệm, kinh tế
 ecosystem services||(n)||dịch vụ hệ sinh thái
 ecosystems||(n)||hệ sinh thái
 ecosystem||(n)||hệ sinh thái
@@ -2539,15 +2499,6 @@ educated guess||(n)||phỏng đoán có cơ sở
 educational||(adj)||mang tính giáo dục
 educative||(adj)||có tính giáo dục
 educators||(n)||nhà giáo dục
-effectiveness||(n)||hiệu quả
-effective||(adj)||hiệu quả
-effect||(n)||hiệu ứng, tác động
-efficacy||(n)||hiệu quả
-efficiency||(n)||hiệu quả, năng suất
-efficiently||(adv)||một cách hiệu quả
-efficient||(adj)||hiệu quả
-effluents||(n)||nước thải
-effluent||(n)||nước thải (từ nhà máy...)
 egalitarian||(adj)||bình đẳng, công bằng
 egested||(adj)||được thải ra (chất thải, phân)
 eke out||(v)||kiếm đủ sống, xoay xở đủ
@@ -2572,37 +2523,19 @@ electroplating||(n)||mạ điện
 electrostatic||(adj)||(tĩnh điện)
 elegantly||(adv)||1 cách thanh lịch, tinh tế
 elegant||(adj)||thanh lịch, tinh tế
-elementary||(adj) — cơ bản, sơ đẳng
-elements||(n)||yếu tố, thành phần
-element||(n)||yếu tố
 elevated||(adj)||nâng lên, cao hơn
 elevate||(v)||nâng lên, đưa lên cao
 elevating||(adj)||nâng cao
 elevation||(n)||sự nâng cao (vị thế, tinh thần...)
 elicited||(v)||gợi ra, khơi gợi
 elicit||(v)||gợi ra, khơi ra
-eliminated||(v)||loại bỏ
-eliminating||(v)||loại bỏ
-elimination||(n)||sự loại bỏ
 elite||(n)||nhóm thượng lưu, tinh hoa
 elitist||(adj)||theo chủ nghĩa tinh hoa
 elixirs||(n)||thuốc trường sinh, thuốc tiên
 ellipsoidal||(adj)||hình elip
 elliptical||(adj)||hình elip
 eloquently||(adv)||một cách hùng hồn
-elucidate||(v)||làm sáng tỏ
-elude||(v)||tránh khỏi, vượt khỏi tầm với
-elusive||(adj)||khó tìm, khó nắm bắt
 emaciated||(adj)||gầy mòn, hốc hác
-embankment||(n)||bờ kè, đê
-embark on||(v)||bắt đầu, dấn thân vào
-embarked||(v)||bắt đầu (một công việc, hành trình)
-embark||(v)||bắt đầu (một công việc lớn)
-embarrassed||(adj)||bối rối, xấu hổ
-embarrassment of riches||(idiom)||quá nhiều lựa chọn, sự dồi dào đến mức khó xử
-embarrassment||n||điều đáng xấu hổ
-embedded learning||(n)||kiến thức được tích lũy, học hỏi thấm nhuần
-embedded||(adj)||ăn sâu, gắn chặt
 embellished||(adj)||được tô điểm, thêu dệt
 embellish||(v)||trang điểm, tô điểm
 embodied carbon||(n)||lượng cacbon ẩn chứa (trong sản xuất, xây dựng)
@@ -2614,17 +2547,8 @@ embraced||(v)||áp dụng
 embroidered||(adj)||thêu dệt (ở đây là nghĩa bóng: được thêm thắt)
 embryonic||(adj)||thuộc phôi thai
 embryo||(n)||phôi thai
-emerged||(v)||xuất hiện
-emergence||(n)||sự xuất hiện, sự nổi lên
-emergency||(n)||trường hợp khẩn cấp
-emergent||(adj)||mới nổi, đang phát triển
-emerging||(adj)||mới nổi, xuất hiện
-emeritus||(adj)||danh dự (sau khi nghỉ hưu)
 emigrated||(v)||di cư ra nước ngoài
 eminent||(adj)||nổi tiếng, xuất chúng
-emissions||(n)||khí thải
-emission||(n)||khí thải, sự phát ra
-emit||(v)||phát ra (khí, ánh sáng, âm thanh)
 emotional commitment||(n)||sự cam kết về mặt cảm xúc
 emotionally||(adv)||về mặt cảm xúc
 emotion||(n)||cảm xúc
@@ -3690,7 +3614,6 @@ heed||(v)||chú ý, lưu tâm
 heftier||(adj)||nặng hơn, to hơn
 hefty||(adj)||nặng, lớn (thường dùng cho số lượng hoặc giá cả)
 heightened||(adj) — tăng cường, được nâng cao
-height||(n)||chiều cao
 heirloom||(adj)||cổ truyền, truyền thống (thường dùng để chỉ các giống cây trồng truyền thống)
 heliotherapy||(n)||liệu pháp chữa bệnh bằng ánh nắng
 helium||(n)||khí heli
@@ -3700,13 +3623,6 @@ hematite||(n)||khoáng vật hematit
 hemiplegic||(adj/n)||(bệnh nhân) bị liệt nửa người
 hemispheres||(n)||hai bán cầu não
 hemisphere||(n)||bán cầu (não hoặc địa cầu)
-hence||(adv)||do đó  
-herbalist||(n)||người chuyên về thảo dược
-herbal||(adj)||thuốc thảo mộc
-herbicides||(n)||thuốc diệt cỏ
-herbivore||(n)||động vật ăn cỏ
-herbivorous||(adj)||ăn cỏ
-herbs||(n)||các loại thảo mộc
 herds||(n)||đàn (động vật)
 hereditary||(adj)||di truyền
 heredity||(n)||tính di truyền
@@ -4216,19 +4132,6 @@ insuperable||(adj)||không thể vượt qua được
 insurance policy||(n)||chính sách bảo hiểm
 insurmountable||(adj)||khó vượt qua
 intact||(adj)||nguyên vẹn
-intake||(n)||đợt tuyển sinh
-intangibles||(n)||vô hình, không thể đong đếm được
-intangible||(adj)||phi vật thể, vô hình
-integrated pest management (IPM)||(n)||quản lý dịch hại tổng hợp
-integrated||(adj)||tích hợp, hợp nhất
-integrating||(v)||tích hợp
-integration||(n)||sự hội nhập
-integrity||(n)||tính chính trực, liêm chính
-intellectual capital||(n)||vốn trí tuệ
-intellectual property||(n)||tài sản trí tuệ
-intellectually||(adv)||về mặt trí tuệ
-intelligence||(n)||trí thông minh
-intelligent||adj||thông minh
 intended||(adj)||được dự định, có mục đích
 intensely||(adv)||một cách mãnh liệt
 intensification||(n)||sự tăng cường
@@ -5637,10 +5540,6 @@ paediatrics||(n)||nhi khoa
 pagan||(adj)||ngoại đạo, thờ nhiều thần
 painstakingly||(adv)||cẩn thận, tỉ mỉ
 painstaking||(adj)||cần cù, tỉ mỉ
-palaeobotany||(n)||khảo cổ học thực vật
-palaeontologists||(n)||nhà cổ sinh vật học
-palaeontologist||(n)||nhà cổ sinh vật học
-palaeontology||(n)||cổ sinh vật học
 palatable||(adj)||dễ ăn, ngon miệng
 pale green||(adj)||khá quan tâm đến môi trường
 paleontologists||(n)||nhà cổ sinh vật học
@@ -5668,9 +5567,6 @@ paraboloidal||(adj)||hình parabol
 parachutes||(n)||dù (dùng để nhảy dù)
 parade||(v)||phô bày, trình diễn
 paradigm||(n)||mô hình, kiểu mẫu
-paradoxically||(adv)||một cách nghịch lý
-paradoxical||(adj)||mâu thuẫn, nghịch lý
-paradox||(n)||nghịch lý
 parallax||(n)||thị sai
 paralleled||(v)||song song, đồng thời
 parallelogram||(n)||hình bình hành
@@ -6609,17 +6505,8 @@ reasonably||(adv)||một cách hợp lý
 reasoned||(v)||lập luận, suy luận
 reasoning||(n)||lập luận, suy luận
 reassembled||(v)||lắp ráp lại
-reassertion||(n)||sự khẳng định lại
-reassess||(v)||đánh giá lại
-reassurance||(n)||sự trấn an
-reassuring||(adj)||trấn an, làm yên tâm
-rebellious||(adj)||nổi loạn
-rebounded||(v)||hồi phục
-rebound||(v)||phản hồi, hồi phục
-rebuild||(v)||xây dựng lại
-rebuttal||(n)||lời phản bác
 recalcitrant||(adj)||cứng đầu, ngoan cố
-recall||(v)||nhớ lại
+
 recant||(v)||rút lại lời nói
 recapture||(v)||giành lại, chiếm lại
 recast||(v)||được tái tạo, thay đổi
@@ -7435,7 +7322,6 @@ sniped||(v)||châm chọc, chỉ trích (một cách gián tiếp)
 snowfall||(n)||tuyết rơi
 snuffed out||(v)||dập tắt, tiêu diệt
 so-called||(adj)||được gọi là
-soak||(v)||ngâm
 soared||(v)||bay vọt lên, tăng vọt
 soaring||(adj)||tăng vọt
 soar||(v)||tăng vọt
@@ -8662,8 +8548,6 @@ visuospatial||(adj)||liên quan đến thị giác không gian
 vitality||(n)||sức sống, sinh lực
 vital||(adj)||rất quan trọng, sống còn
 vitamin||(n)||vitamin
-vividly||(adv)||sống động
-vivid||(adj)||sinh động
 vocabularies||(n)||từ vựng
 vocabulary||(n)||vốn từ, hệ thống ký hiệu
 vocalise||(v)||phát âm, phát tiếng
@@ -8683,11 +8567,7 @@ volume||(n)||thể tích, số lượng
 volunteers||(n)||tình nguyện viên
 volunteer||(n)||tình nguyện viên
 vomiting||(n)||sự nôn mửa
-voraciously||(adv)||một cách tham ăn, rất nhiều
-voracious||(adj)||ngấu nghiến, khao khát mãnh liệt
 voussoir||(n)||đá vòm
-voyages||(n)||chuyến đi biển
-voyage||(n)||cuộc hành trình dài
 voyeurism||(n)||sự nhìn trộm, thú vui nhìn người khác
 vulcanism||(n)||hiện tượng núi lửa
 vulcanize||(v)||làm lưu hóa (cao su)
@@ -8729,9 +8609,6 @@ wealth||(n)||sự giàu có, sự phong phú
 wear and tear||(n)||sự hao mòn, hư hại do sử dụng
 weather-dependent||(adj)||phụ thuộc vào thời tiết
 weather||(n)||thời tiết
-weaver ant||(n)||kiến dệt (loài kiến biết dệt tổ bằng tơ)
-weaver||(n)||thợ dệt
-weaving||(n)||nghề dệt
 webbed||(adj)||có màng (giữa các ngón chân)
 wedding industry||(n)||ngành công nghiệp cưới hỏi
 wedge||(n)||cái nêm

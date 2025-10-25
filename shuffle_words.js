@@ -14,7 +14,7 @@ function writeJSON(filename, items) {
 }
 
 // Shuffle the array of items
-function shuffleItems(items) {
+function shuffleItems(items, shouldGenerateId) {
   for (let i = items.length - 1; i > 0; i--) {
     const j = Math.floor(Math.random() * (i + 1));
     [items[i], items[j]] = [items[j], items[i]]; // Swap items
@@ -22,69 +22,36 @@ function shuffleItems(items) {
 
   // Assign new IDs to shuffled items
   items.forEach((item, index) => {
-    item.id = index + 1;
+    item.id = shouldGenerateId ? index + 1 : 0;
   });
 
   return items;
 }
 
+// Handle each files
+function handleWordsFile(filename, speakSentenceCountMax, speakWordCountMax, pageNumber) {
+  let words = readJSON('src\\assets\\det\\{}.json'.replace('{}', filename));
+  words.forEach(i => {
+    i.speakSentenceCountMax = speakSentenceCountMax;
+    i.speakWordCountMax = speakWordCountMax;
+    i.page = pageNumber;
+  });
+  words = shuffleItems(words, false);
+  writeJSON('src\\assets\\det\\{}.json'.replace('{}', filename), words);
+  console.log('Hanlde file {}.json successfully'.replace('{}', filename));
+  return words;
+}
+
 // Main process
 function main() {
-  let words1 = readJSON('src\\assets\\det\\words1.json');
-  words1.forEach(i => {
-    i.speakSentenceCountMax = 1;
-    i.speakWordCountMax = 1;
-    i.page = 1;
-  });
-
-  let words2 = readJSON('src\\assets\\det\\words2.json');
-  words2.forEach(i => {
-    i.speakSentenceCountMax = 1;
-    i.speakWordCountMax = 1;
-    i.page = 2;
-  });
-
-  let words3 = readJSON('src\\assets\\det\\words3.json');
-  words3.forEach(i => {
-    i.speakSentenceCountMax = 1;
-    i.speakWordCountMax = 1;
-    i.page = 3;
-  });
-
-  let words4 = readJSON('src\\assets\\det\\words4.json');
-  words4.forEach(i => {
-    i.speakSentenceCountMax = 2;
-    i.speakWordCountMax = 1;
-    i.page = 4;
-  });
-
-  let words5 = readJSON('src\\assets\\det\\words5.json');
-  words5.forEach(i => {
-    i.speakSentenceCountMax = 3;
-    i.speakWordCountMax = 1;
-    i.page = 5;
-  });
-
-  let words6 = readJSON('src\\assets\\det\\words6.json');
-  words6.forEach(i => {
-    i.speakSentenceCountMax = 3;
-    i.speakWordCountMax = 1;
-    i.page = 6;
-  });
-
-  let words7 = readJSON('src\\assets\\det\\words7.json');
-  words7.forEach(i => {
-    i.speakSentenceCountMax = 3;
-    i.speakWordCountMax = 1;
-    i.page = 7;
-  });
-
-  let words8 = readJSON('src\\assets\\det\\words8.json');
-  words8.forEach(i => {
-    i.speakSentenceCountMax = 3;
-    i.speakWordCountMax = 1;
-    i.page = 8;
-  });
+  let words1 = handleWordsFile('words1', 1, 1, 1);
+  let words2 = handleWordsFile('words2', 1, 1, 2);
+  let words3 = handleWordsFile('words3', 1, 1, 3);
+  let words4 = handleWordsFile('words4', 2, 1, 4);
+  let words5 = handleWordsFile('words5', 3, 1, 5);
+  let words6 = handleWordsFile('words6', 3, 1, 6);
+  let words7 = handleWordsFile('words7', 3, 1, 7);
+  let words8 = handleWordsFile('words8', 3, 1, 7);
 
   let words = readJSON('src\\assets\\det\\words.json');
   words.forEach(i => {
@@ -129,12 +96,12 @@ function main() {
   }
 
   // Shuffle words
-  let shuffledItems = shuffleItems(items);
+  let shuffledItems = items;
   const randomNumber = Math.floor(Math.random() * (200 - 50 + 1)) + 50; // Random number between 50 and 200
   console.log(`Shuffling items ${randomNumber} more times...`);
   for (let i = 0; i < randomNumber; i++) {
     console.log(`the ${i} time`);
-    shuffledItems = shuffleItems(shuffledItems);
+    shuffledItems = shuffleItems(shuffledItems, true);
   }
   writeJSON('src\\assets\\det\\output.json', shuffledItems);
   console.log('Shuffled items have been written to output.json');
