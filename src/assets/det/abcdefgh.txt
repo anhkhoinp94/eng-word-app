@@ -1,14 +1,7 @@
 abutment||(n)||mố cầu (bệ cầu)
 abysmally||(adv)||cực kỳ, thảm hại
-accelerated||(v)||thúc đẩy, tăng tốc
-accelerate||(v)||(tăng tốc, thúc đẩy)
-acceleration||(n)||sự tăng tốc
-accelerometer||(n)||máy đo gia tốc
 accentuate||(v)||nhấn mạnh, làm nổi bật
 accentuation||(n)||sự nhấn mạnh, làm nổi bật
-accessibility||(n)||tính dễ tiếp cận
-accessible||(adj)||có thể tiếp cận được
-access||(n)||quyền tiếp cận
 accommodating||(adj)||dễ tính, thích nghi
 accompanied||(v)||đi kèm, kèm theo
 accompanying||(adj)||đi kèm theo
@@ -68,17 +61,6 @@ acuity||(n)||độ nhạy bén (thị giác, thính giác...)
 acupoints||(n)||huyệt đạo
 acupuncture||(n)||châm cứu
 adage||(n)||châm ngôn, ngạn ngữ
-adaptability||(n)||khả năng thích nghi
-adaptable||adj||có thể thích nghi
-adaptations||(n)||sự thích nghi
-adaptation||(n)||sự thích nghi
-adapted||(v)||thích nghi
-adaptive||(adj)||thích nghi, có khả năng thích ứng
-addictions||(n)||sự nghiện
-addiction||(n)||sự nghiện
-addicts||(n)||người nghiện
-additional||(adj)||bổ sung, thêm vào
-additives||(n)||chất phụ gia
 adept||(adj)||thành thạo
 adequacy||(n)||sự đầy đủ, sự thích đáng
 adequately||(adv)||đầy đủ, thỏa đáng
@@ -99,11 +81,6 @@ admiration||(n)||sự ngưỡng mộ
 admired||(adj)||được ngưỡng mộ
 admittedly||(adv)||phải thừa nhận là
 admonition||(n)||lời cảnh cáo
-adopted||(v)||áp dụng
-adoptees||(n)||người được nhận nuôi
-adopting||(v)||áp dụng, tiếp nhận
-adoption||(n)||sự áp dụng
-adopt||(v)||chấp nhận, tiếp nhận
 adoration||(n)||sự sùng bái, lòng yêu mến
 adrenalin||(n)||hoóc môn adrenaline
 adulteration||(n)||sự pha trộn (để làm giả, kém chất lượng)
@@ -8654,8 +8631,6 @@ worms||(n)||sâu, giun
 wormy||(adj)||có sâu, bị sâu ăn (quả)
 worn||(v)||hao mòn, kiệt sức
 worship||(n)||sự thờ cúng
-worthless||(adj)||vô giá trị
-worthy||(adj)||xứng đáng, có giá trị
 wound healing||(n)||sự lành vết thương
 wracked||(adj)||bị hành hạ (về tinh thần, thể xác)
 wrangling||(n)||tranh cãi, tranh luận (ở đây nghĩa bóng)
